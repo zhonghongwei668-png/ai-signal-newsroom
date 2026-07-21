@@ -22,7 +22,7 @@ export const boardMeta = {
   date: "2026年7月21日 · 星期二",
   edition: "午后版",
   window: "北京时间今日 00:00 至 15:02",
-  nextUpdate: "预计 23:02 更新",
+  nextUpdate: "下一轮 16:00 自动更新",
 };
 
 export const newsItems: NewsItem[] = [
