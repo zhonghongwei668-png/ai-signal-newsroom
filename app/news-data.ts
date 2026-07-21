@@ -18,11 +18,11 @@ export type NewsItem = {
 };
 
 export const boardMeta = {
-  generatedAt: "2026-07-21 15:02",
+  generatedAt: "2026-07-21 17:49",
   date: "2026年7月21日 · 星期二",
-  edition: "午后版",
-  window: "北京时间今日 00:00 至 15:02",
-  nextUpdate: "下一轮 16:00 自动更新",
+  edition: "晚间版",
+  window: "北京时间今日 00:00 至 17:49",
+  nextUpdate: "下一轮 20:00 自动更新",
 };
 
 export const newsItems: NewsItem[] = [
