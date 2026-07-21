@@ -5,11 +5,12 @@ import {
   boardMeta,
   newsItems,
   pendingItems,
+  sourceCoverage,
   trendLines,
   type NewsItem,
 } from "./news-data";
 
-const filters = ["全部", "国内", "海外", "模型", "Agent", "芯片", "监管", "融资"];
+const filters = ["全部", "国内", "海外", "模型", "Agent", "具身", "芯片", "报告", "监管", "融资"];
 
 function matchesFilter(item: NewsItem, filter: string) {
   if (filter === "全部") return true;
@@ -20,6 +21,12 @@ function matchesFilter(item: NewsItem, filter: string) {
 
 function ArrowUpRight() {
   return <span aria-hidden="true">↗</span>;
+}
+
+function verificationClass(item: NewsItem) {
+  if (item.verification === "已确认") return "confirmed";
+  if (item.verification === "专题分析") return "analysis";
+  return "reported";
 }
 
 export default function Home() {
@@ -38,6 +45,9 @@ export default function Home() {
 
   const lead = visibleNews[0];
   const rest = visibleNews.slice(1);
+  const confirmedCount = newsItems.filter((item) => item.verification === "已确认").length;
+  const contextualCount = newsItems.length - confirmedCount;
+  const domesticCount = newsItems.filter((item) => item.region === "国内").length;
 
   return (
     <main>
@@ -55,7 +65,7 @@ export default function Home() {
 
       <section className="ticker" aria-label="更新时间">
         <span className="ticker-label">最新</span>
-        <p>AI 圈实时新闻 · 仅收录今日新发生或新确认事件</p>
+        <p>AI 圈实时新闻 · 6 类来源并行扫描 · 仅收录今日新发生、新确认或新发布内容</p>
         <time>更新于 {boardMeta.generatedAt}</time>
       </section>
 
@@ -64,7 +74,7 @@ export default function Home() {
           <p className="eyebrow">AI NEWSROOM · CHINA & WORLD</p>
           <h1>今天的 AI，<br />只看真正发生的。</h1>
           <p className="hero-intro">
-            国内外 AI 新闻统一汇总，逐条核对事件与发布时间。
+            官方源、国内外媒体、开源社区、论文与资本动态统一汇总，逐条核对事件与发布时间。
             不拿昨日旧闻凑数，不把营销稿当新闻。
           </p>
         </div>
@@ -76,9 +86,9 @@ export default function Home() {
           <div className="brief-number">{newsItems.length}</div>
           <p>条经筛选的当日动态</p>
           <div className="brief-stats">
-            <span><strong>4</strong> 已确认</span>
-            <span><strong>1</strong> 媒体报道</span>
-            <span><strong>5</strong> 海外</span>
+            <span><strong>{confirmedCount}</strong> 已确认</span>
+            <span><strong>{contextualCount}</strong> 报道 / 分析</span>
+            <span><strong>{domesticCount}</strong> 国内</span>
           </div>
           <div className="next-update">{boardMeta.nextUpdate}</div>
         </aside>
@@ -118,7 +128,7 @@ export default function Home() {
                 <span className="level level-headline">{lead.level}</span>
                 <span>{lead.region}</span>
                 <span>{lead.category}</span>
-                <span className={`verify ${lead.verification === "已确认" ? "confirmed" : "reported"}`}>
+                <span className={`verify ${verificationClass(lead)}`}>
                   {lead.verification}
                 </span>
               </div>
@@ -148,7 +158,7 @@ export default function Home() {
                     </span>
                     <span>{item.region}</span>
                     <span>{item.category}</span>
-                    <span className={`verify ${item.verification === "已确认" ? "confirmed" : "reported"}`}>
+                    <span className={`verify ${verificationClass(item)}`}>
                       {item.verification}
                     </span>
                   </div>
@@ -177,6 +187,26 @@ export default function Home() {
         </section>
       )}
 
+      <section className="source-radar" aria-labelledby="source-radar-title">
+        <div className="source-radar-heading">
+          <div>
+            <p className="section-kicker">SOURCE RADAR</p>
+            <h2 id="source-radar-title">本轮扫描源</h2>
+          </div>
+          <p>每 8 小时横向扫描 6 类信源；原始出处优先，媒体爆料与分析单独标记。</p>
+        </div>
+        <div className="source-grid">
+          {sourceCoverage.map((source, index) => (
+            <article key={source.group}>
+              <span>0{index + 1}</span>
+              <h3>{source.group}</h3>
+              <p>{source.sources}</p>
+              <small>{source.cadence}</small>
+            </article>
+          ))}
+        </div>
+      </section>
+
       <section className="insight-grid">
         <article className="trend-panel">
           <p className="section-kicker">EDITOR&apos;S NOTE</p>
@@ -200,8 +230,8 @@ export default function Home() {
             {pendingItems.map((item) => <li key={item}>{item}</li>)}
           </ul>
           <p className="policy">
-            收录标准：官方公告、政府文件、项目博客、论文原文及可靠媒体。
-            爆料一律标注，不确定信息不进入头条。
+            收录标准：官方公告、政府文件、项目博客、论文原文、开源发布、研究报告及可靠媒体。
+            爆料与专题分析一律标注，不确定信息不进入头条。
           </p>
         </article>
       </section>

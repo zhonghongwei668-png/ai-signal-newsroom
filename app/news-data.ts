@@ -1,6 +1,6 @@
 export type NewsLevel = "头条" | "重要" | "关注";
 export type NewsRegion = "国内" | "海外";
-export type Verification = "已确认" | "媒体报道";
+export type Verification = "已确认" | "媒体报道" | "专题分析";
 
 export type NewsItem = {
   id: string;
@@ -18,11 +18,11 @@ export type NewsItem = {
 };
 
 export const boardMeta = {
-  generatedAt: "2026-07-21 14:42",
+  generatedAt: "2026-07-21 15:02",
   date: "2026年7月21日 · 星期二",
   edition: "午后版",
-  window: "北京时间今日 00:00 至 14:42",
-  nextUpdate: "预计 22:42 更新",
+  window: "北京时间今日 00:00 至 15:02",
+  nextUpdate: "预计 23:02 更新",
 };
 
 export const newsItems: NewsItem[] = [
@@ -42,6 +42,38 @@ export const newsItems: NewsItem[] = [
       "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
     publishedAt: "08:12",
     relativeTime: "6 小时前",
+  },
+  {
+    id: "waic-2026-industry-trends",
+    level: "重要",
+    region: "国内",
+    category: "产业趋势",
+    verification: "专题分析",
+    title: "WAIC 2026 收官：AI 竞赛重心转向 Agent、具身智能与国产算力",
+    summary:
+      "智东西在走访 500 多个展位后归纳出 15 条趋势：AI 手机从功能叠加走向原生智能体，机器人开始追求真实场景交付，国产算力从单卡性能转向超节点与集群能力。",
+    whyItMatters:
+      "这份一线复盘把密集发布会压缩成产业方向图。国内 AI 的评价标准，正在从参数和演示转向成本、可靠性与规模化交付。",
+    source: "智东西 / 36氪",
+    sourceUrl: "https://36kr.com/p/3904188372485763",
+    publishedAt: "07:48",
+    relativeTime: "7 小时前",
+  },
+  {
+    id: "fable-jacobian-counterexample",
+    level: "重要",
+    region: "国内",
+    category: "AI for Science",
+    verification: "媒体报道",
+    title: "Anthropic 模型被指协助找到雅可比猜想反例",
+    summary:
+      "机器之心报道，Anthropic 数学家 Levent Alpoge 公布了一个由 Claude Fable 5 协助发现的三维多项式反例，多位数学家已进行数值复算，但结果尚未经过正式同行评审。",
+    whyItMatters:
+      "如果最终成立，这会成为通用模型参与开放数学问题的醒目标志；目前更重要的是分清“社区复算通过”与“学界正式确认”的距离。",
+    source: "机器之心 / 36氪",
+    sourceUrl: "https://36kr.com/p/3904017130210950",
+    publishedAt: "09:50",
+    relativeTime: "5 小时前",
   },
   {
     id: "google-frozen-v2-chip",
@@ -76,6 +108,38 @@ export const newsItems: NewsItem[] = [
       "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
     publishedAt: "06:21",
     relativeTime: "8 小时前",
+  },
+  {
+    id: "sensortower-ai-app-report-2026",
+    level: "关注",
+    region: "国内",
+    category: "行业报告",
+    verification: "专题分析",
+    title: "Sensor Tower：上半年生成式 AI 应用使用时长预计翻倍",
+    summary:
+      "Sensor Tower 发布 2026 年 AI 应用市场洞察：上半年全球生成式 AI 应用总使用时长预计达到 360 亿小时；AI 助手也在加速进入购物决策、内容发现和广告投放链路。",
+    whyItMatters:
+      "竞争不再只看模型榜单，而是看分发、留存、导购与商业化。AI 正从独立应用变成互联网产品的底层交互入口。",
+    source: "Sensor Tower / 36氪",
+    sourceUrl: "https://36kr.com/p/3904793158977413",
+    publishedAt: "10:59",
+    relativeTime: "4 小时前",
+  },
+  {
+    id: "robosense-e2-physical-ai",
+    level: "关注",
+    region: "国内",
+    category: "具身智能",
+    verification: "已确认",
+    title: "速腾聚创发布第二代全固态感知平台 E2",
+    summary:
+      "RoboSense 速腾聚创发布基于自研“孔雀”SPAD-SoC 芯片的全固态感知平台 E2，希望把激光雷达从导航部件扩展为物理 AI 的高精度三维数据入口。",
+    whyItMatters:
+      "具身模型缺的往往不是更多二维图像，而是稳定、可复用的真实空间数据。传感器厂商正在争夺机器人数据闭环的基础设施位置。",
+    source: "36氪 · 最前线",
+    sourceUrl: "https://36kr.com/p/3903885834028931",
+    publishedAt: "09:05",
+    relativeTime: "5 小时前",
   },
   {
     id: "mcp-session-update",
@@ -113,13 +177,46 @@ export const newsItems: NewsItem[] = [
   },
 ];
 
+export const sourceCoverage = [
+  {
+    group: "官方与监管",
+    sources: "企业公告 · 政府文件 · 产品博客",
+    cadence: "实时核验",
+  },
+  {
+    group: "国内科技媒体",
+    sources: "36氪 · 机器之心 · 量子位 · 智东西 · IT之家 · 界面",
+    cadence: "滚动扫描",
+  },
+  {
+    group: "国际主流媒体",
+    sources: "Reuters · AP · FT · Bloomberg · TechCrunch · The Verge",
+    cadence: "滚动扫描",
+  },
+  {
+    group: "开源社区",
+    sources: "GitHub Releases · Hugging Face · MCP · Model Cards",
+    cadence: "每轮扫描",
+  },
+  {
+    group: "研究与论文",
+    sources: "arXiv · 实验室博客 · 会议论文 · 研究机构报告",
+    cadence: "每日追踪",
+  },
+  {
+    group: "资本与产业",
+    sources: "公司融资公告 · 交易所公告 · 创投数据库线索",
+    cadence: "每日追踪",
+  },
+];
+
 export const trendLines = [
   "版权成本开始兑现：数据来源合规正在成为模型公司的硬成本。",
-  "算力竞争从峰值性能转向每瓦 token 产出与全栈效率。",
-  "Agent 产业继续补齐协议、支付和规模化运行等基础设施。",
+  "AI 竞争从参数扩张转向推理能效、真实场景与全栈交付。",
+  "Agent 与物理 AI 同时补基础设施：协议、支付、感知和数据闭环。",
 ];
 
 export const pendingItems = [
   "Google Frozen v2 芯片仍属媒体爆料，量产时间与性能目标尚未获官方确认。",
-  "截至本次更新，国内暂无达到头条标准、且在北京时间今天正式官宣的重大新增。",
+  "Claude Fable 5 协助找到的雅可比猜想反例已获社区复算，但仍待正式论文与同行评审。",
 ];
