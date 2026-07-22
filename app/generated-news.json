@@ -1,15 +1,29 @@
 {
   "boardMeta": {
-    "generatedAt": "2026-07-22 18:01",
+    "generatedAt": "2026-07-22 18:07",
     "date": "2026年7月22日 · 星期三",
     "edition": "夜间版",
-    "window": "北京时间今日 00:00 至 18:01",
+    "window": "北京时间今日 00:00 至 18:07",
     "nextUpdate": "下一轮 00:15 自动更新"
   },
   "newsItems": [
     {
-      "id": "fcb688611841f4",
+      "id": "b28feb3debe711",
       "level": "头条",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "思科推出 Antares 小语言 AI 模型，专为“定位漏洞”设计",
+      "summary": "IT之家 7 月 22 日消息，思科发文，宣布推出 Antares 系列小语言模型，相应模型专门用于定位漏洞，目前官方已在 Hugging Face（ 点此访问 ）发布 350M 和 1B 参数版本，后续还将推出 30 亿参数（3B）版本。 据介绍，Antares 并非能够自主发现未知漏洞的 AI 模型，其设计目的是帮助安全人员进行漏洞定位（Vulnerability Localization），模型在获取 CWE 漏洞类型及相关描述后，会利用终端命令搜索代码库，输出检查报告，以便帮助安全人员提升人工审查效率。 为了评估 Antares 模型性能，思科…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/980/239.htm",
+      "publishedAt": "18:03",
+      "relativeTime": "4 分钟前"
+    },
+    {
+      "id": "fcb688611841f4",
+      "level": "重要",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -35,7 +49,7 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/980/180.htm",
       "publishedAt": "17:20",
-      "relativeTime": "41 分钟前"
+      "relativeTime": "47 分钟前"
     },
     {
       "id": "b7e6966e47e030",
@@ -49,7 +63,7 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
       "publishedAt": "18:00",
-      "relativeTime": "1 分钟前",
+      "relativeTime": "7 分钟前",
       "titleZh": "Glow 以 1.2B 美元估值脱颖而出，挑战人工智能时代的端点安全",
       "summaryZh": "Glow 的目标是企业内部快速采用人工智能代理和开发工具而产生的一类新型端点风险。"
     },
@@ -235,7 +249,7 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/980/214.htm",
       "publishedAt": "17:44",
-      "relativeTime": "17 分钟前"
+      "relativeTime": "23 分钟前"
     },
     {
       "id": "936894fd64ac3b",
@@ -249,21 +263,7 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/980/206.htm",
       "publishedAt": "17:38",
-      "relativeTime": "23 分钟前"
-    },
-    {
-      "id": "65e9603d4744f4",
-      "level": "关注",
-      "region": "国内",
-      "category": "芯片算力",
-      "verification": "媒体报道",
-      "title": "为销售更多 GPU，英伟达下场做担保帮 AI 云厂商贷款买芯片",
-      "summary": "IT之家 7 月 22 日消息，今年早些时候，AI 初创公司 Fireworks AI 希望租用价值数亿美元的 AI 算力。 与直接采购大规模英伟达 GPU 集群，或向亚马逊、微软等云计算巨头租赁算力不同，Fireworks AI 选择了近年来兴起的 AI 云服务商（Neocloud）——GMI Cloud。这类公司专门面向 AI 业务提供 GPU 算力，通常能够提供更快的 GPU 交付速度、更具竞争力的价格，以及针对 AI 工作负载优化的基础设施。 不过，这笔交易遇到了一个难题。为了向 Fireworks AI 提供算力，GMI 必须先从硬件厂商采购…",
-      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/980/205.htm",
-      "publishedAt": "17:37",
-      "relativeTime": "23 分钟前"
+      "relativeTime": "29 分钟前"
     },
     {
       "id": "265815644503d4",
@@ -278,6 +278,22 @@
       "sourceUrl": "https://www.leiphone.com/category/industrynews/bU3YMyf2KBYlNfGZ.html",
       "publishedAt": "12:45",
       "relativeTime": "5 小时前"
+    },
+    {
+      "id": "ce1cab87367b84",
+      "level": "关注",
+      "region": "海外",
+      "category": "芯片算力",
+      "verification": "已确认",
+      "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
+      "summary": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most cap…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "NVIDIA AI Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
+      "publishedAt": "06:35",
+      "relativeTime": "11 小时前",
+      "titleZh": "建于沃斯堡：纬创资通开设先进制造工厂生产 NVIDIA 人工智能系统",
+      "summaryZh": "AI时代运行在AI基础设施上。许多先进系统都是在德克萨斯州建造和测试的。纬创资通今天在沃思堡开设了第一家美国制造工厂，这是一座占地 324,000 平方英尺的绿地工厂，位于世界上一些最具产能的工厂的中心，生产超级芯片……"
     },
     {
       "id": "fedcdccad6a611",
@@ -321,7 +337,7 @@
       "source": "雷锋网",
       "sourceUrl": "https://www.leiphone.com/category/robot/ClTZ7U1EvG0bVaHo.html",
       "publishedAt": "15:06",
-      "relativeTime": "2 小时前"
+      "relativeTime": "3 小时前"
     },
     {
       "id": "8eac5838196896",
@@ -399,7 +415,7 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
       "publishedAt": "06:06",
-      "relativeTime": "11 小时前",
+      "relativeTime": "12 小时前",
       "titleZh": "尼尔·布洛姆坎普的新僵尸人工智能“电影”刚刚预热",
       "summaryZh": "周一，《第九区》和《Gran Turismo》导演尼尔·布洛姆坎普 (Neill Blomkamp) 公布了他的最新项目：一部名为《Nightborne》的 13 分钟科幻短片，大致改编自 Peter Watts 2014 年的小说 Echopraxia。该短片来自 Blomkamp 的新人工智能初创公司/制作公司 Barley Studios……"
     },
@@ -478,7 +494,7 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
       "publishedAt": "02:06",
-      "relativeTime": "15 小时前",
+      "relativeTime": "16 小时前",
       "titleZh": "到 2035 年，数据中心的用电量预计将增加 4 倍",
       "summaryZh": "到 2033 年建成的新数据中心消耗的电力将与印度目前的用电量相当。"
     },
@@ -494,7 +510,7 @@
       "source": "WIRED AI",
       "sourceUrl": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
       "publishedAt": "03:05",
-      "relativeTime": "14 小时前",
+      "relativeTime": "15 小时前",
       "titleZh": "这位英特尔前首席执行官希望用光来推动摩尔定律",
       "summaryZh": "帕特·基辛格希望利用微小光束为更强大的人工智能铺平道路。"
     },
@@ -542,7 +558,7 @@
       "source": "arXiv AI",
       "sourceUrl": "https://arxiv.org/abs/2607.19237v1",
       "publishedAt": "00:07",
-      "relativeTime": "17 小时前",
+      "relativeTime": "18 小时前",
       "titleZh": "DBMol：通过结构预测模型设计高亲和力、目标特异性小分子",
       "summaryZh": "设计与特定蛋白质口袋高亲和力结合的小分子配体是药物发现的基本目标，因为小分子构成了已批准治疗的主要部分。最近在结构预测方面的突破，例如 AlphaFold-3 和 Boltz……"
     },
@@ -593,28 +609,12 @@
       "relativeTime": "16 小时前",
       "titleZh": "CodeRescue：编码代理的预算校准恢复路由",
       "summaryZh": "编码代理越来越多地在可执行环境中运行，其中失败的尝试会产生可操作的反馈，而不仅仅是错误的答案。现有的成本感知系统通常将此类故障视为级联决策：首先尝试廉价模型，然后升级硬..."
-    },
-    {
-      "id": "aea2318845ae6b",
-      "level": "关注",
-      "region": "海外",
-      "category": "Agent",
-      "verification": "专题分析",
-      "title": "Agents in the Wild: Where Research Meets Deployment",
-      "summary": "Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes to production scale deployments across domains such as software engineering, sci…",
-      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
-      "source": "arXiv AI",
-      "sourceUrl": "https://arxiv.org/abs/2607.19336v1",
-      "publishedAt": "01:55",
-      "relativeTime": "16 小时前",
-      "titleZh": "野外代理：研究与部署的结合",
-      "summaryZh": "基于大语言模型（LLM）的代理系统架构能够推理、规划、行动以及与工具和其他代理协调，正在从研究原型快速过渡到跨领域的生产规模部署，例如软件工程、科学……"
     }
   ],
   "trendLines": [
     "AI 产品更新加快，能力正进入更多日常工作流。",
-    "Agent 基础设施和产品落地同步推进，行业更关注任务完成率。",
-    "大模型仍是今日高频主线，能力、价格与生态策略持续变化。"
+    "大模型仍是今日高频主线，能力、价格与生态策略持续变化。",
+    "Agent 基础设施和产品落地同步推进，行业更关注任务完成率。"
   ],
   "pendingItems": [
     "本轮有 32 条来自可靠媒体的报道，后续将继续追踪官方确认。"
@@ -622,6 +622,6 @@
   "scanStats": {
     "configuredSources": 19,
     "successfulSources": 19,
-    "candidateCount": 103
+    "candidateCount": 104
   }
 }
