@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Global fixture</title>
+  <entry>
+    <title>Open model release improves agent reliability</title>
+    <link href="https://example.com/model-release?ref=feed" />
+    <id>tag:example.com,2026:model-release</id>
+    <updated>2026-07-22T00:05:00Z</updated>
+    <summary>Developers released an open model and a new benchmark.</summary>
+  </entry>
+</feed>

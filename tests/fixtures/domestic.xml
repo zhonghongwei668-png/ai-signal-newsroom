@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Domestic fixture</title>
+    <item>
+      <title>国产大模型发布新一代智能体能力</title>
+      <link>https://example.cn/ai-agent?utm_source=test</link>
+      <description><![CDATA[新模型能够调用工具并完成多步骤任务。]]></description>
+      <pubDate>Tue, 21 Jul 2026 23:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>新款机械键盘正式上市</title>
+      <link>https://example.cn/keyboard</link>
+      <description>一款面向办公用户的消费电子产品。</description>
+      <pubDate>Tue, 21 Jul 2026 23:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>昨日 AI 新闻</title>
+      <link>https://example.cn/yesterday</link>
+      <description>这条消息不应进入今天的列表。</description>
+      <pubDate>Tue, 21 Jul 2026 10:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

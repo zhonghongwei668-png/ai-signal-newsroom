@@ -1,30 +1,24 @@
 import type { Metadata } from "next";
-import { headers } from "next/headers";
 import "./globals.css";
 
 const title = "AI Signal｜今日 AI 新闻看板";
 const description = "每 8 小时更新的国内外 AI 新闻看板，只收录当天新发生或新确认的消息。";
+const siteUrl = (process.env.SITE_URL ?? "http://localhost:3000").replace(/\/$/, "");
 
-export async function generateMetadata(): Promise<Metadata> {
-  const requestHeaders = await headers();
-  const host = requestHeaders.get("x-forwarded-host") ?? requestHeaders.get("host") ?? "localhost:3000";
-  const protocol = requestHeaders.get("x-forwarded-proto") ?? (host.includes("localhost") ? "http" : "https");
-  const imageUrl = `${protocol}://${host}/og.png`;
-
-  return {
+export const metadata: Metadata = {
+  metadataBase: new URL(`${siteUrl}/`),
+  title,
+  description,
+  icons: { icon: `${siteUrl}/favicon.svg`, shortcut: `${siteUrl}/favicon.svg` },
+  openGraph: {
     title,
     description,
-    icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
-    openGraph: {
-      title,
-      description,
-      type: "website",
-      locale: "zh_CN",
-      images: [{ url: imageUrl, width: 1732, height: 908, alt: "AI Signal 今日 AI 新闻看板" }],
-    },
-    twitter: { card: "summary_large_image", title, description, images: [imageUrl] },
-  };
-}
+    type: "website",
+    locale: "zh_CN",
+    images: [{ url: `${siteUrl}/og.png`, width: 1732, height: 908, alt: "AI Signal 今日 AI 新闻看板" }],
+  },
+  twitter: { card: "summary_large_image", title, description, images: [`${siteUrl}/og.png`] },
+};
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (

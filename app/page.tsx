@@ -5,6 +5,7 @@ import {
   boardMeta,
   newsItems,
   pendingItems,
+  scanStats,
   sourceCoverage,
   trendLines,
   type NewsItem,
@@ -65,7 +66,7 @@ export default function Home() {
 
       <section className="ticker" aria-label="更新时间">
         <span className="ticker-label">最新</span>
-        <p>AI 圈实时新闻 · 6 类来源并行扫描 · 仅收录今日新发生、新确认或新发布内容</p>
+        <p>AI 圈实时新闻 · {scanStats.successfulSources}/{scanStats.configuredSources} 个信息源可用 · 仅收录北京时间今日内容</p>
         <time>更新于 {boardMeta.generatedAt}</time>
       </section>
 
@@ -193,7 +194,10 @@ export default function Home() {
             <p className="section-kicker">SOURCE RADAR</p>
             <h2 id="source-radar-title">本轮扫描源</h2>
           </div>
-          <p>每 8 小时横向扫描 6 类信源；原始出处优先，媒体爆料与分析单独标记。</p>
+          <p>
+            每 8 小时横向扫描 6 类信源，本轮发现 {scanStats.candidateCount} 条候选；
+            原始出处优先，媒体爆料与分析单独标记。
+          </p>
         </div>
         <div className="source-grid">
           {sourceCoverage.map((source, index) => (

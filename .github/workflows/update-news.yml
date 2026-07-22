@@ -1,0 +1,91 @@
+name: Update AI news and deploy Pages
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # 00:15, 08:15 and 16:15 in Asia/Shanghai (UTC+8).
+    - cron: "15 0,8,16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: ai-news-pages
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install collector dependencies
+        run: python -m pip install -r scripts/requirements.txt
+
+      - name: Collect today's AI news
+        run: python scripts/update_news.py
+
+      - name: Test news selection rules
+        run: python -m unittest discover -s tests -p 'test_*.py' -v
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+
+      - name: Enable pnpm
+        run: corepack enable
+
+      - name: Install web dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Build and test GitHub Pages export
+        env:
+          GITHUB_PAGES: "true"
+          PAGES_BASE_PATH: /${{ github.event.repository.name }}
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+        run: |
+          pnpm run build:pages
+          node --test tests/pages-export.test.mjs
+
+      - name: Save refreshed snapshot to the repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add app/generated-news.json
+          if git diff --cached --quiet; then
+            echo "News snapshot is unchanged."
+          else
+            git commit -m "chore: refresh AI news"
+            git push
+          fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload static site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: out
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
