@@ -1,9 +1,9 @@
 {
   "boardMeta": {
-    "generatedAt": "2026-07-22 18:00",
+    "generatedAt": "2026-07-22 18:01",
     "date": "2026年7月22日 · 星期三",
     "edition": "夜间版",
-    "window": "北京时间今日 00:00 至 18:00",
+    "window": "北京时间今日 00:00 至 18:01",
     "nextUpdate": "下一轮 00:15 自动更新"
   },
   "newsItems": [
@@ -35,7 +35,23 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/980/180.htm",
       "publishedAt": "17:20",
-      "relativeTime": "39 分钟前"
+      "relativeTime": "41 分钟前"
+    },
+    {
+      "id": "b7e6966e47e030",
+      "level": "重要",
+      "region": "海外",
+      "category": "融资",
+      "verification": "媒体报道",
+      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+      "whyItMatters": "资金流向反映市场正在为哪些 AI 能力与商业模式下注。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "publishedAt": "18:00",
+      "relativeTime": "1 分钟前",
+      "titleZh": "Glow 以 1.2B 美元估值脱颖而出，挑战人工智能时代的端点安全",
+      "summaryZh": "Glow 的目标是企业内部快速采用人工智能代理和开发工具而产生的一类新型端点风险。"
     },
     {
       "id": "ccffe4eb44a26a",
@@ -219,7 +235,7 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/980/214.htm",
       "publishedAt": "17:44",
-      "relativeTime": "16 分钟前"
+      "relativeTime": "17 分钟前"
     },
     {
       "id": "936894fd64ac3b",
@@ -233,7 +249,7 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/980/206.htm",
       "publishedAt": "17:38",
-      "relativeTime": "21 分钟前"
+      "relativeTime": "23 分钟前"
     },
     {
       "id": "65e9603d4744f4",
@@ -247,7 +263,7 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/980/205.htm",
       "publishedAt": "17:37",
-      "relativeTime": "22 分钟前"
+      "relativeTime": "23 分钟前"
     },
     {
       "id": "265815644503d4",
@@ -593,22 +609,6 @@
       "relativeTime": "16 小时前",
       "titleZh": "野外代理：研究与部署的结合",
       "summaryZh": "基于大语言模型（LLM）的代理系统架构能够推理、规划、行动以及与工具和其他代理协调，正在从研究原型快速过渡到跨领域的生产规模部署，例如软件工程、科学……"
-    },
-    {
-      "id": "a03766e12d51a0",
-      "level": "关注",
-      "region": "海外",
-      "category": "产品动态",
-      "verification": "专题分析",
-      "title": "1-Lipschitz Neural Networks on Hadamard Manifolds",
-      "summary": "Controlling the Lipschitz constant of a neural network is a standard way to promote robustness and stability. Most existing constraining strategies are designed for Euclidean spaces. In this work, we construct and analyze a class of 1-Lipschitz neural networks on Hadamard manifo…",
-      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
-      "source": "arXiv AI",
-      "sourceUrl": "https://arxiv.org/abs/2607.19335v1",
-      "publishedAt": "01:54",
-      "relativeTime": "16 小时前",
-      "titleZh": "Hadamard 流形上的 1-Lipschitz 神经网络",
-      "summaryZh": "控制神经网络的 Lipschitz 常数是提高鲁棒性和稳定性的标准方法。大多数现有的约束策略都是为欧几里得空间设计的。在这项工作中，我们构建并分析了 Hadamard 流形上的一类 1-Lipschitz 神经网络……"
     }
   ],
   "trendLines": [
@@ -617,11 +617,11 @@
     "大模型仍是今日高频主线，能力、价格与生态策略持续变化。"
   ],
   "pendingItems": [
-    "本轮有 31 条来自可靠媒体的报道，后续将继续追踪官方确认。"
+    "本轮有 32 条来自可靠媒体的报道，后续将继续追踪官方确认。"
   ],
   "scanStats": {
     "configuredSources": 19,
     "successfulSources": 19,
-    "candidateCount": 102
+    "candidateCount": 103
   }
 }

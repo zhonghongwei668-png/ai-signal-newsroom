@@ -88,6 +88,10 @@
     "fd7960e8849afb0f64a367baa9206506e5106b6304888338e4a97ed9cbdd5ba8": {
       "source": "1-Lipschitz Neural Networks on Hadamard Manifolds\nZXQSEPZXQ\nControlling the Lipschitz constant of a neural network is a standard way to promote robustness and stability. Most existing constraining strategies are designed for Euclidean spaces. In this work, we construct and analyze a class of 1-Lipschitz neural networks on Hadamard manifo…",
       "zh": "Hadamard 流形上的 1-Lipschitz 神经网络\nZXQSEPZXQ\n控制神经网络的 Lipschitz 常数是提高鲁棒性和稳定性的标准方法。大多数现有的约束策略都是为欧几里得空间设计的。在这项工作中，我们构建并分析了 Hadamard 流形上的一类 1-Lipschitz 神经网络……"
+    },
+    "298442880ec241e8bd241da76c8febd892ea1a6f89381ea466145f7a14f607b4": {
+      "source": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era\nZXQSEPZXQ\nGlow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+      "zh": "Glow 以 1.2B 美元估值脱颖而出，挑战人工智能时代的端点安全\nZXQSEPZXQ\nGlow 的目标是企业内部快速采用人工智能代理和开发工具而产生的一类新型端点风险。"
     }
   }
 }
