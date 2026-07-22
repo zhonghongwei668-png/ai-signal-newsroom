@@ -1,9 +1,9 @@
 {
   "boardMeta": {
-    "generatedAt": "2026-07-22 17:48",
+    "generatedAt": "2026-07-22 17:52",
     "date": "2026年7月22日 · 星期三",
     "edition": "午后版",
-    "window": "北京时间今日 00:00 至 17:48",
+    "window": "北京时间今日 00:00 至 17:52",
     "nextUpdate": "下一轮 00:15 自动更新"
   },
   "newsItems": [
@@ -33,7 +33,7 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/980/180.htm",
       "publishedAt": "17:20",
-      "relativeTime": "28 分钟前"
+      "relativeTime": "32 分钟前"
     },
     {
       "id": "1301a9e9f9f64b",
@@ -75,7 +75,7 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/980/166.htm",
       "publishedAt": "17:00",
-      "relativeTime": "48 分钟前"
+      "relativeTime": "52 分钟前"
     },
     {
       "id": "d42362617c6408",
@@ -103,7 +103,7 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/980/158.htm",
       "publishedAt": "16:53",
-      "relativeTime": "55 分钟前"
+      "relativeTime": "58 分钟前"
     },
     {
       "id": "55f56d11cc3438",
@@ -134,6 +134,104 @@
       "relativeTime": "1 小时前"
     },
     {
+      "id": "015ebd2eeb7579",
+      "level": "重要",
+      "region": "国内",
+      "category": "政策监管",
+      "verification": "媒体报道",
+      "title": "马斯克：SpaceX 的工程数据将被用于训练 Grok 大模型",
+      "summary": "IT之家 7 月 22 日消息，埃隆 · 马斯克当地时间周二表示，SpaceX 将把公司内部的工程数据用于 Grok 下一代大模型的训练。 马斯克在 X 平台发文称，SpaceX 积累的大量“世界一流工程数据”将被用于 Grok 的补充训练，但涉及美国武器出口管制法规限制的内容将被排除在外。 他提到，此次训练属于所谓的“2T run”，意味着模型规模约为 2 万亿参数，相比目前正在推出的 Grok 4.5，参数量几乎翻倍。 马斯克所说的受限制数据主要涉及美国《国际武器贸易条例》（ITAR）管辖范围内的技术资料。该法规限制与国防和航天硬件相关技术数据向外…",
+      "whyItMatters": "监管与司法判例会直接改变模型训练、产品上线和企业合规成本。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/980/090.htm",
+      "publishedAt": "15:54",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "2bb8c5bd2ae1bf",
+      "level": "重要",
+      "region": "国内",
+      "category": "融资",
+      "verification": "媒体报道",
+      "title": "BBA集体降价！销售：价格还能谈；月之暗面以500亿美元估值洽谈Pre-IPO融资，最快2027年初赴港上市；三星宣布将成立机器人事业部",
+      "summary": "要闻提示 1.BBA集体降价！销售：价格还能谈 2.月之暗面以500亿美元估值洽谈Pre-IPO融资，最快2027年初赴港上市 3.深汕比亚迪启动大规模招聘 4.2026年《财富》中国500强排行榜发布：泡泡玛特首次上榜，腾讯成最赚钱互联网企业 5.宗庆后家族争产案最新进展：宗馥莉上诉许可申请被香港高院驳回 6.阿里将推出千问办公，旗下三款智能体合并 7.字节XR业务PICO创始人周宏伟将卸任，李晓凯成为新任业务负责人 8.三星宣布将成立机器人事业部：计划在美国、中国建立机器人研发中心 今日头条 BBA集体降价！销售：价格还能谈 7月21日消息，今年以…",
+      "whyItMatters": "资金流向反映市场正在为哪些 AI 能力与商业模式下注。",
+      "source": "雷锋网",
+      "sourceUrl": "https://www.leiphone.com/category/zaobao/3zl6HRdhLVwLseFx.html",
+      "publishedAt": "08:48",
+      "relativeTime": "9 小时前"
+    },
+    {
+      "id": "053eb992ce60f5",
+      "level": "重要",
+      "region": "国内",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "OpenAI 旗下智能体产品用户总数破千万，较本月初几乎翻倍",
+      "summary": "IT之家 7 月 22 日消息，据彭博社 21 日报道，OpenAI 推出 ChatGPT Work 后，AI 智能体产品需求迅速攀升，为其追赶竞争对手 Anthropic 带来了新动力。 目前，Codex 和 ChatGPT Work 的用户总数已经达到 1000 万，较本月早些时候几乎翻倍。Codex 主要用于编程，ChatGPT Work 则覆盖更广泛的工作任务。 OpenAI 和 Anthropic 都在加快开发先进 AI 智能体，让 AI 能够代替用户处理更加复杂的任务。Anthropic 此前推出了与 ChatGPT Work 定位相近的…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/980/074.htm",
+      "publishedAt": "15:40",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "629b06cde6b42d",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "零刻 ME Pro 四盘位 NAS 新增英特尔奔腾银牌 J5005 款，8GB RAM + 128G SSD 售 1799 元",
+      "summary": "IT之家 7 月 22 日消息，零刻现已为其 ME Pro 四盘位 NAS 新增搭载英特尔奔腾银牌 J5005 处理器版本，8GB + 128GB + fnOS 商业版配置 1999 元， 首发价 1799 元 。 京东 零刻 ME Pro 四盘位 英特尔 J5005 版本 1799 元 直达链接 该版本基于一颗 2017Q4 发行的 14nm 四核心四线程 \"Gemini Lake\" 芯片， 标配 8GB DDR4 RAM 内存 ， M.2 2280 SSD 盘位方面一个支持 PCIe Gen2 ×1（系统盘）、另一个支持 SATA（存储盘）。 外部…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/980/214.htm",
+      "publishedAt": "17:44",
+      "relativeTime": "8 分钟前"
+    },
+    {
+      "id": "936894fd64ac3b",
+      "level": "关注",
+      "region": "国内",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "宇树王兴兴：具身智能“ChatGPT 时刻”有望最快两三年内到来，大家要提前做好准备",
+      "summary": "IT之家 7 月 22 日消息，2026 年世界互联网大会数字丝路发展论坛于今日在陕西西安举行，据澎湃新闻报道，宇树科技创始人兼首席执行官王兴兴在开幕式上表示，过去几年，人形机器人从行走到舞蹈、功夫格斗到简单服务进步飞速。 具身智能的“ChatGPT 时刻”有望最快在两三年内到来 ，届时机器人在大部分陌生场景也能直接工作，实现很多基本功能。 王兴兴还称，大家要根据自己的实际情况提前做好各种计划和安排，从而把握智能时代的新机遇。 王兴兴表示，古往今来，科技的创新和突破，在时间上并不是一蹴而就的，很多时候，甚至有很多随机性。但要取得创新和突破， 其中最关键…",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/980/206.htm",
+      "publishedAt": "17:38",
+      "relativeTime": "13 分钟前"
+    },
+    {
+      "id": "65e9603d4744f4",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "为销售更多 GPU，英伟达下场做担保帮 AI 云厂商贷款买芯片",
+      "summary": "IT之家 7 月 22 日消息，今年早些时候，AI 初创公司 Fireworks AI 希望租用价值数亿美元的 AI 算力。 与直接采购大规模英伟达 GPU 集群，或向亚马逊、微软等云计算巨头租赁算力不同，Fireworks AI 选择了近年来兴起的 AI 云服务商（Neocloud）——GMI Cloud。这类公司专门面向 AI 业务提供 GPU 算力，通常能够提供更快的 GPU 交付速度、更具竞争力的价格，以及针对 AI 工作负载优化的基础设施。 不过，这笔交易遇到了一个难题。为了向 Fireworks AI 提供算力，GMI 必须先从硬件厂商采购…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/980/205.htm",
+      "publishedAt": "17:37",
+      "relativeTime": "14 分钟前"
+    },
+    {
+      "id": "265815644503d4",
+      "level": "关注",
+      "region": "国内",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "支付宝参与可信政务智能体服务平台，携手信通院等机构共建政务 AI 新基建",
+      "summary": "2026 世界人工智能大会(WAIC)政务智能创新论坛顺利举办，国家网信办、国家数据 局、上海数据局相关领导列席。会上，信通院与北京大学联合发布《政务智能体发展研究报 告(2026 年)》。其中支付宝技术赋能打造的四项政务应用——吉林社保 AI 智能对话、江 苏“晓苏”、广东教育考试院 AI 智能体、育儿补贴智能体被纳入典型案例。 同时，中国互联网协会携手支付宝、信通院及三大通信央企，共同启动可信政务智能体 公共服务平台。平台旨在消除政务智能体供需壁垒，建立产业链常态化沟通机制，驱动政务 智能加速发展。 深耕政务智能化，支付宝赋能案例获权威认可 本次分…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "雷锋网",
+      "sourceUrl": "https://www.leiphone.com/category/industrynews/bU3YMyf2KBYlNfGZ.html",
+      "publishedAt": "12:45",
+      "relativeTime": "5 小时前"
+    },
+    {
       "id": "fedcdccad6a611",
       "level": "关注",
       "region": "海外",
@@ -146,6 +244,62 @@
       "sourceUrl": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
       "publishedAt": "11:20",
       "relativeTime": "6 小时前"
+    },
+    {
+      "id": "da244990b0e39d",
+      "level": "关注",
+      "region": "国内",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "百度文心助手任务 Agent 登顶国际权威榜单，超越 Claude、GPT 拿下全球智能体冠军",
+      "summary": "2026 年 7 月 17 日，百度文心助手任务 Agent，以最高分 94.6%、平均分 94.4% 的成绩，登顶全球工程向 AI 智能体评测榜单 PinchBench v2。成为首个以正式产品身份获得 PinchBench 总榜第一的国产智能体系统。 在 59 个参评模型中，文心助手任务 Agent 排名第一，领先 Anthropic Claude Opus 4.8-fast（93.5%）、阿里通义千问 Qwen3.7-max（92.5%）、Anthropic Claude Opus 4.8（90.5%）、OpenAI GPT-5.6-luna（8…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "雷锋网",
+      "sourceUrl": "https://www.leiphone.com/category/industrynews/JnKtRGrgnS8TvRhM.html",
+      "publishedAt": "15:18",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "ced4f41a834905",
+      "level": "关注",
+      "region": "国内",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "WAIC深度观察：具身数据，进入「开箱即用」时代",
+      "summary": "真正的「Model-Ready Data」，高精度、多模态、多样性缺一不可。 作者 丨 高景辉 编辑丨马晓宁 “具身智能的数据需求，远没有摸到上限。” 在WAIC主论坛上的一次对话中，亮源新创创始人姜旭的判断引起了广泛共鸣。他进一步提到，具身智能本质是大模型向物理世界的延伸，会沿着“规模化预训练→规模化对齐→规模化部署”的三阶段范式演进，和大模型时代一样，智能供给的红利核心来自 数据 ，现在行业连最基础的 预训练阶段的数据缺口都没填上 。 的确，这个直面行业核心的观点足够尖锐，但对于数据的问题要如何解决，论坛上的嘉宾似乎没有给出足够详细的解答。于是，带…",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "雷锋网",
+      "sourceUrl": "https://www.leiphone.com/category/robot/ClTZ7U1EvG0bVaHo.html",
+      "publishedAt": "15:06",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "6386a4eed8ef51",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "2026世界人工智能大会 | 启鸣达人首发《世界模型驱动的教育AGI白皮书》",
+      "summary": "新一轮智能浪潮席卷全球 ， 7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海举行，作为全球人工智能领域最具影响力的年度盛会，第九届 WAIC 大会以 “ 智能伙伴 共创未来 ” 为主题，140余场论坛横跨算力基建、物理智能、科学智能等前沿领域 ，吸引 全球100多个国家和地区的顶尖学者、产业先锋与政策制定者齐聚，共同勾勒智能时代的方向。 7月18日下午，天立国际旗下智慧教育公司 启鸣达人受邀 出席2026WAIC多个专题论坛，围绕 算力与文明的核心命题 ，面向各界 系统分享教育 AGI 的技术落地实践 与探索创新。 白皮书…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "雷锋网",
+      "sourceUrl": "https://www.leiphone.com/category/ai/ZQ1kV11l8qQj84Dt.html",
+      "publishedAt": "13:51",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "1c585908d937e3",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "Gemini掉出全球前十",
+      "summary": "当地时间7月21日，谷歌DeepMind发布三款轻量的新模型，主打“更快、更智能、更具成本效益”，但因智能程度没有满足外界的期待，评价两极分化。与此同时，旗舰模型Gemini 3.5 Pro依然没有露面成为此次焦点，从排行榜来看，谷歌的模型已经排在十名开外。 阅读全文",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1569870.htm",
+      "publishedAt": "17:09",
+      "relativeTime": "42 分钟前"
     },
     {
       "id": "8eac5838196896",
@@ -216,19 +370,215 @@
       "sourceUrl": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
       "publishedAt": "06:06",
       "relativeTime": "11 小时前"
+    },
+    {
+      "id": "7fe22c4a215426",
+      "level": "关注",
+      "region": "海外",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "publishedAt": "03:43",
+      "relativeTime": "14 小时前"
+    },
+    {
+      "id": "16d2a505a31f6d",
+      "level": "关注",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "AI and the rise of the universal entertainment app",
+      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+      "publishedAt": "03:39",
+      "relativeTime": "14 小时前"
+    },
+    {
+      "id": "2b212e17985a2b",
+      "level": "关注",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "已确认",
+      "title": "v0.117.1",
+      "summary": "0.117.1 (2026-07-21) Full Changelog: v0.117.0...v0.117.1 Bug Fixes aws: handle credentials correctly when using AnthropicAWS.copy() ( 85d3881 ) Chores api: add support for new refusal category ( d1dea0b ) client: docs updates ( b14f94c ) deps: bump http-snapshot to 0.1.9 ( #275…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "Anthropic GitHub Releases",
+      "sourceUrl": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.117.1",
+      "publishedAt": "06:27",
+      "relativeTime": "11 小时前"
+    },
+    {
+      "id": "3a68379c08593a",
+      "level": "关注",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "Substack adds an AI detector to help spot blogs written by no one",
+      "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+      "publishedAt": "03:22",
+      "relativeTime": "14 小时前"
+    },
+    {
+      "id": "46f6c2801f0dd1",
+      "level": "关注",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "Data centers expected to use 4x more electricity by 2035",
+      "summary": "New data centers built through 2033 could consume as much electricity as India uses today.",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+      "publishedAt": "02:06",
+      "relativeTime": "15 小时前"
+    },
+    {
+      "id": "a7425c69f0050a",
+      "level": "关注",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
+      "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "WIRED AI",
+      "sourceUrl": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
+      "publishedAt": "03:05",
+      "relativeTime": "14 小时前"
+    },
+    {
+      "id": "0bd50127700baa",
+      "level": "关注",
+      "region": "海外",
+      "category": "政策监管",
+      "verification": "媒体报道",
+      "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+      "summary": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli Martínez-Olguín writes that the settlement…",
+      "whyItMatters": "监管与司法判例会直接改变模型训练、产品上线和企业合规成本。",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+      "publishedAt": "00:53",
+      "relativeTime": "16 小时前"
+    },
+    {
+      "id": "e575e3b9796908",
+      "level": "关注",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
+      "summary": "A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a “death switch” to destroy files and keep out real users.",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "WIRED AI",
+      "sourceUrl": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
+      "publishedAt": "00:08",
+      "relativeTime": "17 小时前"
+    },
+    {
+      "id": "076ef5bb460957",
+      "level": "关注",
+      "region": "海外",
+      "category": "大模型",
+      "verification": "专题分析",
+      "title": "DBMol: Design of High-Affinity, Target-Specific Small Molecules through Structure Prediction Models",
+      "summary": "Designing small molecule ligands that bind with high affinity to specific protein pockets is a fundamental goal in drug discovery, as small molecules constitute a major fraction of approved therapeutics. Recent breakthroughs in structure prediction, such as AlphaFold-3 and Boltz…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "arXiv AI",
+      "sourceUrl": "https://arxiv.org/abs/2607.19237v1",
+      "publishedAt": "00:07",
+      "relativeTime": "17 小时前"
+    },
+    {
+      "id": "d72529776569c2",
+      "level": "关注",
+      "region": "海外",
+      "category": "大模型",
+      "verification": "专题分析",
+      "title": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
+      "summary": "Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. However, we identify a critical failure mode in this regime: \\emph{repetitive co…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "arXiv AI",
+      "sourceUrl": "https://arxiv.org/abs/2607.19345v1",
+      "publishedAt": "01:59",
+      "relativeTime": "15 小时前"
+    },
+    {
+      "id": "e4b0224aced570",
+      "level": "关注",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "专题分析",
+      "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
+      "summary": "Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reliably achieved through text prompting alone. Diffusion Transformers (DiTs) can n…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "arXiv AI",
+      "sourceUrl": "https://arxiv.org/abs/2607.19344v1",
+      "publishedAt": "01:59",
+      "relativeTime": "15 小时前"
+    },
+    {
+      "id": "411e0b27152f19",
+      "level": "关注",
+      "region": "海外",
+      "category": "Agent",
+      "verification": "专题分析",
+      "title": "CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents",
+      "summary": "Coding agents increasingly operate in executable environments where a failed attempt produces actionable feedback rather than merely an incorrect answer. Existing cost-aware systems typically treat such failures as cascade decisions: try a cheap model first, then escalate hard c…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "arXiv AI",
+      "sourceUrl": "https://arxiv.org/abs/2607.19338v1",
+      "publishedAt": "01:56",
+      "relativeTime": "15 小时前"
+    },
+    {
+      "id": "aea2318845ae6b",
+      "level": "关注",
+      "region": "海外",
+      "category": "Agent",
+      "verification": "专题分析",
+      "title": "Agents in the Wild: Where Research Meets Deployment",
+      "summary": "Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes to production scale deployments across domains such as software engineering, sci…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "arXiv AI",
+      "sourceUrl": "https://arxiv.org/abs/2607.19336v1",
+      "publishedAt": "01:55",
+      "relativeTime": "15 小时前"
+    },
+    {
+      "id": "a03766e12d51a0",
+      "level": "关注",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "专题分析",
+      "title": "1-Lipschitz Neural Networks on Hadamard Manifolds",
+      "summary": "Controlling the Lipschitz constant of a neural network is a standard way to promote robustness and stability. Most existing constraining strategies are designed for Euclidean spaces. In this work, we construct and analyze a class of 1-Lipschitz neural networks on Hadamard manifo…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "arXiv AI",
+      "sourceUrl": "https://arxiv.org/abs/2607.19335v1",
+      "publishedAt": "01:54",
+      "relativeTime": "15 小时前"
     }
   ],
   "trendLines": [
     "AI 产品更新加快，能力正进入更多日常工作流。",
-    "具身智能继续升温，真实场景数据与可靠执行成为竞争焦点。",
+    "Agent 基础设施和产品落地同步推进，行业更关注任务完成率。",
     "大模型仍是今日高频主线，能力、价格与生态策略持续变化。"
   ],
   "pendingItems": [
-    "本轮有 13 条来自可靠媒体的报道，后续将继续追踪官方确认。"
+    "本轮有 31 条来自可靠媒体的报道，后续将继续追踪官方确认。"
   ],
   "scanStats": {
     "configuredSources": 19,
     "successfulSources": 19,
-    "candidateCount": 101
+    "candidateCount": 100
   }
 }

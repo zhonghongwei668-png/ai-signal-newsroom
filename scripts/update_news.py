@@ -26,6 +26,7 @@ from news_sources import SOURCES, Source
 BEIJING = timezone(timedelta(hours=8))
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT_PATH = ROOT / "app" / "generated-news.json"
+DEFAULT_STORY_LIMIT = 40
 USER_AGENT = "AI-Signal-Newsroom/1.0 (+https://github.com/zhonghongwei668-png/ai-signal-newsroom)"
 TRACKING_KEYS = {
     "fbclid",
@@ -289,14 +290,40 @@ def deduplicate(candidates: Iterable[Candidate]) -> list[Candidate]:
     return result
 
 
-def select_balanced(candidates: Iterable[Candidate], limit: int = 15) -> list[Candidate]:
+def take_with_source_cap(
+    candidates: list[Candidate],
+    count: int,
+    max_per_source: int = 10,
+) -> list[Candidate]:
+    selected: list[Candidate] = []
+    deferred: list[Candidate] = []
+    source_counts: Counter[str] = Counter()
+    for candidate in candidates:
+        if source_counts[candidate.source_key] >= max_per_source:
+            deferred.append(candidate)
+            continue
+        selected.append(candidate)
+        source_counts[candidate.source_key] += 1
+        if len(selected) == count:
+            return selected
+    selected.extend(deferred[: max(0, count - len(selected))])
+    return selected[:count]
+
+
+def select_balanced(
+    candidates: Iterable[Candidate],
+    limit: int = DEFAULT_STORY_LIMIT,
+) -> list[Candidate]:
     ranked = deduplicate(candidates)
     domestic = [item for item in ranked if item.region == "国内"]
     overseas = [item for item in ranked if item.region == "海外"]
-    selected = domestic[:7] + overseas[:8]
+    domestic_quota = round(limit * 0.45)
+    overseas_quota = limit - domestic_quota
+    selected = take_with_source_cap(domestic, domestic_quota) + take_with_source_cap(overseas, overseas_quota)
     selected_urls = {item.url for item in selected}
     if len(selected) < limit:
-        selected.extend(item for item in ranked if item.url not in selected_urls)
+        remaining = [item for item in ranked if item.url not in selected_urls]
+        selected.extend(take_with_source_cap(remaining, limit - len(selected)))
     return sorted(selected[:limit], key=lambda item: (-item.score, -item.published.timestamp()))
 
 
@@ -466,7 +493,7 @@ def main(argv: list[str] | None = None) -> int:
     args = parser.parse_args(argv)
     now = current_beijing_time()
     candidates, successful, failures = collect(now)
-    selected = select_balanced(candidates)
+    selected = select_balanced(candidates, DEFAULT_STORY_LIMIT)
     if not selected:
         print("No same-day AI news was found; keeping the previously deployed snapshot.", file=sys.stderr)
         return 2

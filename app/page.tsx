@@ -49,6 +49,7 @@ export default function Home() {
   const confirmedCount = newsItems.filter((item) => item.verification === "已确认").length;
   const contextualCount = newsItems.length - confirmedCount;
   const domesticCount = newsItems.filter((item) => item.region === "国内").length;
+  const readingMinutes = Math.max(3, Math.ceil(newsItems.length * 0.4));
 
   return (
     <main>
@@ -85,7 +86,7 @@ export default function Home() {
             <span>{boardMeta.window}</span>
           </div>
           <div className="brief-number">{newsItems.length}</div>
-          <p>条经筛选的当日动态</p>
+          <p>条经筛选的当日动态 · 约 {readingMinutes} 分钟阅读</p>
           <div className="brief-stats">
             <span><strong>{confirmedCount}</strong> 已确认</span>
             <span><strong>{contextualCount}</strong> 报道 / 分析</span>

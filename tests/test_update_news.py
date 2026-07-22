@@ -92,20 +92,18 @@ class SelectionTests(unittest.TestCase):
         self.assertEqual(len(deduplicate(candidates)), 1)
 
     def test_balances_domestic_and_overseas_items(self) -> None:
-        domestic_topics = ["模型", "芯片", "机器人", "医疗", "教育", "汽车", "科研", "监管", "融资", "开源"]
-        global_topics = ["models", "chips", "robotics", "health", "education", "cars", "science", "policy", "funding", "open-source"]
         candidates = [
-            self.candidate(f"{topic}领域出现人工智能新进展", f"https://cn.example/{index}", "国内", 120 - index)
-            for index, topic in enumerate(domestic_topics)
+            self.candidate(f"国内AI新闻{index}", f"https://cn.example/{index}", "国内", 140 - index)
+            for index in range(30)
         ] + [
-            self.candidate(f"New AI development in {topic}", f"https://global.example/{index}", "海外", 120 - index)
-            for index, topic in enumerate(global_topics)
+            self.candidate(f"Global AI item {index}", f"https://global.example/{index}", "海外", 140 - index)
+            for index in range(30)
         ]
-        selected = select_balanced(candidates, 15)
+        selected = select_balanced(candidates, 40)
 
-        self.assertEqual(len(selected), 15)
-        self.assertEqual(sum(item.region == "国内" for item in selected), 7)
-        self.assertEqual(sum(item.region == "海外" for item in selected), 8)
+        self.assertEqual(len(selected), 40)
+        self.assertEqual(sum(item.region == "国内" for item in selected), 18)
+        self.assertEqual(sum(item.region == "海外" for item in selected), 22)
 
     def test_snapshot_contains_next_run_and_scan_statistics(self) -> None:
         item = self.candidate("AI agent model released", "https://example.com/release", "海外", 120)
