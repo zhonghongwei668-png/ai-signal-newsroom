@@ -24,6 +24,16 @@ function ArrowUpRight() {
   return <span aria-hidden="true">↗</span>;
 }
 
+function ChineseTranslation({ children, kind }: { children?: string; kind: "title" | "summary" }) {
+  if (!children) return null;
+  return (
+    <span className={`translation translation-${kind}`} lang="zh-CN">
+      <span className="translation-label">中译</span>
+      {children}
+    </span>
+  );
+}
+
 function verificationClass(item: NewsItem) {
   if (item.verification === "已确认") return "confirmed";
   if (item.verification === "专题分析") return "analysis";
@@ -134,8 +144,14 @@ export default function Home() {
                   {lead.verification}
                 </span>
               </div>
-              <h2>{lead.title}</h2>
-              <p className="summary">{lead.summary}</p>
+              <h2>
+                {lead.title}
+                <ChineseTranslation kind="title">{lead.titleZh}</ChineseTranslation>
+              </h2>
+              <p className="summary">
+                {lead.summary}
+                <ChineseTranslation kind="summary">{lead.summaryZh}</ChineseTranslation>
+              </p>
               <div className="why-box">
                 <span>为什么重要</span>
                 <p>{lead.whyItMatters}</p>
@@ -164,8 +180,14 @@ export default function Home() {
                       {item.verification}
                     </span>
                   </div>
-                  <h3>{item.title}</h3>
-                  <p>{item.summary}</p>
+                  <h3>
+                    {item.title}
+                    <ChineseTranslation kind="title">{item.titleZh}</ChineseTranslation>
+                  </h3>
+                  <p>
+                    {item.summary}
+                    <ChineseTranslation kind="summary">{item.summaryZh}</ChineseTranslation>
+                  </p>
                   <details>
                     <summary>为什么重要</summary>
                     <p>{item.whyItMatters}</p>

@@ -1,9 +1,9 @@
 {
   "boardMeta": {
-    "generatedAt": "2026-07-22 17:53",
+    "generatedAt": "2026-07-22 18:00",
     "date": "2026年7月22日 · 星期三",
-    "edition": "午后版",
-    "window": "北京时间今日 00:00 至 17:53",
+    "edition": "夜间版",
+    "window": "北京时间今日 00:00 至 18:00",
     "nextUpdate": "下一轮 00:15 自动更新"
   },
   "newsItems": [
@@ -19,7 +19,9 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
       "publishedAt": "16:00",
-      "relativeTime": "1 小时前"
+      "relativeTime": "2 小时前",
+      "titleZh": "Synthesia 的人工智能培训平台正在从视频转向实时指导",
+      "summaryZh": "Synthesia 推出了 AI Roleplay Sessions，这是一个交互式企业培训平台，员工可以在工作场所与 AI 化身练习对话，这些化身提供反馈、评分和分析，帮助公司衡量培训效果。"
     },
     {
       "id": "8d8788edaf8226",
@@ -33,7 +35,21 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/980/180.htm",
       "publishedAt": "17:20",
-      "relativeTime": "32 分钟前"
+      "relativeTime": "39 分钟前"
+    },
+    {
+      "id": "ccffe4eb44a26a",
+      "level": "重要",
+      "region": "国内",
+      "category": "融资",
+      "verification": "媒体报道",
+      "title": "独家解读丨谷歌押注的「Token分发霸主」OpenRouter，为何突卖身？",
+      "summary": "“中美Token分发商，正在走向两条截然不同的路。” 某国产大模型厂商的 API 生态负责人王栋告诉雷峰网。 近日，全球头部大模型 API 聚合平台 OpenRouter 被曝寻求“卖身”，正与多家科技巨头洽谈收购机会。 消息一出，业内哗然。 要知道，作为“大模型 API 超市”，OpenRouter 长期稳坐行业头把交椅。而且，就在短短两个月前，OpenRouter 才刚完成了一笔高达 1.13 亿美元的 B 轮融资，由谷歌母公司旗下的 CapitalG 领投，英伟达、Snowflake、Databricks 和 ServiceNow 等巨头跟投…",
+      "whyItMatters": "资金流向反映市场正在为哪些 AI 能力与商业模式下注。",
+      "source": "雷锋网",
+      "sourceUrl": "https://www.leiphone.com/category/industrynews/jzcW1HyiLtvtbWCt.html",
+      "publishedAt": "15:58",
+      "relativeTime": "2 小时前"
     },
     {
       "id": "1301a9e9f9f64b",
@@ -47,7 +63,7 @@
       "source": "雷锋网",
       "sourceUrl": "https://www.leiphone.com/category/ai/t0fM6SFQ2W7BojX3.html",
       "publishedAt": "10:58",
-      "relativeTime": "6 小时前"
+      "relativeTime": "7 小时前"
     },
     {
       "id": "b6b6d5eeaa1eff",
@@ -75,7 +91,7 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/980/166.htm",
       "publishedAt": "17:00",
-      "relativeTime": "53 分钟前"
+      "relativeTime": "1 小时前"
     },
     {
       "id": "d42362617c6408",
@@ -89,7 +105,23 @@
       "source": "OpenAI",
       "sourceUrl": "https://openai.com/index/introducing-chatgpt-small-business-program",
       "publishedAt": "01:00",
-      "relativeTime": "16 小时前"
+      "relativeTime": "17 小时前",
+      "titleZh": "推出面向小型企业的 ChatGPT 计划",
+      "summaryZh": "OpenAI 推出 ChatGPT 小型企业计划，帮助企业家培养人工智能技能、自动化工作，并与 ChatGPT Work 一起成长。"
+    },
+    {
+      "id": "eb6f49feccec52",
+      "level": "重要",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "独家解读丨OpenAI 们割肉、Kimi 们火拼，AI 编程下半场怎么打？",
+      "summary": "“从全球范围看，AI 编程已过了技术陡峭期。 但二级市场退烧后，产业一线开始了近身肉搏。 ”一家国内头部券商计算机资深分析师张淼告诉雷峰网。 最近，AI 编程市场又火了起来。 海外，Anthropic、OpenAI 为抢用户，激烈火拼，不断加码免费额度与体验时长，打起了额度战。国内，战火一路从用户心智烧到商业底牌：阿里宣称AI编程市占率第一，智谱斩获10亿美元ARR，Kimi发布K3模型，编程能力直逼全球一流。 这场 对垒背后 ，透露了一个残酷事实： AI coding（AI编程）这门生意，已进入商业绞杀、决胜突围的下半场。 同时，技术的壁垒正在降低…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "雷锋网",
+      "sourceUrl": "https://www.leiphone.com/category/industrynews/4lBJ3V8tb2JInt2D.html",
+      "publishedAt": "15:54",
+      "relativeTime": "2 小时前"
     },
     {
       "id": "a994f6fce731b7",
@@ -103,7 +135,7 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/980/158.htm",
       "publishedAt": "16:53",
-      "relativeTime": "59 分钟前"
+      "relativeTime": "1 小时前"
     },
     {
       "id": "55f56d11cc3438",
@@ -131,7 +163,7 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/980/092.htm",
       "publishedAt": "15:55",
-      "relativeTime": "1 小时前"
+      "relativeTime": "2 小时前"
     },
     {
       "id": "015ebd2eeb7579",
@@ -145,7 +177,7 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/980/090.htm",
       "publishedAt": "15:54",
-      "relativeTime": "1 小时前"
+      "relativeTime": "2 小时前"
     },
     {
       "id": "2bb8c5bd2ae1bf",
@@ -187,7 +219,7 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/980/214.htm",
       "publishedAt": "17:44",
-      "relativeTime": "9 分钟前"
+      "relativeTime": "16 分钟前"
     },
     {
       "id": "936894fd64ac3b",
@@ -201,7 +233,7 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/980/206.htm",
       "publishedAt": "17:38",
-      "relativeTime": "14 分钟前"
+      "relativeTime": "21 分钟前"
     },
     {
       "id": "65e9603d4744f4",
@@ -215,7 +247,7 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/980/205.htm",
       "publishedAt": "17:37",
-      "relativeTime": "15 分钟前"
+      "relativeTime": "22 分钟前"
     },
     {
       "id": "265815644503d4",
@@ -243,7 +275,9 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
       "publishedAt": "11:20",
-      "relativeTime": "6 小时前"
+      "relativeTime": "6 小时前",
+      "titleZh": "Anthropic-Physical Intelligence 谣言席卷 AI Twitter",
+      "summaryZh": "Anthropic 和 OpenAI 在 2026 年的激进收购热潮为周末谣言奠定了基础。"
     },
     {
       "id": "da244990b0e39d",
@@ -274,34 +308,6 @@
       "relativeTime": "2 小时前"
     },
     {
-      "id": "6386a4eed8ef51",
-      "level": "关注",
-      "region": "国内",
-      "category": "芯片算力",
-      "verification": "媒体报道",
-      "title": "2026世界人工智能大会 | 启鸣达人首发《世界模型驱动的教育AGI白皮书》",
-      "summary": "新一轮智能浪潮席卷全球 ， 7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海举行，作为全球人工智能领域最具影响力的年度盛会，第九届 WAIC 大会以 “ 智能伙伴 共创未来 ” 为主题，140余场论坛横跨算力基建、物理智能、科学智能等前沿领域 ，吸引 全球100多个国家和地区的顶尖学者、产业先锋与政策制定者齐聚，共同勾勒智能时代的方向。 7月18日下午，天立国际旗下智慧教育公司 启鸣达人受邀 出席2026WAIC多个专题论坛，围绕 算力与文明的核心命题 ，面向各界 系统分享教育 AGI 的技术落地实践 与探索创新。 白皮书…",
-      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
-      "source": "雷锋网",
-      "sourceUrl": "https://www.leiphone.com/category/ai/ZQ1kV11l8qQj84Dt.html",
-      "publishedAt": "13:51",
-      "relativeTime": "4 小时前"
-    },
-    {
-      "id": "1c585908d937e3",
-      "level": "关注",
-      "region": "国内",
-      "category": "大模型",
-      "verification": "媒体报道",
-      "title": "Gemini掉出全球前十",
-      "summary": "当地时间7月21日，谷歌DeepMind发布三款轻量的新模型，主打“更快、更智能、更具成本效益”，但因智能程度没有满足外界的期待，评价两极分化。与此同时，旗舰模型Gemini 3.5 Pro依然没有露面成为此次焦点，从排行榜来看，谷歌的模型已经排在十名开外。 阅读全文",
-      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
-      "source": "cnBeta",
-      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1569870.htm",
-      "publishedAt": "17:09",
-      "relativeTime": "43 分钟前"
-    },
-    {
       "id": "8eac5838196896",
       "level": "关注",
       "region": "海外",
@@ -313,7 +319,9 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
       "publishedAt": "04:56",
-      "relativeTime": "12 小时前"
+      "relativeTime": "13 小时前",
+      "titleZh": "OpenAI 表示 Hugging Face 的预发布模型遭到破坏",
+      "summaryZh": "OpenAI 已出面声称对 Hugging Face 漏洞负责，称这是内部测试出错的结果。"
     },
     {
       "id": "a7496682883616",
@@ -327,7 +335,9 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
       "publishedAt": "07:55",
-      "relativeTime": "9 小时前"
+      "relativeTime": "10 小时前",
+      "titleZh": "Meta 正在为没有想象力的人测试一款 AI 睡前故事应用程序",
+      "summaryZh": "最后，一家科技公司找到了一种方法来外包人类最古老的消遣：利用我们的想象力。"
     },
     {
       "id": "ec57ba11b1c3ef",
@@ -341,7 +351,9 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
       "publishedAt": "01:11",
-      "relativeTime": "16 小时前"
+      "relativeTime": "16 小时前",
+      "titleZh": "谷歌发布了三款新的 Gemini 模型 - 但没有 3.5 Pro",
+      "summaryZh": "谷歌发布了Gemini 3.6 Flash、3.5 Flash-Lite和Flash Cyber，但Gemini 3.5 Pro的持续缺席引发了对其人工智能战略的新质疑。"
     },
     {
       "id": "eed16821fcdd7e",
@@ -355,7 +367,9 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
       "publishedAt": "04:00",
-      "relativeTime": "13 小时前"
+      "relativeTime": "14 小时前",
+      "titleZh": "物理 AI 仿真现状：概述",
+      "summaryZh": "物理人工智能的模拟现状：概述。"
     },
     {
       "id": "45095198141eb1",
@@ -369,7 +383,9 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
       "publishedAt": "06:06",
-      "relativeTime": "11 小时前"
+      "relativeTime": "11 小时前",
+      "titleZh": "尼尔·布洛姆坎普的新僵尸人工智能“电影”刚刚预热",
+      "summaryZh": "周一，《第九区》和《Gran Turismo》导演尼尔·布洛姆坎普 (Neill Blomkamp) 公布了他的最新项目：一部名为《Nightborne》的 13 分钟科幻短片，大致改编自 Peter Watts 2014 年的小说 Echopraxia。该短片来自 Blomkamp 的新人工智能初创公司/制作公司 Barley Studios……"
     },
     {
       "id": "7fe22c4a215426",
@@ -383,7 +399,9 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
       "publishedAt": "03:43",
-      "relativeTime": "14 小时前"
+      "relativeTime": "14 小时前",
+      "titleZh": "Jack Dorsey 正在与 Buzz 对抗 Slack，Buzz 是一个面向团队及其人工智能代理的群聊平台",
+      "summaryZh": "Buzz 是一个适用于工作场所的群聊平台，可将人类及其人工智能代理置于同一对话中。"
     },
     {
       "id": "16d2a505a31f6d",
@@ -397,7 +415,9 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
       "publishedAt": "03:39",
-      "relativeTime": "14 小时前"
+      "relativeTime": "14 小时前",
+      "titleZh": "人工智能和通用娱乐应用程序的兴起",
+      "summaryZh": "在过去的十年中，流媒体平台通过主导音乐、视频、播客或有声读物等个别格式进行竞争。现在，随着人工智能使创建、组织和推荐内容变得更加容易，这些区别正在消失，推动了 Spotify、Netflix、YouTube 等公司……"
     },
     {
       "id": "2b212e17985a2b",
@@ -411,7 +431,8 @@
       "source": "Anthropic GitHub Releases",
       "sourceUrl": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.117.1",
       "publishedAt": "06:27",
-      "relativeTime": "11 小时前"
+      "relativeTime": "11 小时前",
+      "summaryZh": "0.117.1 (2026-07-21) 完整变更日志：v0.117.0...v0.117.1 错误修复 aws：使用 AnthropicAWS.copy() 时正确处理凭证 (85d3881) Chores api：添加对新拒绝类别 (d1dea0b) 的支持客户端：文档更新 (b14f94c) deps：将 http-snapshot 升级到 0.1.9 (#275…"
     },
     {
       "id": "3a68379c08593a",
@@ -425,7 +446,9 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
       "publishedAt": "03:22",
-      "relativeTime": "14 小时前"
+      "relativeTime": "14 小时前",
+      "titleZh": "Substack 添加了一个 AI 检测器，以帮助发现无人撰写的博客",
+      "summaryZh": "Substack 现在将帮助用户确定他们正在阅读的内容是否是由人工智能编写的。据报道，该平台上的一个新工具可以扫描帖子、笔记、回复和评论，以估计人工智能可以生成或在人工智能协助下编写的文本量。"
     },
     {
       "id": "46f6c2801f0dd1",
@@ -439,7 +462,9 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
       "publishedAt": "02:06",
-      "relativeTime": "15 小时前"
+      "relativeTime": "15 小时前",
+      "titleZh": "到 2035 年，数据中心的用电量预计将增加 4 倍",
+      "summaryZh": "到 2033 年建成的新数据中心消耗的电力将与印度目前的用电量相当。"
     },
     {
       "id": "a7425c69f0050a",
@@ -453,7 +478,9 @@
       "source": "WIRED AI",
       "sourceUrl": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
       "publishedAt": "03:05",
-      "relativeTime": "14 小时前"
+      "relativeTime": "14 小时前",
+      "titleZh": "这位英特尔前首席执行官希望用光来推动摩尔定律",
+      "summaryZh": "帕特·基辛格希望利用微小光束为更强大的人工智能铺平道路。"
     },
     {
       "id": "0bd50127700baa",
@@ -467,7 +494,9 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
       "publishedAt": "00:53",
-      "relativeTime": "16 小时前"
+      "relativeTime": "17 小时前",
+      "titleZh": "Anthropic 15亿美元的图书盗版和解协议获得法官批准",
+      "summaryZh": "据路透社早些时候报道，一位联邦法官已签署了 Anthropic 与作者签署的 15 亿美元集体诉讼和解协议，这些作者指控该公司在受版权保护的书籍上训练其人工智能模型。在周一的命令中，阿拉塞利·马丁内斯·奥尔金法官写道，和解协议……"
     },
     {
       "id": "e575e3b9796908",
@@ -481,7 +510,9 @@
       "source": "WIRED AI",
       "sourceUrl": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
       "publishedAt": "00:08",
-      "relativeTime": "17 小时前"
+      "relativeTime": "17 小时前",
+      "titleZh": "针对人工智能基础设施的狡猾黑客工具潜伏在受害者的盲点中",
+      "summaryZh": "一种新型恶意软件可以深入人工智能编码系统以窃取数据和登录信息，并且可以打开“死亡开关”来破坏文件并阻止真正的用户。"
     },
     {
       "id": "076ef5bb460957",
@@ -495,7 +526,9 @@
       "source": "arXiv AI",
       "sourceUrl": "https://arxiv.org/abs/2607.19237v1",
       "publishedAt": "00:07",
-      "relativeTime": "17 小时前"
+      "relativeTime": "17 小时前",
+      "titleZh": "DBMol：通过结构预测模型设计高亲和力、目标特异性小分子",
+      "summaryZh": "设计与特定蛋白质口袋高亲和力结合的小分子配体是药物发现的基本目标，因为小分子构成了已批准治疗的主要部分。最近在结构预测方面的突破，例如 AlphaFold-3 和 Boltz……"
     },
     {
       "id": "d72529776569c2",
@@ -509,7 +542,9 @@
       "source": "arXiv AI",
       "sourceUrl": "https://arxiv.org/abs/2607.19345v1",
       "publishedAt": "01:59",
-      "relativeTime": "15 小时前"
+      "relativeTime": "16 小时前",
+      "titleZh": "更少复制，更多基础：通过证据感知强化学习克服长上下文推理中的重复复制",
+      "summaryZh": "生成逐步推理轨迹的大型语言模型在复杂任务上取得了强大的性能，并将其扩展到长上下文设置已成为一个重要的前沿领域。然而，我们在这种情况下确定了一个关键的故障模式：\\emph{重复性合作......"
     },
     {
       "id": "e4b0224aced570",
@@ -523,7 +558,9 @@
       "source": "arXiv AI",
       "sourceUrl": "https://arxiv.org/abs/2607.19344v1",
       "publishedAt": "01:59",
-      "relativeTime": "15 小时前"
+      "relativeTime": "16 小时前",
+      "titleZh": "外观指针——扩散变压器的多模态区域控制",
+      "summaryZh": "可控的图像生成对于创意专业人士来说仍然具有挑战性，他们通常需要对材料、对象身份和空间安排进行精确的区域控制，而仅通过文本提示无法可靠地实现这些控制。扩散变压器 (DiT) 可以..."
     },
     {
       "id": "411e0b27152f19",
@@ -537,7 +574,9 @@
       "source": "arXiv AI",
       "sourceUrl": "https://arxiv.org/abs/2607.19338v1",
       "publishedAt": "01:56",
-      "relativeTime": "15 小时前"
+      "relativeTime": "16 小时前",
+      "titleZh": "CodeRescue：编码代理的预算校准恢复路由",
+      "summaryZh": "编码代理越来越多地在可执行环境中运行，其中失败的尝试会产生可操作的反馈，而不仅仅是错误的答案。现有的成本感知系统通常将此类故障视为级联决策：首先尝试廉价模型，然后升级硬..."
     },
     {
       "id": "aea2318845ae6b",
@@ -551,7 +590,9 @@
       "source": "arXiv AI",
       "sourceUrl": "https://arxiv.org/abs/2607.19336v1",
       "publishedAt": "01:55",
-      "relativeTime": "15 小时前"
+      "relativeTime": "16 小时前",
+      "titleZh": "野外代理：研究与部署的结合",
+      "summaryZh": "基于大语言模型（LLM）的代理系统架构能够推理、规划、行动以及与工具和其他代理协调，正在从研究原型快速过渡到跨领域的生产规模部署，例如软件工程、科学……"
     },
     {
       "id": "a03766e12d51a0",
@@ -565,7 +606,9 @@
       "source": "arXiv AI",
       "sourceUrl": "https://arxiv.org/abs/2607.19335v1",
       "publishedAt": "01:54",
-      "relativeTime": "15 小时前"
+      "relativeTime": "16 小时前",
+      "titleZh": "Hadamard 流形上的 1-Lipschitz 神经网络",
+      "summaryZh": "控制神经网络的 Lipschitz 常数是提高鲁棒性和稳定性的标准方法。大多数现有的约束策略都是为欧几里得空间设计的。在这项工作中，我们构建并分析了 Hadamard 流形上的一类 1-Lipschitz 神经网络……"
     }
   ],
   "trendLines": [
@@ -579,6 +622,6 @@
   "scanStats": {
     "configuredSources": 19,
     "successfulSources": 19,
-    "candidateCount": 100
+    "candidateCount": 102
   }
 }

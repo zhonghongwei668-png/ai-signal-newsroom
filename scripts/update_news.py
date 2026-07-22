@@ -8,6 +8,7 @@ import json
 import os
 import re
 import sys
+import time as time_module
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
@@ -26,7 +27,9 @@ from news_sources import SOURCES, Source
 BEIJING = timezone(timedelta(hours=8))
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT_PATH = ROOT / "app" / "generated-news.json"
+TRANSLATION_CACHE_PATH = ROOT / "app" / "translation-cache.json"
 DEFAULT_STORY_LIMIT = 40
+TRANSLATION_SEPARATOR = "ZXQSEPZXQ"
 USER_AGENT = "AI-Signal-Newsroom/1.0 (+https://github.com/zhonghongwei668-png/ai-signal-newsroom)"
 TRACKING_KEYS = {
     "fbclid",
@@ -75,6 +78,8 @@ TAG_RE = re.compile(r"<[^>]+>")
 SPACE_RE = re.compile(r"\s+")
 TITLE_PUNCT_RE = re.compile(r"[^0-9a-z\u4e00-\u9fff]+")
 ENGLISH_TOKEN_RE = re.compile(r"[a-z0-9]+")
+CJK_RE = re.compile(r"[\u3400-\u9fff]")
+LATIN_RE = re.compile(r"[A-Za-z]")
 TOKEN_STOPWORDS = {
     "a",
     "ai",
@@ -110,6 +115,31 @@ TOKEN_ALIASES = {
     "acquired": "acquire",
     "acquires": "acquire",
 }
+PROTECTED_TRANSLATION_TERMS = tuple(
+    sorted(
+        (
+            "Physical Intelligence",
+            "MIT Technology Review",
+            "Google DeepMind",
+            "Hugging Face",
+            "TechCrunch",
+            "The Verge",
+            "ChatGPT",
+            "Anthropic",
+            "DeepMind",
+            "OpenAI",
+            "NVIDIA",
+            "Gemini",
+            "Claude",
+            "GitHub",
+            "WIRED",
+            "arXiv",
+            "MCP",
+        ),
+        key=len,
+        reverse=True,
+    )
+)
 
 
 @dataclass
@@ -143,6 +173,133 @@ def clean_text(value: str | None, limit: int = 280) -> str:
     if len(text) <= limit:
         return text
     return text[: limit - 1].rstrip("，,。.;；:： ") + "…"
+
+
+def needs_translation(value: str) -> bool:
+    latin_count = len(LATIN_RE.findall(value))
+    cjk_count = len(CJK_RE.findall(value))
+    return latin_count >= 12 and cjk_count < 6 and latin_count > cjk_count * 2
+
+
+def valid_chinese_translation(value: str) -> bool:
+    return len(CJK_RE.findall(value)) >= 2
+
+
+def protect_translation_terms(value: str) -> tuple[str, dict[str, str]]:
+    protected = value
+    replacements: dict[str, str] = {}
+    for index, term in enumerate(PROTECTED_TRANSLATION_TERMS):
+        if term not in protected:
+            continue
+        placeholder = f"ZXQTERM{index}QXZ"
+        protected = protected.replace(term, placeholder)
+        replacements[placeholder] = term
+    return protected, replacements
+
+
+def restore_translation_terms(value: str, replacements: dict[str, str], source: str) -> str:
+    restored = value
+    for placeholder, term in replacements.items():
+        restored = restored.replace(placeholder, term)
+    if "model" in source.casefold():
+        restored = restored.replace("型号", "模型")
+    return restored
+
+
+def google_translate(value: str) -> str:
+    protected, replacements = protect_translation_terms(value)
+    response = requests.get(
+        "https://translate.googleapis.com/translate_a/single",
+        params={"client": "gtx", "sl": "en", "tl": "zh-CN", "dt": "t", "q": protected},
+        headers={"User-Agent": USER_AGENT},
+        timeout=25,
+    )
+    response.raise_for_status()
+    payload = response.json()
+    translated = "".join(segment[0] for segment in payload[0] if segment and segment[0]).strip()
+    translated = restore_translation_terms(translated, replacements, value)
+    if not valid_chinese_translation(translated):
+        raise ValueError("Google returned no usable Chinese translation")
+    return translated
+
+
+def mymemory_translate(value: str) -> str:
+    protected, replacements = protect_translation_terms(value)
+    response = requests.get(
+        "https://api.mymemory.translated.net/get",
+        params={"q": protected, "langpair": "en|zh-CN"},
+        headers={"User-Agent": USER_AGENT},
+        timeout=25,
+    )
+    response.raise_for_status()
+    translated = html.unescape(response.json().get("responseData", {}).get("translatedText", "")).strip()
+    translated = restore_translation_terms(translated, replacements, value)
+    if not valid_chinese_translation(translated):
+        raise ValueError("MyMemory returned no usable Chinese translation")
+    return translated
+
+
+def translate_to_chinese(value: str) -> str:
+    errors: list[str] = []
+    for provider in (google_translate, mymemory_translate):
+        try:
+            translated = provider(value)
+            time_module.sleep(0.12)
+            return translated
+        except Exception as exc:
+            errors.append(f"{provider.__name__}: {exc.__class__.__name__}")
+    raise RuntimeError("; ".join(errors))
+
+
+def load_translation_cache(path: Path = TRANSLATION_CACHE_PATH) -> dict:
+    if not path.exists():
+        return {"version": 3, "translations": {}}
+    data = json.loads(path.read_text(encoding="utf-8"))
+    if data.get("version") != 3 or not isinstance(data.get("translations"), dict):
+        return {"version": 3, "translations": {}}
+    return data
+
+
+def cached_translation(value: str, cache: dict, translator=translate_to_chinese) -> str:
+    digest = hashlib.sha256(value.encode("utf-8")).hexdigest()
+    translations = cache.setdefault("translations", {})
+    existing = translations.get(digest)
+    if (
+        isinstance(existing, dict)
+        and existing.get("source") == value
+        and valid_chinese_translation(existing.get("zh", ""))
+    ):
+        return existing["zh"]
+    translated = translator(value)
+    translations[digest] = {"source": value, "zh": translated}
+    return translated
+
+
+def apply_translations(snapshot: dict, cache: dict, translator=translate_to_chinese) -> int:
+    translated_fields = 0
+    for item in snapshot["newsItems"]:
+        translate_title = needs_translation(item["title"])
+        translate_summary = needs_translation(item["summary"])
+        if translate_title and translate_summary:
+            combined = f"{item['title']}\n{TRANSLATION_SEPARATOR}\n{item['summary']}"
+            combined_zh = cached_translation(combined, cache, translator)
+            parts = combined_zh.split(TRANSLATION_SEPARATOR, 1)
+            if len(parts) == 2 and all(valid_chinese_translation(part) for part in parts):
+                item["titleZh"] = parts[0].strip()
+                item["summaryZh"] = parts[1].strip()
+                translated_fields += 2
+                continue
+        if translate_title:
+            item["titleZh"] = cached_translation(item["title"], cache, translator)
+            translated_fields += 1
+        if translate_summary:
+            item["summaryZh"] = cached_translation(item["summary"], cache, translator)
+            translated_fields += 1
+    return translated_fields
+
+
+def write_translation_cache(cache: dict, path: Path = TRANSLATION_CACHE_PATH) -> None:
+    path.write_text(json.dumps(cache, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
 def canonical_url(value: str) -> str:
@@ -490,6 +647,7 @@ def collect(now: datetime) -> tuple[list[Candidate], int, list[str]]:
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Refresh AI Signal's same-day news snapshot.")
     parser.add_argument("--output", type=Path, default=OUTPUT_PATH)
+    parser.add_argument("--translation-cache", type=Path, default=TRANSLATION_CACHE_PATH)
     args = parser.parse_args(argv)
     now = current_beijing_time()
     candidates, successful, failures = collect(now)
@@ -498,12 +656,16 @@ def main(argv: list[str] | None = None) -> int:
         print("No same-day AI news was found; keeping the previously deployed snapshot.", file=sys.stderr)
         return 2
     snapshot = build_snapshot(selected, now, successful, len(candidates), failures)
+    translation_cache = load_translation_cache(args.translation_cache)
+    translated_fields = apply_translations(snapshot, translation_cache)
+    write_translation_cache(translation_cache, args.translation_cache)
     write_snapshot(snapshot, args.output)
     domestic = sum(item.region == "国内" for item in selected)
     print(
         f"Updated {args.output}: {len(selected)} stories "
         f"({domestic} domestic, {len(selected) - domestic} overseas), "
-        f"{successful}/{len(SOURCES)} sources available."
+        f"{successful}/{len(SOURCES)} sources available, "
+        f"{translated_fields} English fields translated."
     )
     return 0
 

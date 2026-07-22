@@ -165,6 +165,10 @@ main { max-width: 1500px; margin: 0 auto; padding: 0 36px 48px; }
 .analysis { color: #244aa8; background: #dbe3ff; }
 .lead-story h2 { max-width: 1100px; margin: 22px 0; font-size: clamp(36px, 5vw, 72px); line-height: 1.08; letter-spacing: -.045em; }
 .summary { max-width: 1000px; font-size: 18px; line-height: 1.85; color: #35332f; }
+.translation { display: block; text-transform: none; }
+.translation-title { margin-top: 12px; color: #3f4f83; font-size: .58em; line-height: 1.45; letter-spacing: -.02em; font-weight: 700; }
+.translation-summary { margin-top: 12px; padding-left: 14px; border-left: 3px solid var(--blue); color: #555b6d; font-size: .94em; line-height: 1.75; }
+.translation-label { display: inline-block; margin-right: 9px; padding: 3px 6px; color: white; background: var(--blue); font: 700 9px/1 var(--font-space), sans-serif; letter-spacing: .08em; vertical-align: .12em; }
 .why-box { display: grid; grid-template-columns: 110px 1fr; gap: 24px; max-width: 900px; margin: 28px 0; padding: 18px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
 .why-box span { color: var(--blue); font-size: 12px; font-weight: 700; }
 .why-box p { margin: 0; line-height: 1.7; }

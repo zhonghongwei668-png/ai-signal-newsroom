@@ -13,9 +13,12 @@ from news_sources import Source  # noqa: E402
 from update_news import (  # noqa: E402
     BEIJING,
     Candidate,
+    apply_translations,
     build_snapshot,
+    cached_translation,
     canonical_url,
     deduplicate,
+    needs_translation,
     parse_feed,
     select_balanced,
 )
@@ -61,6 +64,25 @@ class FeedParsingTests(unittest.TestCase):
     def test_removes_tracking_parameters_but_keeps_meaningful_query(self) -> None:
         value = canonical_url("https://Example.com/post?a=1&utm_medium=rss&b=2#section")
         self.assertEqual(value, "https://example.com/post?a=1&b=2")
+
+    def test_detects_english_but_not_chinese_copy(self) -> None:
+        self.assertTrue(needs_translation("OpenAI launches a new model for developers"))
+        self.assertFalse(needs_translation("OpenAI 发布面向开发者的新模型"))
+        self.assertFalse(needs_translation("研究人员利用 OpenAI GPT-5.6 模型发现漏洞"))
+
+    def test_translation_cache_reuses_existing_result(self) -> None:
+        cache = {"version": 3, "translations": {}}
+        calls = []
+
+        def translator(value: str) -> str:
+            calls.append(value)
+            return "用于开发者的中文翻译"
+
+        first = cached_translation("A sufficiently long English sentence", cache, translator)
+        second = cached_translation("A sufficiently long English sentence", cache, translator)
+
+        self.assertEqual(first, second)
+        self.assertEqual(len(calls), 1)
 
 
 class SelectionTests(unittest.TestCase):
@@ -113,6 +135,26 @@ class SelectionTests(unittest.TestCase):
         self.assertEqual(snapshot["scanStats"]["successfulSources"], 17)
         self.assertEqual(snapshot["newsItems"][0]["level"], "头条")
         self.assertEqual(snapshot["newsItems"][0]["publishedAt"], "08:00")
+
+    def test_adds_chinese_fields_only_to_english_news_copy(self) -> None:
+        english = self.candidate("OpenAI launches a new model", "https://example.com/en", "海外", 120)
+        english.summary = "The new model improves coding and agent reliability for developers."
+        chinese = self.candidate("国产模型发布新版本", "https://example.com/cn", "国内", 119)
+        chinese.summary = "新版本提升了代码和智能体任务的可靠性。"
+        snapshot = build_snapshot([english, chinese], NOW, 19, 2, [])
+        cache = {"version": 3, "translations": {}}
+
+        def translator(value: str) -> str:
+            if "ZXQSEPZXQ" in value:
+                return "这是一条标题翻译。\nZXQSEPZXQ\n这是一条摘要翻译。"
+            return "这是一条对应的中文翻译。"
+
+        count = apply_translations(snapshot, cache, translator)
+
+        self.assertEqual(count, 2)
+        self.assertEqual(snapshot["newsItems"][0]["titleZh"], "这是一条标题翻译。")
+        self.assertEqual(snapshot["newsItems"][0]["summaryZh"], "这是一条摘要翻译。")
+        self.assertNotIn("titleZh", snapshot["newsItems"][1])
 
 
 if __name__ == "__main__":

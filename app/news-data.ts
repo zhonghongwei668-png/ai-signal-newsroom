@@ -11,7 +11,9 @@ export type NewsItem = {
   category: string;
   verification: Verification;
   title: string;
+  titleZh?: string;
   summary: string;
+  summaryZh?: string;
   whyItMatters: string;
   source: string;
   sourceUrl: string;
