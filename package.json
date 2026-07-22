@@ -3,12 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "packageManager": "pnpm@11.9.0",
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "sharp",
-      "unrs-resolver"
-    ]
-  },
   "engines": {
     "node": ">=22.13.0"
   },
