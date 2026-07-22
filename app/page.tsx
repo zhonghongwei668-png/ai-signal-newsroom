@@ -24,6 +24,16 @@ function ArrowUpRight() {
   return <span aria-hidden="true">↗</span>;
 }
 
+function SourceBadge({ source }: { source: string }) {
+  return (
+    <span className="source-badge">
+      <span className="source-badge-label">来源</span>
+      <strong>{source}</strong>
+      <ArrowUpRight />
+    </span>
+  );
+}
+
 function ChineseTranslation({ children, kind }: { children?: string; kind: "title" | "summary" }) {
   if (!children) return null;
   return (
@@ -133,74 +143,87 @@ export default function Home() {
 
       {lead ? (
         <section className="newsroom" aria-live="polite">
-          <article className="lead-story">
-            <div className="lead-index">01</div>
-            <div className="lead-content">
-              <div className="story-meta">
-                <span className="level level-headline">{lead.level}</span>
-                <span>{lead.region}</span>
-                <span>{lead.category}</span>
-                <span className={`verify ${verificationClass(lead)}`}>
-                  {lead.verification}
-                </span>
+          <a
+            aria-label={`阅读原文：${lead.title}（来源：${lead.source}）`}
+            className="news-card-link"
+            href={lead.sourceUrl}
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            <article className="lead-story">
+              <div className="lead-index">01</div>
+              <div className="lead-content">
+                <div className="story-meta">
+                  <span className="level level-headline">{lead.level}</span>
+                  <span>{lead.region}</span>
+                  <span>{lead.category}</span>
+                  <span className={`verify ${verificationClass(lead)}`}>
+                    {lead.verification}
+                  </span>
+                </div>
+                <h2>
+                  {lead.title}
+                  <ChineseTranslation kind="title">{lead.titleZh}</ChineseTranslation>
+                </h2>
+                <p className="summary">
+                  {lead.summary}
+                  <ChineseTranslation kind="summary">{lead.summaryZh}</ChineseTranslation>
+                </p>
+                <div className="why-box">
+                  <span>为什么重要</span>
+                  <p>{lead.whyItMatters}</p>
+                </div>
+                <div className="story-footer">
+                  <span>北京时间 {lead.publishedAt} · {lead.relativeTime}</span>
+                  <SourceBadge source={lead.source} />
+                </div>
               </div>
-              <h2>
-                {lead.title}
-                <ChineseTranslation kind="title">{lead.titleZh}</ChineseTranslation>
-              </h2>
-              <p className="summary">
-                {lead.summary}
-                <ChineseTranslation kind="summary">{lead.summaryZh}</ChineseTranslation>
-              </p>
-              <div className="why-box">
-                <span>为什么重要</span>
-                <p>{lead.whyItMatters}</p>
-              </div>
-              <div className="story-footer">
-                <span>北京时间 {lead.publishedAt} · {lead.relativeTime}</span>
-                <a href={lead.sourceUrl} rel="noreferrer" target="_blank">
-                  {lead.source} <ArrowUpRight />
-                </a>
-              </div>
-            </div>
-          </article>
+            </article>
+          </a>
 
           <div className="story-list">
             {rest.map((item, index) => (
-              <article className="story-row" key={item.id}>
-                <div className="story-number">{String(index + 2).padStart(2, "0")}</div>
-                <div className="story-body">
-                  <div className="story-meta">
-                    <span className={`level ${item.level === "重要" ? "level-important" : "level-watch"}`}>
-                      {item.level}
-                    </span>
-                    <span>{item.region}</span>
-                    <span>{item.category}</span>
-                    <span className={`verify ${verificationClass(item)}`}>
-                      {item.verification}
-                    </span>
+              <a
+                aria-label={`阅读原文：${item.title}（来源：${item.source}）`}
+                className="news-card-link"
+                href={item.sourceUrl}
+                key={item.id}
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <article className="story-row">
+                  <div className="story-number">{String(index + 2).padStart(2, "0")}</div>
+                  <div className="story-body">
+                    <div className="story-meta">
+                      <span className={`level ${item.level === "重要" ? "level-important" : "level-watch"}`}>
+                        {item.level}
+                      </span>
+                      <span>{item.region}</span>
+                      <span>{item.category}</span>
+                      <span className={`verify ${verificationClass(item)}`}>
+                        {item.verification}
+                      </span>
+                    </div>
+                    <h3>
+                      {item.title}
+                      <ChineseTranslation kind="title">{item.titleZh}</ChineseTranslation>
+                    </h3>
+                    <p>
+                      {item.summary}
+                      <ChineseTranslation kind="summary">{item.summaryZh}</ChineseTranslation>
+                    </p>
+                    <div className="why-inline">
+                      <span>为什么重要</span>
+                      <p>{item.whyItMatters}</p>
+                    </div>
                   </div>
-                  <h3>
-                    {item.title}
-                    <ChineseTranslation kind="title">{item.titleZh}</ChineseTranslation>
-                  </h3>
-                  <p>
-                    {item.summary}
-                    <ChineseTranslation kind="summary">{item.summaryZh}</ChineseTranslation>
-                  </p>
-                  <details>
-                    <summary>为什么重要</summary>
-                    <p>{item.whyItMatters}</p>
-                  </details>
-                </div>
-                <div className="story-source">
-                  <time>{item.publishedAt}</time>
-                  <span>{item.relativeTime}</span>
-                  <a href={item.sourceUrl} rel="noreferrer" target="_blank" aria-label={`阅读 ${item.title} 的来源`}>
-                    来源 <ArrowUpRight />
-                  </a>
-                </div>
-              </article>
+                  <div className="story-source">
+                    <time>{item.publishedAt}</time>
+                    <span>{item.relativeTime}</span>
+                    <SourceBadge source={item.source} />
+                  </div>
+                </article>
+              </a>
             ))}
           </div>
         </section>

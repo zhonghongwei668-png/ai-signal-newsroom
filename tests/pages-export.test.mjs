@@ -14,6 +14,10 @@ test("exports a self-contained GitHub Pages homepage", async () => {
   assert.match(html, /条经筛选的当日动态/);
   assert.match(html, /translation-title/);
   assert.match(html, /中译/);
+  assert.match(html, /class="news-card-link"/);
+  assert.match(html, /class="source-badge"/);
+  assert.match(html, /target="_blank"/);
+  assert.doesNotMatch(html, /<details>/);
   assert.doesNotMatch(html, /Your site is taking shape/);
 });
 
