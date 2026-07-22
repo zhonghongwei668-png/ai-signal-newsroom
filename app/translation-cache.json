@@ -96,6 +96,50 @@
     "eabd197d4be57eabb2aad1cd33d97fbe640a61d5d97fbe4ea9bbe789c658596e": {
       "source": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems\nZXQSEPZXQ\nThe AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most cap…",
       "zh": "建于沃斯堡：纬创资通开设先进制造工厂生产 NVIDIA 人工智能系统\nZXQSEPZXQ\nAI时代运行在AI基础设施上。许多先进系统都是在德克萨斯州建造和测试的。纬创资通今天在沃思堡开设了第一家美国制造工厂，这是一座占地 324,000 平方英尺的绿地工厂，位于世界上一些最具产能的工厂的中心，生产超级芯片……"
+    },
+    "6a2200ee5078b0a0df2cc0c76c6059cf840c7d0d9e604b98dc06aac31cb1ff6d": {
+      "source": "Travis Kalanick’s robotics company raises $1.7B, led by a16z\nZXQSEPZXQ\nUber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+      "zh": "Travis Kalanick 的机器人公司筹集了 $1.7B，由 a16z 领投\nZXQSEPZXQ\nUber 还投资了 Travis Kalanick 的公司 Atoms，该公司曾模糊地宣称要利用工业人工智能来实现世界现代化。"
+    },
+    "8a3acf0c27e841ece8ef277dba1e17c773b7ac73be8887ac3aa734e316044a78": {
+      "source": "Yope raises $12.3M to build a private social network without algorithms or ads\nZXQSEPZXQ\nYope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by…",
+      "zh": "Yope 筹集了 1230 万美元，用于建立一个没有算法或广告的私人社交网络\nZXQSEPZXQ\nYope 是一款快速发展的社交应用程序，专注于朋友和家人的私人团体，已筹集 1230 万美元的种子资金。这家初创公司没有追逐创作者和算法提要，而是押注社交网络的未来在于小型私人社区，这些社区由......"
+    },
+    "045845c8e7bceead1aff176d1f847b416aeda77f64075106d886aa8020efc0e2": {
+      "source": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face\nZXQSEPZXQ\nOpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+      "zh": "OpenAI 的人为错误如何导致 Hugging Face 上的 AI 攻击\nZXQSEPZXQ\nOpenAI 在设置所谓的“高度隔离”测试环境和沙箱时犯了一个错误。网络安全专家表示，正是这种人为错误使得对 Hugging Face 的人工智能攻击成为可能。"
+    },
+    "9d71367e9251ca714d3675ccdf9609f39b5b87631248372d1b5335b4c51548b1": {
+      "source": "Monday.com lays off hundreds to focus on AI\nZXQSEPZXQ\nThe company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
+      "zh": "Monday.com 裁员数百人专注于人工智能\nZXQSEPZXQ\n该公司表示，将裁员 20%，即约 630 名员工，以“支持更精简、更专注的运营模式”，同时专注于人工智能工作平台。"
+    },
+    "ac190118ca07bf5885d81f8d7d3ddd4b32acfad6cbbb307f7d49d552ac56f6e2": {
+      "source": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook\nZXQSEPZXQ\nAs access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable.",
+      "zh": "中国开放的人工智能模式正在挑战硅谷的剧本\nZXQSEPZXQ\n随着对 Anthropic 和 OpenAI 前沿模型的访问变得更加受限，中国实验室正在宣传其开源替代方案，称其稳定、可访问且功能越来越强大。"
+    },
+    "5dffea466e5722de43d6d32af89831334af8c9e6f32201a3c5ed6d53c698c919": {
+      "source": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous\nZXQSEPZXQ\nAs Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+      "zh": "美国开源人工智能实验室 Arcee 表示，中国模式本质上并不危险\nZXQSEPZXQ\n随着中国人工智能模型的能力和在美国公司中越来越受欢迎，关于应该采取什么措施的争论已经达到白热化。"
+    },
+    "5eb316b54dd7da47374f9cb2a641c16e725cd2ff16a28aebe25e5786205b8d3b": {
+      "source": "Substack’s new tool tells you who’s been writing their newsletters with AI\nZXQSEPZXQ\nSubstack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+      "zh": "Substack 的新工具告诉您谁在使用 AI 撰写时事通讯\nZXQSEPZXQ\nSubstack 为读者提供了一种方法来估计一份时事通讯中有多少内容是由人工智能撰写的，这标志着人工智能辅助内容向透明度的更广泛转变。"
+    },
+    "0dad0876a49b2add79e8794a13e0bb85aaf376a54561618d27e16e8ab1276dcb": {
+      "source": "OpenAI’s AI spending spree has ballooned to $750B\nZXQSEPZXQ\nOpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+      "zh": "OpenAI 的 AI 支出热潮已飙升至 $750B\nZXQSEPZXQ\n到 2030 年，OpenAI 将在基础设施上投入相当于瑞典 GDP 的资金。"
+    },
+    "768845a8846b3deef7013a5ce74df182158534e3a504569907e8d24c20d3fc30": {
+      "source": "Here’s what Samsung’s smart glasses actually look like\nZXQSEPZXQ\nSamsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed in collaboration with Google and the eyewear brands Gentle M…",
+      "zh": "这是三星智能眼镜的实际外观\nZXQSEPZXQ\n三星让我们第一次有机会亲眼目睹其即将推出的智能眼镜，并展示了两种新设计和首批规格，其中包括令人印象深刻的 9 小时电池续航时间。该眼镜是与 Google 和眼镜品牌 Gentle M 合作开发的……"
+    },
+    "965598d7868de1c2449e85561e323d4401070044f7add3afd67c09367dec6321": {
+      "source": "2.47.0 (2026-07-21) Full Changelog: v2.46.0...v2.47.0 Features client: Add experimental runtime support for HTTPX2 clients ( #3524 ) ( 317260c ) stlc: configurable CI runner and private-production-repo support in workflow templates ( 4303e97 ) Bug Fixes deps: require patched aio…",
+      "zh": "2.47.0 (2026-07-21) 完整更新日志：v2.46.0...v2.47.0 功能客户端：添加对 HTTPX2 客户端的实验性运行时支持 (#3524) (317260c) stlc：工作流模板中的可配置 CI 运行器和私有生产存储库支持 (4303e97) 错误修复 deps：需要修补 aio…"
+    },
+    "6e65046543c24539db08001749145abe42a854e5f23708e0e4793c7c3cc3dc0b": {
+      "source": "0.118.0 (2026-07-22) Full Changelog: v0.117.1...v0.118.0 Features api: add support for Managed Agents model effort, initial session events, and threads delta streaming ( 712bc6f )",
+      "zh": "0.118.0 (2026-07-22) 完整变更日志：v0.117.1...v0.118.0 功能 api：添加对托管代理模型工作、初始会话事件和线程增量流的支持 ( 712bc6f )"
     }
   }
 }
