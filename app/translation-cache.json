@@ -188,6 +188,50 @@
     "4649633ca8b31bd3d7d0db1499076ab2a8286a5ba55ad48834a62c84558820fa": {
       "source": "Persian Pixel: A large-scale synthetic OCR dataset for Persian language\nZXQSEPZXQ\nOptical Character Recognition (OCR) for Persian remains substantially less mature than for Latin-script languages despite Persian being spoken by more than 110 million people across multiple countries. This gap arises from two fundamental challenges: the intrinsic complexity of…",
       "zh": "Persian Pixel：波斯语的大规模合成 OCR 数据集\nZXQSEPZXQ\n尽管多个国家有超过 1.1 亿人使用波斯语，但波斯语的光学字符识别 (OCR) 仍然远不如拉丁文字语言成熟。这种差距源于两个基本挑战：……的内在复杂性。"
+    },
+    "daf305799db71cfa4a30d557e340b96f7be11cd494da126494626385af7a30ff": {
+      "source": "Claude’s voice mode is now available for Opus and Sonnet\nZXQSEPZXQ\nUntil now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice…",
+      "zh": "Claude 的语音模式现已支持 Opus 和 Sonnet\nZXQSEPZXQ\n到目前为止，语音模式仅适用于 Claude Haiku，Anthropic 的速度更快但功能较弱的模型。现在，该公司正在以语音模式提供 Opus 和 Sonnet 模型，并将其覆盖范围扩展到 Gmail、Slack 和 Canva 等应用程序。当Anthropic推出语音时……"
+    },
+    "edc3e4a836a25b9ba314c372715184e86163a2c4f46a740862b37a8b94efd0c7": {
+      "source": "Runway launches AI model router as generative media gets crowded\nZXQSEPZXQ\nThe Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
+      "zh": "随着生成媒体变得拥挤，Runway 推出 AI 模型路由器\nZXQSEPZXQ\n媒体路由器是一种工具，可根据开发人员是否优先考虑质量、速度或成本来自动为请求选择最佳图像、视频或音频生成模型。"
+    },
+    "bdd4f3cbca0b7dd3b6658f00dc51e1dcc1ce17e73aff0a04209a1de9dd5a50f0": {
+      "source": "Meta launched a new AI optimism ad set to a song about human extinction\nZXQSEPZXQ\nDavid Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
+      "zh": "Meta 推出了新的人工智能乐观广告，广告背景是一首有关人类灭绝的歌曲\nZXQSEPZXQ\n大卫·鲍伊 (David Bowie) 的歌曲《五年》(Five Years) 被 Meta 用于一则据称鼓舞人心的广告中，歌曲讲述的是人类得知在世界末日到来之前他们还剩五年的生命。"
+    },
+    "e880bd83c9b0d9dd0a340a0a9ff661e119afb91afeb26ab097ed30a907be5c4e": {
+      "source": "Anthropic updates Claude voice mode with more capable models\nZXQSEPZXQ\nClaude's new voice model will let you reschedule your meeting or draft an email.",
+      "zh": "Anthropic更新Claude语音模式，拥有更多功能模型\nZXQSEPZXQ\nClaude 的新语音模型将让您重新安排会议或起草电子邮件。"
+    },
+    "0a6da558127ba9bf49d9d1a5a543f56df3c66a6db81ea65b0015ed4e67f96e4b": {
+      "source": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing\nZXQSEPZXQ\nAegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+      "zh": "由前谷歌安全高管创立的 AegisAI 获得 3600 万美元，用于阻止人工智能驱动的鱼叉式网络钓鱼\nZXQSEPZXQ\nAegisAI 联合创始人开发了人工智能代理，可以像人类一样快速分析每条消息，关注即使是最详尽的检查表也无法捕捉到的小异常情况。"
+    },
+    "334f97b2fe0b13098a96cbd90ba3397309e3d14859d148ee5af92f8d634a18c9": {
+      "source": "Patreon is laying off 20 percent of workers\nZXQSEPZXQ\nPatreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally tr…",
+      "zh": "Patreon 将解雇 20% 的员工\nZXQSEPZXQ\n据 404 Media 早些时候报道，Patreon 将解雇 20% 的员工，即大约 93 名员工。 Patreon 首席执行官 Jack Conte 在给员工的一份备忘录中写道，该公司不会做出这些改变“因为我们相信人工智能会取代人类”，但他表示人工智能“从根本上改变了……"
+    },
+    "bf9f0b6ac1214986b93b588cc012201b488ba3f6f336e36a71dfe3a40240114c": {
+      "source": "2.48.0 (2026-07-23) Full Changelog: v2.47.0...v2.48.0 Features api: accept None for prompt_cache_key/safety_identifier ( 36820e6 ) api: add support for spend_limit admin apis ( 1ff13af )",
+      "zh": "2.48.0 (2026-07-23) 完整变更日志：v2.47.0...v2.48.0 功能 api：prompt_cache_key/safety_identifier ( 36820e6 ) 接受 None api：添加对 cost_limit 管理 api ( 1ff13af ) 的支持"
+    },
+    "0b8123c13d95f2a0787833145e3893bf748a720a7b83ea5308c2767b69df61b9": {
+      "source": "OpenAI makes ChatGPT Health available to all US users\nZXQSEPZXQ\nUsers can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+      "zh": "OpenAI 使所有美国用户都可以使用 ChatGPT Health\nZXQSEPZXQ\n用户还可以集成来自 Apple Health、Function 和 MyFitnessPal 等服务的个人数据。"
+    },
+    "68a688d99443ed21caf8d5793cc44e60797ae64eaca55adf69f8205c9466a8dc": {
+      "source": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending\nZXQSEPZXQ\nThe clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
+      "zh": "Meta 的新的让人感觉良好的人工智能广告使用了一首关于世界末日的歌曲\nZXQSEPZXQ\n该剪辑收录了大卫·鲍伊 (David Bowie) 的歌曲《五年》，其中包括诸如“地球真的快死了（垂死）”等歌词。"
+    },
+    "b984a77f0cb3c36a34df30b2eec134a3b451db2dc058c3077c8c3a1e8218f56d": {
+      "source": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone\nZXQSEPZXQ\nOpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models…",
+      "zh": "OpenAI 向所有人推出 ChatGPT 健康\nZXQSEPZXQ\nOpenAI 将于周四向美国所有人推出 ChatGPT Health，让更多人将他们的医疗记录和健康跟踪信息连接到聊天机器人。在一次简报中，OpenAI 健康产品副总裁阿什利·亚历山大 (Ashley Alexander) 表示，该公司的模型……"
+    },
+    "eb5f22b72dca8ae2ce10772444d19ab129a223e18a5a1d81e9a60fe11a7cc9a0": {
+      "source": "0.119.0 (2026-07-23) Full Changelog: v0.118.0...v0.119.0 Features api: add new stop reason 'model_context_window_exceeded' ( d983cde ) Bug Fixes tools: handle binary files in agent toolset read/edit ( #283 ) ( 417b76b )",
+      "zh": "0.119.0 (2026-07-23) 完整更新日志：v0.118.0...v0.119.0 功能 api：添加新的停止原因 'model_context_window_exceeded' ( d983cde ) 错误修复工具：处理代理工具集中的二进制文件读取/编辑 ( #283 ) ( 417b76b )"
     }
   }
 }
