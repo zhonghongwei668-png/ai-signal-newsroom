@@ -280,6 +280,38 @@
     "75ab97a6dd933323fcf7b2227cce3f3e8f1a81f02e278f7ceb4342a1f6d3e2c6": {
       "source": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education\nZXQSEPZXQ\nLarge Language Models (LLMs) show promise for medical education, but most existing systems focus on localized interactions such as question answering or single-turn feedback, rather than organizing an entire clinical case into a decision-centered learning trajectory. We introduc…",
       "zh": "MedGame：医学教育大型语言模型支持的讲故事游戏化\nZXQSEPZXQ\n大型语言模型（LLM）显示出医学教育的前景，但大多数现有系统侧重于本地化交互，例如问答或单轮反馈，而不是将整个临床案例组织成以决策为中心的学习轨迹。我们介绍……"
+    },
+    "d72f5f475ae6153538ebea36b86cfe2dea4fcfec0b3f1d4389683a839e6928a6": {
+      "source": "Why Cognition bought Poke: AI personality is becoming a competitive advantage\nZXQSEPZXQ\nAI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief…",
+      "zh": "Cognition为何收购Poke：AI个性正在成为竞争优势\nZXQSEPZXQ\n人工智能编码初创公司 Cognition 收购了 Poke，你可以像朋友一样发短信的人工智能助手，这笔交易对这家初创公司的估值为九位数。此次收购将 Poke 的对话风格和交互模型带给 Cognition 的编码代理 Devin，反映出一种日益增长的信念……"
+    },
+    "2e456460c6ca440f34cdbd08d20eea1a9970157afb778ceaedc404c619a09627": {
+      "source": "Midjourney bought the astrology app Co-Star\nZXQSEPZXQ\nMidjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free a…",
+      "zh": "Midjourney 购买了占星应用程序 Co-Star\nZXQSEPZXQ\nMidjourney 已经从生成 AI 猫图像到全身超声波扫描，正在进入一个新领域：占星术。据彭博社早些时候报道，这家人工智能初创公司周四宣布，它已经收购了个性化占星应用程序 Co-Star。 Co-Star 是一个免费的…"
+    },
+    "befa735c927f120f97bbaeb4ff6e6ac73b69c830d16f52da50c991200a1b14bd": {
+      "source": "Anthropic launches Opus 5\nZXQSEPZXQ\nOpus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+      "zh": "Anthropic推出Opus 5\nZXQSEPZXQ\nOpus 5 比《神鬼寓言》更便宜，限制更少，这可能使其在大多数用例中更受欢迎。"
+    },
+    "1ea0f74f5bd2fdede56f4f27c772be5321d6d01024e6066af0868cc6f0149230": {
+      "source": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities\nZXQSEPZXQ\nWeeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the ca…",
+      "zh": "Anthropic 发布 Opus 5，功能“接近”《神鬼寓言 5》\nZXQSEPZXQ\n在 Anthropic 与美国政府最近一次正面交锋几周后，以及主导科技行业讨论的 OpenAI 安全事件几天后，Anthropic 于周四发布了其最新模型 Claude Opus 5。该公司在一份新闻稿中表示，Opus 5“接近标准”。"
+    },
+    "0e87f64acfd113e2960fc37acff3cf8ce03d6dfeba8c2bd3e0f15032eec1d38a": {
+      "source": "You can’t ignore Google Zero anymore\nZXQSEPZXQ\nThe web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems…",
+      "zh": "你不能再忽视 Google Zero\nZXQSEPZXQ\n网络和谷歌曾经达成一项协议：谷歌收集数据并为网页建立索引，作为交换，向网站发送大量流量。这笔交易并不完美，而且谷歌赚的钱肯定比网站赚的钱还多，但它持续了很长一段时间。然而现在，这笔交易似乎……"
+    },
+    "65adeea75fb0e0308bde5804ed910c7a4a752c9cee41bced82bdbfbf3becfbd0": {
+      "source": "Meta is making its AI chatbot more like an assistant\nZXQSEPZXQ\nMeta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research th…",
+      "zh": "Meta 正在使其人工智能聊天机器人更像一个助手\nZXQSEPZXQ\nMeta 正在升级其人工智能聊天机器人，添加新的生产力功能，以与 Gemini、ChatGPT 和 Claude 等竞争对手竞争。此次更新将允许 Meta AI 进入您的日历，帮助您计划活动并生成每日简报，以及进行深入研究……"
+    },
+    "5abafc6c33d02aba7438516e735da433f91b1b6fb2cb69064fef19d187b4a185": {
+      "source": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models\nZXQSEPZXQ\nOn this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use.",
+      "zh": "中国AI是否窃取了Anthropic，OpenAI失去了对两个模型的控制\nZXQSEPZXQ\n在这一集《恐怖谷》中，我们深入探讨了对中国登月人工智能窃取 Anthropic 的指控，以及美国陆军需要如何减少人工智能的使用。"
+    },
+    "495bd119b81c2913310ee3dd0231dba9c81fd187dde2730304449910877fb89d": {
+      "source": "0.120.0 (2026-07-24) Full Changelog: v0.119.0...v0.120.0 Features api: add claude-opus-5 model ( bf4e31c ) api: add tool addition/removal blocks and tool_change events ( bf4e31c ) api: expand client-side fallback credit token types and add server-side fallbacks default option (…",
+      "zh": "0.120.0 (2026-07-24) 完整变更日志：v0.119.0...v0.120.0 功能 api：添加 claude-opus-5 模型 ( bf4e31c ) api：添加工具添加/删除块和 tool_change 事件 ( bf4e31c ) api：扩展客户端后备信用令牌类型并添加服务器端后备默认选项 (..."
     }
   }
 }
