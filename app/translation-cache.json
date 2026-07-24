@@ -232,6 +232,54 @@
     "eb5f22b72dca8ae2ce10772444d19ab129a223e18a5a1d81e9a60fe11a7cc9a0": {
       "source": "0.119.0 (2026-07-23) Full Changelog: v0.118.0...v0.119.0 Features api: add new stop reason 'model_context_window_exceeded' ( d983cde ) Bug Fixes tools: handle binary files in agent toolset read/edit ( #283 ) ( 417b76b )",
       "zh": "0.119.0 (2026-07-23) 完整更新日志：v0.118.0...v0.119.0 功能 api：添加新的停止原因 'model_context_window_exceeded' ( d983cde ) 错误修复工具：处理代理工具集中的二进制文件读取/编辑 ( #283 ) ( 417b76b )"
+    },
+    "d93ad9307abc8b0f53c352c1b7189e4ed466ce14a5d809fd35903845e6dbfcd6": {
+      "source": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners\nZXQSEPZXQ\nAt this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress. Building on NVIDIA founder and CEO Jensen Huang’s visit to…",
+      "zh": "在人工智能峰会上，韩国与 NVIDIA 及合作伙伴概述了人工智能的未来\nZXQSEPZXQ\n在本周于旧金山举行的人工智能峰会上，韩国总统李在明以及该国的一些顶级商界领袖和研究人员将与 NVIDIA 和生态系统合作伙伴会面，绘制韩国人工智能的进展情况。基于 NVIDIA 创始人兼首席执行官黄仁勋访问……"
+    },
+    "68273f61c18209ca0d24ccb7ed2b9d40bf520d2f6564f94c4236ef1c7b5b0d62": {
+      "source": "How AI guardrails are impeding the work of offensive cybersecurity researchers\nZXQSEPZXQ\nWe spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+      "zh": "人工智能护栏如何阻碍进攻性网络安全研究人员的工作\nZXQSEPZXQ\n我们采访了几位网络安全研究人员，他们正在寻找未知漏洞并开发利用这些漏洞的工具，了解 OpenAI 和 Anthropic 的护栏如何影响他们的工作。"
+    },
+    "cdba3352a50f31afc56c097feac6a061b0c86e68e92bdda50328777e8f4f4c22": {
+      "source": "Alexa Plus is getting an AI update to handle more complicated instructions\nZXQSEPZXQ\nAmazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and o…",
+      "zh": "Alexa Plus 正在进行人工智能更新以处理更复杂的指令\nZXQSEPZXQ\n亚马逊正在推出 Alexa Plus 助手的更新，使其能够以新的方式连接到智能家居设备。通过目前处于预览阶段的更新，Alexa Plus 可以与博世、达美航空、科沃斯、iRobot、耶鲁家居、惠而浦、Tapo、Eufy 等公司的技术连接……"
+    },
+    "ba395cb4066438b46d73bb60167295bc0c3fc62dae8f0d3412578ce35f8da51e": {
+      "source": "AMD takes on Nvidia with its Helios AI rack-scale system\nZXQSEPZXQ\nAMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+      "zh": "AMD 推出 Helios AI 机架级系统与 Nvidia 展开较量\nZXQSEPZXQ\nAMD 正在通过一款新的机架规模系统向其芯片制造商竞争对手发起挑战，该系统将于今年晚些时候开始向客户发货。"
+    },
+    "542bbdc15174c19d688e45279b160a093418a27637e6549e66a252b9fa86960f": {
+      "source": "3D-Aware VLMs with Implicit and Explicit Geometries\nZXQSEPZXQ\nDespite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning. To bridge this gap, we present VLM-IE3D, a unified framework that enhances…",
+      "zh": "具有隐式和显式几何形状的 3D 感知 VLM\nZXQSEPZXQ\n尽管进展迅速，但大多数现有的基于 2D 视觉输入构建的视觉语言模型 (VLM) 在处理需要细粒度空间理解和推理的各种 3D 任务时常常遇到困难。为了弥补这一差距，我们推出了 VLM-IE3D，这是一个统一的框架，可以增强……"
+    },
+    "e6696c0294a1bec1d157235af1bab1c75ab42165b51bd3ac79fae00639caa73a": {
+      "source": "Expanding Flow Maps\nZXQSEPZXQ\nFlow-based generative models have enabled remarkable progress in fast and controllable generation across continuous and discrete state spaces, yet existing parameterizations are constrained to fixed dimensions or fixed sequence lengths. Here, we introduce Expanding Generative Fl…",
+      "zh": "扩展流程图\nZXQSEPZXQ\n基于流的生成模型在连续和离散状态空间的快速、可控生成方面取得了显着进展，但现有的参数化仅限于固定维度或固定序列长度。在这里，我们介绍 Expanding Generative Fl..."
+    },
+    "0850d2d46768586e6d2abaf273115f78fe9a13b3af0548c66fe89aeeb9c7c9b9": {
+      "source": "GraphVid: Interactive Graph-Controllable Video Generation\nZXQSEPZXQ\nControllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movement. In practice, trajectory-based control often requires users to draw accurat…",
+      "zh": "GraphVid：交互式图形可控视频生成\nZXQSEPZXQ\n由于使用主要限制像素移动的文本提示或运动控制输入来指定精确的多对象交互非常困难，因此可控视频生成仍然具有挑战性。在实践中，基于轨迹的控制通常需要用户绘制准确的……"
+    },
+    "556cda5160318d3ae90c46e4bb67efe5382a5f70a2ea73a7180fb819ef8053eb": {
+      "source": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$\nZXQSEPZXQ\nBarzilai--Borwein (BB) method has shown strong practical performance in continuous optimization, yet its convergence dynamics remains poorly understood. In particular, a central unresolved question is whether BB converges superlinearly for almost every strictly convex quadratic…",
+      "zh": "Barzilai-Borwein 在每维 $n\\geq 4$ 的开二次方程组上超线性收敛失败\nZXQSEPZXQ\nBarzilai--Borwein (BB) 方法在连续优化方面表现出了很强的实用性能，但其收敛动力学仍然知之甚少。特别是，一个未解决的核心问题是 BB 是否对于几乎每个严格凸二次方程都超线性收敛……"
+    },
+    "90676cef6f2983907eaf3a070cf614e81c5c1d0438411482988d0a7d056c26b4": {
+      "source": "Synthetic data generation framework for quality control automation in gravure printing\nZXQSEPZXQ\nQuality control in printing, particularly in rotogravure printing, still depends on slow, costly, and subjective manual inspection. Automated surface defect detection is critical for maintaining high-quality standards in rotogravure printing. Deep learning models give prospects…",
+      "zh": "用于凹版印刷质量控制自动化的综合数据生成框架\nZXQSEPZXQ\n印刷中的质量控制，特别是凹版印刷中的质量控制，仍然依赖于缓慢、昂贵且主观的手动检查。自动表面缺陷检测对于维持凹版印刷的高质量标准至关重要。深度学习模型带来了前景……"
+    },
+    "9a9416f38fb03ec8d84a6deb25c0bc9c3bcd5c6ed69bdffc61de50ebf7bb60c6": {
+      "source": "Surprisal Theory is Tautological (without Rational Grounding)\nZXQSEPZXQ\nSurprisal theory holds that the human processing difficulty of a linguistic unit in context is an affine function of its surprisal under some language model. I argue this claim is a tautology without further constraint: for any non-negative difficulty measure over units in conte…",
+      "zh": "惊奇理论是同义反复（没有理性基础）\nZXQSEPZXQ\n惊奇理论认为，语境中语言单元的人类处理难度是其在某种语言模型下的惊奇的仿射函数。我认为这个说法是一个同义反复，没有进一步的限制：对于任何关于单位的非负难度度量......"
+    },
+    "f74602f4260d6d6f10f188e9bbbb66d071bf7391c3764996c297a164c5ff5831": {
+      "source": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity\nZXQSEPZXQ\nFaithful explanations of time-series classifiers should identify subsequences that are not only sufficient to preserve a black-box model's prediction, but also necessary for maintaining it. However, existing sufficiency-oriented methods can assign high importance to spurious sub…",
+      "zh": "超越充分性：具有反事实必要性的时间序列解释\nZXQSEPZXQ\n对时间序列分类器的忠实解释应该确定子序列，这些子序列不仅足以保留黑盒模型的预测，而且对于维护它也是必要的。然而，现有的以充分性为导向的方法可以高度重视虚假子……"
+    },
+    "75ab97a6dd933323fcf7b2227cce3f3e8f1a81f02e278f7ceb4342a1f6d3e2c6": {
+      "source": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education\nZXQSEPZXQ\nLarge Language Models (LLMs) show promise for medical education, but most existing systems focus on localized interactions such as question answering or single-turn feedback, rather than organizing an entire clinical case into a decision-centered learning trajectory. We introduc…",
+      "zh": "MedGame：医学教育大型语言模型支持的讲故事游戏化\nZXQSEPZXQ\n大型语言模型（LLM）显示出医学教育的前景，但大多数现有系统侧重于本地化交互，例如问答或单轮反馈，而不是将整个临床案例组织成以决策为中心的学习轨迹。我们介绍……"
     }
   }
 }
