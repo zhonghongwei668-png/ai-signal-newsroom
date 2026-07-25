@@ -312,6 +312,22 @@
     "495bd119b81c2913310ee3dd0231dba9c81fd187dde2730304449910877fb89d": {
       "source": "0.120.0 (2026-07-24) Full Changelog: v0.119.0...v0.120.0 Features api: add claude-opus-5 model ( bf4e31c ) api: add tool addition/removal blocks and tool_change events ( bf4e31c ) api: expand client-side fallback credit token types and add server-side fallbacks default option (…",
       "zh": "0.120.0 (2026-07-24) 完整变更日志：v0.119.0...v0.120.0 功能 api：添加 claude-opus-5 模型 ( bf4e31c ) api：添加工具添加/删除块和 tool_change 事件 ( bf4e31c ) api：扩展客户端后备信用令牌类型并添加服务器端后备默认选项 (..."
+    },
+    "bd781c8898addaa93d6ac79006fff591f1a3e4fea8ad4313a7d99a4a29a7720a": {
+      "source": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else\nZXQSEPZXQ\nOpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+      "zh": "我尝试了 OpenAI 的新 AI 键盘——这对一些程序员来说会很有趣，但对其他人来说有点神秘\nZXQSEPZXQ\nOpenAI 精美的新型 AI 键盘对某些人来说会很有趣，而其他许多人可能不会碰它。"
+    },
+    "949f83be190bd44a9ad4fa7c7ed86e91c5020a07461dbecbe5b848ef36c3de82": {
+      "source": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M\nZXQSEPZXQ\nThe neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+      "zh": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元\nZXQSEPZXQ\nNeolab 坚信，日常计算机任务的自动化将很快超过编码，成为人工智能最大的用例。"
+    },
+    "19b29ffcf85189715ab4a3170c257c4aaab6576b170b7a753213aaf250176ee2": {
+      "source": "Why Cognition bought Poke: AI personality is becoming a competitive advantage\nZXQSEPZXQ\nThe acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
+      "zh": "Cognition为何收购Poke：AI个性正在成为竞争优势\nZXQSEPZXQ\n此次收购将 Poke 的对话风格和交互模型带给 Cognition 的编码代理 Devin，这反映出人们越来越相信 AI 助手与用户的交互方式与为用户提供支持的模型同样重要。"
+    },
+    "0e33d129bccb74991886d40547925ec61c373a0f81dcc895578bd9ec9a258439": {
+      "source": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm\nZXQSEPZXQ\nOn this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use.",
+      "zh": "中美AI竞赛升级，OpenAI模型失控，为什么你应该检查你的汽车警报器\nZXQSEPZXQ\n在这一集《恐怖谷》中，我们深入探讨了对中国登月人工智能窃取 Anthropic 的指控，以及美国陆军需要如何减少人工智能的使用。"
     }
   }
 }
