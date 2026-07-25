@@ -1,43 +1,183 @@
 {
   "boardMeta": {
-    "generatedAt": "2026-07-25 11:11",
+    "generatedAt": "2026-07-25 15:36",
     "date": "2026年7月25日 · 星期六",
-    "edition": "上午版",
-    "window": "北京时间今日 00:00 至 11:11",
+    "edition": "午后版",
+    "window": "北京时间今日 00:00 至 15:36",
     "nextUpdate": "下一轮 16:15 自动更新"
   },
   "newsItems": [
     {
-      "id": "1bbb1fd370392c",
+      "id": "f984174132b639",
       "level": "头条",
       "region": "国内",
-      "category": "大模型",
+      "category": "Agent",
       "verification": "媒体报道",
-      "title": "近 200 家硅谷公司致函白宫，呼吁不要禁止美国企业调用 Kimi K3/Qwen 3.8 等中国开源 AI 模型",
-      "summary": "IT之家 7 月 25 日消息，Politico 于 7 月 22 日发布博文，报道称近 200 家硅谷企业通过新成立的 Little Tech Association 协会联名致函白宫， 反对美国封禁中国开源 AI 模型计划。 IT之家援引博文介绍，包括 Proton 和创业孵化器 Y Combinator 在内，将近 200 家硅谷企业通过新成立的 \" 小科技协会 \"（Little Tech Association），致函美国白宫，要求不要切断美国企业调用中国开源 AI 模型渠道。 该事件的背景是 Kimi K3 模型发布后， 美国政府考虑收紧针对…",
-      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "title": "吴恩达开源桌面 AI 智能体 OpenWorker，已获 3.7k Star",
+      "summary": "IT之家 7 月 25 日消息，吴恩达（Andrew Ng）昨日（7 月 24 日）在领英（LinkedIn）发布动态，宣布推出开源 AI 智能体 OpenWorker， 不仅满足聊天交互，还能高效完成用户交代的任务。 在运行平台上，适用于苹果 macOS 的 OpenWorker 已经上线，Github 页面显示 Windows 版已支持运行，但尚未签名。 OpenWorker 基于 Ng 的 aisuite 库构建，这是一个与提供商无关的 Python 框架，通过统一 API 支持多种大型语言模型。 功能方面，吴恩达表示 OpenWorker 可以…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
       "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/437.htm",
-      "publishedAt": "09:46",
-      "relativeTime": "1 小时前"
+      "sourceUrl": "https://www.ithome.com/0/981/493.htm",
+      "publishedAt": "14:42",
+      "relativeTime": "53 分钟前"
     },
     {
-      "id": "d01e6d115735ff",
+      "id": "cc4901f4789b78",
       "level": "重要",
       "region": "国内",
       "category": "芯片算力",
       "verification": "媒体报道",
-      "title": "黄仁勋入驻 X 首条推文：英伟达等 25 家公司力挺开源 AI",
-      "summary": "IT之家 7 月 25 日消息，科技媒体 Tom's Hardware 今天（7 月 25 日）发布博文，报道称黄仁勋官方个人账号 @JensenHuang 入驻 X 平台后， 于昨日（7 月 24 日）发布首条推文，分享了由英伟达签署的公开信，阐述为什么开源模型很重要。 该公开信共有 3 页，包括英伟达、微软、Meta、IBM、戴尔科技、Palantir 和 Hugging Face 在内的 25 家公司共同签署。黄仁勋表示：“ 世界需要前沿闭源模型，也需要前沿开源模型。” 黄仁勋在倡议中指出 ，AI 模型蒸馏等开源衍生技术和早年开源软件运动逻辑一脉…",
+      "title": "网信办发布《国家信息化发展报告（2025 年）》：6G 完成第一阶段技术试验，生成式人工智能用户规模达 6.02 亿人",
+      "summary": "IT之家 7 月 25 日消息，昨晚， 国家互联网信息办公室发布《国家信息化发展报告（2025 年）》，总结 2025 年各地区各有关部门推进信息化发展成效，开展信息化发展水平监测评估。 《报告》显示，我国芯片研发制造迈出坚实步伐，第五代精简指令集（RISC-V）技术应用加快发展。操作系统规模应用取得新进展， 开源鸿蒙操作系统装载设备量超 12 亿台 。量子科技取得重要突破，脑机接口技术加速应用， 6G 完成第一阶段技术试验 。人工智能技术加速发展，多款大模型产品性能位于全球前列，具身智能加快落地应用，智能体加速迭代演进。国家区块链网络加快布局建设。开…",
       "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
       "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/423.htm",
-      "publishedAt": "08:34",
+      "sourceUrl": "https://www.ithome.com/0/981/527.htm",
+      "publishedAt": "15:24",
+      "relativeTime": "11 分钟前"
+    },
+    {
+      "id": "be9da86a2afa65",
+      "level": "重要",
+      "region": "国内",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "马斯克脑机公司 Neuralink 展示新动态：通过念头控制移动电动轮椅",
+      "summary": "IT之家 7 月 25 日消息，马斯克旗下脑机公司 Neuralink 于 7 月 23 日在 X 平台发布动态， 让用户只需要动下念头，就能让电动轮椅便如臂使指般开始移动。 IT之家附上相关演示视频如下： 技术实现方面，Neuralink 植入物拥有超过 1000 个电极，分布在超过 100 根线上，每根线比人类头发还细，并通过手术机器人插入运动皮层。 这些电极会记录神经元放电的活动，通过机器学习模型，映射计算机光标上下左右移动，所以在临床试验参与者传递意图移动的念头后，可以操作电动轮椅前进、倒车、转向等。 据 Neuralink 介绍，参与者可以看…",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/981/526.htm",
+      "publishedAt": "15:20",
+      "relativeTime": "15 分钟前"
+    },
+    {
+      "id": "2818c84dc8b3a1",
+      "level": "重要",
+      "region": "国内",
+      "category": "研究论文",
+      "verification": "媒体报道",
+      "title": "1500 万条 AI 交互洞察：谷歌称 AI 应用广泛但深度不足",
+      "summary": "IT之家 7 月 25 日消息，谷歌首席经济学家法比安 · 库尔托 · 米利特（Fabien Curto Millet）于 7 月 23 日在领英（LinkedIn）平台发布动态，指出 AI 普及范围广但深度不足。 该报告名为《活动、任务、环境与采用研究》（ATLAS），基于对 1500 万份去标识化 Google AI 互动的汇总分析，涵盖了 150 多个国家、140 种语言、800 种职业和 4000 个任务，其样本来自 Gemini 应用、搜索中的 AI Mode 以及 Gemini API 调用。 报告指出在全球范围内，68% 的细分职业已开始…",
+      "whyItMatters": "新研究可能改变模型能力边界，但仍需要复现、评测与同行检验。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/981/498.htm",
+      "publishedAt": "14:56",
+      "relativeTime": "39 分钟前"
+    },
+    {
+      "id": "ba4dae7be92c48",
+      "level": "重要",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "马斯克看好中国 AI 发展：未来某个时刻有望成为全球领导者",
+      "summary": "IT之家 7 月 25 日消息，特斯拉 CEO 埃隆 · 马斯克当地时间 7 月 23 日在接受英国《经济学人》专访时表示，中国在机器人和 AI 领域实力雄厚，未来“很有可能在某个时候成为领导者”。 马斯克特别提及了中国 AI 大模型的最新进展。他对月之暗面刚刚发布的 Kimi K3 模型印象深刻。马斯克认为，中国在 AI 竞赛中拥有决定性优势，其中电力供应能力是关键因素。 据他估计，2026 年中国发电量可能达到美国的三倍，足以支撑耗能巨大的 AI 数据中心运行。他同时预测，中国最终能够通过自主研发光刻机，克服美国出口管制导致的先进芯片短缺问题。马斯…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/981/496.htm",
+      "publishedAt": "14:54",
+      "relativeTime": "41 分钟前"
+    },
+    {
+      "id": "74dbf1b11db1ca",
+      "level": "重要",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "海韵成为 3DMark 新赞助商，其 Logo 将亮相全新 GPU 测试流程",
+      "summary": "IT之家 7 月 25 日消息，UL Solutions 昨天宣布，电源厂商海韵现已成为 3DMark 基准测试项目赞助商，其 Logo 将出现在即将推出的全新 GPU 跑分流程中。 IT之家从官方新闻稿了解到，全新 GPU 测试流程旨在进一步挑战现代显卡性能，其工作负载完全基于路径追踪，并以原生 4K 分辨率进行渲染，支持 AI 超分和帧生成技术。 同时，海韵的 Logo 将出现在新测试流程的开场场景中，未来数百万 PC 发烧友、科技爱好者和用户将在测试电脑的过程中，看到海韵的品牌标识。 延伸阅读 UL Solutions 旗下的 3DMark 是一…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/981/492.htm",
+      "publishedAt": "14:33",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "ded4fddfdbc921",
+      "level": "重要",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "老黄说得对：特斯拉马斯克点赞英伟达黄仁勋首条 X 平台帖文",
+      "summary": "IT之家 7 月 25 日消息，特斯拉、SpaceX 首席执行官埃隆 · 马斯克昨天转发英伟达 CEO 黄仁勋首条 X 平台帖文。 马斯克还在转发的同时配文：“ 我完全支持 ，黄仁勋说得对。” 据IT之家此前援引外媒报道 ，黄仁勋首条 X 平台帖文分享了英伟达签署的公开信，阐述开源模型为何重要。 该公开信共有 3 页，包括英伟达、微软、Meta、IBM、戴尔科技、Palantir 和 Hugging Face 在内的 25 家公司共同签署。黄仁勋表示：“世界需要前沿闭源模型，也需要前沿开源模型。” 黄仁勋在倡议中指出，AI 模型蒸馏等开源衍生技术和早年…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/981/489.htm",
+      "publishedAt": "14:14",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "3877b3f9b7485a",
+      "level": "重要",
+      "region": "国内",
+      "category": "研究论文",
+      "verification": "媒体报道",
+      "title": "赋能精准碱基编辑：我国科学家建立基于 AlphaFold3 接触概率的 AI 框架 ContactSeek",
+      "summary": "IT之家 7 月 25 日消息，北京大学生命科学学院发布博文，宣布其伊成器课题组于 7 月 22 日联合在《自然》（Nature）发表论文， 提出基于 AlphaFold3 接触概率的 AI 框架 ContactSeek。 该论文名为《Precise DNA base editing using AlphaFold3-based contact modelling》，由北京大学生命科学学院、基因功能研究与操控全国重点实验室、核糖核酸北京研究中心 伊成器 课题组与华东师范大学生命科学学院 李大力 课题组共同发表。 研究团队整合 AlphaFold3 预测…",
+      "whyItMatters": "新研究可能改变模型能力边界，但仍需要复现、评测与同行检验。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/981/478.htm",
+      "publishedAt": "13:17",
       "relativeTime": "2 小时前"
     },
     {
+      "id": "144b92bce548ff",
+      "level": "关注",
+      "region": "国内",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "SK 集团会长崔泰源：我们的目标是让每个韩国人至少有一个 AI 智能体",
+      "summary": "IT之家 7 月 25 日消息，据韩媒“Asia 经济”报道，当地时间 24 日，SK 集团会长崔泰源在旧金山 AI 峰会上放出豪言：“我们的目标是 让每名韩国人至少拥有一个 AI 智能体 。实现目标后，韩国将成为 面向全球的 AI 试验场 。韩国必须建设成为 AI 原生国家 ，我们需要全民 AI 和物理 AI。” IT之家从报道中获悉，崔泰源强调，任何新技术或应用都可以进入韩国企业和韩国市场，直接接受充分测试。韩国还将持续投入研发，为 AI 企业创造更多机会。 崔泰源还主张大幅降低 AI 使用成本，同时直言当前 AI 成本实在太高。“我们必须想尽一切…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/981/529.htm",
+      "publishedAt": "15:28",
+      "relativeTime": "7 分钟前"
+    },
+    {
+      "id": "693285b0bc32fe",
+      "level": "关注",
+      "region": "国内",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "理想 AI 眼镜 Livis 七月 OTA 升级：直连个人终端 OpenClaw，接入小红书 Agent",
+      "summary": "IT之家 7 月 25 日消息，理想汽车近日公布理想 AI 眼镜 Livis 七月 OTA 升级内容，本次新增 2 项功能，优化 4 项体验。体验最新功能，请将理想同学 App 升级到 2.6.0。 IT之家整理如下： 新增眼镜直连个人终端 OpenClaw 眼镜就是你的“超级遥控器”：打开优先响应开关，只需动动嘴，远端的 OpenClaw 即刻接管，处理本地文件、跑任务脚本、查询复杂数据等任务，提升跨设备办公协同效率。 任务进度在耳边汇报：交给 OpenClaw 的任务，无需在屏幕前等待。当完成任务后，眼镜主动通知你，把时间留给更重要的事。 新增眼镜…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/981/500.htm",
+      "publishedAt": "15:02",
+      "relativeTime": "33 分钟前"
+    },
+    {
+      "id": "ddb46e30fe96cb",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "AI 3D产业路线首次公开讨论：Hi3D闭门会释放哪些新趋势？",
+      "summary": "深圳，7月23日——Hi3D实体创意生态闭门会在深圳举行。围绕“探索AI驱动的下一代可制造生态”，Hi3D与3D打印硬件、制造、创作者及Maker领域嘉宾共同探讨AI 3D从数字生成走向实体制造的新趋势。 这也是数美万物创始人兼CEO任利锋创业后首次代表Hi3D 面向媒体、设备厂商及产业伙伴系统分享Hi3D过去一年的技术进展与产业思考。数美万物联合创始人兼算法负责人贾荣飞也在现场分享了过去一年Hi3D在算法模型优化上，里程碑式的进步。 现场，Hi3D公布了即将上线的新一代 Hi3D 3.0 2048³ 模型，定义新一代3D通用大模型SOTA。并首次系统…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "雷锋网",
+      "sourceUrl": "https://www.leiphone.com/category/weiwu/VqgEeeerbpYbQcUF.html",
+      "publishedAt": "13:09",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "39351366631ab0",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "亿万富翁投资人马克 · 库班：下一个产生重大影响的 AI 应用或是“工作模拟器”",
+      "summary": "IT之家 7 月 25 日消息，据《商业内幕》今天（25 日）报道，科技亿万富豪、前《创智赢家》投资人马克 · 库班认为，过去几十年里，职场新人主要靠 主动争取实践机会、跟随同事学习 来积累经验，这种成长路径可能会被彻底改变。 库班在 X 发文称，下一项具有重大影响力的 AI 应用可能是“ 工作模拟器 ”。“进入 AI 时代后，员工积累经验的方式将与今天完全不同。他们在企业内部接触同事、学习知识和经验的机会会减少，而过去形成判断力主要依靠的正是这些互动。” 库班预计，未来员工可能 像赛车手和飞行员一样 ，先在模拟环境中接受训练，学习如何应对真实职场中的…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/981/484.htm",
+      "publishedAt": "13:51",
+      "relativeTime": "1 小时前"
+    },
+    {
       "id": "658d80679c4e28",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "大模型",
       "verification": "媒体报道",
@@ -47,13 +187,13 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
       "publishedAt": "08:23",
-      "relativeTime": "2 小时前",
+      "relativeTime": "7 小时前",
       "titleZh": "我尝试了 OpenAI 的新 AI 键盘——这对一些程序员来说会很有趣，但对其他人来说有点神秘",
       "summaryZh": "OpenAI 精美的新型 AI 键盘对某些人来说会很有趣，而其他许多人可能不会碰它。"
     },
     {
       "id": "8b2c65710b9ca6",
-      "level": "重要",
+      "level": "关注",
       "region": "国内",
       "category": "研究论文",
       "verification": "媒体报道",
@@ -63,11 +203,53 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/981/443.htm",
       "publishedAt": "10:08",
-      "relativeTime": "1 小时前"
+      "relativeTime": "5 小时前"
+    },
+    {
+      "id": "a45a2f9acde144",
+      "level": "关注",
+      "region": "国内",
+      "category": "融资",
+      "verification": "媒体报道",
+      "title": "摩根士丹利分析师：若 SpaceX 股价跌至 100 美元，就预示其 AI 业务无价值",
+      "summary": "IT之家 7 月 25 日消息，据彭博社 25 日（今天）报道，摩根士丹利分析师亚当 · 乔纳斯认为，SpaceX 近期股价大幅下跌，已经接近市场完全不给 AI 业务估值的水平。 SpaceX 于 6 月中旬完成规模达 860 亿美元（IT之家注：现汇率约合 5832.44 亿元人民币）的创纪录 IPO，但上市后的表现颇为波折。股价在前三个交易日 一度上涨近 50%，随后一路回落 ，本周早些时候最低 跌至 110.85 美元 （现汇率约合 751.8 元人民币），较发行价下跌 18%。 乔纳斯在致客户的报告中写道：“投资者情绪越来越悲观，但 Space…",
+      "whyItMatters": "资金流向反映市场正在为哪些 AI 能力与商业模式下注。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/981/473.htm",
+      "publishedAt": "12:29",
+      "relativeTime": "3 小时前"
+    },
+    {
+      "id": "4e52d73aaf7c25",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "韩国总统李在明访美促成五年 9500 亿美元半导体合作：三星与博通签署 2000 亿美元内存协议，SK 集团与英伟达等企业达成 7500 亿美元巨单",
+      "summary": "IT之家 7 月 25 日消息，当地时间 7 月 24 日，韩国总统李在明从美国开启了他为期 11 天的访问，首站旧金山共两天，后续还将到访巴西、智利、阿根廷、德国。 在旧金山，李在明先后与英伟达 CEO 黄仁勋、OpenAI CEO 奥尔特曼、Anthropic CEO 阿莫代伊、博通 CEO 陈福阳等全球 AI 行业领袖会面，还将出席旧金山 AI 峰会。 韩国总统府表示，以韩国总统李在明出席“旧金山 AI 峰会”为契机，韩国企业与全球科技企业公布的半导体领域合作规模累计已达到 9500 亿美元（现汇率约合 6.44 万亿元人民币）。 首先，在半导体…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/981/472.htm",
+      "publishedAt": "12:17",
+      "relativeTime": "3 小时前"
+    },
+    {
+      "id": "50a1840a57de19",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "11 年前清华一场答辩刷屏：月之暗面 Kimi 创始人杨植麟全满分，推荐者“唐杰”后来创办智谱",
+      "summary": "7 月 25 日消息，今日，一张清华大学特等奖学金答辩现场的老照片在社交平台刷屏。 有博主发文回忆称，2014 年 11 月 2 日清华本科生特等奖学金答辩现场，台上答辩的学生是后来创办月之暗面 Kimi 的杨植麟，而为他写推荐信的科研导师，正是后来联合创办智谱 AI、做出 GLM 的唐杰。 该博主感慨：\" 一个后来做出 Kimi，一个后来做出 GLM，两个公司最高市值加起来 1 万多亿，应该是我清华校友中最值钱的一对师徒组合了。\" 唐杰推荐信：他提出了一个全新的算法 在推荐词中，唐杰回忆，杨植麟从大二上学期就加入实验室，第一个工作是在大数据、大网络数…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/981/470.htm",
+      "publishedAt": "12:00",
+      "relativeTime": "3 小时前"
     },
     {
       "id": "71d1fdc28a91c1",
-      "level": "重要",
+      "level": "关注",
       "region": "国内",
       "category": "研究论文",
       "verification": "媒体报道",
@@ -77,39 +259,11 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1570244.htm",
       "publishedAt": "08:50",
-      "relativeTime": "2 小时前"
-    },
-    {
-      "id": "c21b3053ca9167",
-      "level": "重要",
-      "region": "国内",
-      "category": "产品动态",
-      "verification": "媒体报道",
-      "title": "打击 AI 生成虚假账号，Meta 推出“Facebook Verified”免费徽章",
-      "summary": "IT之家 7 月 25 日消息，Meta 昨天宣布推出“Facebook Verified”免费服务，用户可在验证身份后获得一个勾号标记。 IT之家从官方新闻稿了解到，该功能面向年满 18 岁、符合 Meta 社区标准、没有欺诈行为的用户开放，用户需要录制一段视频自拍，然后等待官方比对身份后，就能获得勾号。 同时，该徽章仅适用于个人账号，不适用于 Facebook 粉丝专页、专业模式。完成验证后，勾号标记会在个人资料、群组、商城等页面显示。 此外， 该功能旨在确保账号背后的个人是真实用户 ， 而非 AI 生成的虚假账号 。Meta 表示，该功能将分阶段…",
-      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/426.htm",
-      "publishedAt": "08:46",
-      "relativeTime": "2 小时前"
-    },
-    {
-      "id": "ec6f33618f4ecb",
-      "level": "重要",
-      "region": "国内",
-      "category": "芯片算力",
-      "verification": "媒体报道",
-      "title": "消息称英特尔将代工封装英伟达 Feynman GPU，量产指向 2028 年",
-      "summary": "IT之家 7 月 25 日消息，科技媒体 Wccftech 昨日（7 月 24 日）发布博文，报道称英特尔代工业务（Intel Foundry）有望和英伟达达成合作， 为英伟达 Feynman GPU 提供晶圆与先进封装支持，相关量产时间点指向 2028 年。 IT之家援引博文介绍，在最新财报电话会议上，英特尔首席执行官陈立武表示，公司增加资本开支，覆盖先进封装与晶圆厂建设，并称这反映出对各业务单元客户需求的信心。 陈立武同时表示，前端晶圆厂成本高于封装设施，因此新增投入会更偏向前端产能。他还提到，公司已在若干领域获得长期协议，可据此预测未来几年需求…",
-      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/425.htm",
-      "publishedAt": "08:45",
-      "relativeTime": "2 小时前"
+      "relativeTime": "6 小时前"
     },
     {
       "id": "e887b32468d67b",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -119,23 +273,23 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
       "publishedAt": "06:25",
-      "relativeTime": "4 小时前",
+      "relativeTime": "9 小时前",
       "titleZh": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元",
       "summaryZh": "Neolab 坚信，日常计算机任务的自动化将很快超过编码，成为人工智能最大的用例。"
     },
     {
-      "id": "d5734533cfb31f",
-      "level": "重要",
+      "id": "8d560cf32e41fe",
+      "level": "关注",
       "region": "国内",
       "category": "芯片算力",
       "verification": "媒体报道",
-      "title": "性能优势高于预期：AMD 称 Venice 处理器比英伟达 Vera 快约 20%",
-      "summary": "IT之家 7 月 25 日消息，科技媒体 Tom's Hardware 昨日（7 月 24 日）发布博文，报道称在 Advancing AI 2026 活动期间，AMD 计算与企业解决方案公司副总裁 Ravi Kuppuswany 表示在相同测试情况下， AMD Venice 比英伟达的 Vera 快约 20%。 在 Advancing AI 2026 活动之前，英伟达发布了 Vera CPU 的 SPEC CPU 2026 基准测试结果。 AMD 公司以英伟达白皮书中的配置为基础， 对自身的全新 Zen 6“Venice”CPU 运行了 SPEC 测…",
+      "title": "涨价博弈进入白热化阶段：国内 TOP6 手机厂商已有多家抵制内存涨价",
+      "summary": "IT之家 7 月 25 日消息，数码博主 @数码闲聊站 今日透露，国内 TOP6 手机厂商中已有多家明确拒绝内存供应商未来几个季度的涨价要求，分歧不仅限于消费端内存，AI 服务器领域也出现意见不合。 IT之家注意到，这一抵制行动已有公开报道佐证。界面新闻称，OPPO 与 vivo 近期正式拒绝了三星电子提出的 2026 年第三季度存储产品报价。 尽管三星该轮报价的涨幅（约 20%）相较第一季度（90% 至 95%）和第二季度（58% 至 63%）已明显收窄，但下游厂商仍选择拒单。 存储芯片价格自 2025 年下半年起持续暴涨，其根本原因在于 AI 算力…",
       "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
       "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/418.htm",
-      "publishedAt": "08:15",
-      "relativeTime": "2 小时前"
+      "sourceUrl": "https://www.ithome.com/0/981/463.htm",
+      "publishedAt": "11:18",
+      "relativeTime": "4 小时前"
     },
     {
       "id": "46b61e81653d09",
@@ -149,35 +303,7 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/981/459.htm",
       "publishedAt": "11:08",
-      "relativeTime": "3 分钟前"
-    },
-    {
-      "id": "7dc7f52bc5b66a",
-      "level": "关注",
-      "region": "国内",
-      "category": "政策监管",
-      "verification": "媒体报道",
-      "title": "英伟达 CEO 黄仁勋：“AI 末日论”该翻篇了，行业别再吓人了",
-      "summary": "IT之家 7 月 25 日消息，据《商业内幕》24 日报道，英伟达 CEO 黄仁勋认为，所谓的“AI 末日论者”已经完成了警示任务，现在应该翻篇了。“听着， 如果目的是提醒全世界 AI 技术具备惊人的能力，我认为目的已经达到了 。” 黄仁勋表示，部分 AI 行业领袖 反复渲染 AI 可能引发大规模失业 ，正在吓坏美国民众；他们 对中国在 AI 竞赛中实力的担忧 ，也令华盛顿的政策制定者感到恐慌。“大家都必须审慎思考、谨慎行事。我们正在吓唬民众。” IT之家从报道中获悉，黄仁勋还强调，重视安全并向监管机构充分说明 AI 技术完全合理，但行业同样需要 让公…",
-      "whyItMatters": "监管与司法判例会直接改变模型训练、产品上线和企业合规成本。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/412.htm",
-      "publishedAt": "07:43",
-      "relativeTime": "3 小时前"
-    },
-    {
-      "id": "bb923b12d16614",
-      "level": "关注",
-      "region": "国内",
-      "category": "产品动态",
-      "verification": "媒体报道",
-      "title": "苹果 macOS 27 邮件应用测试新撰写窗口，整合 Siri AI 交互",
-      "summary": "IT之家 7 月 25 日消息，科技媒体 MacRumors 昨日（7 月 24 日）发布博文，报道称在 macOS 27 Golden Gate Beta 4 开发者预览版中， 苹果公司为邮件（Mail）应用酝酿“Write with Siri”功能，把 Siri AI 整合到邮件撰写窗口内。 根据该媒体论坛网友 mactracker 分享的截图，在 macOS 27 系统邮件应用中，苹果重新设计邮件撰写窗口的格式栏，其中“Write with Siri”被置于最突出的位置。IT之家附上相关截图如下： 根据页面截图显示，经典的格式控制按钮会自动折叠到…",
-      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/404.htm",
-      "publishedAt": "07:12",
-      "relativeTime": "3 小时前"
+      "relativeTime": "4 小时前"
     },
     {
       "id": "eff75d4ec39236",
@@ -191,7 +317,7 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/981/445.htm",
       "publishedAt": "10:10",
-      "relativeTime": "1 小时前"
+      "relativeTime": "5 小时前"
     },
     {
       "id": "2bbb3806a80ca0",
@@ -205,51 +331,37 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
       "publishedAt": "03:06",
-      "relativeTime": "8 小时前",
+      "relativeTime": "12 小时前",
       "titleZh": "Midjourney 购买了占星应用程序 Co-Star",
       "summaryZh": "Midjourney 已经从生成 AI 猫图像到全身超声波扫描，正在进入一个新领域：占星术。据彭博社早些时候报道，这家人工智能初创公司周四宣布，它已经收购了个性化占星应用程序 Co-Star。 Co-Star 是一个免费的…"
     },
     {
-      "id": "332a87d74feb47",
+      "id": "d85879508aca38",
       "level": "关注",
       "region": "国内",
-      "category": "政策监管",
+      "category": "产品动态",
       "verification": "媒体报道",
-      "title": "Siri 集体诉讼和解方案获批，苹果将向部分美国 iPhone 用户支付最高 95 美元赔偿金",
-      "summary": "IT之家 7 月 25 日消息，据科技媒体 MacRumors 昨天报道，苹果今年 5 月同意支付 2.5 亿美元（IT之家注：现汇率约合 16.96 亿元人民币），就美国消费者发起的 Siri AI 延迟推出集体诉讼达成和解。符合条件的 iPhone 用户最高可获 95 美元（现汇率约合 644.4 元人民币）赔偿。 苹果的和解协议已在 7 月 17 日获得法庭批准， 符合条件的用户或可在数月后提交索赔申请 ，不过目前还没有正式的和解方案网站。 据悉， 本起诉讼源于 2024 年 6 月推出的 Apple 智能（Beta） ，苹果在广告中宣称，该功能…",
-      "whyItMatters": "监管与司法判例会直接改变模型训练、产品上线和企业合规成本。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/399.htm",
-      "publishedAt": "06:47",
-      "relativeTime": "4 小时前"
+      "title": "Verizon与Google达成逾10亿美元合作 将为其数据中心提供暗光纤连接",
+      "summary": "美国电信巨头威瑞森（Verizon Communications）于周五宣布，已与Google母公司 Alphabet 签署了一项价值超过10亿美元的暗光纤基础设施协议，将为Google推进人工智能数据中心建设提供网络连接支持。 阅读全文",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1570282.htm",
+      "publishedAt": "15:18",
+      "relativeTime": "17 分钟前"
     },
     {
-      "id": "0b65d58eaaa34d",
+      "id": "bf019951f35f76",
       "level": "关注",
       "region": "国内",
-      "category": "研究论文",
+      "category": "芯片算力",
       "verification": "媒体报道",
-      "title": "Anthropic Opus 5 发布：性能逼近 Fable 5 但价格砍半，刷新 ARC-AGI-3 纪录",
-      "summary": "IT之家 7 月 25 日消息，Anthropic 今日发布了 Opus 系列最新旗舰模型 ——Claude Opus 5，相比上一代 Opus 4.8 在性能提升的同时保持价格不变。 Anthropic 表示，Opus 5 定位为面向日常使用的高性能模型，官方称其在部分能力上接近更高规格的 Claude Fable 5，但价格约为后者的一半。该模型目前已成为 Claude Max 服务的默认模型，也是 Claude Pro 用户可使用的最高能力模型，在多项代码、知识工作和科学研究测试中达到当前最高水平。 据介绍，Opus 5 在 Frontier-B…",
-      "whyItMatters": "新研究可能改变模型能力边界，但仍需要复现、评测与同行检验。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/398.htm",
-      "publishedAt": "06:42",
-      "relativeTime": "4 小时前"
-    },
-    {
-      "id": "919f33d88a9bd9",
-      "level": "关注",
-      "region": "国内",
-      "category": "Agent",
-      "verification": "媒体报道",
-      "title": "智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-      "summary": "IT之家 7 月 25 日消息，OpenAI 的一款 AI 智能体闯入模型托管平台 Hugging Face 后，连续数日自行发动网络攻击。威胁早已被控制，Hugging Face 也已经报警，但据路透社援引多名熟悉调查的人士消息称，OpenAI 过了相当长时间 才发现攻击者竟是自家智能体。 据其中两名知情人士透露，涉事智能体几乎无需人类监督，便能自主决策并完成复杂任务。7 月 9 日前后，智能体开始尝试 突破 OpenAI 的隔离测试环境 。 Hugging Face 联合创始人托马斯 · 沃尔夫表示，智能体于两天后的 7 月 11 日闯入平台 ，攻…",
-      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/432.htm",
-      "publishedAt": "09:08",
-      "relativeTime": "2 小时前"
+      "title": "消费级显卡价格继续上涨 英伟达已通知AIC/AIB上调GDDR显存价格",
+      "summary": "本周产业链消息称英伟达已经通知 AIC/AIB 显卡合作伙伴，将上调部分显卡相关的 GDDR 显存成本，本轮调整覆盖 GDDR7 显存但也包括部分仍然使用 GDDR6 显存的产品，因此影响范围可能不只是 RTX50 系高端显卡，其他非高端显卡可能同样会受影响。 阅读全文",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1570280.htm",
+      "publishedAt": "15:15",
+      "relativeTime": "20 分钟前"
     },
     {
       "id": "204fa3eb1ba92a",
@@ -263,7 +375,7 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
       "publishedAt": "01:00",
-      "relativeTime": "10 小时前",
+      "relativeTime": "14 小时前",
       "titleZh": "Anthropic推出Opus 5",
       "summaryZh": "Opus 5 比《神鬼寓言》更便宜，限制更少，这可能使其在大多数用例中更受欢迎。"
     },
@@ -279,49 +391,23 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1570220.htm",
       "publishedAt": "08:27",
-      "relativeTime": "2 小时前"
+      "relativeTime": "7 小时前"
     },
     {
-      "id": "42406c5f263aeb",
+      "id": "6c939dbf7a8b30",
       "level": "关注",
-      "region": "国内",
+      "region": "海外",
       "category": "大模型",
       "verification": "媒体报道",
-      "title": "马斯克：当初帮忙创立 OpenAI 却意外加速了 AI 竞赛，这并非我本意",
-      "summary": "IT之家 7 月 25 日消息，xAI 创始人埃隆 · 马斯克在接受《经济学人》总编辑赞尼 · 明顿 · 贝多斯采访时表示，自己为减缓 AI 领域权力集中所作的最大努力之一， 可能反而产生了相反效果 。 马斯克称，谷歌当时“或多或少垄断了 AI”，因此自己最初参与创办 OpenAI，本质上是为了 制衡谷歌 ，但事态发展并未符合预期。“我参与创建 OpenAI，后来 Anthropic 又从 OpenAI 分离出来，而 Anthropic 目前已经成为 AI 领域的领导者。这些行动 实际上产生了加速 AI 发展的连锁效应，但并非我的本意 。看起来，所有道…",
+      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+      "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the ca…",
       "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/416.htm",
-      "publishedAt": "08:01",
-      "relativeTime": "3 小时前"
-    },
-    {
-      "id": "6ff1513bc57f91",
-      "level": "关注",
-      "region": "国内",
-      "category": "产品动态",
-      "verification": "媒体报道",
-      "title": "用户强烈反对后，Meta 暂缓旗下智能眼镜“对话聚焦”无障碍功能收费计划",
-      "summary": "IT之家 7 月 25 日消息，据科技媒体 The Verge 今天报道，Meta 曾计划对旗下智能眼镜的一项功能收取每月 20 美元（IT之家注：现汇率约合 135.7 元人民币）订阅费用，随后遭到用户强烈反对。 据报道，这项计划收费的无障碍功能名为“对话聚焦”，可通过眼镜内置的麦克风阵列与 AI 技术，将交谈者的声音放大并降低背景杂音，使对话更加清晰。 如今 Meta 发言人 Tyler Yee 确认，公司已经暂停“对话聚焦”收费计划。在公司找到更好替代方案前，该功能将通过抢鲜体验计划免费提供。 值得注意的是，Meta 曾在宣布收费计划时表示，哪怕…",
-      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/410.htm",
-      "publishedAt": "07:39",
-      "relativeTime": "3 小时前"
-    },
-    {
-      "id": "e710d32beaa1ba",
-      "level": "关注",
-      "region": "国内",
-      "category": "具身智能",
-      "verification": "媒体报道",
-      "title": "“氛围编程”命名人卡帕西提高 AI 回答质量的窍门：与它闲聊 10 分钟",
-      "summary": "IT之家 7 月 25 日消息，Anthropic 知名 AI 研究员、“氛围编程”概念提出者安德烈 · 卡帕西认为，使用 AI 时不必费尽心思打磨提示词：别琢磨了，想到什么就说什么，尽管一直说下去。 卡帕西表示，自己有时会打开语音模式，对着 AI 连续讲上大概 10 分钟 ，思路不必完整，内容也不需要提前组织，整个过程 乱七八糟，什么都说，完全想到哪儿说到哪儿 。“有时，大语言模型需要获得更多信息，才能真正明白你想完成什么。” 卡帕西表示，漫谈可以 让用户与聊天机器人更合理地分工 。用户只需把脑中所有尚未成形的项目想法全部说出来，再由聊天机器人整理成…",
-      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/407.htm",
-      "publishedAt": "07:24",
-      "relativeTime": "3 小时前"
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "publishedAt": "01:00",
+      "relativeTime": "14 小时前",
+      "titleZh": "Anthropic 发布 Opus 5，功能“接近”《神鬼寓言 5》",
+      "summaryZh": "在 Anthropic 与美国政府最近一次正面交锋几周后，以及主导科技行业讨论的 OpenAI 安全事件几天后，Anthropic 于周四发布了其最新模型 Claude Opus 5。该公司在一份新闻稿中表示，Opus 5“接近标准”。"
     },
     {
       "id": "a9136825177883",
@@ -335,23 +421,9 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
       "publishedAt": "02:07",
-      "relativeTime": "9 小时前",
+      "relativeTime": "13 小时前",
       "titleZh": "Cognition为何收购Poke：AI个性正在成为竞争优势",
       "summaryZh": "此次收购将 Poke 的对话风格和交互模型带给 Cognition 的编码代理 Devin，这反映出人们越来越相信 AI 助手与用户的交互方式与为用户提供支持的模型同样重要。"
-    },
-    {
-      "id": "589bd8bb49d26a",
-      "level": "关注",
-      "region": "国内",
-      "category": "芯片算力",
-      "verification": "媒体报道",
-      "title": "高通宣布 9 月起芯片涨价：涨幅达两位数百分比，骁龙 8 Elite Gen 6 受影响",
-      "summary": "IT之家 7 月 25 日消息，据彭博社今日报道，高通公司正准备提高芯片产品价格，涨幅将达到两位数百分比。 作为全球主要智能手机处理器供应商之一，高通此次调价可能影响智能手机、可穿戴设备等多个科技领域。 据彭博社看到的一份文件显示，高通已于当地时间 7 月 24 日向客户发送涨价通知，并表示新价格将适用于 9 月 1 日之后出货的产品。 高通在通知中提到，公司已经无法继续消化来自供应链的成本上涨压力，同时也尝试寻找新的零部件供应来源。 高通表示，当前整个科技行业都受到历史性供应短缺影响，从智能手机、超级计算机到汽车产业均受到波及。AI 数据中心建设规模…",
-      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/400.htm",
-      "publishedAt": "06:55",
-      "relativeTime": "4 小时前"
     },
     {
       "id": "0bfeba4fb51cc2",
@@ -365,7 +437,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1570242.htm",
       "publishedAt": "08:50",
-      "relativeTime": "2 小时前"
+      "relativeTime": "6 小时前"
     },
     {
       "id": "e69b66c366714a",
@@ -379,7 +451,7 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
       "publishedAt": "01:29",
-      "relativeTime": "9 小时前",
+      "relativeTime": "14 小时前",
       "titleZh": "你不能再忽视 Google Zero",
       "summaryZh": "网络和谷歌曾经达成一项协议：谷歌收集数据并为网页建立索引，作为交换，向网站发送大量流量。这笔交易并不完美，而且谷歌赚的钱肯定比网站赚的钱还多，但它持续了很长一段时间。然而现在，这笔交易似乎……"
     },
@@ -395,7 +467,7 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
       "publishedAt": "01:00",
-      "relativeTime": "10 小时前",
+      "relativeTime": "14 小时前",
       "titleZh": "Meta 正在使其人工智能聊天机器人更像一个助手",
       "summaryZh": "Meta 正在升级其人工智能聊天机器人，添加新的生产力功能，以与 Gemini、ChatGPT 和 Claude 等竞争对手竞争。此次更新将允许 Meta AI 进入您的日历，帮助您计划活动并生成每日简报，以及进行深入研究……"
     },
@@ -411,7 +483,7 @@
       "source": "WIRED AI",
       "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast/",
       "publishedAt": "01:53",
-      "relativeTime": "9 小时前",
+      "relativeTime": "13 小时前",
       "titleZh": "中美AI竞赛升级，OpenAI模型失控，为什么你应该检查你的汽车警报器",
       "summaryZh": "在这一集《恐怖谷》中，我们深入探讨了对中国登月人工智能窃取 Anthropic 的指控，以及美国陆军需要如何减少人工智能的使用。"
     },
@@ -427,7 +499,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1570258.htm",
       "publishedAt": "09:01",
-      "relativeTime": "2 小时前"
+      "relativeTime": "6 小时前"
     },
     {
       "id": "cd84a99706e4d7",
@@ -441,7 +513,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1570246.htm",
       "publishedAt": "08:54",
-      "relativeTime": "2 小时前"
+      "relativeTime": "6 小时前"
     },
     {
       "id": "9b7e95398f82c8",
@@ -455,7 +527,7 @@
       "source": "Anthropic GitHub Releases",
       "sourceUrl": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.120.0",
       "publishedAt": "00:32",
-      "relativeTime": "10 小时前",
+      "relativeTime": "15 小时前",
       "summaryZh": "0.120.0 (2026-07-24) 完整变更日志：v0.119.0...v0.120.0 功能 api：添加 claude-opus-5 模型 ( bf4e31c ) api：添加工具添加/删除块和 tool_change 事件 ( bf4e31c ) api：扩展客户端后备信用令牌类型并添加服务器端后备默认选项 (..."
     },
     {
@@ -470,7 +542,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1570222.htm",
       "publishedAt": "08:29",
-      "relativeTime": "2 小时前"
+      "relativeTime": "7 小时前"
     },
     {
       "id": "b145b8d092ef86",
@@ -484,20 +556,20 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1570212.htm",
       "publishedAt": "00:39",
-      "relativeTime": "10 小时前"
+      "relativeTime": "14 小时前"
     }
   ],
   "trendLines": [
     "AI 产品更新加快，能力正进入更多日常工作流。",
-    "大模型仍是今日高频主线，能力、价格与生态策略持续变化。",
-    "AI 算力竞争继续转向推理能效、供应能力与整体成本。"
+    "AI 算力竞争继续转向推理能效、供应能力与整体成本。",
+    "大模型仍是今日高频主线，能力、价格与生态策略持续变化。"
   ],
   "pendingItems": [
-    "本轮有 32 条来自可靠媒体的报道，后续将继续追踪官方确认。"
+    "本轮有 37 条来自可靠媒体的报道，后续将继续追踪官方确认。"
   ],
   "scanStats": {
     "configuredSources": 19,
     "successfulSources": 19,
-    "candidateCount": 34
+    "candidateCount": 38
   }
 }
