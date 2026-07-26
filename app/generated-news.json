@@ -1,29 +1,15 @@
 {
   "boardMeta": {
-    "generatedAt": "2026-07-26 10:07",
+    "generatedAt": "2026-07-26 17:03",
     "date": "2026年7月26日 · 星期日",
-    "edition": "上午版",
-    "window": "北京时间今日 00:00 至 10:07",
-    "nextUpdate": "下一轮 16:15 自动更新"
+    "edition": "午后版",
+    "window": "北京时间今日 00:00 至 17:03",
+    "nextUpdate": "下一轮 00:15 自动更新"
   },
   "newsItems": [
     {
-      "id": "21a0d3fc713d0e",
-      "level": "头条",
-      "region": "国内",
-      "category": "政策监管",
-      "verification": "媒体报道",
-      "title": "近 20 亿美元神秘交易落地，特斯拉重金收购 AI 硬件企业",
-      "summary": "IT之家 7 月 26 日消息，特斯拉一笔备受关注的 AI 领域神秘收购终于尘埃落定。在今年早些时候释放出一些暗示之后，公司已正式完成对一家未公开名称的人工智能硬件公司的收购，交易规模接近 20 亿美元。 这一消息来自最新披露的监管文件。根据特斯拉最新提交的 10-Q 季度报告，公司已于第二季度完成这笔交易，收购对价为价值 19.5 亿美元（IT之家注：现汇率约合 132.25 亿元人民币）的普通股和股权奖励。 特斯拉最初于今年 4 月宣布了这项收购计划，当时披露的交易规模最高可达 20 亿美元。最终完成的 19.5 亿美元交易中，有 17.3 亿美元…",
-      "whyItMatters": "监管与司法判例会直接改变模型训练、产品上线和企业合规成本。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/625.htm",
-      "publishedAt": "08:40",
-      "relativeTime": "1 小时前"
-    },
-    {
       "id": "a43cd096a11acf",
-      "level": "重要",
+      "level": "头条",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -33,121 +19,65 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "publishedAt": "09:30",
-      "relativeTime": "37 分钟前",
+      "relativeTime": "7 小时前",
       "titleZh": "Monday.com 是最新一家将裁员归咎于人工智能的科技公司——这里还有另外 20 家公司",
       "summaryZh": "按时间倒序顺序观察今年宣布大幅裁员的大型科技公司，其中人工智能是一个明确的因素。"
     },
     {
-      "id": "f14210ab68bfd6",
-      "level": "重要",
-      "region": "国内",
-      "category": "政策监管",
-      "verification": "媒体报道",
-      "title": "马斯克反思从政经历：过于投入政治，陷得太深了",
-      "summary": "IT之家 7 月 26 日消息，埃隆 · 马斯克近日谈及了自己在美国华盛顿参与政府工作的经历，并反思了政治活动对自己工作重心造成的影响。在最近接受采访时，这位特斯拉 CEO 围绕人工智能、监管以及行业合作等话题，分享了自己的看法。 IT之家注意到，在《经济学人》总编辑赞妮 · 明顿 · 贝德多斯（Zanny Minton Beddoes）主持的《The Insider》节目中，马斯克回顾了自己参与政府事务的经历。他表示：“我觉得自己有点过于投入政治了，说实话，有些陷得太深了。当初参与 DOGE 的目标，是希望能为解决财政赤字问题做点事情。” 马斯克涉足…",
-      "whyItMatters": "监管与司法判例会直接改变模型训练、产品上线和企业合规成本。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/628.htm",
-      "publishedAt": "08:50",
-      "relativeTime": "1 小时前"
-    },
-    {
-      "id": "5b7a1edbb1ceb6",
-      "level": "重要",
-      "region": "国内",
-      "category": "具身智能",
-      "verification": "媒体报道",
-      "title": "特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路",
-      "summary": "IT之家 7 月 26 日消息，特斯拉似乎正在悄然为 Robotaxi（自动驾驶出租车）服务走向国际市场做准备。最新发布的招聘信息显示，南美洲有望成为继美国之后，首批上线特斯拉自动驾驶网约车服务的海外地区之一。 长期关注特斯拉动态的 X 用户 @tslaming 发现，特斯拉目前正在哥伦比亚和智利招聘 AI 安全运营专员（AI Safety Operator）。这些岗位的主要职责是监督自动驾驶网约车网络的日常运营，同时开展动态数据采集工作。 从招聘信息来看，特斯拉正在哥伦比亚波哥大、麦德林埃尔波夫拉多（El Poblado）以及智利圣地亚哥拉斯孔德斯（…",
-      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/621.htm",
-      "publishedAt": "08:10",
-      "relativeTime": "1 小时前"
-    },
-    {
-      "id": "9378694854a3d9",
-      "level": "重要",
-      "region": "国内",
-      "category": "具身智能",
-      "verification": "媒体报道",
-      "title": "日媒发布宇树 G1 拆机视频后认输，称人形机器人短期内赶不上中国",
-      "summary": "IT之家 7 月 26 日消息，据央视新闻报道， 日本日经xTECH 网站 7 月 23 日发布了一段日本技术人员拆解中国宇树科技 G1 人形机器人的视频，尝试探究其内部结构与技术水平。 在这段视频中，日方技术人员和媒体记者边拆边感叹中国人形机器人的技术水平之高，并最终得出结论：中国机器人研发显然已超越了“只会展示”的阶段，在人形机器人领域， 日本想在短时间内缩小与中国的差距“恐怕并不现实” 。 据IT之家此前报道，GMO 互联网集团旗下公司“GMO AI & 机器人商事”（GMO AIR）今年 6 月宣布，公司与“全球市场份额第一”的人形机器人厂商宇…",
-      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/619.htm",
-      "publishedAt": "08:07",
-      "relativeTime": "2 小时前"
-    },
-    {
-      "id": "e98b93dd4270ea",
-      "level": "重要",
+      "id": "cb04b7cb715b79",
+      "level": "关注",
       "region": "国内",
       "category": "产品动态",
       "verification": "媒体报道",
-      "title": "为引流编造暴雨致死谣言、AI 恶意嫁接冒充本地灾情，多名造谣者被警方依法查处",
-      "summary": "IT之家 7 月 26 日消息，7 月中下旬，安徽潜山市短时强降雨过程增多。据央视新闻报道，一个网名为“红立”的人于 7 月 20 日在某网络平台发布了一条视频，画面中一些人在河道附近，现场有警戒线等元素，并配文“大雨过后河道水面瞬间暴涨，淹死了几个”。 经警方调查核实，孙某某为博取关注、吸粉引流，是故意编造并发布“大雨过后河道水面瞬间暴涨，淹死了几个”的谣言，而此次降雨天气未造成潜山市人员伤亡。目前， 孙某某已被公安机关依法予以行政处罚 。 潜山市公安局城关派出所四级警长储阮征也对视频内容进行了说明：孙某某所发布视频的实际情况是近期潜山市遭遇极端降雨…",
+      "title": "英媒：65%白领怀念没有AI的职场 三分之一担忧创造力受影响",
+      "summary": "7月26日，人工智能正在重塑白领工作的同时，也引发越来越多从业者对“AI出现前工作状态”的怀念。英国《金融时报》报道称，多项调查显示，不少白领认为， 生成式AI并未完全减轻工作负担，反而带来了创造力下降、事实核查成本增加以及工作节奏加快等新问题 。 阅读全文",
       "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/614.htm",
-      "publishedAt": "07:39",
-      "relativeTime": "2 小时前"
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1570378.htm",
+      "publishedAt": "15:29",
+      "relativeTime": "1 小时前"
     },
     {
-      "id": "ba3dfb43245670",
-      "level": "关注",
-      "region": "国内",
-      "category": "研究论文",
-      "verification": "媒体报道",
-      "title": "因担忧准确性问题，欧美多所高校停用 AI 检测工具",
-      "summary": "IT之家 7 月 26 日消息，据英国《金融时报》报道，美国阿德尔菲大学学生奥赖恩 · 纽比（Orion Newby）因被校方误指控使用 AI 生成论文、违反学术诚信原则，不得不经历一场漫长的维权过程，才最终证明自己的清白。 今年 1 月，纽约一家法院判决纽比胜诉。判决书显示，学校采用的 Turnitin AI 检测工具认定其论文“AI 生成概率为 100%”，但纽比提交了其他多款 AI 检测工具的结果，均显示论文由 AI 生成的概率为 0%。尽管如此，校方仍维持学术不端的认定。法院认为，学校未遵循自身的纪律处分程序，也没有给予纽比真正意义上的申诉机会…",
-      "whyItMatters": "新研究可能改变模型能力边界，但仍需要复现、评测与同行检验。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/635.htm",
-      "publishedAt": "09:57",
-      "relativeTime": "10 分钟前"
-    },
-    {
-      "id": "16d4dfb71c1cc8",
+      "id": "86ee06e7085f64",
       "level": "关注",
       "region": "国内",
       "category": "芯片算力",
       "verification": "媒体报道",
-      "title": "SK 集团会长崔泰源：Anthropic 已就自研芯片项目寻求海力士供应",
-      "summary": "IT之家 7 月 26 日消息，据彭博社当地时间 24 日报道，SK 集团会长崔泰源近日在美国加利福尼亚州旧金山举行的一场人工智能活动上表示， Anthropic 已就自研芯片项目向 SK 海力士寻求（存储半导体）供应 。 崔泰源称，一家人工智能开发商能怀有自主研发芯片的雄心，实属难得。 IT之家注意到，外媒 The Information 曾在本月初表示 Anthropic 已启动自研人工智能芯片的早期开发工作 ，正与三星电子洽谈定制项目事宜。该项目有望采用三星晶圆代工的 2nm 制程工艺以及先进封装技术",
+      "title": "OpenAI游说美国限制中国开源模型 黄仁勋马斯克公开反对",
+      "summary": "7月26日，据《纽约时报》报道，多年来，硅谷科技界在AI软件开发方式上一直存在理念分歧。本周，这场争论达到了白热化。一方是以Anthropic和OpenAI为首的头部AI企业，它们认为，某些AI模型过于危险，不应以开放方式开发，而必须由像它们这样的企业一样进行严格控制，以确保安全。另一方则是包括微软、英伟达等巨头在内的科技行业其他成员，它们主张所谓的开源AI模型必须保持开放，以便人们进一步开发技术、创立新的业务。 阅读全文",
       "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/622.htm",
-      "publishedAt": "08:15",
-      "relativeTime": "1 小时前"
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1570368.htm",
+      "publishedAt": "11:29",
+      "relativeTime": "5 小时前"
     },
     {
-      "id": "9fd129cf55d839",
+      "id": "58cfb30afcee7e",
       "level": "关注",
       "region": "国内",
-      "category": "具身智能",
+      "category": "产品动态",
       "verification": "媒体报道",
-      "title": "特斯拉 FSD v15 早期版本已上路，Robotaxi 车队率先搭载",
-      "summary": "IT之家 7 月 26 日消息，特斯拉下一代 FSD 软件已正式比预期更早开始在公共道路上运行。在当地时间周三举行的第二季度财报电话会议上，公司高管透露，目前在 Robotaxi 自动驾驶出租车网络中提供无人驾驶服务的改装版 Model Y，已经搭载了 FSD v15 的早期测试版本。 IT之家注意到，特斯拉 AI 负责人阿肖克 · 埃卢斯瓦米（Ashok Elluswamy）在会议上介绍了 Robotaxi 车队的最新进展。他表示：“Robotaxi 项目运行得非常顺利，尤其是在安全性方面，取得了无可挑剔的安全纪录。我们已经在两个州、六座城市累计完成…",
-      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/618.htm",
-      "publishedAt": "07:57",
-      "relativeTime": "2 小时前"
+      "title": "月之暗面Kimi K3庆功照流出 张予彤疑现身喊出“冲上月球”口号",
+      "summary": "据报道，在经历过去一段时间月之暗面Kimi K3发布引发的广泛关注后，月之暗面于本周五在北京的一个酒吧举行了庆功活动。据流出内容，月之暗面展示的一张庆功标语显示，月之暗面对于K3的定位是“扩容升级”，同时期望将下一代K4“狠狠干到极致”，并喊出了“冲上月球”口号。 阅读全文",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1570362.htm",
+      "publishedAt": "11:27",
+      "relativeTime": "5 小时前"
     },
     {
-      "id": "df7c5e80dcdfd3",
+      "id": "ead1f4a50efa80",
       "level": "关注",
       "region": "国内",
-      "category": "政策监管",
+      "category": "芯片算力",
       "verification": "媒体报道",
-      "title": "Debian 项目发起议案，讨论是否允许 AI 大模型参与开发",
-      "summary": "IT之家 7 月 26 日消息，Debian 项目开发者本周（7 月 24 日）发起议案，讨论未来是否允许 AI 大语言模型（LLM）开发 Debian。 据悉，本次议案共有三个选项：完全禁止大语言模型或其他 AI 工具、允许项目贡献者使用 AI 辅助工作、尽可能拒绝大语言模型和生成式 AI。 IT之家附三项提案详情如下： 提案 A：完全禁止使用大语言模型提交官方软件代码、文档、公告 该提案主张完全禁用大语言模型和生成式 AI 工具，即使是 AI 修改、开发者人工确认也不可行。提案认为，LLM 输出的代码无法确认版权归属，且 AI 大模型训练的数据来源…",
-      "whyItMatters": "监管与司法判例会直接改变模型训练、产品上线和企业合规成本。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/981/612.htm",
-      "publishedAt": "07:29",
-      "relativeTime": "2 小时前"
+      "title": "英伟达据报削减Vera Rubin AI机柜内存配置以控制成本",
+      "summary": "受高昂的内存价格及持续紧张的供应链形势影响，英伟达（NVIDIA）正计划大幅调降其下一代Vera Rubin NV72（特别是VR200 NVL72）机柜级人工智能（AI）系统的内存配置。 阅读全文",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1570376.htm",
+      "publishedAt": "13:01",
+      "relativeTime": "4 小时前"
     },
     {
       "id": "29bdcf64fea216",
@@ -161,7 +91,21 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1570356.htm",
       "publishedAt": "09:32",
-      "relativeTime": "35 分钟前"
+      "relativeTime": "7 小时前"
+    },
+    {
+      "id": "737b58a6f04cc5",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "ChatGPT可详尽输出生物武器制作教程 企业仅封禁提问账号",
+      "summary": "去年夏天OpenAI升级旗下聊天大模型性能后，全球数百名用户向其询问生物武器与剧毒制剂的制作、投放方法。在缺乏美国联邦层面硬性管控的前提下，该模型会详尽作答，其分步操作指引简单到高中生物学生就能看懂。知情人士透露，事后生物安全与反恐专家复盘ChatGPT的相关对话记录，判定部分回答精准到足以致命。 阅读全文",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1570364.htm",
+      "publishedAt": "11:27",
+      "relativeTime": "5 小时前"
     },
     {
       "id": "7e5aba1250a0d3",
@@ -175,7 +119,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1570338.htm",
       "publishedAt": "08:18",
-      "relativeTime": "1 小时前"
+      "relativeTime": "8 小时前"
     },
     {
       "id": "1a6257110409f5",
@@ -189,7 +133,7 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
       "publishedAt": "00:00",
-      "relativeTime": "10 小时前",
+      "relativeTime": "17 小时前",
       "titleZh": "图书馆员正在为那些厌倦了大型科技的人们举办病毒式的“避免人工智能”研讨会",
       "summaryZh": "在全国各地的图书馆，“避免人工智能”研讨会引发了前所未有的需求。"
     },
@@ -205,7 +149,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1570360.htm",
       "publishedAt": "10:02",
-      "relativeTime": "5 分钟前"
+      "relativeTime": "7 小时前"
     },
     {
       "id": "84583cf7adde85",
@@ -219,7 +163,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1570352.htm",
       "publishedAt": "09:31",
-      "relativeTime": "36 分钟前"
+      "relativeTime": "7 小时前"
     },
     {
       "id": "f31f20f3fddf4d",
@@ -233,7 +177,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1570350.htm",
       "publishedAt": "09:30",
-      "relativeTime": "37 分钟前"
+      "relativeTime": "7 小时前"
     },
     {
       "id": "931bf69c943219",
@@ -247,7 +191,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1570334.htm",
       "publishedAt": "08:15",
-      "relativeTime": "1 小时前"
+      "relativeTime": "8 小时前"
     },
     {
       "id": "44ee042e8f3389",
@@ -261,21 +205,21 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1570332.htm",
       "publishedAt": "08:13",
-      "relativeTime": "1 小时前"
+      "relativeTime": "8 小时前"
     }
   ],
   "trendLines": [
     "AI 产品更新加快，能力正进入更多日常工作流。",
-    "AI 治理进入更具体的规则与执行阶段，合规边界继续收紧。",
-    "具身智能继续升温，真实场景数据与可靠执行成为竞争焦点。"
+    "AI 算力竞争继续转向推理能效、供应能力与整体成本。",
+    "大模型仍是今日高频主线，能力、价格与生态策略持续变化。"
   ],
   "pendingItems": [
-    "本轮有 18 条来自可靠媒体的报道，后续将继续追踪官方确认。",
+    "本轮有 14 条来自可靠媒体的报道，后续将继续追踪官方确认。",
     "1 个信息源本轮暂时不可用，系统会在下一轮自动重试。"
   ],
   "scanStats": {
     "configuredSources": 19,
     "successfulSources": 18,
-    "candidateCount": 18
+    "candidateCount": 14
   }
 }
