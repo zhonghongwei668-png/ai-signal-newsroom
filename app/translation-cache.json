@@ -380,6 +380,34 @@
     "7713fba266eb152add358ea8c2a56b273ec4d9333347671c7adb9f8a4ced46dc": {
       "source": "Are brain waves the next unlock for physical AI?\nZXQSEPZXQ\nForget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
       "zh": "脑电波是物理人工智能的下一个解锁点吗？\nZXQSEPZXQ\n忘掉 YouTube 视频吧——前沿的物理人工智能模型需要多个摄像机角度、密集的注释，很快还需要脑电波读数。"
+    },
+    "f5601f2fe2d44f52ffc61cabf8407e9884fc04259b3d9963595900342507f792": {
+      "source": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system\nZXQSEPZXQ\nMicrosoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+      "zh": "微软推出首个网络安全模型以及新的代理网络安全系统\nZXQSEPZXQ\n微软本周推出了首个人工智能安全模型和新的安全平台，增强了其人工智能网络安全产品。"
+    },
+    "de1bbc43858b5dfe8fd5fd33dc6fb3254c87c4b2e0319bfd14bbd82a506b728b": {
+      "source": "PSA: Your Claude shared chats and Artifacts may have ended up on Google\nZXQSEPZXQ\nThe issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "zh": "PSA：您的 Claude 共享聊天记录和工件可能已出现在 Google 上\nZXQSEPZXQ\n该问题似乎源于 Claude 的“共享聊天”功能，该功能允许用户创建链接，使任何拥有指定 URL 的人都可以查看对话或项目。"
+    },
+    "18bd17b8b64b6a4f99ac0e17be083bab9c9c23a356f309b41875f1116153e4e1": {
+      "source": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.\nZXQSEPZXQ\nThis story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, an…",
+      "zh": "OpenAI称Hugging Face攻击史无前例。但我们以前来过这里。\nZXQSEPZXQ\n这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。上周阅读 OpenAI 的报道，了解其一些模型如何突破收容并侵入 Hugging Face 的计算机系统，..."
+    },
+    "a64ebe0e7da428e05078d989787a5f35bb519180bc17874e59d61a873ce028d0": {
+      "source": "Private Claude Chats Exposed in Google and Bing Search Results\nZXQSEPZXQ\nThe screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
+      "zh": "Google 和 Bing 搜索结果中公开的私人 Claude 聊天\nZXQSEPZXQ\n这次失误表明，阻止网络爬虫与完全公开的人工智能聊天机器人进行表面上私人的对话是多么困难。"
+    },
+    "9014e4c6671ffef8b068ec58027bba3ae331af3f5ac08a04529ac83e03a607fa": {
+      "source": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control\nZXQSEPZXQ\nOpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+      "zh": "OpenAI 的 Hugging Face 漏洞重新引发了关于对齐和控制的争论\nZXQSEPZXQ\nOpenAI 的 Hugging Face 漏洞重新引发了关于人工智能调整和控制的争论，暴露了关于能力日益增强的人工智能是否应该更好地调整、更好地遏制或两者兼而有之的相互竞争的观点。"
+    },
+    "33bf009d8c0f1af374031550ef38e5a6d5e84009e3bf476288f4b3f86a99c65e": {
+      "source": "Threads users can now chat with Meta AI in their DMs\nZXQSEPZXQ\nMeta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+      "zh": "Threads 用户现在可以在他们的 DM 中与 Meta AI 聊天\nZXQSEPZXQ\nMeta 周一表示，它正在 Threads 的 DM 中推出 Meta AI 聊天机器人，为用户提供与 AI 助手聊天的方式。"
+    },
+    "ba630514c9e76870bc4196af19744f1b7cf725ad07ebddbe322b6ecc27cb49c6": {
+      "source": "Why China is giving away its best AI models\nZXQSEPZXQ\nSilicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to inten…",
+      "zh": "为什么中国要赠送最好的人工智能模型\nZXQSEPZXQ\n硅谷在过去一周的大部分时间里都处于红色警报状态，消化着 Moonshot AI 的 Kimi K3 的到来，这是一种中国人工智能模型，据称可以以极低的成本击败美国公司构建的一些最好的系统。仅其性能就足以意图......"
     }
   }
 }
