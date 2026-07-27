@@ -348,6 +348,38 @@
     "c8873803b1371634d32ec51bf6c16960f4a3ff20440f64834b4ee0626f2b3773": {
       "source": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack\nZXQSEPZXQ\n\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
       "zh": "Hugging Face首席执行官在“史无前例”的OpenAI黑客攻击后呼吁“彻底透明”\nZXQSEPZXQ\n“第一次自主代理网络攻击是前所未有的事件。它应该得到前所未有的回应！”"
+    },
+    "629446759453e1957cad903e6ff2c422bc23677860377c3d09768834f0af9faa": {
+      "source": "How AI is expanding what people do at work\nZXQSEPZXQ\nNew OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "zh": "人工智能如何扩展人们的工作范围\nZXQSEPZXQ\n新的 OpenAI 研究展示了人工智能如何扩展员工的工作范围，让 ChatGPT 用户跨角色承担任务并重塑工作边界。"
+    },
+    "da028afbbf0ed6910c4558e15599c8e751177d42859d51a20b74a1bc0beafdd1": {
+      "source": "Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic\nZXQSEPZXQ\nNvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiat…",
+      "zh": "Nvidia、微软推出开放人工智能安全联盟——不包括 OpenAI、Google 或 Anthropic\nZXQSEPZXQ\n英伟达周一表示，它正在与微软、SpaceX、IBM 和其他科技公司联手构建和共享开源人工智能安全工具。新成立的开放安全人工智能联盟表示，需要开放工具来有效防御来自前沿模型的攻击。发起者…"
+    },
+    "96a12b967eb54a6fcc623c8631b7cd3efc048c3df030f96c11a2d88efaf130b0": {
+      "source": "The path to artificial superintelligence\nZXQSEPZXQ\nImagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange d…",
+      "zh": "通往超级人工智能之路\nZXQSEPZXQ\n想象一下由多个人工智能代理组成的医疗保健系统：一个负责管理症状评估，另一个负责调度，第三个保险和第四个药房。每个人都是其领域的专家。但他们都有自己独特的知识和目标。今天他们可以交换..."
+    },
+    "59e2bd760de04a53a8dcb58be1770029e9d540d1572e05855d8ca2db6fbdd1dd": {
+      "source": "Closing the data loop in AI-driven drug discovery\nZXQSEPZXQ\nDrug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today…",
+      "zh": "关闭人工智能驱动药物发现的数据循环\nZXQSEPZXQ\n药物发现是一项高成本、高风险的工作，它面临着日益由先发优势决定的市场带来的越来越大的压力。自 20 世纪 50 年代以来，开发新药物的成本大约每九年翻一番，这种现象被称为“埃鲁姆定律”。今天…"
+    },
+    "0253d3c6c7f64cf24261e404d96fb6cfde5524f6a54bebc80c1d06fb3c78454e": {
+      "source": "Building the enterprise environment for agentic AI\nZXQSEPZXQ\nFor the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, res…",
+      "zh": "构建代理人工智能的企业环境\nZXQSEPZXQ\n对于企业来说，代理人工智能的承诺不仅仅是一个更好的聊天机器人。它是跨人员、业务工作流程、数据和系统端到端执行业务任务的软件代理。最适合运行代理的平台是用适当的 CPU 容量、资源构建的……"
+    },
+    "756eeed5bef68d7191ae79ce12e4bef19b0af75649e2b29454b01f8cfc0817c5": {
+      "source": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics\nZXQSEPZXQ\nNVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics。",
+      "zh": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟\nZXQSEPZXQ\nNVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟。"
+    },
+    "f607866201e4c52ae2b13d3077a2f18361fe6f412c81734de36a5090c3d92337": {
+      "source": "This Is Donald Trump’s AI Brain Trust\nZXQSEPZXQ\n“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped.",
+      "zh": "这是唐纳德·特朗普的人工智能智囊团\nZXQSEPZXQ\n“这不是两个方面的争论，而是 10 个方面的争论，”一位高级政府官员向 WIRED 讲述美国人工智能政策的制定方式。"
+    },
+    "7713fba266eb152add358ea8c2a56b273ec4d9333347671c7adb9f8a4ced46dc": {
+      "source": "Are brain waves the next unlock for physical AI?\nZXQSEPZXQ\nForget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+      "zh": "脑电波是物理人工智能的下一个解锁点吗？\nZXQSEPZXQ\n忘掉 YouTube 视频吧——前沿的物理人工智能模型需要多个摄像机角度、密集的注释，很快还需要脑电波读数。"
     }
   }
 }
