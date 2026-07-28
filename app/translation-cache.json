@@ -496,6 +496,30 @@
     "ab03604f91bb058452eeeb3ed0cb67bd291a8d7f57e731c2b48fc472ce5c6cf6": {
       "source": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI\nZXQSEPZXQ\nAnthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
       "zh": "Anthropic的Dario Amodei回应：不反对开放权重模型，但担心中国AI\nZXQSEPZXQ\nAnthropic创始人兼首席执行官Dario Amodei明确表达了他对开放权重模型和中国不断增长的人工智能能力的看法。"
+    },
+    "f44467137e4116e8d337edd25fa73d496a8986ecdcff5d8f9c3f6859d1b77a90": {
+      "source": "Scientific computing in the age of agentic AI\nZXQSEPZXQ\nA new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "zh": "代理人工智能时代的科学计算\nZXQSEPZXQ\n一份新的现场报告展示了科学家如何使用人工智能编码代理实现科学计算现代化，加速基因组学及其他领域的软件开发和发现。"
+    },
+    "0e8a93606a5ba5ae1d669c359b1e0746a12e86a2916b40474179a5208e28a49d": {
+      "source": "Gemini API Managed Agents: 3.6 Flash, hooks, and more\nZXQSEPZXQ\nManaged Agents Gemini 3.6 Flash, Hooks and Triggers",
+      "zh": "Gemini API 托管代理：3.6 Flash、挂钩等\nZXQSEPZXQ\n托管代理 Gemini 3.6 Flash、挂钩和触发器"
+    },
+    "cdeddc671a2ac21a64c6438e4fad5bdca9c8c9831d14167d1a306a2bdab2140a": {
+      "source": "The OlmoEarth Platform: Geospatial inference at planetary scale\nZXQSEPZXQ\nThe OlmoEarth Platform: Geospatial inference at planetary scale。",
+      "zh": "OlmoEarth 平台：行星尺度的地理空间推断\nZXQSEPZXQ\nOlmoEarth 平台：行星尺度的地理空间推断。"
+    },
+    "21bceb15225453ff16eec6c2ec303760d21b3c22ef6c0ee3466cd7c4b1e5d66f": {
+      "source": "This release marks the release candidate (RC) 2026-07-28 revision of the Model Context Protocol. The specification is available in draft form . For a detailed overview of changes, see 2026-07-28 draft changelog . Note To users and implementers: this specification is not final. C…",
+      "zh": "此版本标志着模型上下文协议的候选版本 (RC) 2026-07-28 修订版。该规范以草案形式提供。有关更改的详细概述，请参阅 2026-07-28 草案变更日志 。用户和实施者注意：本规范不是最终版本。 …"
+    },
+    "da20261325193c3dafa443d6a8a4ce1a28b0ac1b893495521eb8f59eefb8ceb4": {
+      "source": "0.120.2 (2026-07-28) Full Changelog: v0.120.1...v0.120.2 Bug Fixes mcp: support mcp sdk v2 alongside v1 ( #300 ) ( 177f88c )",
+      "zh": "0.120.2 (2026-07-28) 完整更新日志：v0.120.1...v0.120.2 错误修复 mcp：支持 mcp sdk v2 和 v1 ( #300 ) ( 177f88c )"
+    },
+    "60a0c60e218d772946eaee3283de9824203ec4291d348452cb7015c3320bf02c": {
+      "source": "0.120.1 (2026-07-28) Full Changelog: v0.120.0...v0.120.1 Bug Fixes mcp: pin mcp extra to <2 ( #1783 ) ( fb66371 )",
+      "zh": "0.120.1 (2026-07-28) 完整更新日志：v0.120.0...v0.120.1 错误修复 mcp：将 mcp extra 固定到 <2 ( #1783 ) ( fb66371 )"
     }
   }
 }
