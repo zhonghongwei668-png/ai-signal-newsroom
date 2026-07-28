@@ -468,6 +468,34 @@
     "0c828b5fa90ceaa81270797c7bd7ab099285f6fca644050f57bf085bd5ec3313": {
       "source": "Stacking the Deck: Tunable Trainability in Stacked LCUs\nZXQSEPZXQ\nVariational quantum circuits have been central to many proposed near-term applications of quantum computing, but a growing body of evidence suggests that trainability and quantum advantage are fundamentally at odds: ansätze expressive enough to resist efficient classical simulat…",
       "zh": "堆叠甲板：堆叠 LCU 中的可调可训练性\nZXQSEPZXQ\n变分量子电路一直是许多提出的量子计算近期应用的核心，但越来越多的证据表明，可训练性和量子优势从根本上是矛盾的： ansätze 表达能力足以抵抗有效的经典模拟……"
+    },
+    "abe7bdd3a91163f6b63584c11035e7a65d4e1542045d85a4c26879849db61004": {
+      "source": "Samsung’s chip workers are jumping ship to rival SK Hynix\nZXQSEPZXQ\nLee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK…",
+      "zh": "三星的芯片工人正在跳槽到竞争对手 SK 海力士\nZXQSEPZXQ\n三星半导体部门的工程师李在下班时打卡下班。他过去常常工作更长的时间，加倍努力以出色地完成他的项目。但最近，他直接回家为这家芯片制造商的韩国竞争对手 SK 处理工作申请……"
+    },
+    "4cdd97ac95f931c9ce21d3bdbb16a59d24679ae213c02651e389f80b15dc6143": {
+      "source": "Can the New York Times Save Journalism From Our AI Overlords?\nZXQSEPZXQ\nIn 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it.",
+      "zh": "《纽约时报》能否从人工智能霸主手中拯救新闻业？\nZXQSEPZXQ\n2023年，《泰晤士报》起诉OpenAI和微软侵犯版权。此后，他们为此案花费了超过 2000 万美元，而出版商 A.G. Sulzberger 也没有计划停止与之抗争。"
+    },
+    "a5a16d984e0c0751f862d68613390787d1f72cf99850039eb6a0c0d925a6f770": {
+      "source": "Hugging Face is being used to easily undress women and children\nZXQSEPZXQ\nHugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image edi…",
+      "zh": "Hugging Face被用来轻松脱掉妇女和儿童的衣服\nZXQSEPZXQ\nHugging Face 被用来制作未经同意的 Deepfake，而流行的开源 AI 模型存储库几乎没有采取任何措施来阻止这种情况。这是根据欧洲非营利组织 AI Forensics 发布的一份新报告得出的结论，该报告发现排名前 9 的图像编辑中有 7 个……"
+    },
+    "107d3d8f686040cc7c84c3012fea44b1b3099aec427bd6b86f72c7c7b4c16a31": {
+      "source": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them\nZXQSEPZXQ\nAnthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
+      "zh": "硅谷的下一个 IPO 亿万富翁即将到来。非营利组织已为他们做好准备\nZXQSEPZXQ\nAnthropic和OpenAI员工在公司上市后应慷慨解囊。一位非营利组织领导人表示：“这将是一次疯狂的旅程。”"
+    },
+    "c7a08a0c99456b926b5d6fd5145c2790a8f9227d0a4e47f8009f3bb6d530073d": {
+      "source": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing\nZXQSEPZXQ\nCursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+      "zh": "Cursor 在 SpaceX 收购之前以本地化定价进行了迄今为止最大的印度推广\nZXQSEPZXQ\nCursor 表示，印度目前是其全球第三大市场，并计划扩大当地招聘和企业销售。"
+    },
+    "21fd4a8795f5c2ea0d3dcb32d07fa403011cb50b0cd5346f858206ce8d32a5c2": {
+      "source": "Hugging Face Has a Deepfake Nudes Problem\nZXQSEPZXQ\nResearchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
+      "zh": "Hugging Face 存在 Deepfake 裸体问题\nZXQSEPZXQ\n研究人员在 Hugging Face 上测试了顶级图像编辑模型，发现它们可以轻松创建明显的深度伪造品，并且 1,000 个图像编辑提示显示了人们如何使用该软件。"
+    },
+    "ab03604f91bb058452eeeb3ed0cb67bd291a8d7f57e731c2b48fc472ce5c6cf6": {
+      "source": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI\nZXQSEPZXQ\nAnthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+      "zh": "Anthropic的Dario Amodei回应：不反对开放权重模型，但担心中国AI\nZXQSEPZXQ\nAnthropic创始人兼首席执行官Dario Amodei明确表达了他对开放权重模型和中国不断增长的人工智能能力的看法。"
     }
   }
 }
