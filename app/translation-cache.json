@@ -584,6 +584,10 @@
     "4a0aaa4901e63f5bae3b95689ca02b5ef38d3b44e07aa6f4bbc1daeb7e92c915": {
       "source": "Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?\nZXQSEPZXQ\nComputer-use agents (CUAs) increasingly act through desktop GUIs to complete long-horizon tasks. Current benchmarks primarily measure end-task success or single-frame grounding. Neither isolates whether a model can reconstruct the causal, task-relevant transition produced by an…",
       "zh": "Desktop-Delta Bench：计算机使用模型能否理解桌面 GUI 转换？\nZXQSEPZXQ\n计算机使用代理 (CUA) 越来越多地通过桌面 GUI 来完成长期任务。当前的基准测试主要衡量最终任务的成功或单帧落地。两者都没有隔离模型是否可以重建由……产生的因果的、与任务相关的转变。"
+    },
+    "8d7310a10e4531d8970c17ccafdb369b13c2b297d2479f4ce5d14c4dcb650ea1": {
+      "source": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control\nZXQSEPZXQ\nWe’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control。",
+      "zh": "我们将在 Google Flow Music 中推出 Lyria 3.5，该版本在音乐性、歌词、人声和创意控制方面都取得了进步\nZXQSEPZXQ\n我们将在 Google Flow Music 中推出 Lyria 3.5，该版本在音乐性、歌词、人声和创意控制方面都取得了进步。"
     }
   }
 }
