@@ -696,6 +696,30 @@
     "9851aedfe3fe0be9a3ca0ab2d5337e1061977fb2f3957af15e58167b77395d8a": {
       "source": "The Hugging Face break-in explained\nZXQSEPZXQ\nAnother way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
       "zh": "Hugging Face 闯入解释\nZXQSEPZXQ\n思考整个事情的另一种方式是想象露营地里有一只熊。 （真的，我们要去那里。）"
+    },
+    "7732d035c883b5fdde2fbcacec80139aefe25c80930a1c407b4deee434fb0b05": {
+      "source": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price\nZXQSEPZXQ\nDo you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now, it's twice the pric…",
+      "zh": "Friend 重新推出人工智能吊坠，带有能与你说话的扬声器，价格是原来的两倍\nZXQSEPZXQ\n你还记得朋友吗？ The Friend 推出了人工智能挂件，斥资 250 万美元中的 180 万美元收购了friend.com，还在纽约地铁上贴满了宣传人工陪伴的广告？是的，如果你不记得的话，朋友回来了。而现在，价格翻了两倍……"
+    },
+    "2cd67c85d30c9fe9f72b7755c4f3ba23ac430f8120d89435c291605ddd789a3a": {
+      "source": "Google DeepMind’s new AI model can control a robot’s entire body\nZXQSEPZXQ\nGoogle DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, a…",
+      "zh": "Google DeepMind的新AI模型可以控制机器人的整个身体\nZXQSEPZXQ\nGoogle DeepMind表示，其Gemini机器人人工智能模型的最新版本可以“控制整个人形机器人”。虽然之前的模型专注于控制人形机器人的上半身，但 Gemini Robotics 2 现在支持从脚到指尖的“全身运动”，..."
+    },
+    "b58ee59ee62eee7199b8ff0e2a408cfc82a9a1bb3c21e23c8cc933e0758c08ba": {
+      "source": "Okta buys AI security startup Permiso; source says for about $200M\nZXQSEPZXQ\nThe deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+      "zh": "Okta 收购人工智能安全初创公司 Permiso；消息人士称，价格约为 2 亿美元\nZXQSEPZXQ\n当企业寻求跨云环境保护人工智能代理和其他非人类身份时，这笔交易为 Okta 提供了身份威胁检测功能。"
+    },
+    "47981d1b2e5b4385b18285846fff7b9409ac2a5257eea065105edcdc44f6462c": {
+      "source": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting\nZXQSEPZXQ\nThe two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.",
+      "zh": "由于 AI 错误搜寻，Chrome 需要每周两次打补丁\nZXQSEPZXQ\n6 月份的两次 Chrome 更新修复的错误比之前的 23 次更新要多。现在，借助人工智能辅助的漏洞发现，谷歌正在加快其补丁计划。"
+    },
+    "39bbaeab7d00425180b632ba4d4a046b28d988b898c1a7c530b240c041b4b74c": {
+      "source": "2.51.0 (2026-07-30) Full Changelog: v2.50.0...v2.51.0 Features api: fast tier ( 8808ed2 ) Bug Fixes api: add fast tier to helper methods ( 6064126 )",
+      "zh": "2.51.0 (2026-07-30) 完整变更日志：v2.50.0...v2.51.0 功能 api：快速层 ( 8808ed2 ) 错误修复 api：向帮助方法添加快速层 ( 6064126 )"
+    },
+    "b402a1f06ac4a07cbd5be19c693cad39af7679582f0800eef8e9b76f76f4f65d": {
+      "source": "The New Friend AI Pendant Can Now Talk Back to You\nZXQSEPZXQ\nAvi Schiffmann has a new version of his controversial AI companion. It’s more expensive, and you can’t change its personality.",
+      "zh": "新朋友人工智能吊坠现在可以跟你说话了\nZXQSEPZXQ\n阿维·希夫曼 (Avi Schiffmann) 推出了他备受争议的人工智能伴侣的新版本。它更贵，而且你无法改变它的个性。"
     }
   }
 }
