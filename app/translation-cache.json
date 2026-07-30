@@ -672,6 +672,30 @@
     "9cf42f3de10e068175d3ec2ae2bdc200495d367084d8ad1420195dd36474f3c8": {
       "source": "DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search\nZXQSEPZXQ\nState-of-the-art retrieval models increasingly rely on closed training data, creating a reproducibility gap. We present an open end-to-end recipe for training retrieval models and study how English supervision transfers to multilingual retrieval through translate-train. We first…",
       "zh": "DenseOn 与 LateOn：用于多语言、长上下文和代码搜索的完全开放的密集和后期交互模型\nZXQSEPZXQ\n最先进的检索模型越来越依赖于封闭的训练数据，从而造成了可重复性的差距。我们提出了一种开放的端到端训练检索模型的方法，并研究英语监督如何通过翻译训练转移到多语言检索。我们首先……"
+    },
+    "96dfebb86fb5e7eb2223941c6c8558803b5f0ffde1ef9c1e5f7f9eef035e7a3f": {
+      "source": "OpenAI’s Hacking Debacle Was a Human Mistake\nZXQSEPZXQ\nIf the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
+      "zh": "OpenAI 的黑客灾难是人为错误\nZXQSEPZXQ\n如果这家生成式人工智能巨头遵循了众所周知的安全最佳实践，那么它的人工智能代理很可能永远不会逃到开放互联网并攻击多家公司。"
+    },
+    "57068d96ad9c5e7982a3cc20aea046cf9d3ad28423244c9215177805fbf3bcaa": {
+      "source": "LinkedIn Won’t Be Expanding Its Data Centers in the Next Year\nZXQSEPZXQ\nDespite the ongoing AI boom, LinkedIn is holding the line on compute spending. Instead, it’s challenging engineers to make every GPU count.",
+      "zh": "LinkedIn 明年不会扩建其数据中心\nZXQSEPZXQ\n尽管人工智能持续蓬勃发展，LinkedIn 仍坚持控制计算支出。相反，让每个 GPU 都发挥作用对工程师来说是一个挑战。"
+    },
+    "996ce329801613fa58808ba701ea8923cd35b7eac27fa6bda7c2eef31d786828": {
+      "source": "AI Scammers Are Better at Building Trust Than Humans\nZXQSEPZXQ\nResearchers pitted a person against a Claude agent and found that, after a week of texting, the AI chatbot was more effective at creating “exploitable trust” with others.",
+      "zh": "人工智能诈骗者比人类更擅长建立信任\nZXQSEPZXQ\n研究人员让一个人与 Claude 代理进行对抗，结果发现，经过一周的短信发送后，人工智能聊天机器人在与他人建立“可利用的信任”方面更加有效。"
+    },
+    "d36295ad084ec97e5bcfb12b593b2c57c70242ea7faeb8b9dca13a7f425a88d8": {
+      "source": "I Got a Free Meal From a Private Chef—Who Filmed It All to Train Robots\nZXQSEPZXQ\nA German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids.",
+      "zh": "我从一位私人厨师那里得到了一顿免费的饭菜——他把这一切都拍下来来训练机器人\nZXQSEPZXQ\n一家德国初创公司派了一位戴着相机的厨师到我的公寓。作为免费午餐的交换，我让他们记录每一次劈砍和搅拌，以训练未来的类人机器人。"
+    },
+    "782e7372a49bd45fd0d82b06d5ae84fc0abede55308d20a91b1acf563c56927c": {
+      "source": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI\nZXQSEPZXQ\nWeng previously served as the VP of AI Safety Research at OpenAI.",
+      "zh": "Thinking Machines联合创始人Lilian Weng因健康原因离开公司，随后加入OpenAI\nZXQSEPZXQ\n翁先生此前曾担任 OpenAI 人工智能安全研究副总裁。"
+    },
+    "9851aedfe3fe0be9a3ca0ab2d5337e1061977fb2f3957af15e58167b77395d8a": {
+      "source": "The Hugging Face break-in explained\nZXQSEPZXQ\nAnother way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+      "zh": "Hugging Face 闯入解释\nZXQSEPZXQ\n思考整个事情的另一种方式是想象露营地里有一只熊。 （真的，我们要去那里。）"
     }
   }
 }
