@@ -1,80 +1,210 @@
 {
   "boardMeta": {
-    "generatedAt": "2026-08-01 11:52",
+    "generatedAt": "2026-08-01 18:12",
     "date": "2026年8月1日 · 星期六",
-    "edition": "上午版",
-    "window": "北京时间今日 00:00 至 11:52",
-    "nextUpdate": "下一轮 16:15 自动更新"
+    "edition": "夜间版",
+    "window": "北京时间今日 00:00 至 18:12",
+    "nextUpdate": "下一轮 00:15 自动更新"
   },
   "newsItems": [
     {
-      "id": "53767487f9dc2d",
+      "id": "6d58997b466ca5",
       "level": "头条",
+      "region": "海外",
+      "category": "大模型",
+      "verification": "已确认",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/ten-advances-in-mathematics",
+      "publishedAt": "08:00",
+      "relativeTime": "10 小时前",
+      "titleZh": "数学和理论计算机科学的十大进展",
+      "summaryZh": "OpenAI 分享了数学和理论计算机科学中长期存在的开放问题的新成果，包括几何、密码学和复杂性方面的进展。"
+    },
+    {
+      "id": "380701b1415592",
+      "level": "重要",
       "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "REDMI K100 Pro Max 官宣小米首款 185Hz 电竞屏，旗舰触控芯片",
+      "summary": "IT之家 8 月 1 日消息，小米今日公布 REDMI K100 Pro Max 部分性能配置，新机将于 8 月 11 日晚 7 点发布。 据介绍，该机搭载 小米首款 185Hz 高刷电竞屏 ，原生适配 30+ 热门游戏；第五代骁龙 8 至尊版 +AI 独显芯片 D2，支持游戏超帧超分并发；旗舰触控芯片，采样率升级至 480Hz；游戏专属天线，时延大幅降低；Sound by Bose 游戏调音，枪声、脚步增强。 此外，该机搭载 第五代骁龙 8 至尊版 处理器，安兔兔 V11 实验室综合跑分达 455.5 万分，采用第二代 3nm 制程工艺，拥有 PC…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/984/574.htm",
+      "publishedAt": "17:38",
+      "relativeTime": "33 分钟前"
+    },
+    {
+      "id": "f4f40f47ec3feb",
+      "level": "重要",
+      "region": "海外",
       "category": "大模型",
       "verification": "媒体报道",
-      "title": "OpenAI 宣布其 AI 模型触达全球超 10 亿活跃用户和 200 万家企业",
-      "summary": "IT之家 8 月 1 日消息，OpenAI 昨日（7 月 31 日）发布博文， 宣布其模型已触达超过 10 亿活跃用户和超过 200 万家企业。 博文指出用户注册使用 ChatGPT 六周后，每天发送的消息量增加了约 50%， 并且使用 ChatGPT 完成的工作类型也增加了一倍左右。 IT之家援引博文介绍，ChatGPT Work 正在改变知识工作者的定义， 不再局限于回答问题，通过把“提问”转变为“执行”，能够完成复杂的多步骤工作。 该消息发布前， OpenAI 已下调 GPT-5.6 Terra 和 GPT-5.6 Luna 两款模型的调用费用…",
+      "title": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
+      "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
       "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/984/446.htm",
-      "publishedAt": "10:15",
-      "relativeTime": "1 小时前"
+      "source": "WIRED AI",
+      "sourceUrl": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+      "publishedAt": "17:30",
+      "relativeTime": "42 分钟前",
+      "titleZh": "没有人知道 OpenAI 和 Anthropic 的 AI 黑客攻击是否违法",
+      "summaryZh": "两个主要人工智能实验室的模型都突破了遏制，逃到了互联网上，并攻击了其他公司。如果人类这样做了，法律可能会针对他们。但机器人？"
     },
     {
-      "id": "c17f650061c0c7",
+      "id": "79974071076298",
       "level": "重要",
       "region": "国内",
-      "category": "芯片算力",
+      "category": "产品动态",
       "verification": "媒体报道",
-      "title": "小米 REDMI K100 Pro Max 手机搭载第五代骁龙 8 至尊版芯片，8 月 11 日发布",
-      "summary": "IT之家 8 月 1 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今天在微博发文称， REDMI K100 Pro Max 手机搭载第五代骁龙 8 至尊版芯片 。 据卢伟冰介绍，这款芯片的安兔兔 V11 实验室综合跑分达 455.5 万分， 采用第二代 3nm 制程工艺 ，拥有 PC 级架构、双超大核。具备狂暴引擎 + AI 独显芯片 D2，号称“旗舰性能，满血释放”。 据IT之家此前报道，小米 REDMI K100 Pro Max 的“赤霞珠红”配色已经公开，新机采用 6.9 英寸超窄边直屏，四曲包裹式金属中框， 还有一体化金属…",
-      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "title": "大规模股份解锁、财报发布前夕，空头大幅加仓 SpaceX",
+      "summary": "IT之家 8 月 1 日消息，据彭博社报道，埃隆 · 马斯克旗下火箭、卫星和 AI 公司 SpaceX 即将在下周迎来 上市后的两场大考 ，首份季度财报将率先出炉，数亿股限售股随后解禁。 目前，空头已经提前大举进场，押注新增流通股将给股价带来压力。S3 Partners 数据显示，截至 7 月 29 日，SpaceX 已被卖空的股份 达到 2.193 亿股，占公开流通股约 34% 。6 月 16 日首次公布数据时，空头持仓还只有 2330 万股。按当前股价计算， 做空 SpaceX 的头寸价值达到 246 亿美元 （IT之家注：现汇率约合 1664.1…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
       "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/984/445.htm",
-      "publishedAt": "10:15",
-      "relativeTime": "1 小时前"
-    },
-    {
-      "id": "c6b7b3e04e7f6c",
-      "level": "重要",
-      "region": "国内",
-      "category": "融资",
-      "verification": "媒体报道",
-      "title": "消息称恩智浦洽谈收购边缘 AI 芯片设计企业 Ambarella",
-      "summary": "IT之家 8 月 1 日消息，《金融时报》当地时间昨日报道称， NXP（恩智浦）正就收购边缘 AI 芯片设计企业 Ambarella（安霸）进行谈判 。这笔交易仍在讨论中，不一定会达成。 Ambarella 当前市值 37.73 亿美元（IT之家注：现汇率约合 255.24 亿元人民币）。 Ambarella 的业务聚焦计算机视觉领域 ，为汽车电子、安防监控、消费电子、工业 & 机器人供应端侧 AI 芯片。其 CVflow 芯片架构内置专有视觉处理引擎， 可以低功耗处理大量视觉信号信息 。 对于 NXP 而言，收购 Ambarella 可增强其在 SD…",
-      "whyItMatters": "资金流向反映市场正在为哪些 AI 能力与商业模式下注。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/984/442.htm",
-      "publishedAt": "10:08",
-      "relativeTime": "1 小时前"
-    },
-    {
-      "id": "47f06b6b5728d2",
-      "level": "重要",
-      "region": "国内",
-      "category": "芯片算力",
-      "verification": "媒体报道",
-      "title": "高通回应“NEURA 4NE-1 人形机器人倒地”：短暂通信故障触发受控关机",
-      "summary": "IT之家 8 月 1 日消息，科技媒体 Tom's Hardware 昨日（7 月 31 日）发布博文，报道称 高通合作伙伴 NEURA Robotics 在演示其 4NE-1 Gen 3.5 人形机器人时，突发演示故障，机器人后仰倒地。 IT之家援引博文介绍，4NE-1 人形机器人搭载高通 Dragonwing IQ10 机器人参考设计， 具备约 700 TOPS 算力。 在演示过程中，该机器人蹒跚地走到身着西装的高通公司高管面前，该高管随后从机器人送来的托盘上拿起一块高通 Dragonwing IQ10 RRD 主板，向在场观众展示。 在观众掌声和…",
-      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/984/432.htm",
-      "publishedAt": "09:26",
+      "sourceUrl": "https://www.ithome.com/0/984/528.htm",
+      "publishedAt": "15:44",
       "relativeTime": "2 小时前"
     },
     {
-      "id": "f89756a4181ced",
+      "id": "6c28d8abd18506",
       "level": "重要",
       "region": "国内",
-      "category": "政策监管",
+      "category": "产品动态",
       "verification": "媒体报道",
-      "title": "OpenAI 发现更多 AI 智能体“失控”迹象",
-      "summary": "IT之家 8 月 1 日消息，据路透社今日援引知情人士消息， OpenAI 调查 Hugging Face 攻击事件时 ， 发现其他自主 AI 智能体逃离受控环境的案例 。 目前 OpenAI 正在调查具体案例。其中一名消息人士表示，上述“越狱”行为影响范围有限，现在没有任何迹象表明这些智能体逃离了 OpenAI 网络环境。 OpenAI 发言人对此回应称：“我们除了调查 Hugging Face 入侵事件外，还在审查公司其他模型的更广泛活动。” 即使上述事件规模有限，但这些智能体的失控行为，可能进一步推动美国政府加强监管人工智能。 结合IT之家此前报…",
-      "whyItMatters": "监管与司法判例会直接改变模型训练、产品上线和企业合规成本。",
+      "title": "马斯克和奥尔特曼达成共识：人类已迈入 AI 奇点时代",
+      "summary": "IT之家 8 月 1 日消息，科技媒体 thenews 昨日（7 月 31 日）发布博文，报道称埃隆 · 马斯克（Elon Musk）和萨姆 · 奥尔特曼（Sam Altman）在 AI 奇点（singularity）方面达成共识。 7 月 25 日作客 Relentless 播客节目时，奥尔特曼表示：“ 我们现在差不多已经身处奇点时代。 ”奥尔特曼还预测，在人类目前能完成的工作中，AI 已经能够自动化完成约 30~40% 的工作， 并表示 AI 正推动“自工业革命以来最大的经济变革”。 马斯克于 7 月 31 日在 X 平台发布推文，指出：“AI 在…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
       "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/984/427.htm",
-      "publishedAt": "09:06",
+      "sourceUrl": "https://www.ithome.com/0/984/519.htm",
+      "publishedAt": "15:28",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "82fb011560606b",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "OPPO Find X10 系列新机入网，消息称预计 9 月下旬发布",
+      "summary": "IT之家 8 月 1 日消息，博主 @数码闲聊站 今日发文称，OPPO Find X10 系列目前有两个杯型入网，全都支持 N79 5G 频段 +2.4GHz 扩频通信，预装 ColorOS17 AI 系统， 备案了多个 AI 大模型 。 据该博主透露，该系列机型排期 9 月下旬发布，重点关注 2nm 天玑 9600 Pro 处理器 ，搭载 HPC 2 亿超大底影像，机身正面配备极窄新屏。 IT之家注意到，该博主今年 6 月曾曝光某厂 2nm 天玑大杯旗舰规格，预计为 OPPO Find X10 Pro 手机。 据其爆料，该机配备 6.78 英寸 1…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/984/504.htm",
+      "publishedAt": "14:53",
+      "relativeTime": "3 小时前"
+    },
+    {
+      "id": "297cf7626c0aa1",
+      "level": "关注",
+      "region": "国内",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "人形机器人家政清洁服务走入现实，每小时 30 美元",
+      "summary": "IT之家 8 月 1 日消息，据 abc7news 昨日报道，一家位于美国旧金山的机器人初创公司已开始使用人形机器人提供家政清洁服务。 Tau Robotics 公司首席执行官兼联合创始人 Alex Koch 宣布，将在旧金山开始提供人形机器人清洁服务， 每小时服务费 30 美元 （IT之家注：现汇率约合 202.9 元人民币）。 Alex Koch 表示：“我认为我们最初的很多客户都是以前没有家政清洁工，或者不经常自己打扫卫生的人，所以这一业务目前是扩大市场。” IT之家从报道获悉，目前的 AI 技术还无法完全自主控制人形机器人。通常情况下， 机器人…",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/984/573.htm",
+      "publishedAt": "17:36",
+      "relativeTime": "35 分钟前"
+    },
+    {
+      "id": "246396b107475f",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "2027 款奇瑞艾瑞泽 8 PRO 将于 8 月 10 日上市：猎鹰 500 辅助驾驶、1.6T/2.0T 动力",
+      "summary": "IT之家 8 月 1 日消息，2027 款奇瑞艾瑞泽 8 PRO 将于 8 月 10 日上市，该车搭载猎鹰 500 辅助驾驶、1.6T/2.0T 动力。作为参考，现款艾瑞泽 8 PRO 售价区间为 11.69-14.99 万元。 据官方此前介绍，2027 款艾瑞泽 8 PRO 最具颠覆性的升级，集中在智能维度的全面进化。相较于同级燃油车普遍停留在基础辅助的智能水准，新车实现了从感知硬件、场景覆盖到座舱体验的全维度跃升。新车搭载 高通骁龙 8255 芯片 ，算力提升 119%。 新车搭载 猎鹰 500 辅助驾驶 ，路况识别与障碍物预判精度大幅提升。城市早…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/984/567.htm",
+      "publishedAt": "17:08",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "06d9cb4a4c42f8",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "大我 Bigme B1051 Ultra 10.3 英寸彩墨屏 AI 办公本预售，6+128GB 版到手价 3299 元",
+      "summary": "IT之家 8 月 1 日消息，大我 Bigme B1051 Ultra 彩墨屏 AI 办公本今日开始预售， 6+128GB 版本预售到手价 3299 元 。 IT之家获悉，这款产品配备 10.3 英 寸 300 PPI Kaleido3 彩色墨水屏，支持 36 级冷暖光调节，彩色模式 150 PPI，黑白模式 300 PPI；配备 xRapid 快刷技术，刷新帧率至高 50 FPS；搭载 xClear 自动清残影技术，在普通和极速模式下翻页残影下降 50% 以上。 性能方面，这款产品搭载 天玑 1080 处理器，主频 2.6GHz，采用 6nm 工艺制…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/984/565.htm",
+      "publishedAt": "16:58",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "b80d90f8615864",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "一汽红旗全新一代天工 08 上市，670 Max 限时权益价 17.99 万元",
+      "summary": "IT之家 8 月 1 日消息，今天下午，一汽红旗全新一代天工 08 上市，只有 670 Max 一款配置， 限时权益价 17.99 万元 。 新车长宽高为 4925x1950x1680mm，轴距为 3000mm；延续红旗新能源标志性贯穿发光旗标封闭式前脸，搭配全新 L 型分体式 LED 灯组，纵向红旗徽标贯穿车头。新增黛夜蓝、墨竹绿车漆，车身侧面配备隐藏式门把手、双色悬浮车顶，可选 21 英寸运动轮毂。 新车内饰搭载灵犀智能座舱，配备 15.6 英寸双联屏，自研飞刃架构 4.0+ 高通骁龙 8295P 芯片，预留 30%-40% 算力冗余，搭载红旗司南…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/984/560.htm",
+      "publishedAt": "16:39",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "16eec787773e72",
+      "level": "关注",
+      "region": "国内",
+      "category": "研究论文",
+      "verification": "媒体报道",
+      "title": "均为 10 年以上未解难题：OpenAI 公布在数学与理论计算机科学领域的十项进展，Token 成本约 2000 美元",
+      "summary": "IT之家 8 月 1 日消息，OpenAI 官方今日公布了在数学与理论计算机科学领域的十项进展，这些问题此前一直悬而未决，其核心研究在至少十年（多数情况下甚至更久）的时间里未曾取得任何实质性进展。 据悉，这些成果由 OpenAI 的下一代核心模型 Astra 的内部版本计算得出。若按 Sol API 的费率计算，寻找这些问题解决方案所需消耗的 总词元 (tokens) 成本约为 2000 美元 （IT之家注：现汇率约合 13530 元人民币） 。 OpenAI 认为，署名权应当如实反映研究成果的产生过程：如果一项完全由 AI 系统生成的证明被声称为人类…",
+      "whyItMatters": "新研究可能改变模型能力边界，但仍需要复现、评测与同行检验。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/984/557.htm",
+      "publishedAt": "16:23",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "f193346bbf3cd8",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "谷歌、微软、Meta、亚马逊“四巨头”未来数年投入 2.4 万亿美元，豪赌 AI 基础设施",
+      "summary": "IT之家 8 月 1 日消息，据彭博社 1 日（今天）报道，谷歌母公司 Alphabet、Meta、微软和亚马逊已经为未来数年的数据中心建设承诺 投入近 2.4 万亿美元 （IT之家注：现汇率约合 16.24 万亿元人民币） ，AI 基础设施竞赛仍在迅速升温。 亚马逊首席执行官安迪 · 贾西认为，眼下的巨额投入与 AWS 早期扩张如出一辙， 最终有望换来丰厚回报 。 过去一年，四家公司为扩建数据中心，在 租赁、建筑、能源和设备 方面作出的支出承诺急剧膨胀。部分资金将在近期投入，也有一些合同需要在未来数十年内逐步履行。 Alphabet 上周披露，尚未完…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/984/547.htm",
+      "publishedAt": "16:13",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "493f4ec386bec8",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "维信诺 ChinaJoy 首秀，全场景 OLED 布局一口气看完，蓝图乍现",
+      "summary": "7 月 31 日，2026 中国国际数码互动娱乐展览会（ChinaJoy）在上海新国际博览中心拉开帷幕。本届展会以“与 AI 同游”为主题，IT之家也来到现场带来一手探访报道。 穿梭在各大游戏、数码展台之间，我们撞见了一位此前很少出现在大众娱乐展的新玩家 —— 国产面板厂商维信诺。作为长期深耕 B 端新型显示赛道的企业，维信诺以往更多亮相面板垂直行业展会，此次登陆主打年轻玩家的 ChinaJoy，也释放出品牌主动贴近普通消费者的信号。 整套展台围绕全场景 OLED 布局打造，覆盖量产终端、前沿技术、电竞设备与创新潮玩几大板块，既有面向市场落地的成熟产品…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/984/523.htm",
+      "publishedAt": "15:34",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "b11b452071a343",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "小米米家中央空调巨省电 Pro 风管机系列开售：APF 5.12，国补价 5609.2 元起",
+      "summary": "IT之家 8 月 1 日消息，小米米家中央空调巨省电 Pro 风管机现已开售，提供大 3 匹、4 匹版本： 大 3 匹：首发价 6599 元，国补价 5609.2 元 4 匹：首发价 7599 元，国补价 6459.2 元 新品为超一级能效，APF 5.12；搭载米家灵云节能技术，在开启米家灵云智控引擎情况下，AI 节能率可达 30%。 配置方面，该产品采用三排蒸发器 + 大双排冷凝器设计，换热面积相比前代提升 +18%，换热效率更高更省电；配备高效双缸压缩机，运行下限频率低至 8Hz，低频运行更省电；搭载 556mm 超大直径风轮，外机风量提升 11…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/984/514.htm",
+      "publishedAt": "15:15",
       "relativeTime": "2 小时前"
     },
     {
@@ -89,7 +219,7 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
       "publishedAt": "03:47",
-      "relativeTime": "8 小时前",
+      "relativeTime": "14 小时前",
       "titleZh": "谷歌在推出一天后取消了其地球人工智能功能，因批评该功能会传播错误信息",
       "summaryZh": "一种允许任何人生成人工智能生成的假图像并将其叠加在真实的谷歌地球地图上的工具很快引发了强烈反对。"
     },
@@ -105,93 +235,9 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
       "publishedAt": "06:47",
-      "relativeTime": "5 小时前",
+      "relativeTime": "11 小时前",
       "titleZh": "据报道，OpenAI 发现了更多其特工胡作非为的证据",
       "summaryZh": "据报道，OpenAI 在调查 Hugging Face 事件时发现了其他特工不当行为的证据。"
-    },
-    {
-      "id": "903f51ef24f1d0",
-      "level": "关注",
-      "region": "国内",
-      "category": "Agent",
-      "verification": "媒体报道",
-      "title": "OpenAI 奥尔特曼推介 Astra 模型：协同 AI 智能体工作，主打长周期任务能力",
-      "summary": "IT之家 8 月 1 日消息，科技媒体 The Information 今天（8 月 1 日）发布博文，报道称 OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）本周在美国国会山展示名为 Astra 的全新 AI 系列模型， 重点提升长周期任务处理能力。 报道称奥尔特曼于 7 月 29 日本周三会见美国参议员拉斐尔 · 沃诺克（Raphael Warnock）和伯尼 · 莫雷诺（Bernie Moreno），还计划会见参议院情报委员会民主党首席成员马克 · 华纳（Mark Warner）。 消息称在本次闭门会见中，奥尔特曼展示名为 As…",
-      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/984/421.htm",
-      "publishedAt": "08:45",
-      "relativeTime": "3 小时前"
-    },
-    {
-      "id": "0bd8e90c934ebe",
-      "level": "关注",
-      "region": "国内",
-      "category": "具身智能",
-      "verification": "媒体报道",
-      "title": "石头 P30 Pro 自清洁扫拖机器人 8 月 14 日上市，主打超薄热活水洗地",
-      "summary": "IT之家 8 月 1 日消息， 石头科技今天宣布 P30 Pro 自清洁扫拖机器人将于 8 月 14 日上市 ，号称“至薄至净无界畅达”。 据介绍，这款产品主打超薄热活水洗地。从宣传图中我们可以看到，该产品提供水箱版、薄嵌上下水两种版本，供不同用户选择。 同时，这款扫地机器人的外观为圆形，通体白色，机身顶部和中间带有避障传感器和摄像头等。 此外，这款产品将在 8 月 14 日上市，IT之家将持续关注，第一时间带来最新消息。",
-      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/984/463.htm",
-      "publishedAt": "11:31",
-      "relativeTime": "21 分钟前"
-    },
-    {
-      "id": "f5bd40e0a442f7",
-      "level": "关注",
-      "region": "国内",
-      "category": "大模型",
-      "verification": "媒体报道",
-      "title": "DeepSeek-V4-Flash 正式版跑分报告：AI 单任务成本比 GPT-5.6 Luna 低约 60%",
-      "summary": "IT之家 8 月 1 日消息，深度求索（DeepSeek）昨日（7 月 31 日）通过 API 文档发布日志，宣布 DeepSeek-V4-Flash 正式版 API 上线公测。 @ArtificialAnlys、@arena 等 AI 跑分基准平台今天（8 月 1 日）同步更新了相关基准测试结果。 @ArtificialAnlys (Artificial Analysis) @ArtificialAnlys (Artificial Analysis) 是一家领先的国际独立 AI 基准测试与分析机构，专门针对大语言模型（LLM）、视频生成、AI 音乐等…",
-      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/984/417.htm",
-      "publishedAt": "08:28",
-      "relativeTime": "3 小时前"
-    },
-    {
-      "id": "b0d31b9b90ff3f",
-      "level": "关注",
-      "region": "国内",
-      "category": "研究论文",
-      "verification": "媒体报道",
-      "title": "能无限制生成“灾难”图片，谷歌地球 AI 生图功能上线不到一天就下架",
-      "summary": "IT之家 8 月 1 日消息，谷歌为 Google Earth（谷歌地球）加入 AI 图像编辑功能后， 不到 24 小时便紧急下线 。这一功能调用 Gemini 旗下 Nano Banana 2 图像模型，用户只需输入文字指令，便可修改谷歌地球中的地点影像。 该功能上线后很快遭到滥用。AI 研究人员亨克 · 范埃斯制作了多张 几可乱真的虚假卫星图像 ，从美墨边境的难民营到位于伊朗的核电站，都能输出结果。 随后，谷歌发言人 31 日在 X 平台发布声明称：“地理空间领域的专业人员利用这项功能完成了不少实用工作，但也有人分享生成图像的截图，部分内容 似乎违…",
-      "whyItMatters": "新研究可能改变模型能力边界，但仍需要复现、评测与同行检验。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/984/415.htm",
-      "publishedAt": "08:14",
-      "relativeTime": "3 小时前"
-    },
-    {
-      "id": "991363577beba2",
-      "level": "关注",
-      "region": "国内",
-      "category": "大模型",
-      "verification": "媒体报道",
-      "title": "ChatGPT 被柬埔寨诈骗网络利用，OpenAI 出手封禁",
-      "summary": "IT之家 8 月 1 日消息，OpenAI 官方昨日在官网发文称，公司成功打击一起位于柬埔寨的诈骗网络，这些诈骗人士利用 ChatGPT，进行投资、恋爱、赌博诈骗。 IT之家从 OpenAI 官方获悉，本起案件发生在今年早些时候，最初由 WhatsApp 方面提供线索。这些诈骗分子采取有组织的团伙模式，灵活采用各种叙事方式、虚假身份和攻击手段，以最大程度地欺骗受害者。 据 OpenAI 观察，这些用户还生成了涉及人口贩卖、强迫犯罪活动的内容，与大量公开报道一致。因此官方封禁了一组互相协同的 ChatGPT 账户， 这些用户极有可能来自柬埔寨 ， 并在班…",
-      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/984/451.htm",
-      "publishedAt": "10:37",
-      "relativeTime": "1 小时前"
-    },
-    {
-      "id": "3177cd475a259d",
-      "level": "关注",
-      "region": "国内",
-      "category": "大模型",
-      "verification": "媒体报道",
-      "title": "亚马逊提前兑现对 OpenAI 投资 500 亿美元承诺，当前持股约 5%",
-      "summary": "IT之家 8 月 1 日消息，参考《金融时报》报道，根据 Amazon（亚马逊）当地时间本周五的财务业绩披露， 这家企业已提前完成对 OpenAI 的 350 亿美元后续投资 ，使得投资总额达到 500 亿美元（IT之家注：现汇率约合 3382.45 亿元人民币）。Amazon 当前在 OpenAI 的持股比例约为 5%。 根据 Amazon 与 OpenAI 在今年 2 月达成的多年期战略合作伙伴关系，Amazon 当时向 OpenAI 投资 150 亿美元，在满足特定条件后还将追加 350 亿美元投资。不过 尽管 OpenAI 未能达成上市、技术突…",
-      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/984/449.htm",
-      "publishedAt": "10:27",
-      "relativeTime": "1 小时前"
     },
     {
       "id": "abe78d62759cd3",
@@ -205,7 +251,7 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
       "publishedAt": "03:13",
-      "relativeTime": "8 小时前",
+      "relativeTime": "14 小时前",
       "titleZh": "谷歌地球的AI Deepfake工具只持续了一天",
       "summaryZh": "谷歌已经关闭了周四推出的谷歌地球功能，该功能允许用户使用人工智能编辑带有文本提示的卫星图像。该工具本质上是让用户使用文本提示创建现实世界的人工智能深度赝品；例如，Digital Digging 的 Henk van Ess 有意……"
     },
@@ -221,22 +267,22 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
       "publishedAt": "05:07",
-      "relativeTime": "6 小时前",
+      "relativeTime": "13 小时前",
       "titleZh": "印度开始为应用程序付费，而不仅仅是下载它们",
       "summaryZh": "印度应用程序市场第二季度创造了创纪录的 3.45 亿美元收入。"
     },
     {
-      "id": "736ef842745265",
+      "id": "cda5be4acea3a5",
       "level": "关注",
       "region": "国内",
       "category": "芯片算力",
       "verification": "媒体报道",
-      "title": "三星预测 2027 年内存短缺问题将进一步加剧，供应紧张至少持续至 2028 年",
-      "summary": "IT之家 8 月 1 日消息，据科技媒体 TechCrunch 昨天报道，内存三巨头之一三星电子预测，内存芯片短缺可能会在 2027 年进一步加剧， 供应紧张局面至少会持续至 2028 年 。 三星在 2026 财年第二季度财报电话会议中表示，为获得足够内存，各大人工智能实验室已经向公司分享中长期需求预测。这种强劲的需求让三星更愿意服务那些长期合同客户，也能够让公司提前部署生产设备并扩大产能，避免内存行业此前的“繁荣-衰退”往复现象。 IT之家注意到， AI 推动的内存需求火爆对三星来说是双刃剑 ：一方面，三星半导体部门二季度销售额创下历史新高；另一方…",
+      "title": "美光台湾工会拟召开罢工说明会 借鉴三星经验争取分红权益",
+      "summary": "据台湾社交媒体平台 Dcard 最新爆料，美光位于台湾桃园厂区的工会组织计划召开针对基层员工的“罢工说明会”，讨论因 AI 热潮引发的奖金与分红制度不公问题，甚至不排除效仿韩国芯片巨头三星电子此前发起的工人罢工行动。 阅读全文",
       "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/984/435.htm",
-      "publishedAt": "09:44",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1571252.htm",
+      "publishedAt": "15:17",
       "relativeTime": "2 小时前"
     },
     {
@@ -251,63 +297,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1571212.htm",
       "publishedAt": "09:17",
-      "relativeTime": "2 小时前"
-    },
-    {
-      "id": "20f3c68c2cc573",
-      "level": "关注",
-      "region": "国内",
-      "category": "大模型",
-      "verification": "媒体报道",
-      "title": "KTC 展出“闺蜜机”A25Q5，内置阶跃星辰 Step 系列大模型",
-      "summary": "IT之家 8 月 1 日消息，KTC（康冠）在昨日开幕的 2026 ChinaJoy 上集中展出了多款显示设备，包括与阶跃星辰 (StepFun) 携手带来的移动智慧屏 +Step 系列大模型深度融合方案。 这款“闺蜜机”型号 A25Q5，企业官方也将之称为“便携移动屏”。其采用 24.5\" FHD 60Hz 显示面板， 将多模态 AI 装进可随处移动的大屏硬件 ， 还接入 StepFun GUI 助手 。 KTC 亦展出了另一款被称为“豆包大模型 UMAX 版”的“闺蜜机”，该产品则支持 UHD 分辨率（IT之家注：见下图左下角）。 KTC 还集中展…",
-      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/984/429.htm",
-      "publishedAt": "09:14",
-      "relativeTime": "2 小时前"
-    },
-    {
-      "id": "1cd3917a8fd2d1",
-      "level": "关注",
-      "region": "国内",
-      "category": "产品动态",
-      "verification": "媒体报道",
-      "title": "ENERMAX 展示“车规级组件”PC 电源，支持 -10℃ ~ +60℃ 稳定运行",
-      "summary": "IT之家 8 月 1 日消息，ENERMAX（保锐 / 安耐美）在昨日开幕的 ChinaJoy 2026 现场首次线下展出了 Platimax III Auto 1200W。这款 PC 电源 号称采用“车规级组件” ， 可在 -10℃ ~ +60℃ 的宽广环境温度内稳定运行 。 仔细观察展板的话可以发现，ENERMAX 表示 Platimax III Auto 1200W 主电容符合 AEC-Q200 标准要求 ，支持自研 AI 温控算法，配备 2 组 12V-2×6 供电接口。其获得 PPLP 和 Cybenetics 白金级转换效率认证，在 PPL…",
-      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/984/422.htm",
-      "publishedAt": "08:50",
-      "relativeTime": "3 小时前"
-    },
-    {
-      "id": "5253255b351342",
-      "level": "关注",
-      "region": "国内",
-      "category": "研究论文",
-      "verification": "媒体报道",
-      "title": "“华尔街 AI 股神”的对冲基金高杠杆爆仓出局，规模从 450 亿美元缩水至 100 亿美元",
-      "summary": "IT之家 8 月 1 日消息，据外媒 CNBC 昨天报道，前 OpenAI 研究员利奥波德 · 阿申布伦纳（Leopold Aschenbrenner）创立的 AI 对冲基金“全态感知”（Situational Awareness）出现严重危机，规模从 450 亿美元 （IT之家注：现汇率约合 3044.2 亿元人民币） 缩水至约 100 亿美元 （现汇率约合 676.49 亿元人民币） 。 利奥波德曾在两年前表示，自己是世界上少数真正看清未来的人之一。他曾发表一篇 165 页的论文，在硅谷一度成为必读文章，他本人也因此被视为“超级智能时代”的预言者…",
-      "whyItMatters": "新研究可能改变模型能力边界，但仍需要复现、评测与同行检验。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/984/420.htm",
-      "publishedAt": "08:41",
-      "relativeTime": "3 小时前"
-    },
-    {
-      "id": "24befb1da76a26",
-      "level": "关注",
-      "region": "国内",
-      "category": "产品动态",
-      "verification": "媒体报道",
-      "title": "微软晒过去 4 个月改造 Win11 进展：聚焦性能 / 可靠性，后续优化内存占用等",
-      "summary": "IT之家 8 月 1 日消息，微软昨天（7 月 31 日）发布博文，分享了过去 4 个月里，针对 Windows 11 开展质量改进的最新进展，部分改进已向 Windows Insider Program 测试者推出，预计今年秋季开始面向所有 Windows 11 用户推送。 微软于 2026 年 3 月承诺一系列针对 Windows 11 系统的改革，包括但不限于： 更多任务栏自定义选项 整合 AI 功能，为用户创造价值 减少 Windows 更新带来的干扰 更快更可靠的文件资源管理器 对小部件和信息流体验拥有更多控制权 更简单、更透明的 Windo…",
-      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/984/403.htm",
-      "publishedAt": "02:08",
-      "relativeTime": "9 小时前"
+      "relativeTime": "8 小时前"
     },
     {
       "id": "62b26482d4b0d7",
@@ -321,7 +311,35 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1571228.htm",
       "publishedAt": "09:57",
-      "relativeTime": "1 小时前"
+      "relativeTime": "8 小时前"
+    },
+    {
+      "id": "14661360347372",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "消息称亚马逊已完成对OpenAI的500亿美元注资",
+      "summary": "据外媒《金融时报》报道，最新披露的财报信息显示，亚马逊已完成对OpenAI总计500亿美元的全额投资，在这家ChatGPT开发商预计于2027年启动上市进程前，顺利拿下其约5%的股权，成为OpenAI核心战略投资方之一。 阅读全文",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1571248.htm",
+      "publishedAt": "12:32",
+      "relativeTime": "5 小时前"
+    },
+    {
+      "id": "45a65a36e77248",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "领先优势丧失、上市蒙阴影 OpenAI如何被Anthropic反超？",
+      "summary": "8月1日，据《华尔街日报》报道，OpenAI引发了AI热潮，如今已经落后于竞争对手Anthropic。现在，它正在努力反击。眼下，OpenAI旗舰消费产品ChatGPT的增长速度已经放缓。该公司CEO萨姆·奥特曼(Sam Altman)继任者菲吉·西莫(Fidji Simo)的离职，引发了奥特曼核心副手职责的重新调整。此外，OpenAI的销售团队正在打一场代价高昂的竞争战，通过提供批量折扣和其他优惠措施，争夺利润丰厚的企业客户。 阅读全文",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1571244.htm",
+      "publishedAt": "12:31",
+      "relativeTime": "5 小时前"
     },
     {
       "id": "8f9218ebc14cb9",
@@ -335,7 +353,7 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
       "publishedAt": "01:26",
-      "relativeTime": "10 小时前",
+      "relativeTime": "16 小时前",
       "titleZh": "山姆·奥尔特曼并不是唯一一个想要给人工智能踩刹车的人",
       "summaryZh": "经过多年全速推动人工智能发展，OpenAI 首席执行官 Sam Altman 表示，也许现在是人工智能行业“调整步伐”的时候了。就在几天前，OpenAI 自己的一个模型突破了测试环境，并陷入了 Hugging Face 的漏洞中——不过……"
     },
@@ -351,7 +369,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1571210.htm",
       "publishedAt": "09:15",
-      "relativeTime": "2 小时前"
+      "relativeTime": "8 小时前"
     },
     {
       "id": "43fb41d572518a",
@@ -365,7 +383,7 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
       "publishedAt": "00:49",
-      "relativeTime": "11 小时前",
+      "relativeTime": "17 小时前",
       "titleZh": "Snapchat 不再奖励完全由人工智能生成的 Spotlight 内容",
       "summaryZh": "Snapchat 调整了推荐系统，确保只有真人制作的视频才有资格获得 Spotlight 推荐，反对 AI 滥用。"
     },
@@ -381,7 +399,7 @@
       "source": "WIRED AI",
       "sourceUrl": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
       "publishedAt": "02:14",
-      "relativeTime": "9 小时前",
+      "relativeTime": "15 小时前",
       "titleZh": "中国人工智能研究人员在 X 上发出自己的声音",
       "summaryZh": "随着 OpenAI 和 Anthropic 员工在网上变得越来越安静，中国人工智能实验室的研究人员纷纷涌入 X 来解释他们的工作、招募人才并塑造全球人工智能对话。"
     },
@@ -397,7 +415,7 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
       "publishedAt": "00:08",
-      "relativeTime": "11 小时前",
+      "relativeTime": "18 小时前",
       "titleZh": "Siri AI 可能会为高级用户提供付费专区",
       "summaryZh": "苹果首席执行官蒂姆·库克 (Tim Cook) 预计，用户能够通过苹果现有的 iCloud+ 订阅为 Siri AI 购买更多计算资源。"
     },
@@ -413,7 +431,7 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
       "publishedAt": "01:05",
-      "relativeTime": "10 小时前",
+      "relativeTime": "17 小时前",
       "titleZh": "这是在 Google Earth 中放置 AI 图像生成器的问题",
       "summaryZh": "使用 Google 地球的卫星、航空和 3D 图像以及现已回滚的 AI 功能，只需文本提示即可生成扭曲现实的图像，例如由 Digital Digging 的 Henk van Ess 生成的这些图像，显示“墨西哥边境附近的难民”和一个炸弹坑……"
     },
@@ -429,7 +447,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1571190.htm",
       "publishedAt": "07:54",
-      "relativeTime": "3 小时前"
+      "relativeTime": "10 小时前"
     },
     {
       "id": "e8b5e8d005e170",
@@ -443,7 +461,7 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
       "publishedAt": "00:36",
-      "relativeTime": "11 小时前",
+      "relativeTime": "17 小时前",
       "titleZh": "主要唱片公司提出规则以防止人工智能在排行榜上失利",
       "summaryZh": "多家唱片公司，包括三巨头——环球音乐集团、索尼音乐和华纳音乐集团——已经提出了有关人工智能歌曲上榜资格的规则。简而言之，他们不会。该提案比……提出的标签提案更进一步。"
     },
@@ -459,7 +477,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1571222.htm",
       "publishedAt": "09:50",
-      "relativeTime": "2 小时前"
+      "relativeTime": "8 小时前"
     },
     {
       "id": "8e2a27ae722d38",
@@ -473,7 +491,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1571200.htm",
       "publishedAt": "08:41",
-      "relativeTime": "3 小时前"
+      "relativeTime": "9 小时前"
     },
     {
       "id": "791bc123fb4dfd",
@@ -487,7 +505,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1571180.htm",
       "publishedAt": "00:45",
-      "relativeTime": "11 小时前"
+      "relativeTime": "17 小时前"
     }
   ],
   "trendLines": [
@@ -501,6 +519,6 @@
   "scanStats": {
     "configuredSources": 19,
     "successfulSources": 19,
-    "candidateCount": 33
+    "candidateCount": 35
   }
 }
