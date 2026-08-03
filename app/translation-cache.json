@@ -900,6 +900,18 @@
     "a0144b03556bda78ecc224d3504ccfe810974d32c421e004bfcd6b2c0b25a757": {
       "source": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them\nZXQSEPZXQ\nSteve Elmers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
       "zh": "“护栏专家”因发布有关 Flock 摄像机的帖子而走红。然后有人毁了他们\nZXQSEPZXQ\n史蒂夫·埃尔默斯（Steve Elmers），也被称为“护栏家伙”，在他的视频中出现的两个车牌阅读器被破坏后，他不再喊车牌阅读器了。"
+    },
+    "9f5f38b7f8daed820e0088c892f337909049f7407b2af3164a8ed471d92a24a2": {
+      "source": "Congress’s favorite AI tool? ChatGPT\nZXQSEPZXQ\nHouse spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+      "zh": "国会最喜欢的人工智能工具？ ChatGPT\nZXQSEPZXQ\n众议院支出记录显示，OpenAI 的 ChatGPT 在国会山的付费人工智能使用中占主导地位，国会办公室依靠聊天机器人起草备忘录、总结立法并协助选民沟通。"
+    },
+    "0528244f71b213e54be25ac99dbbec1ee0f31ac18e1d921f877d7a99d4269ca5": {
+      "source": "Europe’s AI labeling and transparency rules are now in effect\nZXQSEPZXQ\nThe European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd, requiring companies to disclose when peop…",
+      "zh": "欧洲人工智能标签和透明度规则现已生效\nZXQSEPZXQ\n欧盟引入了一些额外的规则，旨在让人们更容易识别在线聊天机器人和人工智能深度伪造品。欧盟具有里程碑意义的《人工智能法案》规定的新透明度义务于 8 月 2 日生效，要求公司披露人们何时……"
+    },
+    "a98392055e914aeb8e6f86424909bcdb93e629dd8529b7ea83af0be5560411d2": {
+      "source": "2.52.1 (2026-07-31) Full Changelog: v2.52.0...v2.52.1 Chores ci: pin setup-uv v5 to its underlying commit ( #3560 ) ( cbdc98b )",
+      "zh": "2.52.1 (2026-07-31) 完整变更日志：v2.52.0...v2.52.1 Chores ci：将 setup-uv v5 固定到其底层提交 ( #3560 ) ( cbdc98b )"
     }
   }
 }
