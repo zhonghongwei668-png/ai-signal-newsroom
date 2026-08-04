@@ -992,6 +992,30 @@
     "bbeac43f5db86fe517e9293d55beec2e59835676aa6a446e58b41cca27b28568": {
       "source": "AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies\nZXQSEPZXQ\nThe efficiency of a datacenter rests on its control plane policies. Designing these policies is increasingly hard: the hardware-software stack grows fast, the design space is vast and interdependent, and prototyping a single policy takes months. Agentic AI promises to automate t…",
       "zh": "AtumAI：数据中心控制平面策略代理生成的原则框架\nZXQSEPZXQ\n数据中心的效率取决于其控制平面策略。设计这些策略变得越来越困难：硬件-软件堆栈快速增长，设计空间巨大且相互依赖，并且制作单个策略的原型需要数月时间。 Agentic AI 有望实现自动化……"
+    },
+    "0351af42a23b09097d7c868d72dc4b11ab4123e4d8df63cd8c5a7761d984b721": {
+      "source": "Apple is getting this wrong\nZXQSEPZXQ\nOpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "zh": "苹果在这个问题上犯了错误\nZXQSEPZXQ\nOpenAI 回应了苹果公司毫无根据的诉讼，纠正了对其员工的指控，并分享了记录所发生事件的消息。"
+    },
+    "048f61aca40bb1976ba8518b85e32a1c1128be8d5777099e02a4ad78a06571ca": {
+      "source": "Can Reddit fend off a new wave of AI SEO spam?\nZXQSEPZXQ\nEarlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at f…",
+      "zh": "Reddit 能否抵御新一波 AI SEO 垃圾邮件？\nZXQSEPZXQ\n今年早些时候，一位 Reddit 用户询问了一个专注于护肤的 Reddit 子版块的成员，是否有人尝试过一种特定的次氯酸喷雾剂，这是一种常用于治疗痤疮的产品。有几十条回复；来自一位名为 Primary-Taro4254 的用户的帖子似乎无害，至少在 f..."
+    },
+    "7cc1a84cc02db94b6468686cd07ebac5b69835d9f5db6ed6e6e4c31ca1611fd8": {
+      "source": "How One Startup Built a (Mostly) China-Free Robot\nZXQSEPZXQ\nAti Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.",
+      "zh": "一家初创公司如何打造一款（大部分）不受中国影响的机器人\nZXQSEPZXQ\nAti Robotics 在印度组装机器人，仅使用少量中国零部件——随着特朗普政府打击中国人形机器人，这一战略可能会得到回报。"
+    },
+    "56af14ed6a655d3622a5845720d9176d6ef418263500c99f9b92bb381aad7b36": {
+      "source": "‘Everyone Is Doing It’: The Truth About AI in Hollywood\nZXQSEPZXQ\nPuck’s Matthew Belloni says AI has quietly become part of everyday filmmaking. The battle now isn’t whether Hollywood will use the technology—it’s who controls what’ll come next.",
+      "zh": "“每个人都在这么做”：好莱坞人工智能的真相\nZXQSEPZXQ\nPuck 的 Matthew Belloni 表示，人工智能已经悄然成为日常电影制作的一部分。现在的争论不在于好莱坞是否会使用这项技术，而在于谁能控制接下来会发生什么。"
+    },
+    "d5c3d2ef197914a5e415cab4ab2e6e6e5ef3227d29aa82a7ee398a9ac766f283": {
+      "source": "How Data Centers Broke American Politics\nZXQSEPZXQ\nWhat the Unabomber, Steve Bannon’s tech guy, and Bernie Sanders taught me about the great data center backlash of 2026.",
+      "zh": "数据中心如何打破美国政治\nZXQSEPZXQ\nUnabomber、史蒂夫·班农 (Steve Bannon) 的技术人员和伯尼·桑德斯 (Bernie Sanders) 告诉我关于 2026 年数据中心的巨大抵制。"
+    },
+    "477bbe13ae313efc9b791373e309067a192cbf1e4723112f5abab2df4086c973": {
+      "source": "Mistral Is in the Right Place at the Right Time\nZXQSEPZXQ\nOpen-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that’s the the best thing that could have happened.",
+      "zh": "米斯特拉尔在正确的时间出现在正确的地点\nZXQSEPZXQ\n在美国科技巨头最近发生动荡之后，开放权重人工智能模型正在风靡一时。对于法国人工智能实验室米斯特拉尔来说，这是可能发生的最好的事情。"
     }
   }
 }
