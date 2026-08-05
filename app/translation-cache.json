@@ -1028,6 +1028,82 @@
     "284e12c8ec88c3605a6c5dd26f20fdd0fef123cef6d63c72e325c3ff0bab4b5f": {
       "source": "‘Not healthy’ LLM use is more common than you think\nZXQSEPZXQ\nHank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of…",
       "zh": "“不健康”的 LLM 使用比您想象的更常见\nZXQSEPZXQ\n汉克·格林 (Hank Green) 是一位颇受欢迎的 YouTube 博主和科学传播者，他表示，由于他对人工智能的使用受到了强烈批评，他将退出制作。格林称他对人工智能的使用“不健康”，但强调他用它来寻找研究来源，而不是编写脚本。很多…"
+    },
+    "19c0613b15bdc1a3eeb621f80f50d8f75175f13d3a07d76303e2778e64208027": {
+      "source": "Third-party cyber evaluations involving OpenAI models\nZXQSEPZXQ\nOpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "zh": "涉及OpenAI模型的第三方网络评估\nZXQSEPZXQ\nOpenAI解释了最近发生的第三方网络安全评估事件，并概述了加强人工智能模型测试和评估的新保障措施。"
+    },
+    "a584a725f33bf3ff0ddd865e9324e8eb759709f69d01e884bd61019566916de1": {
+      "source": "OK, Well, Rogue AI Agents Are Hacking Again\nZXQSEPZXQ\nRogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
+      "zh": "好吧，流氓人工智能特工再次进行黑客攻击\nZXQSEPZXQ\n来自 OpenAI 和 Anthropic 的恶意 AI 代理再次被发现试图破坏服务器和软件，并为未来的不良行为留下指令。"
+    },
+    "25ec7363572c22db7b8a075e00a472f3d735d301a30d17921955eaafb0ee3be5": {
+      "source": "SpaceX has bought $329M worth of Tesla Megapacks so far this year\nZXQSEPZXQ\nThe purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+      "zh": "今年到目前为止，SpaceX 已购买了价值 3.29 亿美元的 Tesla Megapacks\nZXQSEPZXQ\n这次收购说明了埃隆·马斯克旗下公司之间的相互关联程度。"
+    },
+    "6b70f216dda881f36e23eda4f027beb14d650c8c247c1e19cbfb41a811a5cff3": {
+      "source": "The White House Is Keeping Its AI Cybersecurity Framework Secret\nZXQSEPZXQ\nThe Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
+      "zh": "白宫对其人工智能网络安全框架保密\nZXQSEPZXQ\n特朗普政府周二与 OpenAI、Anthropic 和其他人工智能实验室分享了其计划的细节。目前，公众仍蒙在鼓里。"
+    },
+    "fe1e290929c392978b8132a91fa6368d90812c994b59406fefa2b33bc64a9a00": {
+      "source": "Open-weight AI models are catching up to the frontier. The safety gap remains.\nZXQSEPZXQ\nA new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+      "zh": "开放权重人工智能模型正在赶上前沿。安全差距依然存在。\nZXQSEPZXQ\n一份新的 SaferAI 报告发现，Z.ai 的开放权重 GLM-5.2 接近前沿人工智能能力，但缺乏关键的安全缓解措施，这再次引发了人们对强大的开放模型可能超过治理和保障措施的担忧。"
+    },
+    "66ca6334f418b152dcf490321ff45c3988b9b24d1846aa65476bbe5eb821268f": {
+      "source": "AMD’s data center business is booming while gaming takes a backseat\nZXQSEPZXQ\nDriven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During…",
+      "zh": "AMD数据中心业务蓬勃发展，游戏业务退居二线\nZXQSEPZXQ\n在AI容量需求的推动下，AMD最新财报显示其数据中心收入同比增长一倍多，达到67亿美元。这比第一季度的 58 亿美元有所增加，也比去年同期报告的 32 亿美元增长了 107%。期间…"
+    },
+    "f4a5bd067f054235f4c2708aa1b8fa639cdc9c2fdc916ed203e74151056e294d": {
+      "source": "Anthropic signs $10B deal with AI cloud startup Volta\nZXQSEPZXQ\nAnthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "zh": "Anthropic 与人工智能云初创公司 Volta 签署 100 亿美元协议\nZXQSEPZXQ\nAnthropic 近几个月来一直在进行云合作热潮，据报道其最新举措是与人工智能云初创公司 Volta 达成 100 亿美元的交易。"
+    },
+    "e12d7ca2d5dc8fb108f11512133adc7028e2202664ec0239697e2eba0c2a3e08": {
+      "source": "SpaceX made more revenue as an AI company than a space company\nZXQSEPZXQ\nSpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go p…",
+      "zh": "SpaceX 作为一家人工智能公司的收入比一家航天公司还要多\nZXQSEPZXQ\n根据 SpaceX 的季度财报，SpaceX 的人工智能收入比上年增长了三倍多，达到 26 亿美元，这主要是因为该公司为向其他人工智能公司提供计算而达成的交易。该公司在其文件中表示，人工智能部门将..."
+    },
+    "1ce07b64fb019b6393999c3b6bc4da8b588612c7b7128f49de08821e0e1feb91": {
+      "source": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you\nZXQSEPZXQ\nWrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+      "zh": "来认识一下 Wrinkles，一款可以揭开您周围隐藏故事的应用程序\nZXQSEPZXQ\nWrinkles 可在 iOS 和 Android 上使用，本质上充当人工智能驱动的音频导游，揭示隐藏的历史和当地故事。"
+    },
+    "b2bd2aa429ad5643af9a10369cc208aa844281804c9f669f9c0a3eed5b4359e3": {
+      "source": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress\nZXQSEPZXQ\nThe week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+      "zh": "英伟达也不乱了：开放人工智能产业组织成立一周后，就已经取得了进展\nZXQSEPZXQ\n由 Nvidia 牵头成立的开放安全人工智能联盟 (Open Secure AI Alliance) 已成立一周，目前已拥有 120 多家公司，该联盟已经提出了防御人工智能代理的提案。"
+    },
+    "bd12f68bbc22b1bccf864abc33935f0a4c3d4f81c34e83d6bf25783aa46bbb2f": {
+      "source": "ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs\nZXQSEPZXQ\nExisting scaling strategies for Multimodal Large Language Models (MLLMs) typically expand either model parameters or sequential inference computation, incurring substantial memory or latency overhead. More importantly, most existing methods fail to alter the rigid, fixed computa…",
+      "zh": "ParVL：多模式法学硕士的并行扩展和可扩展计算分配\nZXQSEPZXQ\n多模态大型语言模型 (MLLM) 的现有扩展策略通常会扩展模型参数或顺序推理计算，从而产生大量内存或延迟开销。更重要的是，大多数现有方法无法改变僵化的、固定的计算……"
+    },
+    "6f51f7216d57448dd20678ddf4f445e062bb3fb37faf8b87f620f653527f3303": {
+      "source": "SocietyBench: Forecasting Counterfactual Social-World Evolution\nZXQSEPZXQ\nLarge language models (LLMs), and the agents built on top of them, are now benchmarked heavily on whether they can finish a task -- fix a bug, drive a browser, operate a GUI. A complementary social ability, namely how well a model understands and forecasts the way real social ev…",
+      "zh": "SocietyBench：预测反事实的社会世界演变\nZXQSEPZXQ\n大型语言模型 (LLM) 以及构建在其之上的代理现在主要针对它们是否能够完成任务（修复错误、驱动浏览器、操作 GUI）进行基准测试。互补的社交能力，即模型如何很好地理解和预测真实的社交活动……"
+    },
+    "ebe3b64d0d7b7bb3fca5329074fd62569066f71b72737fd1619da7e152b136f0": {
+      "source": "WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament\nZXQSEPZXQ\nBenchmarks that measure the forecasting ability of large language models are almost always retrospective: the event has happened, the answer is somewhere on the Web, and the evaluation must defend itself against memorisation. We report the opposite design. Over the 39 days of th…",
+      "zh": "世界杯竞技场：在现场锦标赛中对前沿法学硕士进行前瞻性、无泄漏评估\nZXQSEPZXQ\n衡量大型语言模型预测能力的基准几乎总是回顾性的：事件已经发生，答案就在网络上的某个地方，并且评估必须防止记忆。我们报告了相反的设计。过去39天里……"
+    },
+    "3ffc3a22517965008c8aa2537b832c12f2ebdb44a455f3c6cdec9698a2ff2742": {
+      "source": "TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning\nZXQSEPZXQ\nTool-Integrated Reasoning (TIR) enables LLMs to solve complex tasks through iterative tool interactions. However, existing reinforcement learning methods often rely on trajectory-level supervision, limiting fine-grained credit assignment in long-horizon TIR scenarios. On-policy…",
+      "zh": "TurnSight：用于工具集成推理的旋转级后见之明自蒸馏\nZXQSEPZXQ\n工具集成推理 (TIR) 使法学硕士能够通过迭代工具交互来解决复杂的任务。然而，现有的强化学习方法通​​常依赖于轨迹级监督，限制了长视野 TIR 场景中的细粒度信用分配。政策上…"
+    },
+    "518d4405296da7f9376a3f47989594ca9446c50a5ae3365b9934a968ff35ecfc": {
+      "source": "PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents\nZXQSEPZXQ\nRecursive self-improvement requires agents to turn accumulated experience into better future behavior. Personal AI agents offer a concrete setting for studying this capability because they retain preferences, task histories, tool routines, and learned skills across sessions. Yet…",
+      "zh": "PAST-Bench：对个人代理递归自我改进的基础进行基准测试\nZXQSEPZXQ\n递归的自我改进要求智能体将积累的经验转化为更好的未来行为。个人人工智能代理为研究这种能力提供了一个具体的环境，因为它们保留了偏好、任务历史、工具例程和跨会话学习的技能。然而…"
+    },
+    "7ebd69ebf7eabdccc4baa26e9a40db7ed8450596e02b0a623f772491bb82a756": {
+      "source": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility\nZXQSEPZXQ\nLarge language models can solve substantially harder reasoning problems with more inference-time compute. The term \"test-time scaling,\" however, now covers diverse inference algorithms that extend deliberation along a single trajectory, sample completed candidates and aggregate…",
+      "zh": "推理法学硕士中的测试时间缩放：推理机制、评估和再现性\nZXQSEPZXQ\n大型语言模型可以通过更多的推理时间计算来解决更困难的推理问题。然而，术语“测试时间缩放”现在涵盖了多种推理算法，这些算法沿着单一轨迹扩展审议，对已完成的候选样本进行采样并聚合……"
+    },
+    "c17a322bb761a67668adc767f578946a7f60a157ae2377a4aad0f409f5f2a68b": {
+      "source": "Agogic: Performance-Timed Music Tokens for LLM-Native Text-to-Symbolic-Music Generation\nZXQSEPZXQ\nText-to-music language models begin with a choice usually made by default: how to tokenize music. Normally entangled with backbone, data, and recipe, its effect has never been measured in isolation. We fix pretrained Qwen3.5 (0.8B-27B), data, budget, and decoding, and swap only…",
+      "zh": "Agogic：用于 LLM 本地文本到符号音乐生成的表演定时音乐代币\nZXQSEPZXQ\n文本到音乐的语言模型通常从默认选择开始：如何标记音乐。通常与主干、数据和配方纠缠在一起，它的效果从未被孤立地衡量过。我们修复了预训练的 Qwen3.5 (0.8B-27B)、数据、预算和解码，并且仅交换......"
+    },
+    "c1e13b17c22fdff396a5912c2b096e74723445c8e281c9f58d626aafbfe9eb7f": {
+      "source": "When Attention Goes Blind: Numerical Failure in ALiBi Positional Encodings\nZXQSEPZXQ\nWe identify a previously overlooked failure mode of ALiBi positional encoding: its linear bias scaling underflows floating-point precision, which zeroes out a large fraction of attention weights and renders the affected attention heads partially blind. We analyze this failure mo…",
+      "zh": "当注意力变得盲目时：ALiBi 位置编码中的数字失败\nZXQSEPZXQ\n我们发现了 ALiBi 位置编码的一个先前被忽视的故障模式：它的线性偏差缩放导致浮点精度下溢，从而将大部分注意力权重归零，并使受影响的注意力头部分失明。我们分析一下这个故障..."
+    },
+    "d5cf1519c3f337ce0c7df8877ad1608d8e3397703db562d9a88bc6b7a82bfd22": {
+      "source": "Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation\nZXQSEPZXQ\nSynthetic histopathology image generation has emerged as an approach that may address data scarcity in computational pathology, yet current evaluation methodologies may not fully assess synthetic data quality for medical applications. This work investigates and addresses limitat…",
+      "zh": "合成组织病理学图像生成的条件扩散模型的评估\nZXQSEPZXQ\n合成组织病理学图像生成已成为一种可以解决计算病理学中数据稀缺问题的方法，但当前的评估方法可能无法完全评估医学应用的合成数据质量。这项工作调查并解决了……的限制"
     }
   }
 }
