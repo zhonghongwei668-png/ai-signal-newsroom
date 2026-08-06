@@ -1208,6 +1208,10 @@
     "c0bbae6178df06c2227d1fa2b6161f3aab1268e0bf82bcc5e3b475544a7de5ad": {
       "source": "Predicting Brain Morphometry with MT-GNN: Mesh Evolution in Continuous Time with Graph-Based Metric Tensor Embeddings\nZXQSEPZXQ\nPredicting how a subcortical structure's shape will evolve from a few prior scans could support prognosis and clinical-trial enrichment. Existing longitudinal mesh predictors either extrapolate shape trajectories via high-dimensional embeddings or regress vertex deformations dir…",
       "zh": "使用 MT-GNN 预测大脑形态测量：使用基于图的度量张量嵌入进行连续时间内的网格演化\nZXQSEPZXQ\n从之前的几次扫描中预测皮质下结构的形状将如何演变可以支持预后和临床试验的丰富。现有的纵向网格预测器要么通过高维嵌入推断形状轨迹，要么回归顶点变形方向……"
+    },
+    "4a12721afbb7e86f8f34b8149f9e4fba2e2974ef05b143d512be499ab8025326": {
+      "source": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’\nZXQSEPZXQ\nOpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actio…",
+      "zh": "OpenAI 表示苹果的商业秘密诉讼“烂透了”\nZXQSEPZXQ\nOpenAI 已要求联邦法官驳回苹果公司指控 ChatGPT 制造商窃取商业机密的具有里程碑意义的诉讼，并称这些指控“毫无根据”。在昨天提交的驳回投诉的动议中，OpenAI 表示，苹果公司错误地描述了这两项行动……"
     }
   }
 }
