@@ -1,15 +1,43 @@
 {
   "boardMeta": {
-    "generatedAt": "2026-08-12 08:46",
+    "generatedAt": "2026-08-12 10:46",
     "date": "2026年8月12日 · 星期三",
     "edition": "上午版",
-    "window": "北京时间今日 00:00 至 08:46",
+    "window": "北京时间今日 00:00 至 10:46",
     "nextUpdate": "下一轮 16:15 自动更新"
   },
   "newsItems": [
     {
-      "id": "dbc30e861442f9",
+      "id": "ab26e3e2c59d1e",
       "level": "头条",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "英伟达推出 30B 开源 AI 模型 Nemotron 3.5 Lightning",
+      "summary": "IT之家 8 月 12 日消息，当地时间 8 月 11 日，英伟达宣布推出 30B 开源 AI 模型 Nemotron 3.5 Lightning，进一步丰富其 Nemotron 3 模型系列。 官方表示，Nemotron 3.5 Lightning 是一款拥有 300 亿参数的 MoE 模型 ，专为大型多智能体系统中的特定任务打造，助力开发更智能、更高效的智能体应用。 与同类其他模型相比，该模型可实现高达 4 倍的输出速度提升， 从而将智能体任务的整体完成速度加快 30% 。 Nemotron 3.5 Lightning 可以直接运行在本地 AI 系…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/988/609.htm",
+      "publishedAt": "09:49",
+      "relativeTime": "57 分钟前"
+    },
+    {
+      "id": "9930b748e2e813",
+      "level": "重要",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "苹果发布 macOS 27 Golden Gate 第三个公测版",
+      "summary": "IT之家 8 月 12 日消息，苹果今天发布了 macOS Golden Gate 第三个公测版，非开发者用户现在也可以提前体验这款将在今年秋季正式推出的新系统。用户可以先在苹果 Beta 测试网站注册，然后进入“系统设置”>“通用”>“软件更新”，开启 macOS 27 Beta 选项即可下载安装。 据IT之家了解，macOS Golden Gate 加入了与 iOS 27 和 iPadOS 27 相同的 Siri AI 功能，不过在 Mac 上，用户可以通过 Command + Space 快捷键从 Spotlight 调出 Siri。Siri 可…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/988/587.htm",
+      "publishedAt": "09:13",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "dbc30e861442f9",
+      "level": "重要",
       "region": "海外",
       "category": "研究论文",
       "verification": "已确认",
@@ -19,9 +47,23 @@
       "source": "Google AI",
       "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
       "publishedAt": "01:00",
-      "relativeTime": "7 小时前",
+      "relativeTime": "9 小时前",
       "titleZh": "我们的研究型医疗人工智能系统 AMIE 在首次研究中展示了实时临床视频咨询功能。",
       "summaryZh": "AMIE宣传视频"
+    },
+    {
+      "id": "3a0cd63a343ff4",
+      "level": "重要",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "IBM 收获 2.4 亿美元合同，为 Together AI 提供 HGX B300 算力",
+      "summary": "IT之家 8 月 12 日消息，IBM 美国当地时间 11 日宣布与 AI 原生云平台 Together AI 达成一项多年期 2.4 亿美元 （IT之家注：现汇率约合 16.22 亿元人民币） 协议。 IBM 将在其 IBM Cloud 部署一个 NVIDIA（英伟达）HGX B300 集群 ， 支持 Together AI 的开源模型推理服务 。该系统预计将于 2027Q1 投入使用。 IBM 表示，此次部署是首个基于 IBM Cloud 并采用 NVIDIA HGX B300 系统与 Spectrum-X 以太网技术构建的专用于推理的大规模集群…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/988/647.htm",
+      "publishedAt": "10:38",
+      "relativeTime": "8 分钟前"
     },
     {
       "id": "0877ef853cc4a0",
@@ -35,23 +77,92 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/988/554.htm",
       "publishedAt": "07:12",
+      "relativeTime": "3 小时前"
+    },
+    {
+      "id": "307179d6c7bd91",
+      "level": "重要",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "Piston V 游戏迷你主机曝光：圆形触控屏，Win11 和 Bazzite 双启动",
+      "summary": "IT之家 8 月 12 日消息，YouTube 频道 ETA Prime 昨日（8 月 11 日）发布视频， 分享了名为 Piston V 游戏迷你主机，采用圆形触控屏，目前尚未确认制造商。 外观方面，Piston V 机身正面嵌入了一块圆形触控屏，整机采用直立形态，外观接近数字桌面时钟。该屏幕会显示 Windows 11 和 Bazzite（基于 Linux 的游戏操作系统发行版）2 个启动选项，用户可直接通过触控屏选择操作系统。 进入 Bazzite 系统后，圆形屏幕会切换为定制状态显示界面，可显示 CPU、GPU 和内存占用率，也会根据当前运行的…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/988/611.htm",
+      "publishedAt": "09:50",
+      "relativeTime": "56 分钟前"
+    },
+    {
+      "id": "031a281b1c234d",
+      "level": "重要",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "苹果发布 watchOS 27、tvOS 27 第三个公测版",
+      "summary": "IT之家 8 月 12 日消息，苹果今天发布了 tvOS 27 和 watchOS 27 第三个公测版，让 Apple TV 和 Apple Watch 用户可以在秋季正式发布前提前体验新系统。此外，HomePod 和 HomePod mini 也迎来了新的 HomePod Software 27 测试版。 用户可以先在苹果 Beta 测试网站注册公测计划，然后通过各设备上的“设置”应用下载并安装更新。 据IT之家了解，watchOS 27 加入了 Siri AI 功能，只要用户搭配的是支持 Siri AI 的 iPhone，就可以直接在手腕上使用 S…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/988/604.htm",
+      "publishedAt": "09:29",
       "relativeTime": "1 小时前"
     },
     {
-      "id": "1b1c36bc045026",
+      "id": "d57bf6fc7b6478",
+      "level": "重要",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "苹果发布 iOS / iPadOS 27 第三个公测版",
+      "summary": "IT之家 8 月 12 日消息，苹果今天发布了 iOS 27 和 iPadOS 27 第三个公测版，所有拥有兼容设备的用户都可以下载并体验这两个新系统。此次更新距离第二个公测版发布已经过去两周。 用户可以先在苹果 Beta 测试网站注册，然后进入“设置”>“通用”>“软件更新”，选择 iOS 27 或 iPadOS 27 公测版即可参与测试。 IT之家注意到，iOS 27 引入了 Siri AI，这是功能更加强大的新一代 Siri，可以搜索互联网、访问用户的个人信息、识别屏幕上的内容，并在应用内以及跨应用执行操作。相比此前版本，iOS 27 中的 Si…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/988/585.htm",
+      "publishedAt": "09:07",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "81f39a532ff223",
       "level": "重要",
       "region": "海外",
       "category": "产品动态",
-      "verification": "媒体报道",
-      "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
-      "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differ…",
+      "verification": "已确认",
+      "title": "v3.0.0",
+      "summary": "3.0.0 (2026-08-12) ⚠ BREAKING CHANGES api: HTTPX2 is now the default HTTP client, and httpx is no longer installed automatically. Applications using custom HTTPX clients, transports, or configuration objects must migrate to their HTTPX2 equivalents or use the temporary, runtime-…",
       "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-      "publishedAt": "08:39",
-      "relativeTime": "6 分钟前",
-      "titleZh": "Sabre 否认用 ChatGPT 取代 Rideshare Stimulator 的编剧",
-      "summaryZh": "在一位前首席作家声称 Saber“用 ChatGPT 取代了我”之后，首席执行官 Matthew Karch 现在声称，对于上个月宣布由 Unigine 开发的共享出行“刺激器”游戏，“Saber 和 Unigine 都没有用人工智能取代任何作家”。作者斯特拉·萨科 (Stella Sacco) 表示不同……"
+      "source": "OpenAI GitHub Releases",
+      "sourceUrl": "https://github.com/openai/openai-python/releases/tag/v3.0.0",
+      "publishedAt": "09:54",
+      "relativeTime": "52 分钟前",
+      "summaryZh": "3.0.0 (2026-08-12) ⚠ 重大更改 api：HTTPX2 现在是默认 HTTP 客户端，并且不再自动安装 httpx。使用自定义 HTTPX 客户端、传输或配置对象的应用程序必须迁移到其 HTTPX2 等效项或使用临时的运行时..."
+    },
+    {
+      "id": "dd4dcf686ec028",
+      "level": "重要",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "AI 公司面壁智能启动 IPO",
+      "summary": "IT之家 8 月 12 日消息，证监会网站披露，北京面壁智能科技股份有限公司于 2026 年 8 月 11 日在北京证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商为中信证券。 辅导备案报告显示，该公司无控股股东，公司第一大股东为北京清语启航科技中心（有限合伙），持股比例 16.45%。 IT之家注：面壁智能（ModelBest）2022 年孵化自清华大学 NLP 实验室，是一家 AI 大模型企业。该公司专注于高效端侧大模型和开源生态，标志性产品为 MiniCPM 端侧系列大模型。 相关阅读： 《 国产端侧大模型首次：面壁智能 MiniCPM…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/988/581.htm",
+      "publishedAt": "08:53",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "ff69771f1e2002",
+      "level": "重要",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "消息称小红书打造全新“AI 导购”功能",
+      "summary": "IT之家 8 月 12 日消息，据《读佳》今日报道， 小红书在打造全新的“AI 导购”功能 ，依托对话交互模式，在问答场景中直接推送商品卡片、挂载下单跳转链接，该项目由道玄（潘博远）主导推进。 小红书在电商业务上，已落地部分 AI 功能，比如在店铺口碑里，会有 AI 总结的店铺口碑信息，供消费者参考。 今年 4 月底， 小红书发布内部信 ，宣布新一轮组织升级，其中核心变化就包括，成立 AI 一级部门 Dots 和企业智能部，从产品技术和组织两方面加大对 AI 的投入。 IT之家注意到，小红书近年来大力发展电商业务， 据《晚点 LatePost》报道…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/988/579.htm",
+      "publishedAt": "08:46",
+      "relativeTime": "1 小时前"
     },
     {
       "id": "25809d3aff130c",
@@ -65,7 +176,7 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
       "publishedAt": "03:15",
-      "relativeTime": "5 小时前",
+      "relativeTime": "7 小时前",
       "titleZh": "OpenAI 推出适用于 Linux 的 ChatGPT 桌面应用程序",
       "summaryZh": "OpenAI 终于为 Linux 操作系统带来了专用的 ChatGPT 桌面应用程序。"
     },
@@ -75,31 +186,17 @@
       "region": "国内",
       "category": "具身智能",
       "verification": "媒体报道",
-      "title": "多个 AI 智能体协同干活，马斯克旗下 SpaceXAI 推出 Grok Bot",
+      "title": "AI 智能体全天候组队干活，马斯克 SpaceXAI 祭出 Grok Bot 大招",
       "summary": "IT之家 8 月 12 日消息，SpaceXAI 推出了一款全新的人工智能软件，旨在像一支 AI 智能体团队一样工作，全天候接收并处理各类任务。这也是埃隆 · 马斯克旗下公司在 AI 智能体市场逐渐落后于 Anthropic 和 OpenAI 后，为追赶竞争对手采取的最新举措。 这款名为 Grok Bot 的新产品可以无缝处理各种专业工作。该公司当地时间周二表示，该工具能够登录不同的应用和网站，保留此前任务中的信息，还可以让不同机器人之间共享相关细节和上下文信息。 这款产品是马斯克推动公司在 AI 竞赛中迎头赶上的一部分。此前，SpaceXAI 在快速…",
       "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/988/570.htm",
       "publishedAt": "08:12",
-      "relativeTime": "33 分钟前"
-    },
-    {
-      "id": "52fb68708dfacf",
-      "level": "重要",
-      "region": "国内",
-      "category": "大模型",
-      "verification": "媒体报道",
-      "title": "IT早报 0812：豆包回应推荐酒店抽佣 12%；DeepSeek 梁文锋财富年增 3850%；3699 元起小米 REDMI K100 Pro 系列手机发布；折射手机壳被指用于偷拍涉嫌违法...",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 12 日星期三，今天的重要科技资讯有： 1、豆包公关负责人刘星回应“推荐酒店抽取 12% 佣金”：说法不准确，仅在订单成交后支付渠道服务费 针对网传“豆包推荐酒店抽取 12% 佣金”的说法，豆包公关负责人刘星当晚在微博回应：“豆包推荐酒店要收费了”这个说法不准确。豆包生活服务业务目前没有付费推广，豆包推荐酒店也不收取广告费，商家不能通过付费影响推荐或排序，仅在订单成交后支付渠道服务费。>> 查看详情 2、DeepSeek 梁文锋财富一年暴涨 3850%，增速登顶全球亿万富豪榜 DeepSeek 创…",
-      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/988/561.htm",
-      "publishedAt": "07:46",
-      "relativeTime": "59 分钟前"
+      "relativeTime": "2 小时前"
     },
     {
       "id": "66a53173273876",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -109,51 +206,37 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
       "publishedAt": "05:39",
-      "relativeTime": "3 小时前",
+      "relativeTime": "5 小时前",
       "titleZh": "Accel 在数周内关闭了超额认购的 5.5 亿美元印度基金，距上次发行已过去 19 个月",
       "summaryZh": "这家美国风险投资公司之前的 6.5 亿美元印度基金中仍有超过 55% 可供部署。"
     },
     {
-      "id": "304e46a528a274",
-      "level": "重要",
+      "id": "b9ea46361773f3",
+      "level": "关注",
       "region": "国内",
       "category": "大模型",
       "verification": "媒体报道",
-      "title": "OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献",
-      "summary": "IT之家 8 月 12 日消息，OpenAI 高级主管布拉德 · 莱特卡普（Brad Lightcap）今天（8 月 12 日）在 X 平台发布推文，宣布将离职创业。 IT之家查询公开资料， 莱特卡普此前和 OpenAI 现任首席执行官萨姆 · 奥尔特曼（Sam Altman）在风险投资公司 Y Combinator 共事 ，于 2018 年加入 OpenAI 公司。莱特卡普于今年 4 月发生人事调动，从 OpenAI 首席运营官职位调任至专注于领导特殊项目。 随后奥尔特曼在该推文下方评论，表示感谢莱特卡普对 OpenAI 公司的贡献： 布拉德 · 莱…",
+      "title": "派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等",
+      "summary": "雷蛇那伽梵蛇 V3 专业版无线鼠标发布，铭凡推出 Elite Mini M2 Air-304 迷你主机等。 查看全文",
       "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/988/556.htm",
-      "publishedAt": "07:19",
-      "relativeTime": "1 小时前"
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/post/113343",
+      "publishedAt": "08:44",
+      "relativeTime": "2 小时前"
     },
     {
-      "id": "56685df9efde1d",
-      "level": "重要",
+      "id": "711b3485217e3f",
+      "level": "关注",
       "region": "国内",
-      "category": "融资",
+      "category": "具身智能",
       "verification": "媒体报道",
-      "title": "从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs",
-      "summary": "IT之家 8 月 12 日消息，林俊旸（yáng）今日宣布，他在上海创办了一家新公司 Pragmatik Labs（语用科技），简称 p7k。新公司的研究方向为 横跨数字世界和物理世界的下一代智能体 （Agent）。 公开资料显示，出生于 1993 年的林俊旸，曾是阿里最年轻的 P10 级技术专家，与智谱 AI 创始人唐杰、月之暗面（Kimi）创始人杨植麟、腾讯首席 AI 科学家姚顺雨并称为“基模四杰”。今年 3 月，林俊旸宣布从阿里巴巴离职。 林俊旸还透露，高榕创投和红杉中国共同领投本轮融资，腾讯和上海未来产业基金提供支持。 据 The Inform…",
-      "whyItMatters": "资金流向反映市场正在为哪些 AI 能力与商业模式下注。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/988/555.htm",
-      "publishedAt": "07:14",
-      "relativeTime": "1 小时前"
-    },
-    {
-      "id": "09aea360a0a707",
-      "level": "重要",
-      "region": "国内",
-      "category": "大模型",
-      "verification": "媒体报道",
-      "title": "谷歌有史以来增长最快的产品：Gemini 应用月活跃用户达 10 亿",
-      "summary": "IT之家 8 月 12 日消息，谷歌 CEO 桑达尔 · 皮查伊（Sundar Pichai）宣布， Gemini 应用月活跃用户达到 10 亿 ，是谷歌有史以来增长最快的产品，也是该公司第 14 款跨越十亿用户大关的产品。 据IT之家此前报道，今年 6 月， 谷歌宣布 Gemini 应用月活跃用户数超过 9 亿 ，为该公司当时所拥有的 13 款超 10 亿用户产品提供支持，其中包括 5 款用户量超过 30 亿的产品（谷歌搜索、Gmail 邮箱、Android 系统、Chrome 浏览器、YouTube）。 相关阅读： 《 3.6 Flash 发布不到…",
-      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/988/552.htm",
-      "publishedAt": "06:59",
-      "relativeTime": "1 小时前"
+      "title": "DeepSeek招土木工程师；腾讯参投！林俊旸深夜官宣新公司：做下一代AI智能体；宇树科技中签号出炉：共19414个丨雷峰早报",
+      "summary": "要闻提示 1.DeepSeek招土木工程师，并开设「DeepSeek Harness团队」账号 2.宇树科技中签号出炉：共19414个，每个中签号码只能认购500股 3.腾讯参投！林俊旸深夜官宣新公司语用科技：做下一代AI智能体 4.小鹏汽车又陷“自燃”风波？嘉善大火12分钟吞噬整栋楼 5.从上线到停运仅1个月！米哈游“新作”宣布停服 6.董明珠回应「网红」身份：靠产品出圈，而非流量包装 7.Manus：即将恢复以独立公司的形式运营 8.OpenAI前机器人业务负责人加入Anthropic 今日头条 DeepSeek招土木工程师，并开设「DeepSee…",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "雷锋网",
+      "sourceUrl": "https://www.leiphone.com/category/zaobao/H8yaCINLCnx3D30o.html",
+      "publishedAt": "08:42",
+      "relativeTime": "2 小时前"
     },
     {
       "id": "5570c557a3ab74",
@@ -167,7 +250,7 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
       "publishedAt": "00:25",
-      "relativeTime": "8 小时前",
+      "relativeTime": "10 小时前",
       "titleZh": "未发布的 Anthropic 模型在数学中最大的未解决问题之一上取得了进展",
       "summaryZh": "150 多年来，黎曼猜想一直是数学中未解决的主要问题之一。 Anthropic 尚未解决这个问题，但该公司的模型取得的进展超出了您的预期。"
     },
@@ -183,21 +266,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1572808.htm",
       "publishedAt": "08:18",
-      "relativeTime": "28 分钟前"
-    },
-    {
-      "id": "cc6c3d612578dd",
-      "level": "关注",
-      "region": "国内",
-      "category": "产品动态",
-      "verification": "媒体报道",
-      "title": "举债重金押注 AI 基建，消息称甲骨文正制定新一轮裁员计划",
-      "summary": "IT之家 8 月 12 日消息，据知情人士透露，甲骨文正在制定新一轮裁员计划，以削减员工成本。与此同时，公司正背负数百亿美元债务，用于大举投资 AI 基础设施。 Business Insider 查阅的一份内部文件显示，部分团队的裁员比例可能达到两位数。另一名直接了解相关计划的人士透露，公司已经要求管理人员提交受影响员工名单，目标是在 9 月 1 日开始第二财季之前完成降本并削减员工成本。 如果此次裁员最终实施，将是甲骨文今年以来的又一轮裁员。今年早些时候，公司已经进行过裁员。根据甲骨文近期提交的文件，截至 5 月 31 日结束的 2026 财年，公司…",
-      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/988/567.htm",
-      "publishedAt": "08:00",
-      "relativeTime": "45 分钟前"
+      "relativeTime": "2 小时前"
     },
     {
       "id": "8b18fe174be481",
@@ -211,7 +280,7 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
       "publishedAt": "02:49",
-      "relativeTime": "5 小时前",
+      "relativeTime": "7 小时前",
       "titleZh": "Google 的 Gemini 应用用户数量激增至 10 亿",
       "summaryZh": "谷歌还分享了人们实际如何使用聊天机器人的数据，63% 的 Gemini 用户使用语音功能直接与助手交谈。此外，据谷歌称，Gemini 现在每天生成超过 1.5 亿张图像。"
     },
@@ -227,23 +296,9 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
       "publishedAt": "03:41",
-      "relativeTime": "5 小时前",
+      "relativeTime": "7 小时前",
       "titleZh": "ChatGPT和Gemini用户均刚刚突破10亿",
       "summaryZh": "这是 Google 产品第 14 次突破 10 亿用户。谷歌首席执行官桑达尔·皮查伊(Sundar Pichai)在X上发帖称，每月有10亿人在使用Gemini，而Gemini是谷歌有史以来增长最快的产品。十亿用户是一个巨大的里程碑，但谷歌并不是第一个人工智能应用程序......"
-    },
-    {
-      "id": "c62799882c7077",
-      "level": "关注",
-      "region": "国内",
-      "category": "产品动态",
-      "verification": "媒体报道",
-      "title": "AI 云服务巨头 CoreWeave 2026 财年第二财季营收 25.75 亿美元，同比增长 112.46%",
-      "summary": "IT之家 8 月 12 日消息，AI 云服务巨头 CoreWeave 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）及第二财季（2026 年 4 月～2026 年 6 月）报告： 2026 财年半年报 营业总收入 ：46.53 亿美元 （IT之家注：现汇率约合 314.33 亿元人民币） ，同比增长 112.08% 毛利润 ：30.58 亿美元 （现汇率约合 206.58 亿元人民币） ，同比增长 88.88% 毛利率 ：65.73%，同比下降 8.06 个百分点 归母净利润…",
-      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/988/544.htm",
-      "publishedAt": "04:15",
-      "relativeTime": "4 小时前"
     },
     {
       "id": "34ac2f6b9783b5",
@@ -257,7 +312,7 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
       "publishedAt": "01:41",
-      "relativeTime": "7 小时前",
+      "relativeTime": "9 小时前",
       "titleZh": "OpenAI 的长期首席运营官 Brad Lightcap 将离职“开始新事物”",
       "summaryZh": "OpenAI 任职时间最长的一位高管即将离职，尽管这位长期担任首席运营官的员工表示，他“很高兴能够从不同的角度帮助大家推进使命”。"
     },
@@ -273,7 +328,7 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
       "publishedAt": "01:41",
-      "relativeTime": "7 小时前",
+      "relativeTime": "9 小时前",
       "titleZh": "General Catalyst 领投 2 个月大的 River AI 融资 1.1 亿美元",
       "summaryZh": "River AI 是一家由 xAI 联合创始人 Igor Babuschkin 创立的初创公司，对个人代理有着令人着迷的愿景，并获得了 11 亿美元的融资。"
     },
@@ -289,7 +344,7 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
       "publishedAt": "01:50",
-      "relativeTime": "6 小时前",
+      "relativeTime": "8 小时前",
       "titleZh": "另一位 OpenAI 高管起飞",
       "summaryZh": "OpenAI 的特别项目负责人、公司前首席运营官 Brad Lightcap 在人工智能实验室工作了八年后宣布离职。在后来发布到 X 的一份内部备忘录中，Lightcap 告诉同事他将开始“一些新的事情”。 “在过去的几个月里，我一直..."
     },
@@ -305,7 +360,7 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
       "publishedAt": "01:00",
-      "relativeTime": "7 小时前",
+      "relativeTime": "9 小时前",
       "titleZh": "Made by Google 2026：所有 Pixel 新闻和公告",
       "summaryZh": "谷歌正准备在 8 月 12 日发布一系列新的 Pixel 设备。发布会前的一系列泄密表明 Pixel 11 系列将有多种颜色，有迹象表明 Pro 模型将配备内置灯。来自谷歌的预告片还表明…​​…"
     },
@@ -321,7 +376,7 @@
       "source": "OpenAI GitHub Releases",
       "sourceUrl": "https://github.com/openai/openai-python/releases/tag/v2.54.0",
       "publishedAt": "02:45",
-      "relativeTime": "6 小时前",
+      "relativeTime": "8 小时前",
       "summaryZh": "2.54.0 (2026-08-11) 功能 api：添加新的响应模型标识符 (#3595) (0652787) 错误修复 api：澄清音频上传元数据要求 (#3596) (28888f9) 琐事 api：将生成的文件标头属性更新为 Castiron (#3583) (ea17fda)"
     },
     {
@@ -336,9 +391,23 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
       "publishedAt": "00:19",
-      "relativeTime": "8 小时前",
+      "relativeTime": "10 小时前",
       "titleZh": "苹果可以帮助你证明你的 iPhone 照片不是深度假货",
       "summaryZh": "苹果似乎正在开发一项 iOS 功能，可以验证 iPhone 相机拍摄照片的时间。 9to5Mac 报道称，iOS 27 beta 5 包含“Apple 参考图像”系统的代码参考，该系统可以将来源元数据嵌入到 iPhone 照片中……"
+    },
+    {
+      "id": "5e7f2da61ab6b8",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "从马斯克到奥特曼 硅谷大佬为何总在“误读”科幻？",
+      "summary": "8月12日，马斯克日前提出利用AI制作一个“符合历史事实”的《奥德赛》版本，引发外界对硅谷科技领袖如何理解经典文学和科幻作品的讨论。《连线》杂志刊文称，从马斯克到OpenAI CEO山姆·奥特曼，一些硅谷领袖长期受到科幻作品影响，但他们对这些作品的理解，可能与作品原本试图传达的警示存在明显偏差。 阅读全文",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1572850.htm",
+      "publishedAt": "10:15",
+      "relativeTime": "31 分钟前"
     },
     {
       "id": "fc4fc00c220435",
@@ -352,7 +421,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1572834.htm",
       "publishedAt": "08:31",
-      "relativeTime": "14 分钟前"
+      "relativeTime": "2 小时前"
     },
     {
       "id": "0f30243ed2b0eb",
@@ -366,7 +435,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1572804.htm",
       "publishedAt": "08:05",
-      "relativeTime": "40 分钟前"
+      "relativeTime": "2 小时前"
     },
     {
       "id": "3b841b65a5be90",
@@ -380,7 +449,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1572794.htm",
       "publishedAt": "07:59",
-      "relativeTime": "46 分钟前"
+      "relativeTime": "2 小时前"
     },
     {
       "id": "4b9dc20495ed5a",
@@ -394,7 +463,151 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1572792.htm",
       "publishedAt": "07:58",
-      "relativeTime": "47 分钟前"
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "b127b724618b0f",
+      "level": "关注",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "专题分析",
+      "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
+      "summary": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or offline: threats and coercion can appear directly in messages, while behaviour…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "arXiv AI",
+      "sourceUrl": "https://arxiv.org/abs/2608.11200v1",
+      "publishedAt": "01:57",
+      "relativeTime": "8 小时前",
+      "titleZh": "ConVAWG：针对妇女和女童的暴力行为中受控合成对话生成的基于检索的框架",
+      "summaryZh": "合成对话生成提供了一种研究敏感领域对话动态的方法，在这些领域中，真实数据难以访问、发布或注释。潜在的滥用可能发生在网上或线下：威胁和胁迫可以直接出现在消息中，而行为……"
+    },
+    {
+      "id": "409408d0cf0134",
+      "level": "关注",
+      "region": "海外",
+      "category": "具身智能",
+      "verification": "专题分析",
+      "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+      "summary": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics are costly to collect, while surgical tasks demand precise contact handling, long…",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "arXiv AI",
+      "sourceUrl": "https://arxiv.org/abs/2608.11204v1",
+      "publishedAt": "01:59",
+      "relativeTime": "8 小时前",
+      "titleZh": "手术 WAM：用于数据高效手术机器人学习的世界行动模型",
+      "summaryZh": "学习可靠的手术操作策略因缺乏动作标记的演示而受到瓶颈：具有同步运动学的遥控手术机器人（例如 dVRK）轨迹的收集成本高昂，而手术任务需要精确的接触处理、长时间……"
+    },
+    {
+      "id": "518b7c8c84782f",
+      "level": "关注",
+      "region": "海外",
+      "category": "大模型",
+      "verification": "专题分析",
+      "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
+      "summary": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fine-grained typicality structure. Their analysis uses cosine similarity over dense model representations. We revisit their approach using overlap over active sp…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "arXiv AI",
+      "sourceUrl": "https://arxiv.org/abs/2608.11197v1",
+      "publishedAt": "01:55",
+      "relativeTime": "8 小时前",
+      "titleZh": "超越一袋特征：稀疏自动编码器中的集合级不稳定性",
+      "summaryZh": "沙尼等人。 （2026）表明，LLM 表示广泛地恢复了人类类别边界，但未能反映细粒度的典型性结构。他们的分析使用密集模型表示的余弦相似度。我们重新审视他们使用重叠活动 sp 的方法......"
+    },
+    {
+      "id": "f835e81be264d8",
+      "level": "关注",
+      "region": "海外",
+      "category": "Agent",
+      "verification": "专题分析",
+      "title": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
+      "summary": "AI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards this, we present an extensive case study of how AI was used to improve bounds on the Grothendieck constant $K_G$, which captures the hardness between combinatori…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "arXiv AI",
+      "sourceUrl": "https://arxiv.org/abs/2608.11195v1",
+      "publishedAt": "01:53",
+      "relativeTime": "8 小时前",
+      "titleZh": "格洛腾迪克常数的长期人工智能研究：人类与人工智能数学协作的案例研究",
+      "summaryZh": "人工智能代理越来越多地应用于数学研究，但通常不清楚如何有效地使用它们。为此，我们提出了一个广泛的案例研究，说明如何使用人工智能来改善格罗腾迪克常数 $K_G$ 的界限，该常数捕获了组合之间的硬度……"
+    },
+    {
+      "id": "3b64c552884106",
+      "level": "关注",
+      "region": "海外",
+      "category": "政策监管",
+      "verification": "专题分析",
+      "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
+      "summary": "GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after deployment, limiting their ability to adapt to unseen interfaces. Although recent methods attempt to adapt models via test-time reinforcement learning, they c…",
+      "whyItMatters": "监管与司法判例会直接改变模型训练、产品上线和企业合规成本。",
+      "source": "arXiv AI",
+      "sourceUrl": "https://arxiv.org/abs/2608.11191v1",
+      "publishedAt": "01:50",
+      "relativeTime": "8 小时前",
+      "titleZh": "通过反射引导的策略自蒸馏实现测试时自演化 GUI 视觉基础",
+      "summaryZh": "GUI 视觉基础是 GUI 代理的一项基本功能。现有模型通常在部署后冻结其参数，限制了它们适应看不见的接口的能力。尽管最近的方法试图通过测试时强化学习来调整模型，但它们......"
+    },
+    {
+      "id": "420cd32ac1f7a2",
+      "level": "关注",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "专题分析",
+      "title": "How to Verify Consistency of Probabilistic Claims",
+      "summary": "When a probabilistic predictor answers many conditional-probability queries, are its answers self-consistent, and can this be verified in polynomial time? This problem is of interest for AI safety, where safety is derived from honesty about probabilistic predictions of unwanted…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "arXiv AI",
+      "sourceUrl": "https://arxiv.org/abs/2608.11181v1",
+      "publishedAt": "01:41",
+      "relativeTime": "9 小时前",
+      "titleZh": "如何验证概率声明的一致性",
+      "summaryZh": "当概率预测器回答许多条件概率查询时，其答案是否自洽，并且可以在多项式时间内验证吗？这个问题引起了人工智能安全的关注，其中安全性源于对不需要的概率预测的诚实……"
+    },
+    {
+      "id": "eed03ebb9625da",
+      "level": "关注",
+      "region": "海外",
+      "category": "芯片算力",
+      "verification": "专题分析",
+      "title": "A Quantum Roadmap for Softmax Attention: Exact Born-Rule Analogs for Softmax Attention on the Probability Simplex",
+      "summary": "The attention mechanism forms the foundation of many modern AI models such as the Transformer. In one subclass of problems where attention is used, inputs and outputs are bound to the probability simplex so that all outputs sum to one. In this setting, softmax attention admits a…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "arXiv AI",
+      "sourceUrl": "https://arxiv.org/abs/2608.11173v1",
+      "publishedAt": "01:32",
+      "relativeTime": "9 小时前",
+      "titleZh": "Softmax Attention 的量子路线图：概率单纯形上 Softmax Attention 的精确出生规则模拟",
+      "summaryZh": "注意力机制构成了许多现代人工智能模型（例如 Transformer）的基础。在使用注意力的问题的一个子类中，输入和输出绑定到概率单纯形，以便所有输出总和为一。在这种情况下，softmax 注意力承认……"
+    },
+    {
+      "id": "c560c964c085f2",
+      "level": "关注",
+      "region": "海外",
+      "category": "大模型",
+      "verification": "专题分析",
+      "title": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop",
+      "summary": "The Workshop on Trustworthy Natural Language Processing (TrustNLP), co-located with major ACL conferences since 2021, has grown from 8 proceedings papers to 41 over six editions, documenting a field-wide transition from post-hoc interpretability of static models to mechanistic u…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "arXiv AI",
+      "sourceUrl": "https://arxiv.org/abs/2608.11171v1",
+      "publishedAt": "01:30",
+      "relativeTime": "9 小时前",
+      "titleZh": "从可解释性到控制：TrustNLP 研讨会六年的见解",
+      "summaryZh": "自 2021 年以来，可信自然语言处理 (TrustNLP) 研讨会与主要 ACL 会议在同一地点举行，已从 8 篇会议论文增加到 6 个版本中的 41 篇论文，记录了从静态模型的事后可解释性到机械化模型的整个领域的转变。"
+    },
+    {
+      "id": "f9e604bcf854ad",
+      "level": "关注",
+      "region": "海外",
+      "category": "大模型",
+      "verification": "专题分析",
+      "title": "MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment",
+      "summary": "Existing Multimodal Large Language Models (MLLMs) predominantly rely on image-text pairs for modality alignment pretraining, mapping global image representations to long textual descriptions. However, this image-level alignment suffers from referential ambiguity: models struggle…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "arXiv AI",
+      "sourceUrl": "https://arxiv.org/abs/2608.11167v1",
+      "publishedAt": "01:28",
+      "relativeTime": "9 小时前",
+      "titleZh": "多模态代码切换：将视觉对象交织到语言中以实现显式对象级对齐",
+      "summaryZh": "现有的多模态大语言模型（MLLM）主要依赖图像-文本对进行模态对齐预训练，将全局图像表示映射到长文本描述。然而，这种图像级对齐会遇到引用模糊性：模型很难......"
     }
   ],
   "trendLines": [
@@ -403,11 +616,11 @@
     "AI 算力竞争继续转向推理能效、供应能力与整体成本。"
   ],
   "pendingItems": [
-    "本轮有 24 条来自可靠媒体的报道，后续将继续追踪官方确认。"
+    "本轮有 28 条来自可靠媒体的报道，后续将继续追踪官方确认。"
   ],
   "scanStats": {
     "configuredSources": 19,
     "successfulSources": 19,
-    "candidateCount": 29
+    "candidateCount": 65
   }
 }

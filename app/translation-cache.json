@@ -1264,6 +1264,46 @@
     "b7bac45d2936e88047a274095d3d61cf582a96d99863615ecbb05bc47b8c0579": {
       "source": "Apple could help you prove your iPhone photos aren’t deepfakes\nZXQSEPZXQ\nApple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at th…",
       "zh": "苹果可以帮助你证明你的 iPhone 照片不是深度假货\nZXQSEPZXQ\n苹果似乎正在开发一项 iOS 功能，可以验证 iPhone 相机拍摄照片的时间。 9to5Mac 报道称，iOS 27 beta 5 包含“Apple 参考图像”系统的代码参考，该系统可以将来源元数据嵌入到 iPhone 照片中……"
+    },
+    "17abaafc9041b418c07b186583a41fefa5ecbf5d7f93e171aed1df78c0c82367": {
+      "source": "3.0.0 (2026-08-12) ⚠ BREAKING CHANGES api: HTTPX2 is now the default HTTP client, and httpx is no longer installed automatically. Applications using custom HTTPX clients, transports, or configuration objects must migrate to their HTTPX2 equivalents or use the temporary, runtime-…",
+      "zh": "3.0.0 (2026-08-12) ⚠ 重大更改 api：HTTPX2 现在是默认 HTTP 客户端，并且不再自动安装 httpx。使用自定义 HTTPX 客户端、传输或配置对象的应用程序必须迁移到其 HTTPX2 等效项或使用临时的运行时..."
+    },
+    "3af75493118325fbfd066f215bf4c9895700c39c2b0f8c5ac0d891fa0f08fcaf": {
+      "source": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls\nZXQSEPZXQ\nSynthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or offline: threats and coercion can appear directly in messages, while behaviour…",
+      "zh": "ConVAWG：针对妇女和女童的暴力行为中受控合成对话生成的基于检索的框架\nZXQSEPZXQ\n合成对话生成提供了一种研究敏感领域对话动态的方法，在这些领域中，真实数据难以访问、发布或注释。潜在的滥用可能发生在网上或线下：威胁和胁迫可以直接出现在消息中，而行为……"
+    },
+    "22d1014c76eb77ba6d44cf36b24263f14116d6ef75af7d7d58a813a787a8bd19": {
+      "source": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning\nZXQSEPZXQ\nLearning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics are costly to collect, while surgical tasks demand precise contact handling, long…",
+      "zh": "手术 WAM：用于数据高效手术机器人学习的世界行动模型\nZXQSEPZXQ\n学习可靠的手术操作策略因缺乏动作标记的演示而受到瓶颈：具有同步运动学的遥控手术机器人（例如 dVRK）轨迹的收集成本高昂，而手术任务需要精确的接触处理、长时间……"
+    },
+    "57238aa8fec493d3db3ae8151dc2e17c32aaed6c71609c628389165980e78627": {
+      "source": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders\nZXQSEPZXQ\nShani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fine-grained typicality structure. Their analysis uses cosine similarity over dense model representations. We revisit their approach using overlap over active sp…",
+      "zh": "超越一袋特征：稀疏自动编码器中的集合级不稳定性\nZXQSEPZXQ\n沙尼等人。 （2026）表明，LLM 表示广泛地恢复了人类类别边界，但未能反映细粒度的典型性结构。他们的分析使用密集模型表示的余弦相似度。我们重新审视他们使用重叠活动 sp 的方法......"
+    },
+    "3a26c30d97e6699367f4fd07235005a7b49c90652c866dde24006ce3de356a5c": {
+      "source": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration\nZXQSEPZXQ\nAI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards this, we present an extensive case study of how AI was used to improve bounds on the Grothendieck constant $K_G$, which captures the hardness between combinatori…",
+      "zh": "格洛腾迪克常数的长期人工智能研究：人类与人工智能数学协作的案例研究\nZXQSEPZXQ\n人工智能代理越来越多地应用于数学研究，但通常不清楚如何有效地使用它们。为此，我们提出了一个广泛的案例研究，说明如何使用人工智能来改善格罗腾迪克常数 $K_G$ 的界限，该常数捕获了组合之间的硬度……"
+    },
+    "b48d66b22d9e70fd8387532e905105ccecae93fed18d6becdab2e4dfdae9b491": {
+      "source": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation\nZXQSEPZXQ\nGUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after deployment, limiting their ability to adapt to unseen interfaces. Although recent methods attempt to adapt models via test-time reinforcement learning, they c…",
+      "zh": "通过反射引导的策略自蒸馏实现测试时自演化 GUI 视觉基础\nZXQSEPZXQ\nGUI 视觉基础是 GUI 代理的一项基本功能。现有模型通常在部署后冻结其参数，限制了它们适应看不见的接口的能力。尽管最近的方法试图通过测试时强化学习来调整模型，但它们......"
+    },
+    "c5833ce68efbb56db8f59f399e91e83006489882d950ed59db59360e14329108": {
+      "source": "How to Verify Consistency of Probabilistic Claims\nZXQSEPZXQ\nWhen a probabilistic predictor answers many conditional-probability queries, are its answers self-consistent, and can this be verified in polynomial time? This problem is of interest for AI safety, where safety is derived from honesty about probabilistic predictions of unwanted…",
+      "zh": "如何验证概率声明的一致性\nZXQSEPZXQ\n当概率预测器回答许多条件概率查询时，其答案是否自洽，并且可以在多项式时间内验证吗？这个问题引起了人工智能安全的关注，其中安全性源于对不需要的概率预测的诚实……"
+    },
+    "b1cd9871781732899563a444c3db6d2d716a06910f46d1ee9077dcb7d9effd51": {
+      "source": "A Quantum Roadmap for Softmax Attention: Exact Born-Rule Analogs for Softmax Attention on the Probability Simplex\nZXQSEPZXQ\nThe attention mechanism forms the foundation of many modern AI models such as the Transformer. In one subclass of problems where attention is used, inputs and outputs are bound to the probability simplex so that all outputs sum to one. In this setting, softmax attention admits a…",
+      "zh": "Softmax Attention 的量子路线图：概率单纯形上 Softmax Attention 的精确出生规则模拟\nZXQSEPZXQ\n注意力机制构成了许多现代人工智能模型（例如 Transformer）的基础。在使用注意力的问题的一个子类中，输入和输出绑定到概率单纯形，以便所有输出总和为一。在这种情况下，softmax 注意力承认……"
+    },
+    "8b22de56f0a785f4411f092ef04c5cea48f96e8d66453c9807c03d4c57dae117": {
+      "source": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop\nZXQSEPZXQ\nThe Workshop on Trustworthy Natural Language Processing (TrustNLP), co-located with major ACL conferences since 2021, has grown from 8 proceedings papers to 41 over six editions, documenting a field-wide transition from post-hoc interpretability of static models to mechanistic u…",
+      "zh": "从可解释性到控制：TrustNLP 研讨会六年的见解\nZXQSEPZXQ\n自 2021 年以来，可信自然语言处理 (TrustNLP) 研讨会与主要 ACL 会议在同一地点举行，已从 8 篇会议论文增加到 6 个版本中的 41 篇论文，记录了从静态模型的事后可解释性到机械化模型的整个领域的转变。"
+    },
+    "04cb36b54a789db604b92a4604db1998e6b1afed357dfdf3190d17099f572275": {
+      "source": "MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment\nZXQSEPZXQ\nExisting Multimodal Large Language Models (MLLMs) predominantly rely on image-text pairs for modality alignment pretraining, mapping global image representations to long textual descriptions. However, this image-level alignment suffers from referential ambiguity: models struggle…",
+      "zh": "多模态代码切换：将视觉对象交织到语言中以实现显式对象级对齐\nZXQSEPZXQ\n现有的多模态大语言模型（MLLM）主要依赖图像-文本对进行模态对齐预训练，将全局图像表示映射到长文本描述。然而，这种图像级对齐会遇到引用模糊性：模型很难......"
     }
   }
 }
