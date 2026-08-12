@@ -1304,6 +1304,26 @@
     "04cb36b54a789db604b92a4604db1998e6b1afed357dfdf3190d17099f572275": {
       "source": "MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment\nZXQSEPZXQ\nExisting Multimodal Large Language Models (MLLMs) predominantly rely on image-text pairs for modality alignment pretraining, mapping global image representations to long textual descriptions. However, this image-level alignment suffers from referential ambiguity: models struggle…",
       "zh": "多模态代码切换：将视觉对象交织到语言中以实现显式对象级对齐\nZXQSEPZXQ\n现有的多模态大语言模型（MLLM）主要依赖图像-文本对进行模态对齐预训练，将全局图像表示映射到长文本描述。然而，这种图像级对齐会遇到引用模糊性：模型很难......"
+    },
+    "39f1285ec6808e40ff8fd47ea87d24eeb765a0fa6b915c9e0119a593030c9c76": {
+      "source": "Lovable confirms new $13.3B valuation, raises another $400M\nZXQSEPZXQ\nThis new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+      "zh": "Lovable 确认新估值 13.3B 美元，再融资 4 亿美元\nZXQSEPZXQ\nLovable 告诉 TechCrunch，这笔新融资是在 6 月份年化运行收入达到 5 亿美元之后进行的。"
+    },
+    "2b98561a5e7d403ad367c07c59524011538f7b199f28a4aa6106d2a9268b51db": {
+      "source": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis\nZXQSEPZXQ\nIntroducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis。",
+      "zh": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析\nZXQSEPZXQ\nOlmoEarth 嵌入介绍：从 OlmoEarth Studio 导出自定义嵌入以进行下游分析。"
+    },
+    "8aad9869fef86185682ac07b6f81da468c043942968d01de52190c8f2bf766d0": {
+      "source": "Scaling AI agents with trustworthy data\nZXQSEPZXQ\nBusiness and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (…",
+      "zh": "使用可信数据扩展人工智能代理\nZXQSEPZXQ\n商业和技术领导者无需相信代理人工智能的时代已经到来。组织正在迅速采用代理，很少有高管怀疑该技术改变工作的潜力。但许多组织发现实现预期的投资回报（……"
+    },
+    "c0a211e2a167c2269ae90c2cdeea1a7483239108c236d4b147d509db497973d2": {
+      "source": "Mesh, Automattic’s CRM for everyone, comes to Android\nZXQSEPZXQ\nMesh, an AI-powered contacts app and relationship manager from Automattic is now an Android app.",
+      "zh": "Automattic 面向所有人的 CRM Mesh 现已登陆 Android\nZXQSEPZXQ\nMesh 是一款来自 Automattic 的人工智能驱动的联系人应用程序和关系管理器，现已成为 Android 应用程序。"
+    },
+    "d6872108c3aab18c873a8b309590d7b45899b2423e03acf21f6db5a06f1073fd": {
+      "source": "Why Stream ring-maker Sandbar says the future of AI wearables is voice\nZXQSEPZXQ\nAI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especial…",
+      "zh": "为什么 Stream 戒指制造商 Sandbar 表示人工智能可穿戴设备的未来是语音\nZXQSEPZXQ\n人工智能笔记硬件在过去几年中蓬勃发展，信用卡大小的设备、吊坠、别针，甚至转录耳塞都有望捕捉您的会议并将其转化为摘要和行动项目。现在，一波可穿戴设备——尤其是戒指……"
     }
   }
 }
