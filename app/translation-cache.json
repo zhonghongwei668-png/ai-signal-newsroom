@@ -1396,6 +1396,14 @@
     "9135253ecc8edd0e25f4c93be7f3499f9f16d24c836ae116c446a8d538703ce5": {
       "source": "VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies\nZXQSEPZXQ\nAgents deployed in enterprise settings must reason across structured APIs and document collections, yet existing benchmarks evaluate these capabilities in isolation. We introduce VAKRA (e\\textbf{V}aluating \\textbf{A}PI and \\textbf{K}nowledge \\textbf{R}etrieval \\textbf{A}gents)…",
       "zh": "VAKRA：评估跨 API 的多跳推理和工具使用策略下的检索\nZXQSEPZXQ\n部署在企业环境中的代理必须跨结构化 API 和文档集合进行推理，但现有基准测试是孤立评估这些功能的。我们介绍 VAKRA（e\\textbf{V}评估 \\textbf{A}PI 和 \\textbf{K}nowledge \\textbf{R}etrieval \\textbf{A}gents）..."
+    },
+    "e702f3a3a9f0a23525d54d0cc61b201152f55fd0025c0e5bc07d78cc4bc7650e": {
+      "source": "How kids feel about AI, in their own words\nZXQSEPZXQ\nWhen we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to shar…",
+      "zh": "孩子们如何看待人工智能，用他们自己的话说\nZXQSEPZXQ\n当我们开始与孩子们谈论人工智能时，我们以为我们知道会听到什么。我们预计有些人会告诉我们他们用它来作弊，就像千禧一代和 X 一代打开 CliffsNotes 或将公式编程到他们的 TI-82 中一样，而其他人则分享……"
+    },
+    "6a998e3dfdd00cc8cf841459ed35fda85a7d6dddde7bf667b8334518cc5ba3c6": {
+      "source": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It\nZXQSEPZXQ\nOver a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
+      "zh": "脂肪肝正在流行。人工智能可以帮助您取得领先\nZXQSEPZXQ\n全球有超过十亿人的肝脏脂肪过多，这可能会导致一系列健康问题。研究人员认为人工智能工具可以尽早发现这种情况并帮助阻止它，从而挽救生命。"
     }
   }
 }
