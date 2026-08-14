@@ -1496,6 +1496,10 @@
     "90c2805114252cb916e7cb932c0bb1ed7560a5d6b027009f4d116f6d84c2fd7c": {
       "source": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure\nZXQSEPZXQ\nModern language models are trained on heterogeneous web-scale text corpora. Consequently, studying knowledge and skill acquisition is difficult, as prior exposure to related content is hard to characterize. To address this challenge, we introduce LITTLECURRICULUM, a curated 88B-…",
       "zh": "LittleLearner：教学控制知识暴露下的语言模型\nZXQSEPZXQ\n现代语言模型是在异构网络规模文本语料库上进行训练的。因此，学习知识和技能获取很困难，因为很难描述之前接触过的相关内容。为了应对这一挑战，我们推出了 LITTLECURRICULUM，这是一个精心策划的 88B-..."
+    },
+    "7bac3451e15536f2a2ced49bce5a696a884183502a9cf4aa0d43ed191b02b2bd": {
+      "source": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed\nZXQSEPZXQ\nOpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "zh": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍\nZXQSEPZXQ\nOpenAI 正在推出其最新、最强大模型的加速版本预览，以吸引企业用户。"
     }
   }
 }
