@@ -1416,6 +1416,86 @@
     "e64e8a3798c3a55e07ccf8427773b5010ff7b3aa3060f547656500a26bb4ed5d": {
       "source": "Suno is trying to look more like a real music production tool\nZXQSEPZXQ\nSuno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requeste…",
       "zh": "Suno 试图看起来更像一个真正的音乐制作工具\nZXQSEPZXQ\nSuno 发布的 Studio 2.0 进行了重大升级，使其更接近实际的数字音频工作站 (DAW)，而不是具有生成 AI 功能的简单音频编辑器。最大的新增无疑是 MIDI 支持。 Suno 表示 MIDI 是其最需要的……"
+    },
+    "3db525860cbda31cdfe01560a297c16f1c7e4cd53b02e97aacb4b19bf51f6c30": {
+      "source": "Bring your spreadsheet data to life with Sheets canvas\nZXQSEPZXQ\nThe video shows Sheets canvas in action.",
+      "zh": "使用表格画布让您的电子表格数据栩栩如生\nZXQSEPZXQ\n该视频展示了工作中的表格画布。"
+    },
+    "11bddd9cdc464b8da207cb8c11d05d1e25ae3f9d0183b6e9d106b82def8ebaaf": {
+      "source": "Writer introduces new AI model and upgraded harness to contain token costs\nZXQSEPZXQ\nBuilt as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "zh": "作者引入了新的人工智能模型和升级的工具来控制代币成本\nZXQSEPZXQ\n作为 Z.ai 开源模型 GLM-5.2 的训练后变体，Writer 表示新系统应该以低得多的价格提供部署就绪的功能。"
+    },
+    "777d7a795243a28b8af07a686b31b6b2db0aed36367bbc8aa3239474bd556383": {
+      "source": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot\nZXQSEPZXQ\nMicrosoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico…",
+      "zh": "微软类似 Clippy 的 Mico 角色不再是 Copilot 的面孔\nZXQSEPZXQ\n当您使用聊天机器人的语音模式时，Microsoft Copilot 将不再显示其情绪化的黄色斑点 Mico。微软在支持页面中表示，它将把 Mico 转移到 Learn Live 平台，据 GeekWire 早些时候报道，该虚拟形象将有“更多反应”。米科…"
+    },
+    "6b6b0708891503d575244f8ae0cc010ed4f0955f0b3b24acc1b680a7029a7d98": {
+      "source": "The Safety Reckoning Inside OpenAI\nZXQSEPZXQ\nOpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+      "zh": "OpenAI 内部的安全计算\nZXQSEPZXQ\nOpenAI 的流氓代理黑客事件是人工智能安全和网络安全的分水岭。它还引发了内部对导致其发生的文化的质疑。"
+    },
+    "43fbf91cc9e1bfc482c6cd7eeaa33b346a117b93e89382113abd192d653f2170": {
+      "source": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.\nZXQSEPZXQ\nAI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "zh": "Databricks 想要筹集 1B 美元，投资者想要 15B 美元。其最终估值为 5B 美元，估值为 190B 美元。\nZXQSEPZXQ\nAli Ghodsi 告诉 TechCrunch，人工智能很昂贵。由于有如此多的投资者想要参与他的最新一轮投资，他对超出计划的投资表示同意。"
+    },
+    "74b241f1f47161d462cad91f2aa8c5e0b88418b1db813d4bace3aed713df97a8": {
+      "source": "IBM partners with OpenAI to bolster enterprise AI push\nZXQSEPZXQ\nIBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "zh": "IBM 与 OpenAI 合作，推动企业人工智能的发展\nZXQSEPZXQ\n作为此次交易的一部分，IBM 计划对数万名顾问进行 OpenAI 技术的培训和认证。"
+    },
+    "bbcadb8c43dd8b89daaa00cacd9d2ecc49bfaadb384030f18442ad0795956d15": {
+      "source": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets\nZXQSEPZXQ\nRecord, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets。",
+      "zh": "使用 Strands Agents、LeRobot 和 Hugging Face 存储桶从一处进行记录、训练和部署\nZXQSEPZXQ\n使用 Strands Agents、LeRobot 和 Hugging Face 存储桶从一处进行记录、训练和部署。"
+    },
+    "1de34d7b3eeeae47c89d754dc61870bdb303e3e3f6539f522e38ae73f41fb04a": {
+      "source": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything\nZXQSEPZXQ\nAI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
+      "zh": "马克·扎克伯格的人工智能宣言有 6,500 个字，但几乎什么也没说\nZXQSEPZXQ\n人工智能正在改变文化，从科技首席执行官宣言到凌晨 1 点工作面试。本周，我们将在《恐怖谷》中揭开 Black Hat 和 Defcon 的一些最新成果以及重要发现。"
+    },
+    "91c3a3a3e3e0e53102df1062e9de552f8918a16be1bec7e0752289c958ba3414": {
+      "source": "OpenAI is losing its second executive this week\nZXQSEPZXQ\nAnother OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, preside…",
+      "zh": "OpenAI 本周将失去第二位高管\nZXQSEPZXQ\n另一位 OpenAI 高管即将离职。丹尼斯·德莱瑟 (Denise Dresser) 在担任 Slack 首席执行官后于 12 月加入 OpenAI 担任首席营收官，她在 LinkedIn 上发布的团队说明中表示，她将在“未来几周”内离职，以“寻求其他机会”。达利·拉吉克（Dali Rajic）主持……"
+    },
+    "938cde1bd6070d865906a8c8bc4d9b7e1a3f1332d262bc4aa0c8543af3de7c1f": {
+      "source": "Anthropic set AI agents loose on the same task. They started a turf war.\nZXQSEPZXQ\nAnthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "zh": "Anthropic 让 AI 代理可以轻松执行同一任务。他们开始了地盘争夺战。\nZXQSEPZXQ\nAnthropic 研究人员发现人工智能代理可以以意想不到的方式发生冲突、共谋和协调，这引发了新的问题：当今的安全测试是否捕获了多代理系统的风险。"
+    },
+    "dba3c91214ed0832da8d0009107cc700712ffb526f796fefe876751b0bafa89b": {
+      "source": "OpenAI hires new CRO as executive shake-up continues\nZXQSEPZXQ\nOpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
+      "zh": "OpenAI 聘任新 CRO，高管变动仍在继续\nZXQSEPZXQ\nOpenAI 在上任仅九个月后就接替了首席营收官 Denise Dresser，任命 Wiz 总裁兼首席运营官 Dali Rajic 接任 Frontier Lab 的最高销售职位。"
+    },
+    "25a2b17462707c57c161be5a52def910f7970ee5bfce40451a853e96750b8d95": {
+      "source": "0.122.0 (2026-08-13) Full Changelog: v0.121.0...v0.122.0 Features api: add output_behavior to dream creation (create a new memory store or update the input store in place) ( 852c4bb ) Bug Fixes bedrock,aws: run SigV4 signing off the event loop in async clients ( #334 ) ( 2bae6c8…",
+      "zh": "0.122.0 (2026-08-13) 完整变更日志：v0.121.0...v0.122.0 功能 api：将 output_behavior 添加到 dream 创建（创建新内存存储或就地更新输入存储）( 852c4bb ) 错误修复基岩，aws：在异步客户端中运行 SigV4 签署事件循环 ( #334 ) ( 2bae6c8…"
+    },
+    "434fe0269a504582bbca90a72f18fd4bb4450c2f6159dbdbd3d0cc468ea012bf": {
+      "source": "AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)\nZXQSEPZXQ\nThis report presents an improved version of AlayaWorld. While the backbone architecture, chunk-wise autoregressive generation scheme, and training data remain unchanged from the previous release, we substantially revise how conditioning signals are represented and integrated int…",
+      "zh": "AlayaWorld：交互式长视界世界建模 - 完整技术报告（v1.1）\nZXQSEPZXQ\n本报告介绍了AlayaWorld的改进版本。虽然主干架构、分块自回归生成方案和训练数据与之前的版本相比保持不变，但我们大幅修改了条件信号的表示和集成方式......"
+    },
+    "9bfbaa4173c2c8337baa1473824c1b024a2fa1ce755eca9da3c9190c95811940": {
+      "source": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design\nZXQSEPZXQ\nTransforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable exper…",
+      "zh": "AutoDesign：长期代理设计的元线束优化\nZXQSEPZXQ\n将多模态源转换为压缩和结构化的媒体输出可以从根本上概念化为以模型线束系统为中心的长期代理过程。虽然理想的安全带系统应符合人类设计先验并积累可重复使用的经验……"
+    },
+    "b7829a063f741cf37fadffa3b848688e890f2d8d171fc578b0a2a32e3b8bad1f": {
+      "source": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist\nZXQSEPZXQ\nRecent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet workflow coverage alone does not provide access to the full evidence on which scient…",
+      "zh": "OmniScientist：全模态、全学科人工智能科学家\nZXQSEPZXQ\n基础模型的最新进展使人工智能科学家能够自动化日益完整的研究工作流程，从假设生成和代码执行到手稿准备。然而，仅工作流程覆盖范围并不能提供有关科学的完整证据……"
+    },
+    "6029cf55217fac3918e25a2bdae8b6c4ac2291a0ed4cfa888a28a31f0eb3af64": {
+      "source": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark\nZXQSEPZXQ\nHumanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences but miss the physical artifacts that matter most, particularly unstable support…",
+      "zh": "HumanTracker：迈向全面且符合人体的运动跟踪基准\nZXQSEPZXQ\n人形运动跟踪是远程操作和全身模仿的核心，但评估往往与人们在视频中的感知不一致。每帧平均运动误差构成差异，但错过了最重要的物理伪影，特别是不稳定的支撑......"
+    },
+    "f4d01fefef2be4c48f9cd5d67e0c7399d4ba262611ea620ec5f6253352874136": {
+      "source": "Defensive Boosting for Online Probabilistic Forecasting\nZXQSEPZXQ\nWe study online probabilistic forecasting of binary outcomes chosen by an adaptive adversary. Given an online learning algorithm for a weak hypothesis class $H$, we would like to efficiently obtain two incomparable guarantees that existing online boosting techniques provide sepa…",
+      "zh": "在线概率预测的防御性提升\nZXQSEPZXQ\n我们研究自适应对手选择的二元结果的在线概率预测。给定弱假设类 $H$ 的在线学习算法，我们希望有效地获得两个无与伦比的保证，现有的在线提升技术提供了独立的…"
+    },
+    "d4cfb8e189af1482456a20782a537c40eada2727fa99d793aa64f991962d00a6": {
+      "source": "Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure\nZXQSEPZXQ\nThe per-instance Jaccard score, or intersection over union (IoU), is standard in multi-label classification and binary segmentation. With $s$ labels, its loss matrix has $2^s$ outcomes and reports. Under the convention $\\mathrm{Jac}(\\varnothing,\\varnothing)=1$, we prove that the…",
+      "zh": "多标签 Jaccard 测量的指数凸校准维数\nZXQSEPZXQ\n每个实例的 Jaccard 分数或并集交集 (IoU) 是多标签分类和二元分割中的标准。有了 $s$ 标签，其损失矩阵就有 $2^s$ 结果和报告。根据约定 $\\mathrm{Jac}(\\varnothing,\\varnothing)=1$，我们证明..."
+    },
+    "11d92fb20415c50540f536e3bf1bf9372884da18b2f1d62869df067e33c1f745": {
+      "source": "QuoteBench: How Matched Scores Can Hide Command-Path Failures\nZXQSEPZXQ\nLLM coding agents issue Bash commands through interfaces that may serialize, wrap, and reparse model output. Matched execution scores alone cannot distinguish command-generation errors from failures introduced after generation. QuoteBench measures this boundary with exact final-…",
+      "zh": "QuoteBench：匹配的分数如何隐藏命令路径故障\nZXQSEPZXQ\nLLM 编码代理通过可以序列化、包装和重新解析模型输出的接口发出 Bash 命令。仅匹配的执行分数无法区分命令生成错误和生成后引入的故障。 QuoteBench 用精确的最终结果来衡量这个边界……"
+    },
+    "90c2805114252cb916e7cb932c0bb1ed7560a5d6b027009f4d116f6d84c2fd7c": {
+      "source": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure\nZXQSEPZXQ\nModern language models are trained on heterogeneous web-scale text corpora. Consequently, studying knowledge and skill acquisition is difficult, as prior exposure to related content is hard to characterize. To address this challenge, we introduce LITTLECURRICULUM, a curated 88B-…",
+      "zh": "LittleLearner：教学控制知识暴露下的语言模型\nZXQSEPZXQ\n现代语言模型是在异构网络规模文本语料库上进行训练的。因此，学习知识和技能获取很困难，因为很难描述之前接触过的相关内容。为了应对这一挑战，我们推出了 LITTLECURRICULUM，这是一个精心策划的 88B-..."
     }
   }
 }
