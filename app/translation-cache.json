@@ -1512,6 +1512,18 @@
     "e4707e57259b596bff402b34679e44cebcae2b1d0b4c43afe92691fb7f8a203c": {
       "source": "You can now turn off Google Gemini’s visible watermarks\nZXQSEPZXQ\nGoogle will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" w…",
       "zh": "您现在可以关闭 Google Gemini 的可见水印\nZXQSEPZXQ\n谷歌现在将允许您从使用人工智能工具制作的图像、视频和音乐中删除可见水印。通过更新，您可以在 Gemini 和 Google 的 AI 视频生成器 Flow 中关闭新的“媒体水印”设置。关闭后，谷歌将删除“闪光”..."
+    },
+    "b247e037f8e41502aba3d5771dda3faf9c5d897fdc50098345ba1603a05841cc": {
+      "source": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent\nZXQSEPZXQ\nIndonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta —…",
+      "zh": "Universitas Gadjah Mada、Indosat 和 NVIDIA 开设印尼首个大学人工智能中心，培养本地人工智能人才\nZXQSEPZXQ\n印度尼西亚正在掌控其人工智能的未来。本周，通信和数字事务部 (Komdigi)、Indosat Ooredoo Hutchison (Indosat 或 IOH)、NVIDIA 和 Universitas Gadjah Mada (UGM) 在日惹启动了 UGM Indosat NVIDIA 人工智能技术中心 (NVAITC) —..."
+    },
+    "1b2f3ad352c84ab768a9407edb1d9b5f1dbb86d714b70286afca6241b8cae697": {
+      "source": "3.1.0 (2026-08-14) Features api: add WebSocket stream IDs ( #3612 ) ( d9029e3 ) api: add workload identity access token issued event ( #3601 ) ( df274d4 ) api: deprecate Sora video APIs ( #3610 ) ( 721cb1c ) api: Ultrafast tier, structured MCP and websocket errors, separate webs…",
+      "zh": "3.1.0 (2026-08-14) 功能 api：添加 WebSocket 流 ID (#3612) (d9029e3) api：添加工作负载身份访问令牌颁发事件 (#3601) (df274d4) api：弃用 Sora 视频 API (#3610) (721cb1c) api：超快层、结构化MCP 和 websocket 错误，单独的 web…"
+    },
+    "97d5caad0682561a2d2eaa6456a0ab31a956784f4a81b3231404fb5b5da13617": {
+      "source": "The Next Big Influencer Is This 4-Foot-Tall Robot From China\nZXQSEPZXQ\nThe Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
+      "zh": "下一个大影响者是这个来自中国的 4 英尺高机器人\nZXQSEPZXQ\nUnitree G1 作为一款价格相对实惠、能够吸引人群的机器人而在网上名声大噪。但它能保住一份真正的工作吗？"
     }
   }
 }
