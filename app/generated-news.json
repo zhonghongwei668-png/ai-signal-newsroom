@@ -1,71 +1,197 @@
 {
   "boardMeta": {
-    "generatedAt": "2026-08-16 09:58",
+    "generatedAt": "2026-08-16 16:48",
     "date": "2026年8月16日 · 星期日",
-    "edition": "上午版",
-    "window": "北京时间今日 00:00 至 09:58",
-    "nextUpdate": "下一轮 16:15 自动更新"
+    "edition": "午后版",
+    "window": "北京时间今日 00:00 至 16:48",
+    "nextUpdate": "下一轮 00:15 自动更新"
   },
   "newsItems": [
     {
-      "id": "c1562bf4863451",
+      "id": "65db029179958b",
       "level": "头条",
-      "region": "国内",
-      "category": "具身智能",
-      "verification": "媒体报道",
-      "title": "第二届世界人形机器人运动会新增跳远、举重、拔河等项目，2056 台机器人同台竞技",
-      "summary": "IT之家 8 月 16 日消息，据“北京亦庄”公众号，8 月 13 日，北京市人民政府新闻办公室在国家速滑馆新闻发布厅举行第二届世界人形机器人运动会新闻发布会（第三场）。会上宣布，本届运动会正赛将于 8 月 22 日至 26 日在国家速滑馆“冰丝带”举行， 将举行 51 个项目共 1301 场比赛，吸引 666 支队伍携 2056 台机器人参赛， 竞赛项目、参赛队伍全面提质扩容，并新增跳远、举重、拔河、乒乓球等高强度对抗项目。现场还发布了运动会吉祥物“智宝”。 ▲ 运动会吉祥物“智宝” 从报名情况来看，各路高手将云集赛场。本届赛事吸引了来自六大洲、16…",
-      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/990/230.htm",
-      "publishedAt": "09:04",
-      "relativeTime": "54 分钟前"
-    },
-    {
-      "id": "516d85cc53abbd",
-      "level": "重要",
       "region": "国内",
       "category": "产品动态",
       "verification": "媒体报道",
-      "title": "Photon Matrix 激光灭蚊设备已量产开售，售价 988 美元起",
-      "summary": "IT之家 8 月 16 日消息，不少创意项目都在众筹阶段折戟沉沙，但 Photon Matrix 却成功落地上市。根据该公司在 Indiegogo 平台发布的最新动态，这款灭蚊设备已启动量产，首批产品预计本月下旬发货。目前消费者也可以直接从官网购买 Photon Matrix 红外款、蓝激光灭蚊防空款，无需参与早期众筹也能入手。 这款产品的面世历经了漫长周期，其于去年 7 月开启众筹。官方宣称其可在 6 米半径、90 度水平扫描范围内击落蚊虫。设备依靠激光束击杀蚊子，同时搭载激光雷达、毫米波雷达与 AI 视觉模块，能够识别尺寸在 2 毫米到 20 毫米…",
+      "title": "微软听劝：新版 Win11 右键菜单预览，设计更简洁、支持添加自定义选项",
+      "summary": "IT之家 8 月 16 日消息，博主 PhantomOfEarth 今日发布视频，展示了微软正在为 Win11 右键菜单准备的一系列更新。新版右键菜单目前处于 Windows 11 实验分支，尚未公开推送。 作为 Windows K2 计划（IT之家注：微软用于改进 Windows 11 体验的系列更新计划）的一部分，微软正在为 Windows 11 开发新的右键菜单，新菜单默认只显示最常用的操作，例如打开、打开方式、复制路径和复制，而大量用户吐槽的 AI 功能被移除，应用扩展被归入子菜单。 此外，Win11 默认隐藏的“显示更多选项”按钮不再出现，用…",
       "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
       "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/990/213.htm",
-      "publishedAt": "07:51",
-      "relativeTime": "2 小时前"
+      "sourceUrl": "https://www.ithome.com/0/990/296.htm",
+      "publishedAt": "16:12",
+      "relativeTime": "36 分钟前"
     },
     {
-      "id": "8b171fc2efde52",
+      "id": "e55905115afb69",
       "level": "重要",
       "region": "国内",
-      "category": "芯片算力",
+      "category": "大模型",
       "verification": "媒体报道",
-      "title": "IT早报 0816：DeepSeek V4 Pro 正式版、Harness 上线国家超算互联网；番茄小说作者“去世”三年后“复活”；曝小米 18 手机标准版延至明年初发布...",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 16 日星期日，今天的重要科技资讯有： 1. DeepSeek V4 Pro 正式版、Harness 上线国家超算互联网，可一站式完成部署开发 国家超算互联网正式上线 DeepSeek V4 Pro 正式版及智能体框架 Harness，为科研与企业提供从训练到部署的国产算力支撑。该版本增强 Agent 能力，性能媲美 Claude Fable 5 等国外模型。>> 查看详情 2. 番茄小说作者“去世”三年后“复活”：读者斥其消费感情，平台介入调查 假死三年后网文作者突然复活致歉，此前靠去世消息涨粉…",
-      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "title": "华为官宣昇腾 0 Day 适配小红书最新开源大模型 dots3-note preview",
+      "summary": "IT之家 8 月 16 日消息，小红书 8 月 14 日正式发布 dots3-note preview 开源大模型。华为官方昨日宣布， 昇腾 Atlas 800 A3、Atlas 900 A3 SuperPoD 超节点已完成 dots3-note preview 的全量适配 ，并基于 vLLM Ascend 开源推理引擎提供完整的部署与推理能力。 据介绍，作为 dots3 系列的首个版本，dots3-note preview 开源大模型以 280B 总参数量、16B 激活参数量 构建能力底座，同时具备文本、视觉、语音全模态感知理解能力。官方表示，该模型…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
       "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/990/211.htm",
-      "publishedAt": "07:44",
-      "relativeTime": "2 小时前"
+      "sourceUrl": "https://www.ithome.com/0/990/256.htm",
+      "publishedAt": "11:10",
+      "relativeTime": "5 小时前"
     },
     {
-      "id": "13fe377049bdb0",
-      "level": "重要",
+      "id": "2b536d134130a3",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "卢伟冰发文庆祝小米手机 15 周岁生日，称未来全面拥抱 AI",
+      "summary": "IT之家 8 月 16 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰刚刚发文庆祝小米手机 15 周岁生日。 从“为发烧而生”到“让全球每个人都能享受科技带来的美好生活”； 从应用创新，到目标成为全球硬核科技领导者； 从中国到全球； 未来全面拥抱 AI 。 IT之家注：北京小米科技有限公司于 2010 年 4 月 6 日正式成立，最初办公地点位于银谷大厦。同年 8 月，小米推出内测版 MIUI 系统；2011 年 8 月 16 日，初代小米手机在北京发布，售价 1999 元。 目前，小米已最新推出澎湃 HyperOS 4 系统，并开…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/990/250.htm",
+      "publishedAt": "10:36",
+      "relativeTime": "6 小时前"
+    },
+    {
+      "id": "e9e25d79a00214",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "ChatGPT 新功能：订阅用户无需离开对话，即可直接编辑谷歌云盘文件",
+      "summary": "IT之家 8 月 16 日消息，OpenAI 旗下 ChatGPT 昨日迎来一系列更新，订阅用户现可直接将谷歌云盘文件添加到 ChatGPT 资料库， 并直接在聊天中编辑文档 。 据悉，用户可直接点击聊天框旁边的“+”按钮，然后选择“从资料库添加”，将谷歌云盘的文件添加到 ChatGPT 中。随后 AI 可将这些文件作为上下文，用于回答问题、生成摘要，或者进行编辑等操作。用户无需在 ChatGPT 和 Google Drive 之间频繁切换，就能完成大部分操作。 IT之家了解到，ChatGPT 本周还新增了互动测验工具，可以根据用户选择的主题生成选择题…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/990/295.htm",
+      "publishedAt": "16:01",
+      "relativeTime": "47 分钟前"
+    },
+    {
+      "id": "f22eca132a0201",
+      "level": "关注",
       "region": "国内",
       "category": "融资",
       "verification": "媒体报道",
-      "title": "从 2500 亿美元降至不足 1200 亿美元，消息称英伟达大幅收缩对 OpenAI 数据中心的融资担保",
-      "summary": "IT之家 8 月 16 日消息，据《华尔街日报》报道，知情人士透露，英伟达与 OpenAI 即将就俄亥俄州一座超大规模数据中心园区的融资事宜达成协议，但双方已调整交易结构：这项规划中规模达数千亿美元的建设项目，英伟达最初仅会为其中一半提供担保，而非全额担保。 部分知情人士表示，修订后的方案将英伟达的财务担保规模从 2,500 亿美元 （IT之家注：现汇率约合 1.69 万亿元人民币） 下调至不足 1,200 亿美元 （现汇率约合 8,106.78 亿元人民币） 。此举旨在回应投资者对这家芯片企业风险敞口的担忧 —— 英伟达正动用自身资产负债表拉动市场对…",
+      "title": "曾担任网络安全公司 Wiz 总裁兼首席运营官，OpenAI 挖角 Dali Rajic 担任首席营收官",
+      "summary": "IT之家 8 月 16 日消息，OpenAI 宣布，任命 Dali Rajic 担任首席营收官（Chief Revenue Officer，CRO），负责领导全球营收组织，接替上任仅约 8 个月的 Denise Dresser。 公开信息显示，Rajic 此前担任谷歌旗下云安全公司 Wiz 总裁兼首席运营官（COO），该公司近期已被谷歌以 320 亿美元 （IT之家注：现汇率约合 2,163.4 亿元人民币） 收购，Dresser 则将在完成交接后离开 OpenAI。 除曾担任 Wiz 总裁兼首席运营官外，Rajic 还曾担任云安全公司 Zscaler…",
       "whyItMatters": "资金流向反映市场正在为哪些 AI 能力与商业模式下注。",
       "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/990/207.htm",
-      "publishedAt": "07:32",
+      "sourceUrl": "https://www.ithome.com/0/990/271.htm",
+      "publishedAt": "12:42",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "2a2ac5fe486d70",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "支持政府补贴：华为 FreeClip 2 耳夹耳机京东 1199 元，立减 100 元",
+      "summary": "华为 FreeClip 2 耳夹耳机京东今日支持政府补贴，官方定价 1299 元，折后 1199 元。 京东 华为 FreeClip 2 耳夹耳机 国补后 1199 元 直达链接 华为 FreeClip 2 采用了华为第三代自研低功耗芯片，引入 NPU AI 处理器，算力提升 10 倍；支持鸿蒙 AI 耳边助手，支持头动播报、智慧播报、小艺唤醒、小艺翻译。 这款耳机采用了 φ10.8mm 开放式双振膜声学单元，响度提升 100%，低频动力提升 100%；配备 60mAh 电池，单次续航 9 小时，搭配充电仓（537mAh 电池）38 小时，充电 10…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/990/290.htm",
+      "publishedAt": "15:41",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "303e285d0b5785",
+      "level": "关注",
+      "region": "国内",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "千问办公首发上线 GLM-5.3 和 DeepSeek V4 Pro 模型，可直接选用",
+      "summary": "IT之家 8 月 16 日消息，近日，千问办公首发上线 GLM-5.3 和 DeepSeek V4 Pro 两款前沿模型。即日起，用户可在产品首页的「前沿模型」档位直接选用。 DeepSeek V4 Pro 是 DeepSeek 最新旗舰大模型， 支持 100 万 token 上下文 ，最高 384K 输出。强化了 Agent 任务串联能力，在多个长程任务、自动化任务基准上名列前茅。适合复杂方案，自动化工作流等专业级任务。 GLM-5.3 是智谱 最新开源旗舰模型。在不改变基座模型的基础上，通过进一步的后训练 Scaling，较 GLM-5.2 实现了…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/990/264.htm",
+      "publishedAt": "12:03",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "ac1aa7122594f4",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "内存短缺成本上涨，廉价智能手机正在美国消失",
+      "summary": "IT之家 8 月 16 日消息，据 Counterpoint 数据，美国智能手机销量于 2026 年第二季度同比下降 5%，不断上涨的内存成本和日渐生变的宏观经济环境，正持续抑制消费者需求。 美国的廉价智能手机市场在这次 AI 带动的内存短缺潮中受伤最严重，销量同比下降 64%。零部件短缺和不断缩水的利润率，使厂商很难拿出能盈利的产品。 IT之家注意到，这一趋势也对各大智能手机厂商造成明显影响。苹果、三星、摩托罗拉和谷歌四家美国主要品牌的手机销量合计同比下降 4%， 其他品牌的销量则暴跌 45% 。 Counterpoint 认为，这种趋势表明大企业面…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/990/282.htm",
+      "publishedAt": "14:54",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "03ccfb4bc4c609",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "万亿 IPO 前夜的 OpenAI：高管争夺奥尔特曼注意力",
+      "summary": "北京时间 8 月 16 日，据《金融时报》报道，就在 OpenAI CEO 萨姆 · 奥尔特曼 (Sam Altman) 加紧筹备可能轰动市场的 IPO 之际，该公司正面临日益加剧的内部动荡，今年已进行了近六次重组。 OpenAI 据多位知情人士透露，频繁的管理层重组以及一系列高管的离职，已令部分员工对这家公司的持续变动感到沮丧。OpenAI 目前是全球最具价值的非上市公司之一。 本周，OpenAI 首席营收官丹尼斯 · 德雷瑟 (Denise Dresser) 宣布离职。她于去年 12 月刚刚上任，负责领导 OpenAI 拓展企业客户的工作。 在此之…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/990/278.htm",
+      "publishedAt": "14:21",
       "relativeTime": "2 小时前"
     },
     {
+      "id": "ced2e21d574bd1",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "iQOO Neo11 至尊版手机官宣搭载 5000 万像素索尼超防抖大底主摄",
+      "summary": "IT之家 8 月 16 日消息，iQOO 官方今日宣布， iQOO Neo11 至尊版将搭载 5000 万像素索尼超防抖大底主摄 ，支持光学防抖、人眼仿生技术和全新原生光影。 另外，iQOO Neo11 至尊版手机的 Live Photo 功能也迎来全面升级，画质更高， 同时还支持防抖、美颜和滤镜等功能 。 据IT之家此前报道，iQOO Neo11 至尊版将于 8 月 18 日 19:00 发布并开售。新机核心参数配置已曝光： 性能：天玑 9500M（11 核 GPU）+ 自研 Q2 电竞芯片 屏幕：6.83 英寸 2K 144Hz LTPS 直屏 |…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/990/243.htm",
+      "publishedAt": "10:12",
+      "relativeTime": "6 小时前"
+    },
+    {
+      "id": "92d5ed5d2fd7bd",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "索尼 PlayStation 新专利公开：利用 AI 驱动账号模拟未成年人，主动识别潜在恶意用户",
+      "summary": "IT之家 8 月 16 日消息，据外媒 mp1st 报道，索尼 SIE 近日提交了一项编号为 18/314775 的新专利申请，该专利可以看作是索尼打造了一批 AI 账号， 这些账号能够模拟未成年人聊天行为，如果其他账号试图与之进行恶意互动，则会被索尼打上隐形标记 。 IT之家获悉，相应专利摘要显示，索尼相应 AI 账号完全由大语言模型控制，旨在“通过主动识别可疑用户，帮助玩家规避诈骗者、垃圾信息发送者、潜在的儿童侵害者以及其他具有恶意行为的用户”，索尼专门将相应账号放置在“潜在恶意用户可能寻找目标的场景中”，当可疑用户与这个 AI 账号建立联系后，系…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/990/270.htm",
+      "publishedAt": "12:30",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "c01b590b480991",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "GPT-5.6 Sol UltraFast面向企业预览 运行速度提升14倍 每秒最多750tokens",
+      "summary": "OpenAI 日前面向企业推出 GPT-5.6 Sol UltraFast 超快模式预览，该模式下模型运行速度将提升最高 14 倍，最高每秒可以生成 750tokens。不过超快模式需要 OpenAI 根据企业场景进行审批，企业可以提交申请但是否可以获得批准取决于 OpenAI 审核。 阅读全文",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1573432.htm",
+      "publishedAt": "14:56",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "f34e8077ee8f69",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "美国加州货运抢劫案频发，AI 数据中心硬件成目标",
+      "summary": "IT之家 8 月 16 日消息，据《连线》杂志调查，近几个月美国加州公路接连发生两起货运抢劫案：窃贼先逼停负责押运的私人安保车辆，使其失去行动能力，随后卷走车上价值数百万美元的 AI 数据中心硬件。两批货物均从硅谷运往南加州，涉事卡车至今下落不明。 这两起案件发生的大背景是：2026 年第二季度，美国和加拿大的货运盗窃损失同比翻倍，达到 3.046 亿美元 （IT之家注：现汇率约合 20.59 亿元人民币） ；而受出口管制的英伟达服务器在黑市的售价，几乎是美国零售价的两倍。 前洛杉矶县治安官办公室探员赫拉尔多 · 帕丘卡如今从事货运犯罪咨询工作，他向《…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/990/259.htm",
+      "publishedAt": "11:26",
+      "relativeTime": "5 小时前"
+    },
+    {
       "id": "49b0a683c25a1f",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -75,23 +201,9 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
       "publishedAt": "05:29",
-      "relativeTime": "4 小时前",
+      "relativeTime": "11 小时前",
       "titleZh": "女子声称她的继父使用 Grok 将童年照片变成露骨图像",
       "summaryZh": "这位女士声称人工智能工具“正在将日常生活变成儿童性虐待”。"
-    },
-    {
-      "id": "8c07dedef0964a",
-      "level": "重要",
-      "region": "国内",
-      "category": "Agent",
-      "verification": "媒体报道",
-      "title": "Anthropic 发布 AI 风险报告：旗下智能体会攻击同类并隐藏自身违规痕迹",
-      "summary": "IT之家 8 月 16 日消息，Claude 系列智能体正在“消灭”同类竞争对手智能体、钻系统漏洞掩盖自身痕迹，甚至还会表达道德层面的顾虑。 这一结论来自 Anthropic 最新发布的风险报告，该报告汇总了公司研发并向公众开放的产品所潜藏的各类风险。 报告中，Anthropic 表示已将对齐偏差风险评估（即 AI 模型产生与工程师设定规则相悖行为的可能性）等级从“极低”上调至“较低”。 IT之家注意到，对于此次等级调整，公司给出的理由是，网络安全场景下模型行为的“整体不确定性有所上升”—— 这一表述大概率暗指上月发生的 Claude 模型未授权入侵三…",
-      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/990/201.htm",
-      "publishedAt": "07:09",
-      "relativeTime": "2 小时前"
     },
     {
       "id": "d0b5629388f6ca",
@@ -105,7 +217,7 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/990/238.htm",
       "publishedAt": "09:53",
-      "relativeTime": "5 分钟前"
+      "relativeTime": "6 小时前"
     },
     {
       "id": "6ee2016546a379",
@@ -119,34 +231,34 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/990/237.htm",
       "publishedAt": "09:48",
-      "relativeTime": "10 分钟前"
+      "relativeTime": "7 小时前"
     },
     {
-      "id": "4186002de84dad",
+      "id": "9cc3024c312a69",
       "level": "关注",
       "region": "国内",
-      "category": "Agent",
+      "category": "具身智能",
       "verification": "媒体报道",
-      "title": "东风风神 L8Y 将于 8 月 21 日成都车展上市，定位“10 万级大满配纯电 SUV ”",
-      "summary": "IT之家 8 月 16 日消息，东风风神 L8Y 将于 8 月 21 日成都车展正式上市，新车搭载东风集团全新新能源技术，定位“10 万级大满配纯电 SUV ”。 IT之家注意到，东风风神下半年将投放 4 款新车，四款车型以差异化的产品定位和优势，实现从“精致小家”到“舒适大家”的覆盖。 风神 L8Y 主打“同级最舒适座舱”，座舱质感、驾乘体验得到全面升级 风神 L8+ 剑指“同级最强智能辅助驾驶产品”，宣称刷新同级车型的智能体验上限 “同级唯一真七座 SUV”风神 L9 兼顾商务接待与家庭责任 风神 E80 则聚焦纯电市场 8 月 5 日，东风汽车公…",
-      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/990/229.htm",
-      "publishedAt": "08:58",
+      "title": "Waymo获批大幅扩张加州运营范围 机器人出租车服务将覆盖18个县",
+      "summary": "Alphabet旗下自动驾驶公司Waymo已获得加州公共事业委员会（CPUC）批准，可在18个县运营机器人出租车，服务范围将大幅扩展。 阅读全文",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1573438.htm",
+      "publishedAt": "15:03",
       "relativeTime": "1 小时前"
     },
     {
-      "id": "aa008fd7c9a894",
+      "id": "181657f34d9dd7",
       "level": "关注",
       "region": "国内",
-      "category": "产品动态",
+      "category": "芯片算力",
       "verification": "媒体报道",
-      "title": "一镜到底打破质疑：岚图追光 S 汽车 360° 隧道穿越多角度实录视频放映",
-      "summary": "IT之家 8 月 16 日消息，岚图汽车官方在 8 月 13 日宣布， 追光 S 车型 360° 隧道大回环穿越成功 （在隧道中完成 360 度旋转穿越，轮胎贴着墙面飞驰，最终平稳回到地面）。然而有网友对此次挑战提出质疑，认为追光 S 大回环挑战视频采用了 AI 技术。 IT之家注意到，岚图汽车官方在昨晚放出次 360° 隧道穿越挑战 多角度实录 + 一镜到底 视频，回应网友质疑。视频片长约 44 秒， 全面覆盖了正面拍摄视角、后方拍摄视角以及车内第一人称视角 ，同时还给出了正常速度、0.5 倍速的画面。 岚图追光 S 已于昨晚正式上市， 新车全系标配…",
-      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/990/228.htm",
-      "publishedAt": "08:56",
+      "title": "英伟达据称锁定台积电A16工艺 下一代“费曼”GPU有望于2028年下半年量产",
+      "summary": "据供应链消息及接近台积电的人士透露，英伟达已着手推进代号“费曼”（Feynman）的下一代GPU微架构原型开发，该产品将接替“鲁宾”（Rubin）及“鲁宾 Ultra”系列。最新报道称，英伟达计划直接采用台积电更先进的A16工艺，而非N2系列制程，相关芯片预计将在2028年下半年进入量产阶段。 阅读全文",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1573436.htm",
+      "publishedAt": "14:59",
       "relativeTime": "1 小时前"
     },
     {
@@ -161,37 +273,37 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
       "publishedAt": "04:45",
-      "relativeTime": "5 小时前",
+      "relativeTime": "12 小时前",
       "titleZh": "通过扮演聊天机器人来嘲笑人工智能的牺牲",
       "summaryZh": "你的 AI Slop 让我厌烦了，它的简单性非常出色。有两个选项卡：人类和 LARP 作为人工智能。一方面您输入请求。另一方面，您提交答案。但重要的是，等式的两边都有一个人。提示可以请求响应..."
     },
     {
-      "id": "76cfa183de9204",
+      "id": "0cefa941485b50",
       "level": "关注",
       "region": "国内",
-      "category": "政策监管",
+      "category": "Agent",
       "verification": "媒体报道",
-      "title": "女子加入针对 SpaceXAI 的诉讼：继父利用 Grok 将其 11 岁照片加工成 7000 多张色情图像",
-      "summary": "IT之家 8 月 16 日消息，一名以“简 · 多伊 4 号”为匿名代称的女性，已加入美国田纳西州三名青少年对埃隆 · 马斯克旗下 SpaceXAI 公司提起的诉讼，指控该公司聊天机器人 Grok 涉嫌参与制作儿童性虐待材料。 据《华盛顿邮报》报道，该女子称其继父利用 Grok 对她 11 岁时拍摄的一张照片进行加工，生成了 7000 多张她的露骨性虐待图像。执法部门在突击搜查中查获这批图像两天后，其继父被发现自杀身亡。 “这类工具无门槛获取的扩散速度太快了，”这名女子表示，“它正在把日常生活中的影像，转化为儿童性虐待内容。” IT之家注意到，此前发起…",
-      "whyItMatters": "监管与司法判例会直接改变模型训练、产品上线和企业合规成本。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/990/221.htm",
-      "publishedAt": "08:13",
-      "relativeTime": "1 小时前"
+      "title": "Anthropic披露：测试中AI智能体攻击同类并绕过联网限制",
+      "summary": "8月16日消息，Anthropic在最新风险报告中披露，旗下AI智能体在三项内部测试中出现拒绝任务、攻击同类和绕过联网限制等行为。公司据此将模型的\"错位风险评级\"从\"极低\"上调至低\"。 阅读全文",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1573418.htm",
+      "publishedAt": "14:31",
+      "relativeTime": "2 小时前"
     },
     {
-      "id": "4db4b0845aed73",
+      "id": "92eb1eee7ab502",
       "level": "关注",
       "region": "国内",
-      "category": "具身智能",
+      "category": "大模型",
       "verification": "媒体报道",
-      "title": "2026 世界机器人大会展位图揭晓：8 月 19 日开幕，宇树科技、优必选等参展",
-      "summary": "IT之家 8 月 16 日消息，2026 世界机器人大会将于 8 月 19 日至 23 日在北京经济技术开发区北人亦创国际会展中心举行。近日，2026 世界机器人大会展位图全揭晓。 作为大会展览的重要新增空间， 智创馆面积达 2 万平方米， 拥有更加开阔、通透的展示环境，将进一步提升企业参展和观众观展体验。 宇树科技、星海图、优必选、银河通用、自变量、明略科技、维他动力、智身科技、云深处、傅利叶、越疆、仙工、中科慧灵 等代表性企业，将带来机器人整机、具身智能及人形机器人的最新成果。 北京、上海、浙江、湖北、广东、四川、吉林等地的人形机器人创新中心将齐聚…",
-      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/990/220.htm",
-      "publishedAt": "08:11",
-      "relativeTime": "1 小时前"
+      "title": "A社营收暴涨1400% 最新季度入账115亿美元",
+      "summary": "就在这个周末，人们还在惊叹电影《牛来》的出圈、网友开始迅速炒“牛来概念股”时，AI资本市场里，可能也真的冲出了一头牛。据彭博社报道，Claude背后的Anthropic，第二季度营收超过 115亿美元 ，较去年同期的7.87亿美元 暴涨逾14倍 。 阅读全文",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1573416.htm",
+      "publishedAt": "14:27",
+      "relativeTime": "2 小时前"
     },
     {
       "id": "447c79c5c7dd7a",
@@ -205,51 +317,9 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
       "publishedAt": "02:58",
-      "relativeTime": "7 小时前",
+      "relativeTime": "13 小时前",
       "titleZh": "Anthropic 分享了有关 Claude 新水印如何工作的更多详细信息",
       "summaryZh": "水印实际上如何发挥作用？可以通过编辑隐藏吗？这对代码有何影响？"
-    },
-    {
-      "id": "d50f73f1853ab8",
-      "level": "关注",
-      "region": "国内",
-      "category": "产品动态",
-      "verification": "媒体报道",
-      "title": "漫步者 X Clip 耳夹式蓝牙耳机新增“流光紫”配色：12mm 动圈、32 小时续航，265 元",
-      "summary": "IT之家 8 月 16 日消息，漫步者现已为旗下 X Clip 耳夹式蓝牙耳机新增一款“流光紫”配色， 定价为 265 元 ，部分地区国补后低至 238.5-239 元。 京东 漫步者 X Clip 耳夹式蓝牙耳机 265 元 直达链接 该机采用轻量化机身搭配纤巧耳夹，采用了专利多曲率空气弧软梁，机身支持 IP55 级防尘防水，配套 App 可提供一键排水功能。 该耳机搭载 12mm 镀钛复合振膜，产品结构上应用了 EAC 声学聚能腔 2.0 设计，耳机抗风噪能力可达 25km/h，同时耳机集成 AI 问答与同声传译功能，支持语音即时响应与跨语种交流…",
-      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/990/212.htm",
-      "publishedAt": "07:47",
-      "relativeTime": "2 小时前"
-    },
-    {
-      "id": "49bdf30134ff49",
-      "level": "关注",
-      "region": "国内",
-      "category": "芯片算力",
-      "verification": "媒体报道",
-      "title": "英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元",
-      "summary": "IT之家 8 月 16 日消息，英伟达 Vera Rubin 平台的量产扩张规模之大，如今已经传导到供应链中看似关联度不高的细分角落，比如 TLC NAND 现货市场。 但回过头来看，TLC 现货价格上涨完全在情理之中，尤其是英伟达为 Vera Rubin 平台搭载了上下文内存扩展（Context Memory eXtension，简称 CMX）技术之后。随着 Vera Rubin 平台量产提速，CMX 占用的 NAND 颗粒数量持续增加，再加上企业级固态硬盘需求同步攀升，TLC NAND 的供应正持续收紧。 512Gb TLC NAND 的现货价格在…",
-      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/990/203.htm",
-      "publishedAt": "07:20",
-      "relativeTime": "2 小时前"
-    },
-    {
-      "id": "754f77ebd0967c",
-      "level": "关注",
-      "region": "国内",
-      "category": "大模型",
-      "verification": "媒体报道",
-      "title": "整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问",
-      "summary": "IT之家 8 月 16 日消息，网页项目 Your AI Slop Bores Me 近日上线，这款平台的精妙之处，藏在它极简的设计之中。平台设有两个标签页：真人提问端与 AI 扮演端。一侧输入需求，另一侧提交回答，但最核心的设定是，交互两端的操作者全都是真实的人。用户可以要求文字或图片形式的回复，扮演 AI 的一方则有 150 秒的作答时间。 和真正的大语言模型一样，Your AI Slop Bores Me 也采用了类 token 的积分体系。发起提问需要消耗积分，想要赚取积分，你就得切换到 AI 扮演端，去回答其他用户的提问。你也可以选择等待 —…",
-      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/990/198.htm",
-      "publishedAt": "06:58",
-      "relativeTime": "3 小时前"
     },
     {
       "id": "c2a2d25fa30b61",
@@ -263,7 +333,7 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
       "publishedAt": "00:30",
-      "relativeTime": "9 小时前",
+      "relativeTime": "16 小时前",
       "titleZh": "SpaceX 正式完成 Cursor 收购",
       "summaryZh": "AI 编码初创公司 Cursor 现已正式成为 SpaceX 的一部分。"
     },
@@ -279,7 +349,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1573372.htm",
       "publishedAt": "07:55",
-      "relativeTime": "2 小时前"
+      "relativeTime": "8 小时前"
     },
     {
       "id": "97fd2c133370d0",
@@ -293,7 +363,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/science/1573384.htm",
       "publishedAt": "08:04",
-      "relativeTime": "1 小时前"
+      "relativeTime": "8 小时前"
     },
     {
       "id": "233271ffb97938",
@@ -307,7 +377,35 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1573382.htm",
       "publishedAt": "08:04",
-      "relativeTime": "1 小时前"
+      "relativeTime": "8 小时前"
+    },
+    {
+      "id": "daa8913752a12e",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "英伟达Vera Rubin平台量产推高需求 TLC NAND现货价格回升至21美元",
+      "summary": "随着英伟达（NVIDIA）Vera Rubin平台的量产规模不断扩大，其对供应链的影响已开始在TLC NAND现货市场等环节显现。经历了6月份的低谷后，512Gb TLC NAND的现货价格目前已强势回升至21美元，而QLC的价格则保持平稳。业内分析指出，这一价格上涨趋势完全符合逻辑，主要由英伟达技术升级及市场需求增长两大因素驱动。 阅读全文",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1573376.htm",
+      "publishedAt": "07:58",
+      "relativeTime": "8 小时前"
+    },
+    {
+      "id": "e6c5fa3103ce71",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "新型互动应用“Your AI Slop Bores Me”走红 让人类假扮AI体验反向乐趣",
+      "summary": "一款名为“Your AI Slop Bores Me”的新奇网页应用巧妙地让人们通过角色扮演体验了一把当“人工智能”的乐趣，在胡言乱语、讲冷笑话或处理各种奇葩请求中开怀大笑。 阅读全文",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1573366.htm",
+      "publishedAt": "07:51",
+      "relativeTime": "8 小时前"
     },
     {
       "id": "bde90d31eb54f4",
@@ -321,7 +419,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1573364.htm",
       "publishedAt": "07:49",
-      "relativeTime": "2 小时前"
+      "relativeTime": "8 小时前"
     },
     {
       "id": "0a772287e4f6d5",
@@ -335,21 +433,20 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1573356.htm",
       "publishedAt": "07:43",
-      "relativeTime": "2 小时前"
+      "relativeTime": "9 小时前"
     }
   ],
   "trendLines": [
-    "AI 产品更新加快，能力正进入更多日常工作流。",
     "AI 算力竞争继续转向推理能效、供应能力与整体成本。",
-    "具身智能继续升温，真实场景数据与可靠执行成为竞争焦点。"
+    "AI 产品更新加快，能力正进入更多日常工作流。",
+    "大模型仍是今日高频主线，能力、价格与生态策略持续变化。"
   ],
   "pendingItems": [
-    "本轮有 23 条来自可靠媒体的报道，后续将继续追踪官方确认。",
-    "1 个信息源本轮暂时不可用，系统会在下一轮自动重试。"
+    "本轮有 30 条来自可靠媒体的报道，后续将继续追踪官方确认。"
   ],
   "scanStats": {
     "configuredSources": 19,
-    "successfulSources": 18,
-    "candidateCount": 25
+    "successfulSources": 19,
+    "candidateCount": 31
   }
 }
