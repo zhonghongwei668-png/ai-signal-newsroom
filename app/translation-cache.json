@@ -1568,6 +1568,30 @@
     "0fb6e82c6f288306f106126fb3a1ca4040463f175f46fb83dadefdd11bde9fd8": {
       "source": "Amazon, once an online bookseller, is destroying rare books to train AI models\nZXQSEPZXQ\nRare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
       "zh": "曾经的在线书商亚马逊正在销毁善本书籍来训练人工智能模型\nZXQSEPZXQ\n善本对于培训法学硕士来说非常有价值，因为这些模型已经根据在线可用的任何内容进行了培训。"
+    },
+    "9e2c5882094f4aeed17b6f1c15261b2d36cb1680ec47f199e71fe3acc0d59f2d": {
+      "source": "Anthropic’s annualized revenue surges to $65B\nZXQSEPZXQ\nThe model maker added $18 billion in annualized revenue in two months.",
+      "zh": "Anthropic的年化收入飙升至$65B\nZXQSEPZXQ\n这家模型制造商在两个月内增加了 180 亿美元的年收入。"
+    },
+    "4c5e62edd9d8fc51ca2a353db97d100feb010bacfc7d09dfbb21774842e22144": {
+      "source": "Same Cluster, 33 Points More Utilization: What Changed Was the Order\nZXQSEPZXQ\nSame Cluster, 33 Points More Utilization: What Changed Was the Order。",
+      "zh": "相同的集群，利用率增加了 33 个点：改变的是顺序\nZXQSEPZXQ\n相同的簇，33个点的利用率更高：改变的是顺序。"
+    },
+    "d1d5913199c232addedf1ccb27d22ff07a1bf9009ae7abdf0bb37552d1175be6": {
+      "source": "AI automation startup Relay shuts down, staff joins Google’s Chrome team\nZXQSEPZXQ\n\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+      "zh": "AI自动化初创公司Relay关闭，员工加入谷歌Chrome团队\nZXQSEPZXQ\nRelay 创始人兼首席执行官 Jacob Bank 表示：“我们有一些非常雄心勃勃的计划来帮助您在 Chrome 中使用人工智能来完成工作，我很快就会分享更多内容。”"
+    },
+    "866f83aac64e06de507ec1bf777dff2e33c2519ed486092c382981286ad44156": {
+      "source": "What Flock’s defenders are missing\nZXQSEPZXQ\nThis story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to i…",
+      "zh": "Flock 的防守者缺少什么\nZXQSEPZXQ\n这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。 Flock 是一家警察科技巨头，以其在美国各地拥有约 120,000 个自动车牌阅读器的网络而闻名，宣布对 i..."
+    },
+    "c9bfaa224da34091351342e7e53a1a975c7e26ea46c4707c5be9f04bd505f7a0": {
+      "source": "Amazon, which started off selling books, is destroying rare texts to train AI\nZXQSEPZXQ\nRare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "zh": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能\nZXQSEPZXQ\n善本对于培训法学硕士来说非常有价值，因为这些模型已经根据在线可用的任何内容进行了培训。"
+    },
+    "bffb7a601b8ae216a77d4f831a806fdd9e244d22c82dd5fdfb6963c0ff81f12a": {
+      "source": "3.2.0 (2026-08-17) Features add Bedrock Runtime endpoint support (SDK-290) ( #3623 ) ( 86267d2 ) api: Add shell call streaming events and new service/image types ( #3635 ) ( ff14a33 )",
+      "zh": "3.2.0 (2026-08-17) 功能添加 Bedrock Runtime 端点支持 (SDK-290) (#3623) (86267d2) api：添加 shell 调用流事件和新服务/图像类型 (#3635) (ff14a33)"
     }
   }
 }
