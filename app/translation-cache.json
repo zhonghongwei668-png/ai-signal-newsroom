@@ -1592,6 +1592,66 @@
     "bffb7a601b8ae216a77d4f831a806fdd9e244d22c82dd5fdfb6963c0ff81f12a": {
       "source": "3.2.0 (2026-08-17) Features add Bedrock Runtime endpoint support (SDK-290) ( #3623 ) ( 86267d2 ) api: Add shell call streaming events and new service/image types ( #3635 ) ( ff14a33 )",
       "zh": "3.2.0 (2026-08-17) 功能添加 Bedrock Runtime 端点支持 (SDK-290) (#3623) (86267d2) api：添加 shell 调用流事件和新服务/图像类型 (#3635) (ff14a33)"
+    },
+    "42030ef11e0e4d4512d7dd25a909b438311eb61f6f18e5ad0c4b037aef19e3af": {
+      "source": "What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models\nZXQSEPZXQ\nRegulatory compliance monitoring in deployed language models is increasingly implemented as a legal and audit control, checking model outputs against written rules spanning data protection, healthcare, financial regulation, and platform policy. Such monitoring is meaningful only…",
+      "zh": "合规检测器读取什么？激活探针和防护模型的审核\nZXQSEPZXQ\n已部署语言模型中的监管合规性监控越来越多地作为法律和审计控制来实施，根据涵盖数据保护、医疗保健、金融监管和平台政策的书面规则检查模型输出。这样的监控才有意义……"
+    },
+    "3163964385f5262e2a3a28345c34142530f1fe6aac31ca016d989848091a355c": {
+      "source": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory\nZXQSEPZXQ\nLong-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: errors compound beyond the policy's ability to correct, and one subtask silently c…",
+      "zh": "不要丢掉接力棒：通过代理子任务探索和转换感知记忆进行长视野机器人操作\nZXQSEPZXQ\n长视野机器人操作将许多接触丰富的技能链接到一项多阶段任务中。视觉-语言-行动（VLA）模型越来越多地掌握个人技能，但链条仍然失败：错误复合超出了政策的纠正能力，并且一个子任务默默地解决了……"
+    },
+    "c10fcbbb597c89a4dd3db27a2d0b628f188e1de00d0c35d0f630cb525db106b3": {
+      "source": "Q-based Variational Inverse Reinforcement Learning\nZXQSEPZXQ\nThe development of safe and beneficial AI requires that systems can learn and act in accordance with human preferences. However, explicitly specifying these preferences by hand is often infeasible. Inverse reinforcement learning (IRL) addresses this challenge by inferring prefer…",
+      "zh": "基于 Q 的变分逆强化学习\nZXQSEPZXQ\n安全和有益的人工智能的发展要求系统能够根据人类的偏好进行学习和行动。然而，手动明确指定这些首选项通常是不可行的。逆向强化学习（IRL）通过推断偏好来解决这一挑战……"
+    },
+    "8ab482bf9befb8d1de8807f4b50cac46775102d25cfa2902fc94f2852b44dc6b": {
+      "source": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve\nZXQSEPZXQ\nThe current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analysis (Duan et al., 2022; Williams et al., 2024; Alman et al., 2025). In this note, we address the optimization problem at the core…",
+      "zh": "通过现代优化和 AlphaEvolve 改进矩阵乘法指数\nZXQSEPZXQ\n矩阵乘法指数 $ω$ 的当前最佳界限是通过称为组合损失分析的激光方法的改进获得的（Duan 等人，2022；Williams 等人，2024；Alman 等人，2025）。在这篇文章中，我们解决了核心的优化问题……"
+    },
+    "174eb484216b3b7e25abc561a0ce5f4f9a50eab8cf89eb5b877556b404a388dd": {
+      "source": "Spectral Gaps of Hit-and-Run and Coordinate Hit-and-Run\nZXQSEPZXQ\nFor any convex body $\\mathcal{K}\\subset\\mathbb{R}^{n}$ containing a unit ball, the spectral gap of Hit-and-Run is $Ω(1/(n^2 C_{\\mathsf{PI}}))$, where $C_{\\mathsf{PI}}$ is the Poincaré constant of the uniform distribution $π$ over $\\mathcal{K}$. This implies that Hit-and-Run conv…",
+      "zh": "肇事逃逸和协调肇事逃逸的光谱差距\nZXQSEPZXQ\n对于任何包含单位球的凸体$\\mathcal{K}\\subset\\mathbb{R}^{n}$，击中即跑的谱间隙为$Ω(1/(n^2 C_{\\mathsf{PI}}))$，其中$C_{\\mathsf{PI}}$是$\\mathcal{K}$上均匀分布$π$的庞加莱常数。这意味着打了就跑的转换……"
+    },
+    "640699392e59188baeea5481f433d2fa4f497af5936eaef17f7ddeef63797995": {
+      "source": "AutoSR: Automatic Symbolic Regression by Searching Research States\nZXQSEPZXQ\nWe introduce Automatic Symbolic Regression (AutoSR), a fully automated system that instantiates Research-Space Symbolic Regression by searching persistent scientific investigations rather than isolated equations. Finite, noisy data often yield numerically competitive expressions…",
+      "zh": "AutoSR：通过搜索研究状态自动符号回归\nZXQSEPZXQ\n我们引入自动符号回归（AutoSR），这是一个完全自动化的系统，它通过搜索持续的科学研究而不是孤立的方程来实例化研究空间符号回归。有限的、嘈杂的数据通常会产生具有数值竞争性的表达式……"
+    },
+    "01781a339253319fd15ccb5cdc5be8c68ff5a16328ac3e6cebdaab6d19768ab4": {
+      "source": "An Analytical-Prior Framework for Data-Efficient Prediction of Sound-Reduction Frequencies in Rectangular Side-Branch Helmholtz Resonators\nZXQSEPZXQ\nHigh-fidelity finite-element simulations can provide accurate numerical predictions for side-branch resonators, but large simulation datasets are expensive to generate and purely data-driven surrogates may become unreliable when simulation-labelled data are scarce. This study de…",
+      "zh": "用于对矩形侧支亥姆霍兹谐振器中的降噪频率进行数据有效预测的分析先验框架\nZXQSEPZXQ\n高保真有限元模拟可以为侧支谐振器提供准确的数值预测，但生成大型模拟数据集的成本很高，并且当模拟标记数据稀缺时，纯数据驱动的替代方案可能变得不可靠。这项研究德..."
+    },
+    "5207aa17fcd2e55ac0ccc399e562d6ac5ad79e4b1da25f9480621bcc592f8dc6": {
+      "source": "Data-Efficient and Interpretable Classification of Circulating Tumor Cell Phenotypes in Microfluidic Devices via Deep Learning\nZXQSEPZXQ\nAccurate classification of circulating tumor cell (CTC) phenotypes can provide valuable information for assessing metastatic potential. Label free microfluidic devices provide a hydrodynamic obstacle course that transforms subtle biophysical characteristics of CTCs, including si…",
+      "zh": "通过深度学习对微流体装置中的循环肿瘤细胞表型进行数据高效且可解释的分类\nZXQSEPZXQ\n循环肿瘤细胞（CTC）表型的准确分类可以为评估转移潜力提供有价值的信息。无标签微流体装置提供了一个流体动力学障碍课程，可以改变 CTC 的微妙生物物理特征，包括…"
+    },
+    "ff8abcd0828152401063df27c04e7c38aa20c24cf747c8f553840cc26f8994b5": {
+      "source": "Towards Computational Provenance: Carrying Causal-State Evidence in Generated Text\nZXQSEPZXQ\nA language model's output does not by itself provide verifiable evidence about the internal computation that produced it. We study computational provenance: whether generated text can carry detectable evidence of which causally relevant internal state occurred. We test a bounded…",
+      "zh": "走向计算起源：在生成的文本中携带因果状态证据\nZXQSEPZXQ\n语言模型的输出本身并不提供有关生成它的内部计算的可验证证据。我们研究计算起源：生成的文本是否可以携带发生因果相关内部状态的可检测证据。 We test a bounded…"
+    },
+    "26dc92cfc32f7d9a52cccf14bab2dfc6e55f90a78a9cb6a85437591645ef0455": {
+      "source": "Non-Crossing Deep Quantile Regression for Distributional Survival Prediction\nZXQSEPZXQ\nIn survival analysis the way covariates act on the risk of an event often differs between early and late failure times, yet hazard- and mean-based summaries collapse this variation into a single number. Quantile-based modeling instead describes the full conditional distribution…",
+      "zh": "用于分布生存预测的非交叉深度分位数回归\nZXQSEPZXQ\n在生存分析中，协变量对事件风险的作用方式在早期和晚期故障时间之间通常有所不同，但基于风险和平均值的摘要将这种变化压缩为单个数字。相反，基于分位数的建模描述了完整的条件分布……"
+    },
+    "8d97db8221648719f10bca63df1edc8ffd788b9cfe7dc82b83976e0b6c84afb3": {
+      "source": "The canonical facets of multi-separator polytopes\nZXQSEPZXQ\nWe initiate a polyhedral study of the graph multi-separator problem proposed by Irmai et al. (2024) as an alternative to the lifted multicut problem for application to the task of image segmentation. Starting with an integer linear program (ILP) formulation and the multi-separat…",
+      "zh": "多分隔符多胞体的规范面\nZXQSEPZXQ\n我们对 Irmai 等人提出的图多分隔符问题进行了多面体研究。 （2024）作为提升多分割问题的替代方案，应用于图像分割任务。从整数线性规划 (ILP) 公式和多重分离开始……"
+    },
+    "2e71df24533296e82ab6222aa8c89a7f6e6cb9c367c911c7c0c5522debbc8ab2": {
+      "source": "zLend: A Dual-Scope Cash-Flow Reconstruction Framework for On-Chain Credit Underwriting\nZXQSEPZXQ\nDecentralized lending lacks a credit bureau: a borrower's capacity to repay must be inferred entirely from public on-chain activity, without income verification or a liability record. This paper presents zLend, a deployed cash-flow underwriting framework that reconstructs a wall…",
+      "zh": "zLend：链上信用承销的双范围现金流重构框架\nZXQSEPZXQ\n去中心化借贷缺乏信用局：借款人的还款能力必须完全从公共链上活动推断，无需收入验证或负债记录。本文介绍了 zLend，一种部署的现金流承保框架，可以重建一堵墙……"
+    },
+    "fe7c131d0e5a4cf0ce16a87860fc7740d2255f4d6ad3b6e18ee087d66f7a8fca": {
+      "source": "Proteus: Incremental Memory Activation for Long-Context Sequence Modeling\nZXQSEPZXQ\nThe quadratic cost of attention-based sequence models for long contexts has motivated a growing line of research on memory-based models that can compress context into a compact state. However, most existing memory models expose a static memory throughout the entire sequence. Bec…",
+      "zh": "Proteus：用于长上下文序列建模的增量内存激活\nZXQSEPZXQ\n针对长上下文的基于注意力的序列模型的二次成本促使人们越来越多地研究基于记忆的模型，这些模型可以将上下文压缩为紧凑的状态。然而，大多数现有的内存模型在整个序列中暴露静态内存。贝克…"
+    },
+    "1faa3d7643e0ac4b65df608d06e0bbc403312828f4e67e545a699794d1f23d8f": {
+      "source": "HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL\nZXQSEPZXQ\nHumanoid robots hold great promise as general-purpose agents in human-centered environments, yet generalist vision-language-action (VLA) foundation models are not readily applicable to humanoid whole-body loco-manipulation. The high dimensionality and interdependence of humanoid…",
+      "zh": "HAF：通过分层动作流和频谱潜在强化学习，使通才 VLA 适应人形全身局部操纵\nZXQSEPZXQ\n人形机器人作为以人为中心的环境中的通用代理具有广阔的前景，但通用视觉语言动作（VLA）基础模型并不容易适用于人形全身运动操作。人形生物的高维度和相互依赖性……"
+    },
+    "03592ee07706cdd1ed1c21de0c2199129f72352ad09fa55e2bbf031e9b57e676": {
+      "source": "Model Hypnosis: Strong control of AI via additive subliminal effects\nZXQSEPZXQ\nWe demonstrate that AI models are broadly susceptible to a phenomenon we call model hypnosis, in which individually weak and seemingly irrelevant cues in the prompt can be systematically combined to strongly control model behavior. Model hypnosis occurs across model families and…",
+      "zh": "模型催眠：通过附加的潜意识效应对人工智能进行强有力的控制\nZXQSEPZXQ\n我们证明人工智能模型很容易受到我们称为模型催眠的现象的影响，在这种现象中，提示中单独的微弱且看似不相关的线索可以系统地组合起来，以强烈控制模型的行为。模型催眠发生在模型家庭中并且......"
     }
   }
 }
