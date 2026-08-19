@@ -1740,6 +1740,14 @@
     "29e1de160d81e89ef43cbb66c33236c6f3cbfd2a5856b25a9849fa7894e59247": {
       "source": "Harnessing Magnitude-Only and Complex Measurements for Improved Dynamic MRI Reconstruction with Learned Priors\nZXQSEPZXQ\nMRI reconstruction methods for undersampled k-space data naturally utilize complex-valued measurements. Parallel developments in sparse phase retrieval have shown that magnitude-only measurements may provide complementary information for signal recovery. However, their use in MR…",
       "zh": "利用仅幅度和复杂的测量来改进动态 MRI 重建和学习先验\nZXQSEPZXQ\n欠采样 k 空间数据的 MRI 重建方法自然会利用复值测量。稀疏相位检索的并行发展表明，仅幅度测量可以为信号恢复提供补充信息。然而，它们在 MR 中的使用……"
+    },
+    "0b1378385192f9d1879d5a8783b061ab633c7d378f589ed5f6bd7c64fda3302d": {
+      "source": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks\nZXQSEPZXQ\nAnthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
+      "zh": "程序员表示他们已经找到了 Claude 隐形水印的解决方法\nZXQSEPZXQ\nAnthropic 上周宣布将在人工智能生成的内容中包含隐形水印，以遵守新的欧盟规则。几个小时之内，网上就开始热捧这种超控措施。"
+    },
+    "f888a2b5d754786741c90fa1bd1e6e55cee20b904ab44d66a2b52f6a5f959a82": {
+      "source": "3.3.1 (2026-08-19) Bug Fixes deps: update dependencies with published security fixes ( #3680 ) ( 53aa4fc ) Chores build: migrate to uv ( #3653 ) ( b37e85d ) deps: remove jsonschema and unused fixture-validation dependencies ( 0dfdfdd ) lock the repository Pyright toolchain ( #36…",
+      "zh": "3.3.1 (2026-08-19) 错误修复 deps：使用已发布的安全修复程序更新依赖项 (#3680) (53aa4fc) 琐事构建：迁移到 uv (#3653) (b37e85d) deps：删除 jsonschema 和未使用的固定验证依赖项 (0dfdfdd) 锁定存储库 Pyright 工具链 (#36…"
     }
   }
 }
