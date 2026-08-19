@@ -1688,6 +1688,58 @@
     "d79d9b4e64d99a1e3d5eb616188805fb32007f7e3039406693e6b13fdaff8192": {
       "source": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue\nZXQSEPZXQ\nThe ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
       "zh": "OpenAI 在 AI 代理失控后彻底修改安全协议\nZXQSEPZXQ\nChatGPT 制造商表示，其即将推出的 Astra 模型可能已达到“关键”网络能力，促使其停止大量训练，同时加强内部保障措施。"
+    },
+    "1075fcf282679215dc27b50d362a117f29218942b148c5a1ac3e812a13031af7": {
+      "source": "ChatGPT Ads expands across Europe\nZXQSEPZXQ\nChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "zh": "ChatGPT 广告扩展到整个欧洲\nZXQSEPZXQ\nChatGPT 广告正在扩展到 31 个欧洲市场。了解广告商如何在人们探索、比较选项和做出决策时吸引他们。"
+    },
+    "b7cb5ecb72f8ca5133df7ef94da2f06a88abf71d9cc165caa00005989bee8d79": {
+      "source": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation\nZXQSEPZXQ\nLarge-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A central challenge is not only how to curate each task-specific corpus, but also ho…",
+      "zh": "从语料库到共同进化的能力：以能力为中心的数据设计，用于通用图像生成\nZXQSEPZXQ\n大规模图像生成受益于数据规模、质量、重新平衡和重新捕获方面的进步，但传统管道通常单独优化特定于任务的数据集。一个核心挑战不仅是如何管理每个特定任务的语料库，而且..."
+    },
+    "8f62191de6204d6a8ba241e811184d8b8e1e445f69a2367d2f959ee80cd26498": {
+      "source": "Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation\nZXQSEPZXQ\nPurpose: To develop and evaluate a locally deployed multi-agent AI system for radiology report structuring and quality assurance. Materials and Methods: This retrospective study included 638 radiology reports from CT examinations of the chest, abdomen, and pelvis dictated by 15…",
+      "zh": "用于放射学报告构建和质量保证的多智能体人工智能系统以及独立放射科医生评估\nZXQSEPZXQ\n目的：开发和评估本地部署的多智能体人工智能系统，用于放射学报告构建和质量保证。材料和方法：这项回顾性研究包括 15 名来自胸部、腹部和骨盆 CT 检查的 638 份放射学报告。"
+    },
+    "f78f9207ca3b1f10abe0dacc7c9360cfd179f414401f19ffa10ef2bd67f00e02": {
+      "source": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification\nZXQSEPZXQ\nMemory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, the reliability aspects of these methods have been critically overlooked. In th…",
+      "zh": "论自我改进主体的脆弱性：方差、任务顺序和不规范\nZXQSEPZXQ\n基于记忆的自我改进代理——那些从在线任务流中学习并通过维护文本记忆库随着时间的推移而改进的代理——在最近的文献中显示出了巨大的前景。然而，这些方法的可靠性方面却被严重忽视。在…"
+    },
+    "fa257a82e49c279bfb53733f33a5d99ce132869d21066f00d351a5f40fffb277": {
+      "source": "TokEval: A Tokenizer Evaluation Suite\nZXQSEPZXQ\nLanguage model tokenizers are typically selected with minimal evaluation, despite the fact that their design choices directly impact model capabilities. This can be partly attributed to a limited understanding of which tokenizer properties affect which aspects of downstream perf…",
+      "zh": "TokEval：分词器评估套件\nZXQSEPZXQ\n尽管语言模型标记器的设计选择直接影响模型功能，但通常会通过最少的评估来选择语言模型标记器。这部分归因于对哪些分词器属性影响下游性能哪些方面的了解有限……"
+    },
+    "894709997d403c163f2efe3d7d97f4d4f08e7327cfd0db03216ce552112b054c": {
+      "source": "The concentration game: Bayesian updating, regret, and information\nZXQSEPZXQ\nWe give a two-player zero-sum repeated game between a learner and nature whose value identity generates Bayesian updating and an exact accounting of exponential-weights regret at once, and supplies the comparator-class variational form that a wide class of concentration phenomen…",
+      "zh": "集中游戏：贝叶斯更新、遗憾和信息\nZXQSEPZXQ\n我们在学习者和自然之间给出了一个两人零和重复博弈，其价值同一性产生贝叶斯更新和指数权重后悔的精确计算，并提供了比较器类变分形式，广泛的集中现象......"
+    },
+    "5032410d3ab8611ccf358a25f3c7e57bb424c3a0e3db32f2626814ffab310dcb": {
+      "source": "Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating\nZXQSEPZXQ\nAutonomous LLM agents that converse on a user's behalf are an emerging design pattern in matching platforms, yet their viability depends on a condition rarely examined: users must accept not only delegating conversation to an agent, but also receiving agent-mediated communicatio…",
+      "zh": "代理推荐系统中的委托不对称性：测量在线约会中的双方接受度\nZXQSEPZXQ\n代表用户进行对话的自主LLM代理是匹配平台中一种新兴的设计模式，但它们的可行性取决于一个很少被检查的条件：用户不仅必须接受将对话委托给代理，而且还必须接受代理介导的通信……"
+    },
+    "29b2513b0d963d4781ce59005be30e1b79255ffa0e86de046836bd0ba6d1dcdd": {
+      "source": "HLSR: Hybrid Live Forecast Selective Dynamic Vehicle Rerouting for Real-Time Congestion Avoidance\nZXQSEPZXQ\nUrban traffic congestion reduces productivity and increases travel cost and emissions. Network-wide live travel-time shortest-path rerouting can be highly effective in simulation, but assumes that essentially every on-road vehicle is replanned every decision period. We propose H…",
+      "zh": "HLSR：混合实时预测选择性动态车辆重新路由以实现实时拥堵避免\nZXQSEPZXQ\n城市交通拥堵会降低生产力并增加出行成本和排放。全网络实时行驶时间最短路径重新路由在模拟中非常有效，但假设基本上每辆道路车辆在每个决策周期都会重新规划。我们建议 H…"
+    },
+    "5afa5c1d6f6866e6cfc044651f1ba0abb0307fb5cb37dc89186bd7743157668d": {
+      "source": "Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction\nZXQSEPZXQ\nReliable quantitative analysis of dynamic contrast-enhanced MRI requires high-quality spatiotemporal reconstructions at high undersampling rates. Scan-specific reconstructions using Gaussian and Gabor primitives have shown promising results without the need for large training da…",
+      "zh": "无监督动态对比增强 MRI 重建的原始表示学习\nZXQSEPZXQ\n动态对比增强 MRI 的可靠定量分析需要高欠采样率下的高质量时空重建。使用高斯和 Gabor 原语的扫描特定重建已经显示出有希望的结果，而不需要大量的训练数据……"
+    },
+    "2b3ba950b9a70845bce94f0cfad305cc3328c9ea975c4b531492c37003ce1e8f": {
+      "source": "StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents\nZXQSEPZXQ\nAI agents increasingly perform knowledge work (i.e., produce and modify persistent digital artifacts such as code repositories, documents, spreadsheets, slides, reports), yet the parsed views they search, the native files they edit, the changes they review, and the artifacts the…",
+      "zh": "StagedWorkspace：知识工作代理的版本化工作空间\nZXQSEPZXQ\n人工智能代理越来越多地执行知识工作（即，生成和修改持久性数字工件，例如代码存储库、文档、电子表格、幻灯片、报告），但他们搜索的解析视图、他们编辑的本机文件、他们审查的更改以及......"
+    },
+    "73af4e3fe35fa39c80777a0295efa85cbc0a8f2b11eb1841694f3c8446381976": {
+      "source": "Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation\nZXQSEPZXQ\nLanguage has two parameters. Count how often words occur together and you estimate amplitude, the strength of association. Word embeddings and attention weights refine that count, which sums every writer in the corpus together. This paper claims a second parameter, phase, which…",
+      "zh": "语言有两个参数：叙事引发的语义可塑性和相敏解释\nZXQSEPZXQ\n语言有两个参数。计算单词一起出现的频率，并估计幅度，即关联的强度。词嵌入和注意力权重改进了计数，将语料库中的每个作者加在一起。本文提出了第二个参数，相位，它......"
+    },
+    "d6b26109e5f143948674a3301e4ee4598570277754ffdd3830d281345ebdfcb1": {
+      "source": "Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization\nZXQSEPZXQ\nSampling from a diffusion model typically requires many forward passes through a large neural network, making generation computationally expensive. While much work has focused on efficient solvers and samplers, comparatively little attention has been paid to selecting the sampli…",
+      "zh": "优化您的采样：使用贝叶斯优化调整扩散采样\nZXQSEPZXQ\n从扩散模型中采样通常需要通过大型神经网络进行多次前向传递，这使得生成的计算成本很高。虽然很多工作都集中在高效的求解器和采样器上，但相对较少的注意力集中在选择样本上……"
+    },
+    "29e1de160d81e89ef43cbb66c33236c6f3cbfd2a5856b25a9849fa7894e59247": {
+      "source": "Harnessing Magnitude-Only and Complex Measurements for Improved Dynamic MRI Reconstruction with Learned Priors\nZXQSEPZXQ\nMRI reconstruction methods for undersampled k-space data naturally utilize complex-valued measurements. Parallel developments in sparse phase retrieval have shown that magnitude-only measurements may provide complementary information for signal recovery. However, their use in MR…",
+      "zh": "利用仅幅度和复杂的测量来改进动态 MRI 重建和学习先验\nZXQSEPZXQ\n欠采样 k 空间数据的 MRI 重建方法自然会利用复值测量。稀疏相位检索的并行发展表明，仅幅度测量可以为信号恢复提供补充信息。然而，它们在 MR 中的使用……"
     }
   }
 }
