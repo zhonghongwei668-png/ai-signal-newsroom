@@ -1828,6 +1828,18 @@
     "be378a01f9b73a5f92260000e8489ae7435449bae8dee0710fde94a94a0fd7c1": {
       "source": "Finetuning Strategies for Querying Sounds by Vocal Imitation\nZXQSEPZXQ\nThis technical report describes our winning submission to the AES AIMLA 2025 Challenge on querying sound effects by vocal imitation. We investigate two complementary fine-tuning strategies: contrastive learning with a frozen, pretrained CED encoder, and joint contrastive-triplet…",
       "zh": "通过声音模仿查询声音的微调策略\nZXQSEPZXQ\n本技术报告介绍了我们在 AES AIMLA 2025 挑战赛中通过声音模仿查询音效的获奖作品。我们研究了两种互补的微调策略：使用冻结的、预训练的 CED 编码器进行对比学习，以及联合对比三元组……"
+    },
+    "e9300eaf8a616b02248358aecb5af95f470e5cdd6a16d08f2dd7966327573289": {
+      "source": "Ramp launches its own AI model router, called Router\nZXQSEPZXQ\nRamp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+      "zh": "Ramp推出自己的AI模型路由器，名为Router\nZXQSEPZXQ\nRamp 推出了自己的人工智能模型路由服务，称为 Router，允许用户和公司通过 API 使用和切换各种大型语言模型。"
+    },
+    "916d96c616b78db2cbd6a9dfca64996b49dcd360f4bd6304d6a0d9ecf1f54d50": {
+      "source": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users\nZXQSEPZXQ\nMeta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+      "zh": "Meta 为美国用户带来了 Pocket，一款可让您进行振动编码和共享游戏的应用程序\nZXQSEPZXQ\nMeta 在巴西悄悄测试后，将其实验性人工智能应用程序 Pocket 推出给美国各地的用户，该应用程序用于创建和共享互动游戏。"
+    },
+    "abe3cc429b10b977b910432477eaf9404bf6f2325b5240790ec725d92134f46e": {
+      "source": "Inertia Enterprises finds a way to make its fusion fuel fast\nZXQSEPZXQ\nFusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
+      "zh": "Inertia Enterprises 找到了一种使其聚变燃料速度更快的方法\nZXQSEPZXQ\n聚变发电初创公司 Inertia Enterprises 将燃料加注过程从一周缩短到几个小时。这是该公司要建立一个盈利的发电厂必须克服的 10 个障碍之一。"
     }
   }
 }
