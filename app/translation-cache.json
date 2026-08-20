@@ -1808,6 +1808,26 @@
     "f73969faedb0bfcb2daf137b712e9acf30d9bc340bfdc45ea04ab291ee805e37": {
       "source": "0.124.0 (2026-08-19) Full Changelog: v0.123.0...v0.124.0 Features api: Files and Skills APIs are now GA; add computer use and browser use toolsets ( 9a09e84 )",
       "zh": "0.124.0 (2026-08-19) 完整变更日志：v0.123.0...v0.124.0 功能 api：文件和技能 API 现已正式发布；添加计算机使用和浏览器使用工具集（9a09e84）"
+    },
+    "59d2638f51f15fed18cca316a8cf79a2ea39870023678fe72dbc2397d0b06187": {
+      "source": "What is Missing from AI Post-Training AI: An Empirical Analysis\nZXQSEPZXQ\nLarge language model (LLM) agents can now post-train an LLM end-to-end. They can write code, launch training, evaluate checkpoints, and improve downstream performance, raising the prospect of AI-for-AI. We argue that this picture conflates two distinct capabilities: execution-le…",
+      "zh": "人工智能训练后缺少什么：实证分析\nZXQSEPZXQ\n大型语言模型 (LLM) 代理现在可以对 LLM 进行端到端的后训练。他们可以编写代码、启动训练、评估检查点并提高下游性能，从而提升 AI-for-AI 的前景。我们认为这张图融合了两种不同的能力：执行力……"
+    },
+    "a9adc2f24e7504c08e33d059c35b1017f69df2761499d2ca65654abfa73d5180": {
+      "source": "SPADE: Self-Play in Adaptive Synthetic Executable Environments\nZXQSEPZXQ\nContinuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, or frozen-verifier) keep the goal distribution fixed as the learner scales. We…",
+      "zh": "SPADE：自适应合成可执行环境中的自我游戏\nZXQSEPZXQ\n持续的自我完善需要不断扩大的自我生成的、多样化的、适应性的目标。对于语言代理，现有的训练环境池（手工策划、静态合成或冻结验证器）使目标分布随着学习者的扩展而保持固定。我们…"
+    },
+    "7fe110360f5e90e57910ce2c5a2938b0d802dd99842a4f231e36c18dc5f6dcfd": {
+      "source": "ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning\nZXQSEPZXQ\nWe introduce Accelerating Dexterity via Pre-Training (ADEPT), a large-scale reinforcement learning (RL) framework for learning sim-to-real transferable dexterity across high degree-of-freedom (DoF) robot embodiments that can solve long-horizon tasks directly from raw visuo-tacti…",
+      "zh": "ADEPT：使用强化学习通过预训练和训练后提高灵活性\nZXQSEPZXQ\n我们引入了通过预训练加速敏捷性（ADEPT），这是一种大规模强化学习（RL）框架，用于在高自由度（DoF）机器人实施例中学习模拟到真实的可转移敏捷性，可以直接从原始视觉触觉解决长期任务……"
+    },
+    "2564477fe1af71a9f8cdc0c9618919982a97d70887503876d5be1342890c54ec": {
+      "source": "Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning\nZXQSEPZXQ\nOn-policy distillation (OPD) trains a student on its own responses using dense token-level guidance from a stronger teacher. In long-context tasks, however, token-level teacher support can favor locally plausible responses that omit evidence distributed across the input or viola…",
+      "zh": "超越教师的可能性：用于长上下文推理的群体校准的策略蒸馏\nZXQSEPZXQ\n在策略蒸馏（OPD）使用更强的老师提供的密集令牌级指导来训练学生自己的反应。然而，在长上下文任务中，象征性的教师支持可能有利于局部合理的响应，从而忽略分布在输入或中提琴中的证据……"
+    },
+    "be378a01f9b73a5f92260000e8489ae7435449bae8dee0710fde94a94a0fd7c1": {
+      "source": "Finetuning Strategies for Querying Sounds by Vocal Imitation\nZXQSEPZXQ\nThis technical report describes our winning submission to the AES AIMLA 2025 Challenge on querying sound effects by vocal imitation. We investigate two complementary fine-tuning strategies: contrastive learning with a frozen, pretrained CED encoder, and joint contrastive-triplet…",
+      "zh": "通过声音模仿查询声音的微调策略\nZXQSEPZXQ\n本技术报告介绍了我们在 AES AIMLA 2025 挑战赛中通过声音模仿查询音效的获奖作品。我们研究了两种互补的微调策略：使用冻结的、预训练的 CED 编码器进行对比学习，以及联合对比三元组……"
     }
   }
 }
