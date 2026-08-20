@@ -1748,6 +1748,66 @@
     "f888a2b5d754786741c90fa1bd1e6e55cee20b904ab44d66a2b52f6a5f959a82": {
       "source": "3.3.1 (2026-08-19) Bug Fixes deps: update dependencies with published security fixes ( #3680 ) ( 53aa4fc ) Chores build: migrate to uv ( #3653 ) ( b37e85d ) deps: remove jsonschema and unused fixture-validation dependencies ( 0dfdfdd ) lock the repository Pyright toolchain ( #36…",
       "zh": "3.3.1 (2026-08-19) 错误修复 deps：使用已发布的安全修复程序更新依赖项 (#3680) (53aa4fc) 琐事构建：迁移到 uv (#3653) (b37e85d) deps：删除 jsonschema 和未使用的固定验证依赖项 (0dfdfdd) 锁定存储库 Pyright 工具链 (#36…"
+    },
+    "8a90c0e7298f5626dcc39d9108986c9d14df7041f2e9cf97595d6885635b850b": {
+      "source": "Offering Zero Data Retention for frontier models\nZXQSEPZXQ\nOpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "zh": "为前沿模型提供零数据保留\nZXQSEPZXQ\nOpenAI 重申符合条件的 API 客户的零数据保留，并预览私人安全处理，以实现先进的人工智能安全，而不损害数据隐私。"
+    },
+    "b8d7c6746f75111767c5a89e2a30526d6defb589acc68bcbf060a09aafc25c24": {
+      "source": "5 new ways to level up your learning with Search\nZXQSEPZXQ\nan illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+      "zh": "通过搜索提升学习水平的 5 种新方法\nZXQSEPZXQ\n带有图标和措辞的插图图像，例如“添加笔记本”和“询问 Google”"
+    },
+    "dabe912bf515cfeb473d67ab3149a19c40b1d6b2f1090378329036bef512a76c": {
+      "source": "Cognition CEO denies report that SpaceX tried to acquire the startup\nZXQSEPZXQ\nSpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+      "zh": "Cognition 首席执行官否认 SpaceX 试图收购这家初创公司的报道\nZXQSEPZXQ\n据报道，SpaceX 正在洽谈收购人工智能编码初创公司 Cognition。 SpaceX 已经收购了 Cursor，以追赶企业人工智能领域的 OpenAI 和 Anthropic 等竞争对手。"
+    },
+    "24fda17a581c92cf55e84bfae7908414aa2fe990ddf25de2f50114d4ebd57d6b": {
+      "source": "Stripe didn’t really buy OpenRouter because of the ‘singularity’\nZXQSEPZXQ\nWhat does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+      "zh": "Stripe 收购 OpenRouter 并不是因为它的“奇点”\nZXQSEPZXQ\n支付巨头想要一家在不同人工智能模型之间路由提示的初创公司做什么？ Stripe 说这是因为“奇点”，但实际上有一个更真实、更强大的原因。"
+    },
+    "45ce9cc67172fff81ed78789603a3aba345dc9cdf700ac8122cb602b54a4a207": {
+      "source": "OpenAI seeks to one-up Anthropic with new customer privacy protections\nZXQSEPZXQ\nA competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "zh": "OpenAI 力求通过新的客户隐私保护措施超越 Anthropic\nZXQSEPZXQ\nOpenAI和Anthropic之间正在展开一场竞争，看谁能为企业客户数据提供最好的隐私保护。"
+    },
+    "a5a94675b00f4857a3b9aaaba385248c468270b88e2b54ffee61dec3faf9d2c9": {
+      "source": "Google packs Search and Gemini with new AI study tools\nZXQSEPZXQ\nThe launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+      "zh": "谷歌将搜索和 Gemini 与新的人工智能学习工具打包在一起\nZXQSEPZXQ\n新学习功能的推出标志着谷歌在继续与OpenAI等公司竞争的同时，将Gemini打造成学生在学习和学习时求助的AI助手的最新努力。"
+    },
+    "9641c8af46380e8a35cdbb711e78aa960c359941cd37d8737e9b5a7afb0fef17": {
+      "source": "AI was supposed to win people over by now — it hasn’t\nZXQSEPZXQ\nAs AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+      "zh": "人工智能现在应该赢得人们的支持——但事实并非如此\nZXQSEPZXQ\n随着人工智能变得越来越难以避免，消费者对这项技术越来越警惕——而硅谷发现，广泛采用并不一定会带来接受。"
+    },
+    "9827a705b0e18a749563d07782b3721a37831f0ecf265cd6bbdb0788303c7fb2": {
+      "source": "0.125.0 (2026-08-19) Full Changelog: v0.124.0...v0.125.0 Features api: managed agents web search config and self hosted sandbox memory ( b75afd6 )",
+      "zh": "0.125.0 (2026-08-19) 完整变更日志：v0.124.0...v0.125.0 功能 api：托管代理 Web 搜索配置和自托管沙箱内存 ( b75afd6 )"
+    },
+    "f5a977e6a125284f7334cf1c6ef7656c6cf5ed69e6a39cf96a4474cb081b00ee": {
+      "source": "Meta AI is getting a Mac app\nZXQSEPZXQ\nMeta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also suppo…",
+      "zh": "Meta AI 即将推出 Mac 应用程序\nZXQSEPZXQ\nMeta 正在推出一款专用于其 AI 聊天机器人的新 Mac 应用程序。 Meta 在周三的公告中表示，你可以与其人工智能聊天机器人共享你的窗口，后者可以提供建议、回答问题或根据屏幕上的内容创建内容。 Mac 上的 Meta AI 还支持..."
+    },
+    "2789253c805299b0ee3eeab8b23134e29c309885fb0d991ff48cc754095107e3": {
+      "source": "Researchers say OpenAI revoked their access to limited cyber program\nZXQSEPZXQ\nThe idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
+      "zh": "研究人员称 OpenAI 撤销了他们对有限网络程序的访问权限\nZXQSEPZXQ\nOpenAI 的网络可信访问计划背后的想法是为受信任的防御者提供更好的模型，以便他们可以向公司报告错误和漏洞，目的是更快地修补缺陷。"
+    },
+    "e98fc06e6597c094eedef937f5f579f3883f55291b193642cc9844598df79e21": {
+      "source": "Google Gemini is getting a dedicated student hub\nZXQSEPZXQ\nAs we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebook…",
+      "zh": "Google Gemini 正在建立专门的学生中心\nZXQSEPZXQ\n在我们为返校季做准备之际，Google 正在 Gemini 推出一个新的专用学生中心。它是一个一站式存储库，用于在学习笔记本中收集研究成果、创建抽认卡、参加练习测验等。谷歌还在增强其学习笔记本……"
+    },
+    "518a5ea62c6d3ef695ea55720ad2d741c73ddf902e948c54de50836135da316f": {
+      "source": "I Saw the Future of AI in a Robot That Can Learn on the Spot\nZXQSEPZXQ\nDuring a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
+      "zh": "我在可以当场学习的机器人中看到了人工智能的未来\nZXQSEPZXQ\n在最近一次访问 Generalist AI 期间，我看到了一个机械臂即兴发挥并使用香蕉作为工具。"
+    },
+    "a1e2feeefa5adeaa2dad1eda33178ae83a97ca29497c441f6b974aac51fd5968": {
+      "source": "Meet the startup helping Wall Street put a price on AI compute\nZXQSEPZXQ\nThe AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn’t a straightforward way to put a pr…",
+      "zh": "认识一下帮助华尔街为人工智能计算定价的初创公司\nZXQSEPZXQ\n人工智能的发展没有放缓的迹象。每年有数千亿美元投入数据中心和 GPU，计算已成为构建人工智能产品的最大单一成本。但尽管有这么多的支出，仍然没有一种简单的方法来..."
+    },
+    "82f72d32681b68d62bca80c77cb5a12a6933f24c43c58651b26247459c457bf1": {
+      "source": "OpenAI hit the brakes. Now what?\nZXQSEPZXQ\nWith a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened s…",
+      "zh": "OpenAI 踩刹车。现在怎么办？\nZXQSEPZXQ\n随着首次公开募股的临近、来自 Anthropic 的激烈竞争，以及中国和公开重量级竞争对手的紧随其后，OpenAI 有充分的理由迅速采取行动。相反，它踩了刹车。周二，该公司表示，它已经放慢了一些人工智能开发的步伐，同时收紧了……"
+    },
+    "f73969faedb0bfcb2daf137b712e9acf30d9bc340bfdc45ea04ab291ee805e37": {
+      "source": "0.124.0 (2026-08-19) Full Changelog: v0.123.0...v0.124.0 Features api: Files and Skills APIs are now GA; add computer use and browser use toolsets ( 9a09e84 )",
+      "zh": "0.124.0 (2026-08-19) 完整变更日志：v0.123.0...v0.124.0 功能 api：文件和技能 API 现已正式发布；添加计算机使用和浏览器使用工具集（9a09e84）"
     }
   }
 }
