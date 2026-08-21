@@ -1896,6 +1896,42 @@
     "f59191693a54283938563fe6ac9bb0a2d3d6fc32c1eb72364d7b18c1f2e840a4": {
       "source": "Silicon Valley Doesn't Get Why You Hate AI\nZXQSEPZXQ\nTechnology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
       "zh": "硅谷不明白为什么你讨厌人工智能\nZXQSEPZXQ\n技术领导者似乎并不理解社会对人工智能的抱怨，但是天哪，他们是通过人工智能发帖的吗？"
+    },
+    "765d63a1d1ff2f0462257209c530eca243c4e8d828583981a70570a825e7e09f": {
+      "source": "OpenAI 全面开源 Codex Harness",
+      "zh": "OpenAI 开源 Codex Harness"
+    },
+    "16f3a0410cd56b6332c7ce328be1a25d41fa084d4dc3b0b943189cddbb9e83f0": {
+      "source": "The Single English County Saying No to Palantir\nZXQSEPZXQ\nThe UK government is facing calls to cancel a sprawling health care contract with Palantir. The region of Greater Manchester insists it can do a better job itself.",
+      "zh": "英国单一郡对 Palantir 说不\nZXQSEPZXQ\n英国政府正面临取消与 Palantir 签订的庞大医疗保健合同的呼声。大曼彻斯特地区坚称自己可以做得更好。"
+    },
+    "e1dd6e455fa0dbbe87fa858cac9b68d6b760a3f12e25a17cc47777984557f636": {
+      "source": "Information on trajectories: martingales and random times\nZXQSEPZXQ\nAccounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used classical concentration inequalities, from Ville to PAC-Bayes, and measures wha…",
+      "zh": "有关轨迹的信息：鞅和随机时间\nZXQSEPZXQ\n考虑非负鞅轨迹的路径空间上的信息流，即使在任意随机时间，也会为其产生精确的变分恒等式。这恢复了广泛使用的经典浓度不等式，从 Ville 到 PAC-Bayes，并测量了……"
+    },
+    "e1a47d256edf204cf5fa1703a973f96c7b4a4bd10ca4b6cdaa25bcdf711d5991": {
+      "source": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models\nZXQSEPZXQ\nLarge Language Models (LLMs) increasingly require selective removal of harmful or sensitive knowledge, called unlearning, yet existing methods and benchmarks fail to evaluate this capability completely. Current approaches rely on disjoint forget and retain sets composed of indep…",
+      "zh": "ConceptGuard：大型语言模型中上下文相关遗忘的基准测试\nZXQSEPZXQ\n大型语言模型 (LLM) 越来越需要选择性地删除有害或敏感知识，称为“忘却”，但现有的方法和基准无法完全评估这种能力。当前的方法依赖于不相交的遗忘和保留集，这些集由独立的......"
+    },
+    "1def0443c5f845bbe46d548a48c31c60da0a65502ecf162315ec1307cd1cbaa5": {
+      "source": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation\nZXQSEPZXQ\nPersonalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-dependent patient communication, yet existing medical vision-language tasks do not ade…",
+      "zh": "G-CARL：基于检查表的奖励学习，用于以患者为导向的医疗报告解释\nZXQSEPZXQ\n对医疗报告的个性化解读已成为患者日益重要的需求。满足这一需求需要以证据为基础的医学事实和依赖于上下文的患者沟通，但现有的医学视觉语言任务并不能满足……"
+    },
+    "5e856726c406f0f324b4dbbc49a547f78888af2ffe052677d45d017017febd66": {
+      "source": "$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval\nZXQSEPZXQ\nDeep neural networks are often overconfident, assigning high confidence even to incorrect predictions. Consequently, users lack a reliable signal for deciding when a prediction can be trusted. Post-hoc confidence estimation addresses this by training a lightweight auxiliary head…",
+      "zh": "$TCP_α$：可靠音乐信息检索的裕度控制置信度估计\nZXQSEPZXQ\n深度神经网络常常过于自信，甚至对错误的预测也赋予很高的置信度。因此，用户缺乏可靠的信号来决定何时可以信任预测。事后置信度估计通过训练轻量级辅助头来解决这个问题……"
+    },
+    "86504ad45882c61c51dbd2db225e884762cbaa3756de9f266150a31d533e9b8e": {
+      "source": "A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection\nZXQSEPZXQ\nDespite their growing importance for contact-free radio frequency (RF) based healthcare monitoring, different radio technologies such as frequency-modulated continuous wave (FMCW) radar, impulse radio ultra-wideband (IR-UWB), and Wi-Fi sensing are rarely compared under identical…",
+      "zh": "吸顶式 FMCW、IR-UWB 和 Wi-Fi 雷达在卧室人体活动监测和睡眠中断检测方面的比较\nZXQSEPZXQ\n尽管调频连续波 (FMCW) 雷达、脉冲无线电超宽带 (IR-UWB) 和 Wi-Fi 传感等不同无线电技术对于基于非接触式射频 (RF) 的医疗保健监测的重要性日益增加，但很少在相同条件下进行比较……"
+    },
+    "8874417787fccaf24213fe187a9ea52d10dfb3627ffff625f0e16e5b618c390e": {
+      "source": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction\nZXQSEPZXQ\nTravel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workflow integrating conversational data collection, structured data processing, and…",
+      "zh": "主动数据收集、出行行为建模和天气敏感需求预测的代理方法\nZXQSEPZXQ\n出行行为研究越来越多地将数字数据收集与预测建模结合起来，但这些阶段通常是单独开发和评估的。这项研究提出了一种三代理工作流程，集成了会话数据收集、结构化数据处理和……"
+    },
+    "fba212aa52b2064775fcec324d4685d53da27704e0dd216887be4a5b5ee37261": {
+      "source": "Inducing Task Models from Computer-Use Traces\nZXQSEPZXQ\nNaturalistic computer-use traces, passively recorded screenshots and mouse or keyboard actions, are a valuable resource for deriving symbolic, auditable, and reusable models of how everyday work is done. Such models matter as computer-use agents enter real work, where agents nee…",
+      "zh": "从计算机使用痕迹中归纳任务模型\nZXQSEPZXQ\n自然的计算机使用痕迹、被动记录的屏幕截图以及鼠标或键盘操作，是导出日常工作如何完成的符号、可审计和可重用模型的宝贵资源。当使用计算机的代理进入实际工作时，此类模型很重要，代理需要……"
     }
   }
 }
