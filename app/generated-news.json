@@ -1,29 +1,141 @@
 {
   "boardMeta": {
-    "generatedAt": "2026-08-22 09:52",
+    "generatedAt": "2026-08-22 16:48",
     "date": "2026年8月22日 · 星期六",
-    "edition": "上午版",
-    "window": "北京时间今日 00:00 至 09:52",
-    "nextUpdate": "下一轮 16:15 自动更新"
+    "edition": "午后版",
+    "window": "北京时间今日 00:00 至 16:48",
+    "nextUpdate": "下一轮 00:15 自动更新"
   },
   "newsItems": [
     {
-      "id": "bf0ac0561ff514",
+      "id": "41561ff484555f",
       "level": "头条",
       "region": "国内",
-      "category": "融资",
+      "category": "政策监管",
       "verification": "媒体报道",
-      "title": "冲击全球最大 IPO：曝 Anthropic 募资 1000 亿美元，目标估值 2 万亿美元",
-      "summary": "IT之家 8 月 22 日消息，金融媒体 mitrade 昨日（8 月 21 日）发布博文，报道称 Anthropic 最早可能会在本月（2026 年 8 月）底公开提交 IPO 申请，预估融资规模将超过此前 SpaceX 创造的纪录。 数据显示，全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 于今年 6 月 IPO 上市初期，筹集了 750 亿美元 （IT之家注：现汇率约合 5,053.39 亿元人民币） ，创下了史上规模最大的首次公开募股纪录。最终，加上超额配售选择权，募资总额增至 862 亿美元 （现汇率约合 5,808.03…",
-      "whyItMatters": "资金流向反映市场正在为哪些 AI 能力与商业模式下注。",
+      "title": "广东市场监管召开平台企业行政指导会，点名“充电宝产品质量风险”“AI 生成虚假宣传”等",
+      "summary": "IT之家 8 月 22 日消息，据广东省市场监督管理局，为进一步压紧压实网络平台企业主体责任，整治入驻商家资质核验不到位、平台规则不公平、重点产品质量安全和食品安全等突出问题，进一步规范网络交易经营秩序，守护消费者与平台内经营者合法权益，8 月 19 日，广东省市场监督管理局组织召开平台企业行政指导会。 IT之家从官方公告获悉，会议结合全省网络交易平台自查情况及第三方专家点评结果，通报当前网络交易平台运行中存在的合规风险。 会议指出，部分平台存在 商家证照核验流于形式 、资质动态管理机制不完善等问题，在零星小额交易管控、账户主体一致性校验方面也存在明显…",
+      "whyItMatters": "监管与司法判例会直接改变模型训练、产品上线和企业合规成本。",
       "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/992/910.htm",
-      "publishedAt": "08:59",
+      "sourceUrl": "https://www.ithome.com/0/993/004.htm",
+      "publishedAt": "15:00",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "acfa80ed481a83",
+      "level": "重要",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "冲击全球最大 IPO：曝 Anthropic 招股书把美国公众对 AI 的抵制情绪列为关键风险",
+      "summary": "IT之家 8 月 22 日消息，CNBC 昨日（8 月 21 日）发布博文，报道称在 Anthropic 的首次公开募股（IPO）招股说明书中， 把美国公众对人工智能的抵制情绪列为关键风险因素。 报道称在旧金山举办“试探性推介”会议中，Anthropic 首席财务官 Krishna Rao 被反复问及竞争问题、开源模型带来的利润率压力，以及数据中心建设放缓可能产生的影响。 IT之家援引博文介绍，与竞争对手 OpenAI 一样，Anthropic 为满足市场对先进模型和新服务的需求，正推动基础设施合作伙伴加快建设。 科技行业的超大规模云服务商今年投入数千…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/992/941.htm",
+      "publishedAt": "11:35",
+      "relativeTime": "5 小时前"
+    },
+    {
+      "id": "86507e18229a45",
+      "level": "关注",
+      "region": "国内",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "宇树机器人“入职”理想汽车，担任讲解员等职位",
+      "summary": "IT之家 8 月 22 日消息，理想汽车近日在微博发文称，宇树科技人形机器人“入职”理想汽车， 担任的职位有讲解员、向导等 。 IT之家从理想汽车官博了解到，本次“入职”理想汽车的宇树机器人名为“笨笨”，它将于 8 月 23 日在北京汽车博物馆三层迎宾、讲解理想 L9 Livis 汽车。每场电影散场时，笨笨还会带来观影彩蛋，献舞一曲。 同时，宇树机器人还将于 8 月 30 日-31 日现身珠海长隆海洋王国，与 L9 Livis 和机器人同上阵表演特技，并于每日 15:00 加入巡游队伍，和大小朋友们击掌玩耍。 此外，这台机器人还将于 9 月 5 日-6…",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/993/022.htm",
+      "publishedAt": "15:56",
       "relativeTime": "52 分钟前"
     },
     {
+      "id": "9838ac51992498",
+      "level": "关注",
+      "region": "国内",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "上纬新材启元 Q1 研发负责人彭文正：行业已不在“能不能造机器人”时代，而在“敢不敢进消费级”时代",
+      "summary": "8 月 22 日下午消息，2026 世界机器人大会（WRC 2026）期间，上纬新材启元 Q1 研发负责人彭文正展示了团队在 C 端消费级智能领域的探索，并介绍了个人机器人产品启元 Q1。 彭文正判断，当前具身智能领域“本体已经不是比较大的一个瓶颈”，更大的痛点在于“本体强、智能弱”以及生态内容匮乏。他指出，全球机器人构型已逐渐趋同，行业“ 并不在一个能不能造机器人的时代，反而在一个敢不敢进入到消费型的时代 ”。 对于机器人进入消费级的路径，彭文正提出三条曲线：第一阶段是技术练习与新鲜感，第二阶段是内容创作及 B 端迎宾、商演，第三阶段是真实应用场景的…",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/993/016.htm",
+      "publishedAt": "15:31",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "81fe9937333c2d",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "GPD 解释 Win Max 3 掌机为何卖 1750 美元：我们没有大品牌的议价能力，这个价已经是最大诚意",
+      "summary": "IT之家 8 月 22 日消息，GPD Win Max 3 掌机最初亮相于今年 6 月，搭载 AMD Strix Halo 平台，拥有 165Hz AMOLED 屏幕和可更换电池。如今该公司已公布 Win Max 3 的众筹上线日期，同时也揭晓了该机的定价。 据悉，Win Max 3 上市时将提供三个配置。入门版搭载锐龙 AI Max+ 388 处理器、32GB 内存和 1TB 硬盘，定价 1,750 美元 （IT之家注：现汇率约合 11,791 元人民币） ；升级至 64GB 内存、2TB 硬盘后则是 2,246 美元 （现汇率约合 15,133 元…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/993/013.htm",
+      "publishedAt": "15:24",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "3177c6db9e2a83",
+      "level": "关注",
+      "region": "国内",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "2026 年上半年国内工业级金属 3D 打印设备出口金额同比增长 76%",
+      "summary": "IT之家 8 月 22 日消息，据央视财经报道，海关数据显示， 2026 上半年国内工业级金属 3D 打印设备出口金额同比增长 76% ，欧洲、东南亚两大区域贡献出口总额 87%。 据介绍，传统制造是切削一整块金属，一点一点削成型；工业级金属 3D 打印则是用金属粉末一层层铺上去，激光逐点烧结，从无到有一层一层长出来。 一体成型 ，多用于航空航天、医疗器械、汽车、机器人等高端制造领域。金属粉末，激光一扫，一到两天就能打印出一个机器人大腿。 IT之家从报道获悉， 今年，国产工业级金属 3D 打印设备海外订单首次超过国内。 江苏苏州一家企业负责人表示：“海…",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/993/006.htm",
+      "publishedAt": "15:04",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "843e933c591d58",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "神秘 Ox Alpha AI 模型限免上架：DeepSWE 跑分碾压 Claude Fable 5，线索指向智谱",
+      "summary": "IT之家 8 月 22 日消息， 全球最大 AI 聚合平台 OpenRouter 于 8 月 20 日上线匿名 AI 模型 Ox Alpha，免费开放 1 周时间，目前种种线索指向智谱公司。 开发者 Ben Davis 让 Ox Alpha 完成了 DeepSWE（该基准用于衡量 AI 读取真实代码库、识别漏洞并生成有效补丁的能力）的十项测试任务。 这个来历不明的匿名模型得分约为 80%，而 Claude Fable 5 为 65%，GPT-5.6 Sol 为 52%。Davis 本人也表示，鉴于该模型来源不明，这一结果令他困惑不解。IT之家附上相关跑…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/993/003.htm",
+      "publishedAt": "14:54",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "bf55703c8136d4",
+      "level": "关注",
+      "region": "国内",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "新石器 CEO 余恩源：目标构建由 1000 万辆无人车和 1 亿个机器人组成的无人物流网络",
+      "summary": "IT之家 8 月 22 日消息，据凤凰网科技报道，在 2026 世界机器人大会论坛上，新石器创始人兼 CEO 余恩源首次系统阐释了公司定位从“自动驾驶”向“机器人公司”的转变。 余恩源透露，截至 8 月 20 日， 新石器无人驾驶累计运营里程已突破 2.2 亿公里 ，日新增里程超 100 万公里，目前无人车数量超过 2.7 万辆，居全球同类车队首位。按计划，今年底车队规模将突破 5 万辆，明年预计增至 15 万辆。 余恩源将物流成本拆解为运输、装卸、搬运三个环节。他认为，自动驾驶仅解决运输问题，而装卸和搬运需依赖机器人，因此新石器正将无人车技术延伸至室…",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/992/985.htm",
+      "publishedAt": "13:57",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "409f121b89c761",
+      "level": "关注",
+      "region": "国内",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "荣耀机器人闪电百米跑出 9 秒 32，打破人类记录",
+      "summary": "8 月 22 日，第二届世界人形机器人运动会在北京拉开帷幕。根据最新消息，在本届运动会竞速项目的备赛环节，来自荣耀战队的机器人“闪电”完成百米测试，录得成绩 9 秒 32、峰值速度 14.5 米 / 秒，再度刷新此前 9 秒 58 的人类百米世界纪录。 本届运动会由北京市人民政府、中央广播电视总台等联合主办，共设 50 个赛项。与首届相比，本届要求更严：除 100 米、400 米障碍赛外，其余项目均需全自主完成，三个竞速项目的完赛时间也压缩至 1 分钟、5 分钟和 15 分钟。 按照赛程，荣耀战队的闪电将分别参加 100 米、400 米大型组和 150…",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/992/981.htm",
+      "publishedAt": "13:34",
+      "relativeTime": "3 小时前"
+    },
+    {
       "id": "5a859cda5199f1",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "大模型",
       "verification": "媒体报道",
@@ -33,27 +145,27 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
       "publishedAt": "07:07",
-      "relativeTime": "2 小时前",
+      "relativeTime": "9 小时前",
       "titleZh": "Anthropic 的 Opus 4.6 是一台色情机器",
       "summaryZh": "Anthropic 禁止其 Claude 模型生成露骨的色情内容。但TechCrunch进行的一系列测试发现，不需要太多就能突破限制。"
     },
     {
-      "id": "fd4688730703c9",
-      "level": "重要",
+      "id": "56fc7326e71e6c",
+      "level": "关注",
       "region": "国内",
-      "category": "产品动态",
+      "category": "大模型",
       "verification": "媒体报道",
-      "title": "小米官方“龙虾”Xiaomi miclaw 将于 9 月 21 日结束封测",
-      "summary": "IT之家 8 月 22 日消息，8 月 21 日，小米官方账号“Beta 版小助手”发布《Xiaomi miclaw 封测结束公告》。 公告显示，今年 3 月，小米开启了官方“龙虾” Xiaomi miclaw 封测，获得了众多用户的关注。经过近半年的封闭测试，团队获得了关于 AI 类产品很多有益的意见和建议。现在， 决定于 2026 年 9 月 21 日结束这次封测 。用户的 Xiaomi miclaw 将于 9 月 21 日正式停止服务。 为了感谢用户对 Xiaomi miclaw 封测的支持，小米特别邀请所有当前还在参与 Xiaomi micla…",
-      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "title": "OpenAI 下调 GPT-5.6 Sol 模型价格，API 与 Credit 费用降幅超 20%",
+      "summary": "IT之家 8 月 22 日消息，OpenAI 宣布在之后的 3 个月内， 将 GPT-5.6 Sol 的 API 与 Credit 调用价格下调 20% 以上 。 此前 GPT-5.6 Sol 的价格为每 100 万 Tokens 输入 5 美元 （IT之家注：现汇率约合 33.7 元人民币） ，每 100 万 Tokens 输出 30 美元 （现汇率约合 202.1 元人民币） 。 目前的价格变更为每 100 万 Tokens 输入 4 美元 （现汇率约合 27 元人民币） ，降低 20%；每 100 万 Tokens 输出 20 美元 （现汇率约合…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
       "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/992/911.htm",
-      "publishedAt": "09:01",
-      "relativeTime": "50 分钟前"
+      "sourceUrl": "https://www.ithome.com/0/992/969.htm",
+      "publishedAt": "12:01",
+      "relativeTime": "4 小时前"
     },
     {
       "id": "e4f6afd078cda1",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -63,27 +175,27 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
       "publishedAt": "06:37",
-      "relativeTime": "3 小时前",
+      "relativeTime": "10 小时前",
       "titleZh": "Nvidia 与数据中心开发商 Cloverleaf 合作",
       "summaryZh": "英伟达继续在数据中心开发上投入资金——就像人工智能数据中心为英伟达带来大量资金一样。"
     },
     {
-      "id": "c8e8acd140a545",
-      "level": "重要",
+      "id": "8e75946253ff2e",
+      "level": "关注",
       "region": "国内",
-      "category": "芯片算力",
+      "category": "大模型",
       "verification": "媒体报道",
-      "title": "微软 Win11 将精细化管理统一内存，调控图形和 AI 预留容量",
-      "summary": "IT之家 8 月 22 日消息，科技媒体 Windows Latest 昨日（8 月 21 日）发布博文，报道称在 Windows 11 系统中， 微软计划增加统一内存管理，精细化管控图形处理和 AI 任务预留内存。 IT之家注：统一内存（Unified memory）是指 CPU、GPU 和其他加速器共享同一块高速内存池。与传统电脑将系统 RAM 和显存分开的方式不同，统一内存能让本地 AI 模型、图形任务和普通应用共同使用更大的内存空间。 目前市场上采用统一内存架构的典型设备是苹果的 Mac，此外 AMD Ryzen AI Max “Halo”系列…",
-      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "title": "豆包输入法鸿蒙版 0.9.1 上架尝鲜，语音输入可精准识别快速 / 轻声说话",
+      "summary": "IT之家 8 月 22 日消息，豆包输入法鸿蒙版现已在 App Gallery 应用商店 开启尝鲜 ，版本号为 0.9.1（901），时间为 8 月 22 日至 9 月 21 日。 官方表示，豆包输入法的「语音输入」使用豆包同款语音大模型，语音输入又快又准，支持多方言、英语及中英混输；快速说话、轻声说话均可精准识别，无网 / 弱网环境下也能流畅使用，同时提供点击输入、长按输入等多种操作方式。「键盘输入」则提供了 9 键、26 键的键盘输入方式。有强大的纠错和简拼能力。 据IT之家此前报道， 豆包输入法 1.0 于去年 11 月正式上线 ，内置情境感知引…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
       "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/992/904.htm",
-      "publishedAt": "08:21",
-      "relativeTime": "1 小时前"
+      "sourceUrl": "https://www.ithome.com/0/992/930.htm",
+      "publishedAt": "10:39",
+      "relativeTime": "6 小时前"
     },
     {
       "id": "ec802893b1566e",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -93,37 +205,9 @@
       "source": "WIRED AI",
       "sourceUrl": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
       "publishedAt": "07:25",
-      "relativeTime": "2 小时前",
+      "relativeTime": "9 小时前",
       "titleZh": "中国人工智能繁荣中心的不可思议的地方",
       "summaryZh": "廉价的能源、丰富的土地以及毗邻北京的优势使内蒙古的一座城市成为数据中心的重要枢纽。"
-    },
-    {
-      "id": "87c559649bad7c",
-      "level": "重要",
-      "region": "国内",
-      "category": "芯片算力",
-      "verification": "媒体报道",
-      "title": "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热",
-      "summary": "IT之家 8 月 22 日消息，科技媒体 AppleInsider 昨日（8 月 21 日）发布博文，汇总梳理苹果下一代入门款 14 英寸 MacBook Pro 的规格信息，产品代号为 J804。 发布日期方面，苹果公司可能会在 2026 年年底或 2027 年年初发布。不过 有消息称该 MacBook Pro 的产品发布间隔是最短的 ，后续由 M7 机型（代号 K104）接替，并迎来机身重设计。 型号方面，入门款 M6 MacBook Pro 使用 J804，延续了 M5 的 J704 和 M4 的 J604 命名方式。高端 OLED 触控屏 Ma…",
-      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/992/892.htm",
-      "publishedAt": "07:24",
-      "relativeTime": "2 小时前"
-    },
-    {
-      "id": "bb432c632123f7",
-      "level": "重要",
-      "region": "国内",
-      "category": "产品动态",
-      "verification": "媒体报道",
-      "title": "消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品",
-      "summary": "IT之家 8 月 22 日消息，据第一财经新皮层消息，字节豆包团队最快将于下周发布一款对标腾讯 WorkBuddy 的办公类产品。 据介绍， 这款产品相当于将目前豆包 App 内的「工作任务」模式单独拆分出来，成为一个独立应用 。目前，豆包网页端界面已出现独立的「新工作任务」入口，与「新对话」并列。 最近一周，豆包密集更新了“工作任务”模式内的多项功能，包含支持手机远程操作电脑、虚拟桌面操作 Windows、新增侧边工作栏等。 8 月 6 日的年中全员会上，字节 CEO 梁汝波表示，后续资源将「集中培育粗主干业务」，这些主干业务包括「AI、信息平台、交…",
-      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/992/890.htm",
-      "publishedAt": "07:11",
-      "relativeTime": "2 小时前"
     },
     {
       "id": "016ca72fa4b588",
@@ -137,23 +221,9 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "publishedAt": "05:25",
-      "relativeTime": "4 小时前",
+      "relativeTime": "11 小时前",
       "titleZh": "超过 100 万人点击了 LinkedIn 的 AI slop 按钮",
       "summaryZh": "LinkedIn 实际上在 7 月 30 日宣布了一个“看起来像 AI slop”按钮，该公司表示很多人已经使用过它。根据首席产品官 Hari Srinivasan 周四发布的帖子，“超过一百万人”点击了该按钮，该按钮可以访问......"
-    },
-    {
-      "id": "ac966f333fa016",
-      "level": "关注",
-      "region": "国内",
-      "category": "芯片算力",
-      "verification": "媒体报道",
-      "title": "Anthropic 发力自研芯片，聘请前谷歌 TPU 负责人阿米尔 · 萨莱克",
-      "summary": "IT之家 8 月 22 日消息，据彭博社报道，Anthropic 于周五透露，前谷歌 TPU 项目创始高管之一阿米尔 · 萨莱克（Amir Salek）将加入 Anthropic 的算力团队。 在 2022 年离职前， 萨莱克曾长期负责谷歌的 TPU 业务，主导并交付了前七代 TPU 芯片 。萨莱克还曾就职于英伟达，在离开谷歌后，萨莱克曾出任私募股权投资机构塞伯罗斯资本管理公司的高级董事总经理。 目前，Anthropic 的芯片主要采购自英伟达、谷歌以及亚马逊等多家供应商。不过，这家总部位于旧金山的公司 近期已释放出打造内部自研芯片业务的信号 ，并已启…",
-      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/992/909.htm",
-      "publishedAt": "08:50",
-      "relativeTime": "1 小时前"
     },
     {
       "id": "6df4ce90783712",
@@ -167,7 +237,7 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
       "publishedAt": "03:43",
-      "relativeTime": "6 小时前",
+      "relativeTime": "13 小时前",
       "titleZh": "英伟达刚刚证明，现在真正的英雄是线束，而不是人工智能模型",
       "summaryZh": "英伟达的研究表明，即使人工智能模型在这项任务上表现不佳，通过微调，人工智能代理也可以表现良好，并且不会陷入困境。"
     },
@@ -183,21 +253,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1574416.htm",
       "publishedAt": "07:53",
-      "relativeTime": "1 小时前"
-    },
-    {
-      "id": "61b342365f2ab6",
-      "level": "关注",
-      "region": "国内",
-      "category": "Agent",
-      "verification": "媒体报道",
-      "title": "全新一代智己 LS6“陆上 A320”官宣 9 月见，定位“家庭 SUV”",
-      "summary": "IT之家 8 月 22 日消息，2026 成都车展 8 月 21 日开幕，上汽集团宣布全新一代智己 LS6“陆上 A320”将于 9 月亮相，号称“陆上 A320”。 据介绍，该车是航空同源理念打造的家庭 SUV，率先进入航空级安全时代。全系标配 NEO 三电架构、全线控底盘、IM CLAW 智能体、超级头等舱。 IT之家注意到，目前在售的新一代智己 LS6 车型于去年 9 月上市，纯电版上市权益价 19.79 万元起，增程版上市权益价 20.29 万元起。 在售的新一代智己 LS6 定位超级大五座智能 SUV，首搭智己“恒星”超级增程，综合续航达 1…",
-      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/992/893.htm",
-      "publishedAt": "07:36",
-      "relativeTime": "2 小时前"
+      "relativeTime": "8 小时前"
     },
     {
       "id": "cc9b626ae35aca",
@@ -211,7 +267,21 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1574438.htm",
       "publishedAt": "09:28",
-      "relativeTime": "23 分钟前"
+      "relativeTime": "7 小时前"
+    },
+    {
+      "id": "2dcb931ba3ecdc",
+      "level": "关注",
+      "region": "国内",
+      "category": "融资",
+      "verification": "媒体报道",
+      "title": "Anthropic IPO融资额或超1000亿美元、估值2万亿美元",
+      "summary": "8月22日，据《纽约时报》报道，高歌猛进的AI公司Anthropic过去一年在争夺AI技术主导权的竞争中不断超越竞争对手。如今，它有望在即将到来的华尔街重磅上市中再度超越这些对手。 阅读全文",
+      "whyItMatters": "资金流向反映市场正在为哪些 AI 能力与商业模式下注。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1574434.htm",
+      "publishedAt": "09:26",
+      "relativeTime": "7 小时前"
     },
     {
       "id": "3470605ce8ba40",
@@ -225,7 +295,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1574428.htm",
       "publishedAt": "08:24",
-      "relativeTime": "1 小时前"
+      "relativeTime": "8 小时前"
     },
     {
       "id": "c736908636186b",
@@ -239,7 +309,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1574424.htm",
       "publishedAt": "08:04",
-      "relativeTime": "1 小时前"
+      "relativeTime": "8 小时前"
     },
     {
       "id": "8263f06a854e15",
@@ -253,7 +323,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1574420.htm",
       "publishedAt": "07:55",
-      "relativeTime": "1 小时前"
+      "relativeTime": "8 小时前"
     },
     {
       "id": "cea3d0473a3641",
@@ -267,21 +337,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1574430.htm",
       "publishedAt": "08:24",
-      "relativeTime": "1 小时前"
-    },
-    {
-      "id": "8f0fc7b7641993",
-      "level": "关注",
-      "region": "国内",
-      "category": "大模型",
-      "verification": "媒体报道",
-      "title": "OpenAI宣布下调前沿模型 GPT-5.6 Sol开发者定价超20%",
-      "summary": "面对来自 Anthropic 及诸多中国人工智能模型的激烈竞争，ChatGPT 的母公司 OpenAI 于周五宣布，在未来三个月内，将对其前沿模型 GPT-5.6 Sol 的开发者定价下调超过20%。 阅读全文",
-      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
-      "source": "cnBeta",
-      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1574422.htm",
-      "publishedAt": "08:02",
-      "relativeTime": "1 小时前"
+      "relativeTime": "8 小时前"
     },
     {
       "id": "414f2f4b72ca1e",
@@ -295,21 +351,20 @@
       "source": "雷锋网",
       "sourceUrl": "https://www.leiphone.com/category/robot/DCljjXT8jddT4PJs.html",
       "publishedAt": "00:07",
-      "relativeTime": "9 小时前"
+      "relativeTime": "16 小时前"
     }
   ],
   "trendLines": [
-    "AI 产品更新加快，能力正进入更多日常工作流。",
-    "AI 算力竞争继续转向推理能效、供应能力与整体成本。",
-    "大模型仍是今日高频主线，能力、价格与生态策略持续变化。"
+    "大模型仍是今日高频主线，能力、价格与生态策略持续变化。",
+    "具身智能继续升温，真实场景数据与可靠执行成为竞争焦点。",
+    "AI 产品更新加快，能力正进入更多日常工作流。"
   ],
   "pendingItems": [
-    "本轮有 20 条来自可靠媒体的报道，后续将继续追踪官方确认。",
-    "1 个信息源本轮暂时不可用，系统会在下一轮自动重试。"
+    "本轮有 24 条来自可靠媒体的报道，后续将继续追踪官方确认。"
   ],
   "scanStats": {
     "configuredSources": 19,
-    "successfulSources": 18,
-    "candidateCount": 21
+    "successfulSources": 19,
+    "candidateCount": 25
   }
 }
