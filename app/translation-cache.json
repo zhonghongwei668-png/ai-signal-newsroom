@@ -1932,6 +1932,26 @@
     "fba212aa52b2064775fcec324d4685d53da27704e0dd216887be4a5b5ee37261": {
       "source": "Inducing Task Models from Computer-Use Traces\nZXQSEPZXQ\nNaturalistic computer-use traces, passively recorded screenshots and mouse or keyboard actions, are a valuable resource for deriving symbolic, auditable, and reusable models of how everyday work is done. Such models matter as computer-use agents enter real work, where agents nee…",
       "zh": "从计算机使用痕迹中归纳任务模型\nZXQSEPZXQ\n自然的计算机使用痕迹、被动记录的屏幕截图以及鼠标或键盘操作，是导出日常工作如何完成的符号、可审计和可重用模型的宝贵资源。当使用计算机的代理进入实际工作时，此类模型很重要，代理需要……"
+    },
+    "2e84597854d91693f809c541d796e1277ac61a081d154d7b7ad22e24572b6789": {
+      "source": "Anthropic’s Opus 4.6 is a smut-machine\nZXQSEPZXQ\nAnthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+      "zh": "Anthropic 的 Opus 4.6 是一台色情机器\nZXQSEPZXQ\nAnthropic 禁止其 Claude 模型生成露骨的色情内容。但TechCrunch进行的一系列测试发现，不需要太多就能突破限制。"
+    },
+    "c4b02249b7fba50fad27a112bd1002b5703cba4b9316d50cfe71f4e965af02b2": {
+      "source": "Nvidia partners with data center developer Cloverleaf\nZXQSEPZXQ\nNvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "zh": "Nvidia 与数据中心开发商 Cloverleaf 合作\nZXQSEPZXQ\n英伟达继续在数据中心开发上投入资金——就像人工智能数据中心为英伟达带来大量资金一样。"
+    },
+    "5460e561bf3b4eddd75e8e68fb5730187352ca9d6daf3a3b6edd74b9364bbb13": {
+      "source": "The Unlikely Place at the Center of China’s AI Boom\nZXQSEPZXQ\nCheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
+      "zh": "中国人工智能繁荣中心的不可思议的地方\nZXQSEPZXQ\n廉价的能源、丰富的土地以及毗邻北京的优势使内蒙古的一座城市成为数据中心的重要枢纽。"
+    },
+    "86ce43be6c4cded319385d1ee30cd69669226e537a2718b13b184486d9d1becd": {
+      "source": "Over 1 million people have clicked LinkedIn’s AI slop button\nZXQSEPZXQ\nLinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessibl…",
+      "zh": "超过 100 万人点击了 LinkedIn 的 AI slop 按钮\nZXQSEPZXQ\nLinkedIn 实际上在 7 月 30 日宣布了一个“看起来像 AI slop”按钮，该公司表示很多人已经使用过它。根据首席产品官 Hari Srinivasan 周四发布的帖子，“超过一百万人”点击了该按钮，该按钮可以访问......"
+    },
+    "4adfb96dfbb4eaf95b152b419153057f02abca215f94ff0d2ac4bc399c796b82": {
+      "source": "Nvidia just showed that the harness, not the AI model, is now the real hero\nZXQSEPZXQ\nNvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "zh": "英伟达刚刚证明，现在真正的英雄是线束，而不是人工智能模型\nZXQSEPZXQ\n英伟达的研究表明，即使人工智能模型在这项任务上表现不佳，通过微调，人工智能代理也可以表现良好，并且不会陷入困境。"
     }
   }
 }
