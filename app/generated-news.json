@@ -1,15 +1,159 @@
 {
   "boardMeta": {
-    "generatedAt": "2026-08-23 00:42",
+    "generatedAt": "2026-08-23 10:01",
     "date": "2026年8月23日 · 星期日",
-    "edition": "清晨版",
-    "window": "北京时间今日 00:00 至 00:42",
-    "nextUpdate": "下一轮 08:15 自动更新"
+    "edition": "上午版",
+    "window": "北京时间今日 00:00 至 10:01",
+    "nextUpdate": "下一轮 16:15 自动更新"
   },
   "newsItems": [
     {
-      "id": "ceb77d2acd274b",
+      "id": "0b614691a1c15e",
       "level": "头条",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "OPPO 新机通过 3C 认证：支持 80W 快充，预计为 Find X10 系列",
+      "summary": "IT之家 8 月 23 日消息，一款型号为 PMW110 的 OPPO 新机于 8 月 21 日通过 3C 认证，支持 80W 快充，预计为 OPPO Find X10 系列。 在此之前，这款新机已经于本月初入网，支持 N79 5G 频段 +2.4GHz 扩频通信，预装 ColorOS17 AI 系统， 备案了多个 AI 大模型 。此前爆料显示，新机预计将于 9 月下旬发布，搭载 2nm 天玑 9600 Pro 处理器、HPC 2 亿超大底影像，机身正面配备极窄新屏。 IT之家注意到，该博主今年 6 月曾曝光某厂 2nm 天玑大杯旗舰规格，预计为 OP…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/993/138.htm",
+      "publishedAt": "09:02",
+      "relativeTime": "58 分钟前"
+    },
+    {
+      "id": "5e014506cb40b9",
+      "level": "重要",
+      "region": "国内",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT‑5.5 与 Claude Opus 4.8",
+      "summary": "IT之家 8 月 23 日消息，总部位于伦敦的 AI 实验室 Inherent 由前谷歌 DeepMind 员工创立。该公司表示，其 AI 智能体 Faraday 仅使用规模远小于 Anthropic 和 OpenAI 旗舰模型的模型，就在一项特定任务中取得了更好的表现。 在众多由前 Google DeepMind 员工创办的初创公司中，Inherent 此前获得的关注相对较少。不过，与那些资金更加充裕、却还没有拿出太多实际成果的竞争对手相比，这家总部位于伦敦的团队如今已经开始展示自己的研发成果。 这家英国初创公司仅在以 5,000 万美元 （IT之家…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/993/133.htm",
+      "publishedAt": "08:15",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "00b5c41772e1c0",
+      "level": "重要",
+      "region": "海外",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "publishedAt": "03:00",
+      "relativeTime": "7 小时前",
+      "titleZh": "由DeepMind校友创立的Inherent表示，其AI “队友”在复制研究方面的表现刚刚超过Anthropic和OpenAI",
+      "summaryZh": "由DeepMind校友建造的英国人工智能实验室Inherent发布了Faraday ，这是一种人工智能代理，其复制科学论文的能力可能是创新的垫脚石。"
+    },
+    {
+      "id": "984ac509778718",
+      "level": "重要",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "哈佛商学院推出 699 美元创业训练营，讲师 AI 数字分身提供路演反馈",
+      "summary": "IT之家 8 月 23 日消息，随着哈佛商学院（HBS）寻求扩大自身影响力，其开始借助 AI 虚拟形象为学生提供个性化反馈。 这些 AI 虚拟形象由一家名为 HeyGen 的初创公司打造，目前已被纳入哈佛商学院为创业者推出的 HBS Foundry 训练营。这项课程为期 8 周，收费 699 美元 （IT之家注：现汇率约合 4,710 元人民币） 。 该项目每周都会安排教师进行直播授课，但在模拟路演和董事会会议等实践环节中，真正负责向学员提供反馈的却是这些 AI 虚拟形象。 《纽约时报》记者 Sarah Kessler 亲自体验了这一服务。她向一个由…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/993/131.htm",
+      "publishedAt": "07:58",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "6024a826f3039a",
+      "level": "重要",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "publishedAt": "05:46",
+      "relativeTime": "4 小时前",
+      "titleZh": "哈佛大学$ 699的创业训练营提供教师的人工智能头像",
+      "summaryZh": "在HBS Foundry计划中， AI头像在练习推介和董事会会议期间提供反馈。"
+    },
+    {
+      "id": "0b175ba720717d",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "OpenAI 一改此前立场，呼吁加州强化 AI 安全法案",
+      "summary": "IT之家 8 月 23 日消息，OpenAI 呼吁加州进一步加强一项具有里程碑意义的 AI 安全法案。该法案已于去年获得通过。 OpenAI 全球事务团队在 LinkedIn 上发表的一篇文章中表示，加州 SB 53 法案“应该进一步扩大安全保障措施”。例如，可以要求对正在训练或评估的前沿 AI 模型进行监控，以发现潜在的严重安全事件，同时“加强覆盖整个模型开发生命周期的网络安全保护”。 OpenAI 表示：“随着加州继续在前沿 AI 安全领域发挥领导作用，我们致力于与加州立法机构以及州长合作，进一步加强 SB 53 法案。” IT之家注意到，Open…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/993/141.htm",
+      "publishedAt": "09:20",
+      "relativeTime": "40 分钟前"
+    },
+    {
+      "id": "6a0ef836c29d17",
+      "level": "关注",
+      "region": "国内",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "荣耀机器人闪电 400 米跑出 40.6 秒成绩，打破该项人类世界纪录",
+      "summary": "IT之家 8 月 23 日消息，荣耀官方昨晚宣布，在第二届世界人形机器人运动会 400 米大型组田径项目中， 荣耀机器人闪电以 40.6 秒的惊人成绩冲线，打破该项人类世界纪录 。 据介绍，本届运动会由北京市人民政府、中央广播电视总台等联合主办，共设 50 个赛项。与首届相比，本届要求更严： 除 100 米、400 米障碍赛外，其余项目均需全自主完成 ，三个竞速项目的完赛时间也压缩至 1 分钟、5 分钟和 15 分钟。 值得一提的是，在今年 4 月 19 日举行的 2026 北京亦庄半程马拉松暨人形机器人半程马拉松中，荣耀自研的齐天大圣队人形机器人闪电…",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/993/140.htm",
+      "publishedAt": "09:02",
+      "relativeTime": "58 分钟前"
+    },
+    {
+      "id": "718f84e74617e4",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "内存成本飙升，消息称英伟达 AI 芯片服务器明年初起涨价最高超 15%",
+      "summary": "IT之家 8 月 23 日消息，据彭博社报道，由于内存芯片成本大幅上涨，英伟达一些最大客户已经被告知，搭载英伟达 AI 芯片的服务器价格在很多情况下将上涨超过 15%。 报道称，涨价将从明年年初出货的服务器开始生效，受影响的产品包括搭载旗舰级 Vera Rubin 和 Grace Blackwell 芯片的服务器。知情人士表示，具体涨幅将取决于英伟达采用的芯片世代以及服务器的内存配置。 报道称，近期，为微软、Alphabet 旗下谷歌以及甲骨文等大型数据中心运营商代工生产服务器的企业，已经陆续通知客户即将到来的涨价。 据IT之家了解，英伟达的芯片支撑着…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/993/136.htm",
+      "publishedAt": "08:52",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "5c54ea863ec529",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "IT早报 0823：特斯拉官网监督版 FSD 支持地区移除中国；DeepSeek 周末统一按低谷价计费；中国铁路成都局回应占座放零食；雷军携小米阔折叠新机现身...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 23 日星期日，今天的重要科技资讯有： 1. 特斯拉官网更新：监督版 FSD 支持地区不再包含中国 今年 5 月，特斯拉官方在 X 发文，当时提到监督版 FSD 支持的国家与地区中包含中国。>> 查看详情 2. DeepSeek 调整 API 周末计费：周六日全天统一按低谷价收费 DeepSeek 于 8 月 23 日起调整 API 计费规则，周末全天不再区分峰谷时段，统一按低谷价收费，简化计费逻辑，开发者任何时段调用都可享受低价。>> 查看详情 3. 中国铁路成都局回应“旅客买票占座放零食”：未…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/993/129.htm",
+      "publishedAt": "07:46",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "1b433ae6cabc84",
+      "level": "关注",
+      "region": "国内",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "航天自研半人马机器人首次公开亮相，未来甚至有望奔赴太空开展作业",
+      "summary": "IT之家 8 月 23 日消息，据央视军事报道，在 2026 世界机器人大会上， 航天自研半人马重载智能机器人“小橙”首次公开亮相 。 据介绍，这款机器人把轮足底盘、人形双臂灵巧手合二为一，主要面向应急抢险及危险场景作业，还能搭载激光雷达与多组传感器， 时速近 20 公里 。 IT之家注意到，航天自研半人马重载智能机器人“小橙”还能够上楼，并支持跨楼层自主导航技术，可以在楼道里面自己循序往前走，执行危险场景寻找幸存者的任务。 值得一提的是， 这款机器人未来甚至有望奔赴太空开展作业 。",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/993/124.htm",
+      "publishedAt": "07:25",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "ceb77d2acd274b",
+      "level": "关注",
       "region": "海外",
       "category": "大模型",
       "verification": "媒体报道",
@@ -19,13 +163,13 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
       "publishedAt": "00:30",
-      "relativeTime": "12 分钟前",
+      "relativeTime": "9 小时前",
       "titleZh": "OpenAI 表示加州应加强人工智能安全法案",
       "summaryZh": "OpenAI 呼吁加州加强 SB 53，这是该公司之前反对的人工智能安全法案。"
     },
     {
       "id": "32aab1e0287884",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "大模型",
       "verification": "媒体报道",
@@ -35,20 +179,51 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
       "publishedAt": "00:00",
-      "relativeTime": "42 分钟前",
+      "relativeTime": "10 小时前",
       "titleZh": "Frontier AI 实验室仍然不愿透露他们如何遏制流氓模型",
       "summaryZh": "一项新的研究发现，领先的人工智能实验室几乎没有公开记录的遏制流氓模型的计划，随着人工智能系统越来越多地表现出意外和潜在危险的行为，引发了有关准备工作的问题。"
+    },
+    {
+      "id": "e0be1a3ba83de3",
+      "level": "关注",
+      "region": "国内",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "第二届世界人形机器人运动会开幕 666支队伍2056台机器人参赛",
+      "summary": "第二届世界人形机器人运动会今日开幕。来自六大洲16个国家的666支参赛队伍、2056台机器人，将在接下来的五天时间里，围绕51个赛项同台竞技，上演精彩角逐。 阅读全文",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1574492.htm",
+      "publishedAt": "08:34",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "7d4eb0b68b95b5",
+      "level": "关注",
+      "region": "国内",
+      "category": "政策监管",
+      "verification": "媒体报道",
+      "title": "300美元的智能戒指真能追踪睡眠？Oura因监测准确性面临集体诉讼",
+      "summary": "本周，知名智能戒指制造商Oura在旧金山面临一项拟议的集体诉讼，其核心卖点——睡眠监测功能的准确性遭到强烈质疑。提起诉讼的克拉克森律师事务所（Clarkson Law Firm）在诉状中指出，Oura智能戒指无法直接检测评估睡眠质量或识别睡眠阶段所需的生理信号，而是依赖于人工智能生成的估算数据，这种估算的准确率被指责为“和抛硬币猜正反面的概率差不多”。 阅读全文",
+      "whyItMatters": "监管与司法判例会直接改变模型训练、产品上线和企业合规成本。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1574486.htm",
+      "publishedAt": "08:21",
+      "relativeTime": "1 小时前"
     }
   ],
   "trendLines": [
-    "大模型仍是今日高频主线，能力、价格与生态策略持续变化。"
+    "大模型仍是今日高频主线，能力、价格与生态策略持续变化。",
+    "具身智能继续升温，真实场景数据与可靠执行成为竞争焦点。",
+    "Agent 基础设施和产品落地同步推进，行业更关注任务完成率。"
   ],
   "pendingItems": [
-    "本轮有 2 条来自可靠媒体的报道，后续将继续追踪官方确认。"
+    "本轮有 14 条来自可靠媒体的报道，后续将继续追踪官方确认。",
+    "1 个信息源本轮暂时不可用，系统会在下一轮自动重试。"
   ],
   "scanStats": {
     "configuredSources": 19,
-    "successfulSources": 19,
-    "candidateCount": 2
+    "successfulSources": 18,
+    "candidateCount": 14
   }
 }
