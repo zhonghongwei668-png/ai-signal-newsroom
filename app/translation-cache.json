@@ -1988,6 +1988,78 @@
     "d41b8ff24daffc356714f9b3bc7248f470da6e5191d560413b6e545cf6367311": {
       "source": "Instinct’s powerful AI assistant is raising privacy and security concerns\nZXQSEPZXQ\nEarly testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
       "zh": "Instinct强大的人工智能助手正在引发隐私和安全问题\nZXQSEPZXQ\n早期的测试人员对Instinct的功能赞不绝口，但有人说，人工智能助理的广泛访问权限、广泛的条款和代表用户行事的能力都带来了令人不安的权衡。"
+    },
+    "6a0d2a02fe70f1c9ea692879253af55adb80f37eabc38df77466b75bb49170d8": {
+      "source": "Disrupting a new covert influence campaign from Russia\nZXQSEPZXQ\nOpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+      "zh": "颠覆俄罗斯新的秘密影响力运动\nZXQSEPZXQ\nOpenAI禁止源自俄罗斯的账户使用人工智能来推广一个虚假的以色列智库和一个赞扬俄罗斯和批评西方的“主权”指数。"
+    },
+    "72dae362527a14126b0ea80f466417122ed89b72fec5db289fd092dc0916c4e0": {
+      "source": "Wire It, Run It, Deploy It: AI Workflows in Gradio\nZXQSEPZXQ\nWire It, Run It, Deploy It: AI Workflows in Gradio。",
+      "zh": "连接它，运行它，部署它： Gradio中的AI工作流程\nZXQSEPZXQ\n连接它，运行它，部署它： Gradio中的AI工作流程。"
+    },
+    "56b7e583eed92788d51eeed7efc08b78e5f387338edb604a75431ce6fdf6b932": {
+      "source": "How to Train a Critic Stably and Efficiently\nZXQSEPZXQ\nGroup-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages from one response, but standard critic-based training recipes…",
+      "zh": "如何稳定有效地培训批评家\nZXQSEPZXQ\n基于小组的强化学习方法，如大型语言模型的GRPO ，通过对每个提示的多个响应进行抽样来避免培训批评者。 一个可靠的批评者可以从一个回应中估计象征性的优势，但标准的基于批评者的培训食谱……"
+    },
+    "8b6688e9b73d4128e49127c507da7a55366cd3c81b4514dbbfb03684ded4c52c": {
+      "source": "ReWorld: An Interactive World Model with Long-Horizon Memory\nZXQSEPZXQ\nAn interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: control wants a short horizon, memory wants an unbounded one. ReWorld separates the two during training and bounds them at inference…",
+      "zh": "ReWorld ：具有长视野记忆的互动世界模型\nZXQSEPZXQ\n交互式世界模型必须跟随用户的动作，记住它显示的地方，并实时流式传输。 紧张关系是结构性的：控制需要一个短视野，记忆需要一个无限的视野。 ReWorld在训练期间将两者分开，并在推理时将它们限制在一起……"
+    },
+    "0fca4ae5d033194e51f0173f4fde4dfcaaf72284c0547ad540317cf7d50a56bd": {
+      "source": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?\nZXQSEPZXQ\nModern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they autonomously perform such migrations? Existing benchmarks cannot answer this qu…",
+      "zh": "SWE重构平台：编码代理能否完成长期、全仓库堆栈迁移？\nZXQSEPZXQ\n现代软件系统在数十年的开发过程中积累了技术债务，这使得迁移成本高昂，而且大部分是手动迁移。 随着编码代理在错误修复方面的能力越来越强，他们能否自主执行此类迁移？ 现有基准无法回答此问题……"
+    },
+    "3451c6239010daf7f7a43e1498dcaf8ec5240ad0689963d867cbb8cd667089e1": {
+      "source": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings\nZXQSEPZXQ\nRoad traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and the high cost of large-scale field inspections. To address this problem, we propo…",
+      "zh": "EG-ARSA ：低资源环境下基于专家的开放式道路安全可视化审核模型\nZXQSEPZXQ\n在低收入和中等收入国家，道路交通伤害仍然是一个主要挑战，积极主动的道路安全审计受到不完整的碰撞记录、合格审计师短缺和大规模实地检查的高成本的限制。 为了解决这个问题，我们建议……"
+    },
+    "e60b667777370c6c4883170fc30ca485c3cf1bf45c1a7b1978ded1654ef099c8": {
+      "source": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography\nZXQSEPZXQ\nBallistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals are vulnerable to the variations in body-bed interaction with shifted fiducial points in temporal or amplitude axis, and BP varies…",
+      "zh": "三轴人体地震仪非接触式血压监测的物理约束深度学习模型\nZXQSEPZXQ\n弹道心电图（ BCG ）有望在实验室环境中进行不引人注目的长期血压（ BP ）监测，但传统的BCG信号容易受到体-床相互作用与时间或幅度轴上移动的基准点的变化的影响，并且BP也各不相同……"
+    },
+    "c2986f018bcf3f5be4cd71cb7d8314ed37db7dd9d15d8097c2d7d03f18f6b442": {
+      "source": "Provably adaptive sampling with uniform and remasking discrete diffusion models\nZXQSEPZXQ\nDiscrete diffusion models offer a promising alternative to autoregressive generation by enabling parallel updates, but their sampling efficiency can depend strongly on the choice of the forward process and the sampler. For the uniform forward process, existing lower bounds for t…",
+      "zh": "具有均匀和重新掩蔽离散扩散模型的可证明自适应采样\nZXQSEPZXQ\n离散扩散模型通过启用并行更新为自回归生成提供了一种有希望的替代方案，但其采样效率在很大程度上取决于正向过程和采样器的选择。 对于均匀正向过程， t的现有下限…"
+    },
+    "37cfbf1eb2612226126993233e6a48e30f23878f9ba156bf9115755b3921e896": {
+      "source": "Prime Agent: A Self-Improving RLM Harness\nZXQSEPZXQ\nLanguage models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long-horizon evaluation and coding-agent workflows. A persistent IPython REPL follo…",
+      "zh": "Prime Agent ：自我完善的RLM线束\nZXQSEPZXQ\n语言模型是顺序处理器，但长期代理需要超出模型权重和活动上下文之外的外部信息和计算。 Prime Agent是一款适用于长期评估和编码代理工作流程的开源工具。 一个持久的IPython REPL follo…"
+    },
+    "f10966d1910b70efa5e1c2f3ab20e3582693299a7e331ed1351f90f7ae18a349": {
+      "source": "ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings\nZXQSEPZXQ\nRecent advances in continuous diffusion and flow-based language models (LMs) have achieved performance competitive with discrete LMs. However, existing continuous frameworks still rely on decoders supervised with cross entropy (CE) because the flow trajectories are not guarantee…",
+      "zh": "ConvergeFlow ：可证明收敛于令牌嵌入的语言流\nZXQSEPZXQ\n连续扩散和基于流的语言模型（ LM ）的最新进展已经实现了与离散LM的性能竞争。 然而，现有的连续框架仍然依赖于交叉熵（ CE ）监督的解码器，因为流轨迹无法保证……"
+    },
+    "00781084ac887e07750ae13af84c600b7157f7db05b08245f94c8cd29e4ff06b": {
+      "source": "Robustness of Anomaly Detection Models for Industrial Control Systems under Training-Time Data Contamination\nZXQSEPZXQ\nMachine-learning-based anomaly detection is increasingly used in industrial control systems (ICS), yet most studies assume that detector training data is trustworthy. In practice, training data may be corrupted through compromised logs, labeling errors, manipulated historian rec…",
+      "zh": "训练时数据污染下工业控制系统异常检测模型的鲁棒性\nZXQSEPZXQ\n基于机器学习的异常检测越来越多地用于工业控制系统（ ICS ） ，但大多数研究都认为检测器训练数据是可靠的。 在实践中，训练数据可能会通过受损日志、标记错误、操纵历史记录…"
+    },
+    "4ba577e7ec961ad6f22aa249aad6d240b75f9ee782aea9e6e55acfda137665f3": {
+      "source": "Inertial Manifold Neural Operator for Dissipative Time-Dependent Partial Differential Equations\nZXQSEPZXQ\nIn this paper, we introduce the Inertial Manifold Neural Operator (IMNO) for solving dissipative time-dependent partial differential equations (PDEs). The long-time dynamics of such systems often exhibit an effective low-dimensional structure due to dissipation. Unlike standard…",
+      "zh": "耗散时间相关偏微分方程的惯性流形神经算子\nZXQSEPZXQ\n本文介绍了求解耗散时间相关偏微分方程（ PDE ）的惯性流形神经算子（ IMNO ）。 这种系统的长期动力学由于耗散往往表现出有效的低维结构，不像标准的……"
+    },
+    "bb40123e4c61dad285e5568fd21b12c4878440b7fae15ec7d0dfc77da44129d5": {
+      "source": "How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles\nZXQSEPZXQ\nWhile AI assistance can improve human task performance in the short term, it may also undermine the development of skills in the longer term. We examine this tension in a controlled logic-puzzle experiment involving on-demand AI assistance, where participants complete tasks befo…",
+      "zh": "人工智能辅助如何影响人类技能发展：逻辑拼图学习研究\nZXQSEPZXQ\n虽然人工智能协助可以在短期内改善人类任务绩效，但从长远来看，它也可能破坏技能的发展。 我们在涉及按需人工智能辅助的受控逻辑拼图实验中研究了这种张力，参与者可以完成任务……"
+    },
+    "f9349da16f61d3f89d1e0b037ce2e6911a1f5d7a5425ee950157638ec7f42d2c": {
+      "source": "The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams\nZXQSEPZXQ\nDoes multi-agent LLM interaction help or hurt? Some work reports gains from debate (Du et al., 2024), critique loops (Chen et al., 2025), and mixture-of-agents synthesis (Wang et al., 2025), while other work finds that interaction adds cost without improving quality under equal…",
+      "zh": "互动税：当沟通抹去多代理团队的多样性时\nZXQSEPZXQ\n多客服代表LLM互动是否有帮助或伤害？ 一些工作报告从辩论（ Du et al. ， 2024 ） ，批评循环（ Chen et al. ， 2025 ）和混合剂合成（ Wang et al. ， 2025 ）中获益，而其他工作发现，在平等的情况下，互动会增加成本而不会提高质量……"
+    },
+    "f3a7b452ac60358f0c99b16dda95e39a5a238b2800aacef7a603a821e8283749": {
+      "source": "Interpretable AI with Local Distillation\nZXQSEPZXQ\nModern AI models such as tabular foundation models and gradient-boosted ensembles can outpredict classical methods, but provide little basis for reasoning about their predictions. High-stakes decisions call for models that are both accurate and interpretable as built. Local line…",
+      "zh": "可解释的人工智能与本地蒸馏\nZXQSEPZXQ\n表格基础模型和梯度提升集成等现代人工智能模型可以超越经典方法，但几乎没有为推理其预测提供基础。 高风险决策要求建造的模型既准确又可解释。本地生产线……"
+    },
+    "45c7a1c59083c2c2e673a747dc2efd97ada88cec8faf4ce1ce785a231e51b915": {
+      "source": "Adapter-Based Few-Shot Continual Learning for Malicious Packet Recognition\nZXQSEPZXQ\nThe continual evolution of malware variants necessitates detection systems that can adapt to new threats without retraining from scratch. However, continually updating models on new data often leads to catastrophic forgetting, where previously learned knowledge is overwritten. W…",
+      "zh": "基于适配器的少量连续学习，用于恶意数据包识别\nZXQSEPZXQ\n恶意软件变体的不断发展需要能够适应新威胁的检测系统，而无需从头开始重新训练。 然而，不断更新新数据上的模型往往会导致灾难性的遗忘，以前学到的知识会被覆盖。W…"
+    },
+    "5cdcf0480f3d7c1706f20e4a550073cfc176abd895296f0478f681bdf0559d75": {
+      "source": "Predicting Multiple Clinical Outcomes Related to Functional Recovery and Social Isolation Among Older Adults After Lower-Limb Fracture or Hip Replacement\nZXQSEPZXQ\nOlder adults recovering after lower-limb fracture or hip replacement may experience complex recovery trajectories. Most of the time, these clinical aspects are studied in isolation, masking their joint impact on recovery. This study used the MAISON-LLF dataset, which contains mu…",
+      "zh": "预测下肢骨折或髋关节置换术后与老年人功能恢复和社会孤立相关的多种临床结局\nZXQSEPZXQ\n下肢骨折或髋关节置换术后恢复的老年人可能会经历复杂的恢复轨迹。 大多数情况下，这些临床方面的研究是孤立的，掩盖了它们对恢复的关节影响。 本研究使用MAISON-LLF数据集，其中包含mu…"
+    },
+    "672e972a206e9000a2bbec4469bc1b4cf2d62b054591f88e22bc8392cdf206b5": {
+      "source": "Correcting a learned physical invariant improves world-model rollouts\nZXQSEPZXQ\nWorld models can predict video without learning dynamics that they reliably preserve. We test whether a frozen DreamerV3 trained only on pendulum video learns a scalar that its own latent transition treats as approximately conserved. A label-free search recovers the same energy-…",
+      "zh": "更正已学习的物理不变量可改进世界模型的推出\nZXQSEPZXQ\n世界模型可以预测视频，而无需学习它们可靠保存的动态。 我们测试仅在钟摆视频上训练的冷冻DreamerV3是否学习其自身潜在跃迁视为近似守恒的标量。 无标签搜索可以恢复相同的能量……"
     }
   }
 }
