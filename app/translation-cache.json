@@ -2060,6 +2060,10 @@
     "672e972a206e9000a2bbec4469bc1b4cf2d62b054591f88e22bc8392cdf206b5": {
       "source": "Correcting a learned physical invariant improves world-model rollouts\nZXQSEPZXQ\nWorld models can predict video without learning dynamics that they reliably preserve. We test whether a frozen DreamerV3 trained only on pendulum video learns a scalar that its own latent transition treats as approximately conserved. A label-free search recovers the same energy-…",
       "zh": "更正已学习的物理不变量可改进世界模型的推出\nZXQSEPZXQ\n世界模型可以预测视频，而无需学习它们可靠保存的动态。 我们测试仅在钟摆视频上训练的冷冻DreamerV3是否学习其自身潜在跃迁视为近似守恒的标量。 无标签搜索可以恢复相同的能量……"
+    },
+    "2f2d4ae06c79f560f29449f5e54dc2552fb8775d2aba36290e931dae97336bde": {
+      "source": "5 ways to upgrade your home decor with Google Search\nZXQSEPZXQ\nIllustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
+      "zh": "使用Google搜索升级家居装饰的5种方法\nZXQSEPZXQ\n沙发、灯具和椅子等Ombre Rainbow家具的紫色背景插图"
     }
   }
 }
