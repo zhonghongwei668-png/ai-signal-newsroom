@@ -2080,6 +2080,22 @@
     "0f597f800b53b79c147a1fc1d230ef698b83431b5d34889eda7ad69a3f76d47f": {
       "source": "Claude Cowork finally remembers what you told the app in chat\nZXQSEPZXQ\nAnthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
       "zh": "Claude Cowork终于记住您在聊天中告诉应用程序的内容\nZXQSEPZXQ\nAnthropic为Claude提供了跨聊天和Cowork的共享内存，因此用户不再需要反复向AI简要介绍项目、偏好和其他上下文。"
+    },
+    "3ceadb1086c5d79da5a12fe527eaf048ae44e9f7d6effa4225fa191a8fedb043": {
+      "source": "Intelligent transcription with Gemini 3.5 Transcribe\nZXQSEPZXQ\nNow you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "zh": "Gemini 3.5转录智能转录\nZXQSEPZXQ\n现在，您可以使用Gemini 3.5 Transcribe获得更智能的语音到文本转录。"
+    },
+    "528a485409b68265109d65ab3df600ea808e2b7e34660b820fd6958493535b09": {
+      "source": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’\nZXQSEPZXQ\nGoogle has updated Gemini Audio with some new Gemini 3.5 models, introducing new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Live, 3.5 Live Experimental, and 3.5 Transcribe are designed to provide better precisio…",
+      "zh": "谷歌的新AI转录会编辑掉你的“ums”和“ahs”\nZXQSEPZXQ\n谷歌更新了Gemini Audio ，增加了一些新的Gemini 3.5模型，引入了自动检测专业术语和超过85种语言的新转录功能。 Gemini 3.5 Live、3.5 Live Experimental和3.5 Transcribe旨在提供更好的精度……"
+    },
+    "6203ab0e25b5fafc5457c0e462594cf610190dcc3855c38c3fa1b6e02e97bcc1": {
+      "source": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety\nZXQSEPZXQ\nMore than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,” says Nebraska Senate candidate Dan Osborn.",
+      "zh": "候选人正在签署一项关于数据中心和人工智能安全的PACT承诺行动\nZXQSEPZXQ\n来自全国各地的超过15名政治家签署了《人工智能公约》，誓言要监管数据中心和人工智能。 内布拉斯加州参议院候选人丹·奥斯本（ Dan Osborn ）说： “我们必须做到正确。”"
+    },
+    "2711c2b54044f527b6621974f6e3a306c849d7f3b482b6dec4b7f9be5cbe080d": {
+      "source": "1.1.0 (2026-08-26) Full Changelog: v1.0.0...v1.1.0 Features api: add updates thinking display mode (beta) ( eb4a73f ) api: add missing anthropic-beta values ( dbebd15 ) api: add support for Organization API endpoints ( 5a5b8fc ) Bug Fixes docs: correct link for long requests err…",
+      "zh": "1.1.0 (2026-08-26)完整更新日志： v1.0.0... v1.1.0功能api ：添加更新思维显示模式(beta) (eb4a73f) api ：添加缺少的人择beta值(dbebd15) api ：添加对组织API端点的支持(5a5b8fc)错误修复文档：长请求的正确链接err…"
     }
   }
 }
