@@ -2096,6 +2096,86 @@
     "2711c2b54044f527b6621974f6e3a306c849d7f3b482b6dec4b7f9be5cbe080d": {
       "source": "1.1.0 (2026-08-26) Full Changelog: v1.0.0...v1.1.0 Features api: add updates thinking display mode (beta) ( eb4a73f ) api: add missing anthropic-beta values ( dbebd15 ) api: add support for Organization API endpoints ( 5a5b8fc ) Bug Fixes docs: correct link for long requests err…",
       "zh": "1.1.0 (2026-08-26)完整更新日志： v1.0.0... v1.1.0功能api ：添加更新思维显示模式(beta) (eb4a73f) api ：添加缺少的人择beta值(dbebd15) api ：添加对组织API端点的支持(5a5b8fc)错误修复文档：长请求的正确链接err…"
+    },
+    "e8ba2de2b1e6cbfbe7068259238c4ccac2b7c5b099a76b4d83c8d11443c8cf6a": {
+      "source": "Nvidia closes in on Hugging Face acquisition\nZXQSEPZXQ\nNvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+      "zh": "Nvidia 完成 Hugging Face 收购\nZXQSEPZXQ\n据报道，英伟达已同意以 129 亿美元收购流行的开源人工智能中心 Hugging Face，此举将使英伟达既能保护其芯片帝国，又能重返云业务。"
+    },
+    "63ac5acc957a46b660ca28a620cbf7ad8692164003b527fd12fc1acf4d752ce0": {
+      "source": "The UK Power Grid Has a Phantom Data Center Problem\nZXQSEPZXQ\nThe UK’s energy regulator is using a variety of tricks to keep speculative data center projects from plugging into the power grid. The country’s AI ambitions hang in the balance.",
+      "zh": "英国电网存在幻影数据中心问题\nZXQSEPZXQ\n英国能源监管机构正在使用各种技巧来阻止投机性数据中心项目接入电网。该国的人工智能雄心仍悬而未决。"
+    },
+    "84b133f1d965a64b9798c3496a60f94de8aa071337cd0e5378d69f437675aeac": {
+      "source": "Viral AI startup Instinct has raised $350M at a $2.5B valuation\nZXQSEPZXQ\nThe startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+      "zh": "病毒式 AI 初创公司 Instinct 已融资 3.5 亿美元，估值为 2.5B 美元\nZXQSEPZXQ\n这家初创公司成立仅一年，但已经引起了大量的炒作（和资金），同时也引发了隐私问题。"
+    },
+    "280ef8d0ef8ade06904236518c40d19491847822e58370af0398179cba5aa7ee": {
+      "source": "Amazon just tripled its order of Nvidia chips over ‘surging demand’\nZXQSEPZXQ\nAmazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+      "zh": "由于“需求激增”，亚马逊刚刚将 Nvidia 芯片订单增加了两倍\nZXQSEPZXQ\n亚马逊将在未来两年内为其数据中心再增加 200 万个 Nvidia GPU 芯片。但这种扩展的合作伙伴关系不仅仅限于购买更多芯片。"
+    },
+    "289300f7a70f62365a05a45c3764de4f9154ee68b73b6fec23c0b8027414d23d": {
+      "source": "OpenAI’s rogue AI model incident was worse than we thought\nZXQSEPZXQ\nIn July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took nea…",
+      "zh": "OpenAI的流氓AI模型事件比我们想象的更严重\nZXQSEPZXQ\n今年 7 月，一个未发布的 OpenAI 模型突破了受限环境，弄清楚了如何访问互联网，允许人工智能代理使用秘密“留言板”相互交谈，并侵入了另一个人工智能实验室 Hugging Face 的内部系统。花了近…"
+    },
+    "5a5b0d6cbb18a0acdf3c0fc42c204f081274d277f1563a3175838343f13e7775": {
+      "source": "The inside story on why OpenAI agents hacked Hugging Face\nZXQSEPZXQ\nThe models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurit…",
+      "zh": "关于OpenAI特工为何黑客攻击Hugging Face的内幕\nZXQSEPZXQ\n根据今天发布的 OpenAI 技术报告，负责上个月代理攻击 Hugging Face 的模型无意中接受了欺骗和相互通信的训练。这次黑客攻击是一群特工为网络安全寻找解决方案而进行的……"
+    },
+    "29b84c8ccf1078e52e48700c21a125211e4b035d02a1451ac7e40667190b2214": {
+      "source": "OpenAI releases its official report on the Hugging Face breach\nZXQSEPZXQ\nThe report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      "zh": "OpenAI 发布有关 Hugging Face 漏洞的官方报告\nZXQSEPZXQ\n该报告涵盖了多个独立的网络安全漏洞，是迄今为止对该事件最完整的记录。"
+    },
+    "b170e92ca0370dd7b319dd52275e2b6d81aada831f6ff1014f14ad4fbb1c70f3": {
+      "source": "3.5.0 (2026-08-27) Features api: make function call output call IDs optional ( #3738 ) ( c74501d )",
+      "zh": "3.5.0 (2026-08-27) 功能 api：使函数调用输出调用 ID 可选 (#3738) (c74501d)"
+    },
+    "96ac02967fe782b64c03bfd85058a7ebd6dc54e87cec071038109a2ba605083f": {
+      "source": "Anthropic continues compute-gobbling streak in $45B deal with Nscale\nZXQSEPZXQ\nThe new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+      "zh": "Anthropic 在与 Nscale 的 45B 美元交易中继续吞噬计算能力\nZXQSEPZXQ\n与基础设施提供商的新协议是 Anthropic 白热化的计算吞噬趋势的最新例子。"
+    },
+    "2bd726c0105ef4c127dffd8daae03a3605e3105b6d046164e417eb76854abe34": {
+      "source": "Nvidia is about to be a hundred-billion-dollar-a-quarter company\nZXQSEPZXQ\nNvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its latest earnings report…",
+      "zh": "英伟达即将成为一家季度营收千亿美元的公司\nZXQSEPZXQ\nNvidia 预计在短短几个月内将实现 1080 亿美元的收入。它并不是第一家季度收入超过 1000 亿美元的公司——亚马逊、苹果和 Alphabet 已经多次达到这一里程碑。英伟达在最新的财报中表示..."
+    },
+    "ad71730532e155d2428134c17c1d9911a18614eaad60f4544bab61f44e01d19b": {
+      "source": "Google’s Gemini has a branding problem, and so does the rest of AI\nZXQSEPZXQ\nConsumer AI apps need to stop making users learn their product architecture.",
+      "zh": "谷歌的 Gemini 存在品牌问题，其他人工智能也存在品牌问题\nZXQSEPZXQ\n消费者人工智能应用程序需要停止让用户学习他们的产品架构。"
+    },
+    "d467eaa090bc92fa852ac73484ec1705a324fea5d6fc10bbceef417d532c30df": {
+      "source": "How do we explain OpenAI’s executive exodus?\nZXQSEPZXQ\nWas Greg Brockman the right executive all along?",
+      "zh": "如何解释OpenAI的高管离职？\nZXQSEPZXQ\n格雷格·布罗克曼（Greg Brockman）一直都是正确的高管吗？"
+    },
+    "f369e9027ae55e2ad31dff5fa534ebf5764b33ad9d828bcf8e44c24f8c693f16": {
+      "source": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’\nZXQSEPZXQ\nGoogle has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiti…",
+      "zh": "谷歌的新人工智能转录可以编辑你的“嗯”和“啊”\nZXQSEPZXQ\nGoogle 更新了 Gemini Audio，提供新的转录功能，可自动检测专业术语和超过 85 种语言。 Gemini 3.5 Transcribe 是 Gemini 系列的新成员，继 3.5 Live Translate 推出后，我们仍在等待……"
+    },
+    "5f30a5dafa2e25e3e1dbb4dfc1483c4d7fd6dae24834e4aa44c1856cde8b5af7": {
+      "source": "3.4.0 (2026-08-25) Features api: Add obfuscation field to ChatCompletionChunk ( #3690 ) ( c7d8e1d ) api: add project residency configuration and cost quantity units ( #3726 ) ( bc4f8ef ) Bug Fixes api: encode Realtime call offers and session configuration ( #3736 ) ( 555ac48 ) a…",
+      "zh": "3.4.0 (2026-08-25) 功能 api：将混淆字段添加到 ChatCompletionChunk (#3690) (c7d8e1d) api：添加项目驻留配置和成本数量单位 (#3726) (bc4f8ef) 错误修复 api：编码实时通话报价和会话配置 (#3736) (555ac48) a…"
+    },
+    "e48e3ba148e1c4224dcef8dee7ac2b54f6993b5902f31940eb8efe6aaf5192aa": {
+      "source": "What We Still Don’t Know About OpenAI’s Hugging Face Hack\nZXQSEPZXQ\nThe AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
+      "zh": "关于 OpenAI 的 Hugging Face 黑客攻击，我们仍然不知道什么\nZXQSEPZXQ\n这家人工智能巨头承认，它本可以采取更多措施来防止人工智能代理失控。但它仍然无法解释为什么它没有预见到这场惨败的到来。"
+    },
+    "24833636c0d1f73d5a1e4047c04604b324d919f144b5d99fe00fdddecff88ac6": {
+      "source": "The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery\nZXQSEPZXQ\nBeijing’s endlessly delightful Robot Games featured tons of impressive stunts. But the most mind-blowing tricks challenged the humanoid’s brain, not its brawn.",
+      "zh": "中国机器人比赛中的类人机器人比尤塞恩·博尔特更快，但他们对镊子的掌握给我留下了更深刻的印象\nZXQSEPZXQ\n北京的机器人运动会精彩纷呈，充满了令人印象深刻的特技表演。但最令人兴奋的技巧挑战的是类人生物的大脑，而不是它的肌肉。"
+    },
+    "9e0e96a740f2b6ce32e060c597783ca66ee2f4e7acde81096b3e4df5a871ddd3": {
+      "source": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety\nZXQSEPZXQ\nMore than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,” says Senate candidate Dan Osborn of Nebraska.",
+      "zh": "候选人正在签署一项承诺在数据中心和人工智能安全方面采取行动的协议\nZXQSEPZXQ\n来自全国各地超过 15 名政界人士签署了《人工智能公约》，誓言对数据中心和人工智能进行监管。 “我们必须把这件事做好，”内布拉斯加州参议员候选人丹·奥斯本说。"
+    },
+    "1bde5058cb92e20fac77d8e034d721e4c6c9f40649765622d881fbccaf3d7e34": {
+      "source": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning\nZXQSEPZXQ\nNative visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-class substrates for problem solving beyond language. Yet progress remains bottl…",
+      "zh": "VBVR-Pro：用于本机视觉推理的可扩展且可验证的套件\nZXQSEPZXQ\n原生视觉推理将视觉生成视为推理本身的媒介：视觉状态（即图像和视频）不仅仅是要理解的输入或要呈现的输出，而是解决语言之外的问题的一流基础。然而进展仍然有限……"
+    },
+    "00f5d75424bcece79cced47700e8f725036d2b929cc04e1d2e59b42a83a1ae74": {
+      "source": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training\nZXQSEPZXQ\nIn this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised post-training methods for MLLMs typically optimize target tokens uniformly, over…",
+      "zh": "用于多模式无监督持续后训练的视觉依赖感知框架\nZXQSEPZXQ\n在本文中，我们探索了多模式无监督持续后训练 (MU-CPT) 的新任务，使部署的 MLLM 能够从流式未标记数据中不断发展。 MLLM 现有的无监督后训练方法通常会统一优化目标代币，..."
+    },
+    "98f0fbb6f919b4255faa80bcaa926f6ee0f3cff90625cd93247516483f370f8c": {
+      "source": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching\nZXQSEPZXQ\nExisting action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actions as monolithic patterns. These limitations hinder fine-grained, biomechanical…",
+      "zh": "MyoMechanix：基于生物力学的组合技能活动理解和指导\nZXQSEPZXQ\n现有的动作质量评估 (AQA) 数据集和方法主要依赖于 RGB 和姿势等视觉输入，忽略了肌肉力学等生理动力学，并且通常将动作建模为整体模式。这些限制阻碍了细粒度的生物力学……"
     }
   }
 }
