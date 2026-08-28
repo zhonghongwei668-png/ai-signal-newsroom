@@ -2176,6 +2176,58 @@
     "98f0fbb6f919b4255faa80bcaa926f6ee0f3cff90625cd93247516483f370f8c": {
       "source": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching\nZXQSEPZXQ\nExisting action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actions as monolithic patterns. These limitations hinder fine-grained, biomechanical…",
       "zh": "MyoMechanix：基于生物力学的组合技能活动理解和指导\nZXQSEPZXQ\n现有的动作质量评估 (AQA) 数据集和方法主要依赖于 RGB 和姿势等视觉输入，忽略了肌肉力学等生理动力学，并且通常将动作建模为整体模式。这些限制阻碍了细粒度的生物力学……"
+    },
+    "a51a18ee838890065eda4807e46d043f4dd57fade9376f599ed7f7423d86585a": {
+      "source": "Gemini Omni 1.1 Flash lets you build with more control\nZXQSEPZXQ\nGemini Omni 1.1 Flash lets you build with more control。",
+      "zh": "Gemini Omni 1.1 Flash 让您可以更好地控制构建\nZXQSEPZXQ\nGemini Omni 1.1 Flash 让您可以更好地控制构建。"
+    },
+    "7213bf9b1fb230ae1ca8506cc1f416cae0dc0b0f02a396fec87de7d548084743": {
+      "source": "3 new ways to plan and book travel in Search\nZXQSEPZXQ\nGraphic depicting new travel features for AI Mode in Search",
+      "zh": "在搜索中计划和预订旅行的 3 种新方式\nZXQSEPZXQ\n描绘搜索中 AI 模式新旅行功能的图表"
+    },
+    "aca800b8eafc487b49f24f78bf3059c5c701bc9eeb35c5ac9519258eadace528": {
+      "source": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026\nZXQSEPZXQ\nAt TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "zh": "Anthropic 和 OpenAI 将在 TechCrunch Disrupt 2026 上加入 AI 舞台\nZXQSEPZXQ\n在 TechCrunch Disrupt 2026 上，AI Stage 再次深入探讨过去几年社区中最热门的话题，由 Google for Startups 提出。"
+    },
+    "5795dae11481c9326d74972ff13145a2735fa2126009a0491d663132a2df2deb": {
+      "source": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google\nZXQSEPZXQ\nZoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+      "zh": "Barret Zoph，Thinking Machines 联合创始人，在加入 OpenAI 之前被解雇，现在在 Google\nZXQSEPZXQ\nZoph 与 Mira Murati 共同创立了 Thinking Machines Lab，并担任该初创公司的首席技术官，曾在 OpenAI 短暂领导过一段时间，目前在 Google 工作。"
+    },
+    "a5d534edf633fb1c491469b83f33c8a1481168b9b7c95f9fc59ee4e6f65e1cbb": {
+      "source": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?\nZXQSEPZXQ\nThis week on “Uncanny Valley,” senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
+      "zh": "人工智能代理是黑客系统。这会推动美国和中国合作吗？\nZXQSEPZXQ\n本周，资深作家威尔·奈特在《恐怖谷》节目中谈论了他最近的中国之行以及人工智能合作的未来。"
+    },
+    "5d31e410a2feb772019c2871c96f0f2f41236b9d652fe191054aace1829863a4": {
+      "source": "Google’s AI note-taking app now allows you to interact with books\nZXQSEPZXQ\nGoogle's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as…",
+      "zh": "谷歌的人工智能笔记应用程序现在可以让你与书籍互动\nZXQSEPZXQ\nGoogle 的 AI 笔记应用程序 Gemini Notebook 现在可以从您购买的图书中提取信息。新的“专家智能”功能允许您将 Google Play 图书中的图书直接导入 Gemini 笔记本，这意味着您可以提出有关材料的问题，因为……"
+    },
+    "17dc2bcbecdd469b03e14e4582ad45b6e8e66ececc0c851594cc01f1ffcaa20f": {
+      "source": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI\nZXQSEPZXQ\nSome of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+      "zh": "OpenAI、Anthropic、Google 和其他 100 家公司呼吁采取行动抵御流氓 AI\nZXQSEPZXQ\n全球一些最大的科技公司和人工智能初创公司齐聚一堂，谴责当前的网络安全状况，并宣传一种新的解决方案，他们称该解决方案可以抵御新一代网络威胁。"
+    },
+    "44eb812340b0c92370889ae408fcb196d62fb374d39aa667f2ef25bfffe55b92": {
+      "source": "1.2.0 (2026-08-27) Full Changelog: v1.1.0...v1.2.0 Features api: beta files/skills namespaces use GA shapes; drop dated beta header pins ( 9df4565 ) Bug Fixes aws,bedrock: sign raw request bytes so binary file uploads work ( #531 ) ( f50e910 ) ci: resolve assignment aliases in d…",
+      "zh": "1.2.0 (2026-08-27) 完整变更日志：v1.1.0...v1.2.0 功能 api：测试版文件/技能命名空间使用 GA 形状；删除过时的 beta 标头引脚 ( 9df4565 ) 错误修复 aws,bedrock: 签署原始请求字节，以便二进制文件上传工作 ( #531 ) ( f50e910 ) ci: 解析 d 中的分配别名..."
+    },
+    "ee2b621a6d24a4182a8c09caeeaecabbaea850e8720bb5a1a5298797e9259caa": {
+      "source": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend\nZXQSEPZXQ\nAfter an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements—and those of a man whose vehicle often showed up near hers, internal investigation records show.",
+      "zh": "一名佐治亚州警察用羊群追踪另外两名警察：他的前任和她的朋友\nZXQSEPZXQ\n内部调查记录显示，在与一名警官的恋情结束后，一名佐治亚州警察使用弗洛克追踪她的行踪，以及一名男子的行踪，该男子的车辆经常出现在她的车附近。"
+    },
+    "665153b98699033c37bd6919d0c907faeb5f80f79ae7b80c18f0e4d563b28499": {
+      "source": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World\nZXQSEPZXQ\nThe potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
+      "zh": "这就是 Anthropic 认为人工智能代理应该如何驾驭物理世界的方式\nZXQSEPZXQ\nAnthropic 表示，人工智能实现科学研究和制造自动化的潜力必须与新的风险相平衡。"
+    },
+    "1a3cae370d3a35692a2185e9e709a60207814950bf47a040f7a6bfa761c9a562": {
+      "source": "Google’s AI Mode can now track flight prices, help book hotels, and more\nZXQSEPZXQ\nThe updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
+      "zh": "谷歌的人工智能模式现在可以跟踪航班价格、帮助预订酒店等\nZXQSEPZXQ\n这些更新表明，谷歌正在寻求将 AI Mode 定位为某种人工智能旅行社，因为它不仅仅是帮助用户查找信息，而是实际处理旅行计划和预订流程的部分内容。"
+    },
+    "1d339bae34198bb0f25660bcd579e6b2225591b0322aa85950644ab134374dc3": {
+      "source": "Jensen Huang says Nvidia achieved AGI, again — not that it matters\nZXQSEPZXQ\nOn Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\" He's…",
+      "zh": "黄仁勋表示 Nvidia 再次实现了 AGI——但这并不重要\nZXQSEPZXQ\n在英伟达周三的财报电话会议上，首席执行官黄仁勋漫不经心地宣布该公司已经“实现了通用人工智能”，这是科技行业一些最大的参与者多年来一直在追求的最终目标之一。黄几乎立刻就驳斥了这一令人垂涎的里程碑，称其“毫无意义”。他是……"
+    },
+    "c51667b12ac2edb69d0a73de2682ac5f051e5f25212cda546ed4eddd9f8586bf": {
+      "source": "OpenAI Is Developing a ‘Persistent’ AI Agent\nZXQSEPZXQ\nCode reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
+      "zh": "OpenAI 正在开发“持久”AI 代理\nZXQSEPZXQ\nWIRED 审查的代码显示，该公司正在开发一项功能，使 Codex 能够继续主动工作，直到“进入睡眠状态”。"
     }
   }
 }
