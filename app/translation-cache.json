@@ -2240,6 +2240,14 @@
     "595ea4e2c268c041ef4d8ec21363b27820e4f2bb3bd8b8d3a62f21ecb77ffb47": {
       "source": "Trump’s EPA wants to let data centers hide their air pollution\nZXQSEPZXQ\nJust as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and…",
       "zh": "特朗普的EPA希望让数据中心隐藏其空气污染\nZXQSEPZXQ\n正如新数据中心面临邻近社区日益增长的反弹一样，美国环境保护署（ EPA ）将使人们更难权衡这些中心造成的任何污染。 美国环保署计划抛出一项联邦法规，要求公告和……"
+    },
+    "53d36885b58ea1c122f7f82fa359b1e16c2db6507dc1403ea4588d5b7daa6f90": {
+      "source": "Neocloud Lambda secures $1B in debt to buy more chips\nZXQSEPZXQ\nNeocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "zh": "Neocloud Lambda 获得 10 亿美元债务以购买更多芯片\nZXQSEPZXQ\nNeocloud Lambda 已筹集 10 亿美元私人债务来购买 Nvidia AI 芯片并将其出租给微软。这是一系列贷款中的最新一笔，突显了人工智能热潮的高昂成本。"
+    },
+    "e43526c5aad289cf2c9091890a2fea428e0f222b2e9c60d4f88bcd2b4ee6ee07": {
+      "source": "3.6.0 (2026-08-27) Features api: add compute_units to Responses and Chat Completions usage ( #3749 ) ( 52421d1 ) Bug Fixes auth: harden X.509 workload identity integration ( #3740 ) ( fc3ad6c ) Chores deps-dev: bump @stdy/cli from 0.22.1 to 0.22.2 ( #3719 ) ( 4f5598c ) deps-dev…",
+      "zh": "3.6.0 (2026-08-27) 功能 api：将compute_units 添加到响应和聊天完成使用 (#3749) (52421d1) 错误修复 auth：强化 X.509 工作负载身份集成 (#3740) (fc3ad6c) 杂务 deps-dev：将 @stdy/cli 从 0.22.1 提升到0.22.2 ( #3719 ) ( 4f5598c ) deps-dev…"
     }
   }
 }
