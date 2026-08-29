@@ -1,29 +1,177 @@
 {
   "boardMeta": {
-    "generatedAt": "2026-08-29 15:07",
+    "generatedAt": "2026-08-29 21:50",
     "date": "2026年8月29日 · 星期六",
-    "edition": "午后版",
-    "window": "北京时间今日 00:00 至 15:07",
-    "nextUpdate": "下一轮 16:15 自动更新"
+    "edition": "夜间版",
+    "window": "北京时间今日 00:00 至 21:50",
+    "nextUpdate": "下一轮 00:15 自动更新"
   },
   "newsItems": [
     {
-      "id": "94a433aab9d2a0",
+      "id": "dcb10e4dd9846f",
       "level": "头条",
+      "region": "海外",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "publishedAt": "21:00",
+      "relativeTime": "50 分钟前",
+      "titleZh": "英伟达的人工智能优势正在超越GPU",
+      "summaryZh": "新一代数据中心系统通过更智能的流量控制而不仅仅是更多的处理器周期来提高效率。"
+    },
+    {
+      "id": "b77d79af61864d",
+      "level": "重要",
+      "region": "国内",
+      "category": "融资",
+      "verification": "媒体报道",
+      "title": "英伟达“看中”Hugging Face，开放权重 AI 模型成硅谷热门收购目标",
+      "summary": "IT之家 8 月 29 日消息，据外媒 TechCrunch 今天（29 日）报道，英伟达有望完成本周最受瞩目的一笔科技交易。市场正等待公司确认一项据称价值 130 亿美元 （IT之家注：现汇率约合 876.47 亿元人民币） 的收购案，目标是开放权重 AI 模型平台 Hugging Face。 Hugging Face 承担着“AI 时代的 GitHub”这一角色，为不依附于头部 AI 实验室的模型提供开发、分享和部署生态。 英伟达近期连续把巨额资金投入这一领域。此前，该公司就与开放权重模型公司 Poolside 达成 60 亿美元 （现汇率约合 4…",
+      "whyItMatters": "资金流向反映市场正在为哪些 AI 能力与商业模式下注。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/996/041.htm",
+      "publishedAt": "21:39",
+      "relativeTime": "11 分钟前"
+    },
+    {
+      "id": "06cf88f1ad520a",
+      "level": "重要",
       "region": "国内",
       "category": "Agent",
       "verification": "媒体报道",
-      "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
-      "summary": "IT之家 8 月 29 日消息，智谱官方昨晚宣布 开源 GLM-5.3 模型权重 ，已正式开放下载，支持本地运行与个性化定制。该模型擅长复杂编码、防御性网络安全以及长程任务。 智谱 Z.ai 负责人李子玄表示，该模型使用需要遵循 GLM-5.3 许可协议，支持本地部署、模型微调及 商业化使用 。仅当年营业额超过 100 亿美元 （现汇率约合 674.21 亿元人民币） 的机构拟将 GLM-5.3 作为外部模型服务对外提供时，才必须进行安全审查。 鉴于该模型在网络安全方面具备先进能力，我们在公开发布模型权重之前，专门追加了两周全面的安全评估。 根据官方此…",
+      "title": "行业首个量子增强型大模型“玄幂 Xenomi”发布：深度融合 AI 与量子计算",
+      "summary": "IT之家 8 月 29 日消息，据“国光量子”公众号 27 日推文，国光量超人工智能研究团队将相关量子技术引入大语言模型的决策与推理过程，并面向科研和学术领域，推出玄幂（Xenomi）· 大模型家族。玄幂在科研科普、路由和智能体决策等特定任务中，相较于主流开源模型展现出更稳定的专业理解、更清晰的任务判断和更短的决策路径，也是行业首个量子增强型大模型。 根据介绍，公司希望在以量子计算为代表的尖端研究领域中，能够获得一款 性能更好、效率更高的大语言模型 。因此，其采用业界最前沿的领域模型训练方案，自主构建海量数据集，并在 SOTA 级别开源基座模型的基础上…",
       "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
       "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/995/896.htm",
-      "publishedAt": "12:31",
+      "sourceUrl": "https://www.ithome.com/0/995/921.htm",
+      "publishedAt": "15:37",
+      "relativeTime": "6 小时前"
+    },
+    {
+      "id": "5850b2892b035e",
+      "level": "重要",
+      "region": "国内",
+      "category": "研究论文",
+      "verification": "媒体报道",
+      "title": "Anthropic 揭示“AI 训练 AI”新方法，比人类研究员成本更低、速度更快",
+      "summary": "IT之家 8 月 29 日消息， 用 AI 模型训练其他 AI 模型 ，正成为新一代 AI 实验室重点探索的方向。当地时间 28 日，Anthropic 研究员计划的一名研究人员展示了这种思路真正落地后可能呈现的样子。 Anthropic 发布了最新论文《自动化研究员能够可靠缓解对齐失效》，介绍如何利用 AI 系统改善模型在一系列对齐基准测试中的表现。研究团队针对 10 种具体的失调行为设置测试，自动化系统最终 让全部 10 项指标都有所改善，同时没有牺牲模型的整体能力 。 这套系统由 Anthropic 研究员计划成员陈岳翰（音译）领导开发，工作流程…",
+      "whyItMatters": "新研究可能改变模型能力边界，但仍需要复现、评测与同行检验。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/996/038.htm",
+      "publishedAt": "21:25",
+      "relativeTime": "25 分钟前"
+    },
+    {
+      "id": "143903ddbe912e",
+      "level": "重要",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
+      "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kin…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "publishedAt": "20:00",
+      "relativeTime": "1 小时前",
+      "titleZh": "音乐家出身的侦探正在寻找人工智能骗子",
+      "summaryZh": "随着以音频为重点的生成工具和平台变得越来越复杂，互联网越来越充斥着人工智能生成的音乐，其旋律和人声在算法上源自人类艺术家的作品。 而一些吐出这种血统的人……"
+    },
+    {
+      "id": "8d05056bc8032f",
+      "level": "关注",
+      "region": "海外",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+      "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "WIRED AI",
+      "sourceUrl": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+      "publishedAt": "18:30",
+      "relativeTime": "3 小时前",
+      "titleZh": "人工智能巨头警告称，网络安全启示将在“几个月内”到来",
+      "summaryZh": "此外：黑客瞄准了100多个美国水系统， ICE下了机器狗的订单，你永远猜不到“MrChildPorn”被捕的原因。"
+    },
+    {
+      "id": "5af2c3a68c4ed4",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "Debian 社区议案表决：开发者可使用生成式 AI，人类负最终责任",
+      "summary": "IT之家 8 月 29 日消息，据科技媒体 Linuxiac 今天报道，Debian 社区的大语言模型投票议案近日迎来表决。投票结果显示，大部分开发者支持负责任地使用生成式 AI。 IT之家从原报道获悉，本次投票一共有 9 种选项，范围从完全禁止大语言模型辅助开发，到允许特定条件使用 AI。投票结果将影响 Debian 开发者工作方式，以及开发组未来如何应对新 AI 工具。 本次投票采用孔多塞投票制，第 5 个选项“负责任地使用生成式 AI”最终胜出。 同时， Debian 新政策并不禁止软件开发、文档编写流程使用生成式 AI 。该政策承认，人类可在负…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/996/035.htm",
+      "publishedAt": "21:11",
+      "relativeTime": "39 分钟前"
+    },
+    {
+      "id": "d26e861bc1d8f0",
+      "level": "关注",
+      "region": "海外",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "How to Run a Chatbot on Your Own Computer",
+      "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "WIRED AI",
+      "sourceUrl": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+      "publishedAt": "18:00",
+      "relativeTime": "3 小时前",
+      "titleZh": "如何在自己的电脑上运行聊天机器人",
+      "summaryZh": "在您的个人电脑上安装大型语言模型可以为您提供一个方便的数字助理，不会损害您的数据隐私。"
+    },
+    {
+      "id": "8ab200c7b4e3e4",
+      "level": "关注",
+      "region": "国内",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "Anthropic 安全框架自动降级：Claude 误删开发者 700 GB 主目录，自动化清理反成灾难",
+      "summary": "IT之家 8 月 29 日消息，开发者 Sebastien Guillemot 本周三在 X 上反馈称，他在测试 AI 智能体的文件删除防护机制时遭遇严重事故，Claude 直接给他删除了大约 700GB 数据，包括整个用户主目录，相当于一周的工作成果。 据称，事故发生前，Anthropic 的安全机制因判断任务存在风险，自动将执行任务的模型降级至 Opus 4.8。 据介绍，他本人经常使用 AI 智能体，但他发现这些智能体完成任务后几乎从不清理临时目录中的文件，日积月累之下导致 /tmp 目录中存在大量垃圾。因此，他要求 Claude Fable 编…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/996/031.htm",
+      "publishedAt": "20:59",
+      "relativeTime": "51 分钟前"
+    },
+    {
+      "id": "6139b639fd55f7",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "OpenAI ChatGPT、Codex 现已支持连接多个谷歌 Gmail 账号",
+      "summary": "IT之家 8 月 29 日消息，OpenAI 开发者体验工程师 Gabriel Chua 今日确认， ChatGPT 和 Codex 用户现可连接多个谷歌 Gmail 和日历账号 。 据官方介绍，许多用户由于个人和工作安排，可能拥有多个 Gmail 或日历账户。此前 ChatGPT 和 Codex 只能连接一个 Google 账户，对用户来说较为不便。 如今 ChatGPT 和 Codex 支持多账户连接后，用户可以打开侧边栏的“插件”，找到 Gmail、Google 日历或 Google 联系人，然后添加多个账户。 IT之家注意到，ChatGPT 还…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/996/022.htm",
+      "publishedAt": "19:50",
       "relativeTime": "2 小时前"
     },
     {
+      "id": "26825ab2b5c061",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "马斯克炮轰 OpenAI 断供 Cursor：我才不在乎，奥尔特曼、布罗克曼就是小偷",
+      "summary": "IT之家 8 月 29 日消息，OpenAI 今天早些时候宣布计划停止向编程工具公司 Cursor 提供 AI 模型。由于 Cursor 目前隶属于马斯克旗下 SpaceX，这一决定因此也让 OpenAI CEO 奥尔特曼与马斯克之间持续多年的矛盾进一步升级。 OpenAI 在博客文章中解释道：“我们作出这一决定，是因为根据 马斯克旗下公司过去违反合同 的情况，我们无法确信 SpaceX 会按照我们的服务条款使用技术。” 随后，马斯克在 X 平台回应：“我根本不在乎。奥尔特曼和布罗克曼（OpenAI 总裁）完全不值得信任，他俩偷走了一个开源非营利组织…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/995/961.htm",
+      "publishedAt": "16:44",
+      "relativeTime": "5 小时前"
+    },
+    {
       "id": "7ceccdc4afb1e6",
-      "level": "重要",
+      "level": "关注",
       "region": "国内",
       "category": "芯片算力",
       "verification": "媒体报道",
@@ -33,11 +181,25 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/995/915.htm",
       "publishedAt": "15:03",
-      "relativeTime": "4 分钟前"
+      "relativeTime": "6 小时前"
+    },
+    {
+      "id": "b16b033e16c418",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "国内首个车载移动式词元工厂亮相，探索算电协同新模式",
+      "summary": "IT之家 8 月 29 日消息，据央视财经今天报道，国内首个车载移动式词元工厂近日亮相。它通过搭载国产算力和能源管理系统，更加灵活地匹配人工智能算力需求，同时探索算电协同新模式，既能帮助新能源消纳，又能降低算力运营成本。 IT之家从原报道获悉，这台车载移动式词元工厂采用标准化 40 尺集装箱，整车采用电算冷，存算网一体化设计。车头可采用电动牵引车，可支持 9 个机柜部署，具备电力与通讯一体化快接口，可实现多车快速组网部署，形成移动算力集群，从到场接入到完成调试运行只需 6-8 小时。 据悉， 该车在 120 千瓦供电情况下 ， 可提供大概 50P 到…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/995/975.htm",
+      "publishedAt": "18:00",
+      "relativeTime": "3 小时前"
     },
     {
       "id": "1797fd9510289b",
-      "level": "重要",
+      "level": "关注",
       "region": "国内",
       "category": "芯片算力",
       "verification": "媒体报道",
@@ -47,11 +209,39 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/995/913.htm",
       "publishedAt": "14:48",
-      "relativeTime": "19 分钟前"
+      "relativeTime": "7 小时前"
+    },
+    {
+      "id": "6244d6282cf53e",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "推广 Claude 遭网友狂喷，加拿大博主称使用 AI 正成为社交禁忌",
+      "summary": "IT之家 8 月 29 日消息，据《商业内幕》今天报道，位于加拿大渥太华的社交媒体创作者艾玛 · 奥尔洪（IT之家注：Emma Orhun）近期因推广 Claude 人工智能助手，遭遇网友差评轰炸。 她对此表示：“我一个人在公寓时，大量尖锐的评论突然涌入。最开始一小时我很害怕，而我身边又没有人，他们说得对吗？不对吗？难道是我疯了吗？” 随后艾玛在播客节目《互联网已死》谈到了这段经历，结果又遭遇一轮批评。她的一位老粉对此表示，AI 对地球有害，还有人立刻点了取消关注。 艾玛表示：“当你对别人吼叫，告诉他们‘我是对的，你是错的’，甚至说‘你是个烂人’，这种…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/995/969.htm",
+      "publishedAt": "17:35",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "168c8dc48468cf",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "微软 XBOX CEO 夏尔马：次世代游戏主机需应对 AI 引发的“内存末日”问题",
+      "summary": "IT之家 8 月 29 日消息，微软 XBOX CEO 阿莎 · 夏尔马近日接受 BBC 采访时透露，她非常清楚当前游戏主机面临的价格困境，并希望重点关注旗下产品可负担性。 夏尔马表示，微软的次世代游戏主机“Project Helix”（螺旋计划）必须在保证性能的同时，将玩家的钱包放在优先位置。如今由于 AI 推动零部件价格水涨船高，整个消费电子行业都陷入了“内存末日”（IT之家注：RAMpocalypse）。 她认为本次内存危机前所未见。 从历史来看 ， 游戏机行业从来没有像现在这样重视成本效率 ，平台方需要在成本和产品设计两方面进行创新。微软未来希…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/995/966.htm",
+      "publishedAt": "17:17",
+      "relativeTime": "4 小时前"
     },
     {
       "id": "d0b60c0570ace6",
-      "level": "重要",
+      "level": "关注",
       "region": "国内",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -61,49 +251,63 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/995/908.htm",
       "publishedAt": "14:16",
-      "relativeTime": "50 分钟前"
+      "relativeTime": "7 小时前"
     },
     {
-      "id": "404e742eaca18e",
-      "level": "重要",
+      "id": "e52f17baceadf5",
+      "level": "关注",
       "region": "国内",
       "category": "融资",
       "verification": "媒体报道",
-      "title": "OpenAI：因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型",
-      "summary": "IT之家 8 月 29 日消息，当地时间 8 月 28 日，OpenAI 发布公告，宣布已正式通知 SpaceX， 计划终止向 Cursor 提供 OpenAI 模型的合作合同 ，拟定的服务停止接入日期为 2026 年 11 月 12 日。 为了尽可能延长开发者在 Cursor 中继续使用我们模型的时间，我们已按照合同约定的最长期限提前发出通知。 这是一个极为艰难的决定，因为我们始终致力于让开发者能够广泛使用我们的模型。 但基于以往埃隆 · 马斯克（Elon Musk）旗下公司屡次违约的经历，我们无法确保 SpaceX 会在我们的服务条款约束内合规使用…",
+      "title": "马斯克回应OpenAI断供Cursor：我根本不在乎 奥特曼是骗子",
+      "summary": "据路透社报道，对于OpenAI停止向SpaceX旗下编程公司Cursor提供AI模型一事，埃隆·马斯克(Elon Musk)周六表示，他根本不在乎。OpenAI周五宣布，计划在11月12日停止向Cursor提供其AI模型。“我们做出这一决定，是因为鉴于我们曾经历过马斯克旗下公司违反合同，我们无法确信SpaceX会按照我们的服务条款使用我们的技术。”OpenAI在一篇博客文章中表示。SpaceX在今年6月以600亿美元收购了Cursor。 阅读全文",
       "whyItMatters": "资金流向反映市场正在为哪些 AI 能力与商业模式下注。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/995/874.htm",
-      "publishedAt": "10:21",
-      "relativeTime": "4 小时前"
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1575500.htm",
+      "publishedAt": "19:39",
+      "relativeTime": "2 小时前"
     },
     {
-      "id": "647d504949768e",
-      "level": "重要",
-      "region": "国内",
-      "category": "具身智能",
-      "verification": "媒体报道",
-      "title": "开源鸿蒙机器人操作系统 M-Robots OS 3.0 Beta 版发布，重心从“单机能力”转向“群体智能”",
-      "summary": "IT之家 8 月 29 日消息，由国家数据局主办的 2026 中国国际大数据产业博览会昨日在贵阳开幕。深开鸿高级副总裁、研发体系总裁王皓博士在会上正式发布了 M-Robots OS 3.0 Beta 版。 IT之家注：M-Robots OS 是深开鸿发布的全国首个基于开源鸿蒙的分布式异构多机协同机器人操作系统，以开源鸿蒙（OpenHarmony）为底座。 据介绍，此次发布的 3.0 Beta 版， 将重心从“单机能力”转向“群体智能” ，构建起安全、实时、可信的分布式机器人操作系统底座。围绕“安全、实时、群体智能、数字底座”四大方向进行了系统性升级…",
-      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/995/865.htm",
-      "publishedAt": "09:55",
-      "relativeTime": "5 小时前"
-    },
-    {
-      "id": "eaffcfe0e72ace",
-      "level": "重要",
+      "id": "505805ddf97480",
+      "level": "关注",
       "region": "国内",
       "category": "Agent",
       "verification": "媒体报道",
-      "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
-      "summary": "IT之家 8 月 29 日消息，据开放原子开源基金会，OpenAtom openKylin 3.0 版本正式发布。 官方表示，本次版本升级， openKylin 将系统内核跨代升级至 Linux 7.0 ，完成 180 余个核心组件全面迭代；构建智能体开放底座，让 AI 贯穿系统全链路；隔空手势、语音输入、屏幕朗读等多模态交互革新；场景覆盖从智能桌面延伸至移动端、服务器等全场景。 IT之家附主要更新内容如下： 升级 Linux 7.0 内核 openKylin 3.0 将系统内核从 Linux 6.6 直接升级至 Linux 7.0。GCC 15、gl…",
+      "title": "从Data到Agent：华为云AI-Ready数据基础设施全链路能力亮相数博会",
+      "summary": "8月28日，在2026中国国际大数据产业博览会期间，以“从数据到Agent，数据价值链的重构与创新”为主题的数据要素大会在贵阳举办。政府机构、头部大数据集团、行业企业及专家学者齐聚一堂，围绕数据要素市场化配置、高质量数据集建设、可信数据空间以及AI时代的数据基础设施创新展开探讨。 当大模型和Agent加速进入千行万业，一个根本性变化正在发生：大模型和Agent成为新的数据消费者。数据消费主体的变化，正在推动大数据平台从传统湖仓向多模态湖仓、数据智能体演进，也对AI时代的数据基础设施提出了全新要求。 从 Data 到 Agent ，重构 AI 时代数据价…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "雷锋网",
+      "sourceUrl": "https://www.leiphone.com/category/industrynews/5HSY98yO7OtW5EGw.html",
+      "publishedAt": "15:20",
+      "relativeTime": "6 小时前"
+    },
+    {
+      "id": "87af9c1c268eed",
+      "level": "关注",
+      "region": "国内",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "2025 年我国智能体专利授权量超过 3400 件，增速是上一年两倍以上",
+      "summary": "IT之家 8 月 29 日消息，国家数据发展研究院院长胡坚波 8 月 28 日在 2026 中国国际大数据产业博览会开幕式上表示，智能体应用带动词元服务加速发展。2025 年， 我国智能体专利授权量超过 3400 件，增速是上一年的两倍以上 ，创新步伐明显加快。 IT之家从中国国际大数据产业博览会公众号获悉，截至 2026 年 6 月底，我国智算规模达 240 万 PFLOPS，半年增长 50.9%。八大枢纽节点智算资源占全国总量接近 90%。 2025 年我国数据产业规模达 6.78 万亿元，同比增长 15.7%。其中，包含 AI 应用软件的数据类软…",
       "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
       "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/995/859.htm",
-      "publishedAt": "09:19",
+      "sourceUrl": "https://www.ithome.com/0/995/928.htm",
+      "publishedAt": "15:57",
       "relativeTime": "5 小时前"
+    },
+    {
+      "id": "6ae235d4f2b656",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "Anthropic 官宣 Claude Code 打通桌面端与终端",
+      "summary": "（原标题《 终于，Claude Code 打通了桌面端与终端！ 》） 终端里干到一半的活，换个窗口就得从头再干一遍。今天，这事结束了。 就在刚刚，Anthropic 官宣， Claude Code 桌面端打通了终端会话！ 在桌面端敲下 /resume ，历史会话列表就弹出来，点击任意一个之前在 CLI 终端里开过的工作会话，原样拉进桌面接着干。 完整对话记录、代码片段、之前一起理清的来龙去脉，一个不落地跟着搬。 更扎眼的是官方演示视频里的那张 Dashboard。 Claude Code 团队自己的工程师 Lydia Hallie，会话统计 1240…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/995/917.htm",
+      "publishedAt": "15:13",
+      "relativeTime": "6 小时前"
     },
     {
       "id": "ee29c0498aa395",
@@ -117,77 +321,7 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/0/995/911.htm",
       "publishedAt": "14:47",
-      "relativeTime": "19 分钟前"
-    },
-    {
-      "id": "9bb7f326e3020d",
-      "level": "关注",
-      "region": "国内",
-      "category": "芯片算力",
-      "verification": "媒体报道",
-      "title": "国产 GPU 厂商壁仞科技上半年收入 12.36 亿元，同比增长 1997.6%",
-      "summary": "IT之家 8 月 29 日消息，国产 GPU 厂商壁仞科技昨晚发布公告，截至 2026 年 6 月 30 日止六个月公司收入 12.36 亿元， 同比增长 1997.6% ；毛利 5.27 亿元，同比增长 2708.5%。 公告显示，该公司持续投入研发与技术迭代创新，报告期内，研发开支为人民币 8.044 亿元，同比增长 40.7%。随着销售和毛利高速增长，营运杠杆进一步放大，报告期内亏损大幅收窄至人民币 3.772 亿元，净亏损与上年同期相比降低 76.4%；报告期内经调整期内亏损（非国际财务报告准则计量）为人民币 3.372 亿元，与上年同期相比减…",
-      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/995/887.htm",
-      "publishedAt": "11:08",
-      "relativeTime": "3 小时前"
-    },
-    {
-      "id": "dfff2027a50541",
-      "level": "关注",
-      "region": "国内",
-      "category": "产品动态",
-      "verification": "媒体报道",
-      "title": "国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB",
-      "summary": "IT之家 8 月 29 日消息，据央视新闻昨日报道，2026 中国国际大数据产业博览会正在贵州贵阳举行。国家数据局相关负责人表示， 全国已建成高质量数据集 超 12.6 万个 ，为人工智能发展提供支撑。 高质量数据集，是指经过采集、加工等数据处理，可直接用于开发和训练人工智能模型、能有效提升模型性能的数据的集合。 国家数据局最新数据显示，截至今年 8 月，全国已建成高质量数据集超过 12.6 万个， 总体量超过 1815PB （IT之家注：1PB=1024TB），较今年一季度末 大幅增长超 89% 。 国家数据集管理服务系统自今年 4 月上线以来，已发…",
-      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/995/893.htm",
-      "publishedAt": "11:59",
-      "relativeTime": "3 小时前"
-    },
-    {
-      "id": "a520b26ccd8cbf",
-      "level": "关注",
-      "region": "国内",
-      "category": "芯片算力",
-      "verification": "媒体报道",
-      "title": "AI 算力拉动铜需求激增，2026 年 AI 服务器专用高端铜箔需求预计增 260%",
-      "summary": "IT之家 8 月 29 日消息，据央视新闻今日报道，AI 与铜的距离看起来很远。一边是发生在“云端”的前沿算法，一边是深埋地下的传统金属。可当 AI“跑”起来，它们就被紧紧连在了一起。服务器的高速运算，需要更强的供电、更快的数据传输和更高效的散热，在这些环节中，铜至关重要。据市场测算，2026 年 AI 服务器专用高端铜箔需求约 2.4 万吨， 同比增长约 260% 。 IT之家从报道获悉，一台普通服务器通常只需要几公斤铜，而用于人工智能训练的高性能服务器，单台用铜量可以达到 15 至 30 公斤， 是普通服务器的 3 倍至 6 倍 。随着液冷加快应用…",
-      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/995/891.htm",
-      "publishedAt": "11:40",
-      "relativeTime": "3 小时前"
-    },
-    {
-      "id": "31d843517a030d",
-      "level": "关注",
-      "region": "国内",
-      "category": "Agent",
-      "verification": "媒体报道",
-      "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
-      "summary": "IT之家 8 月 29 日消息，Meta 宣布推出一款名为 Meta XR Operator 的实验性开发者工具，旨在让 AI 智能体测试 VR 应用，目前相应工具已集成在 Meta XR SDK v205 中，便于开发者调用。 Meta 表示，相应工具中的 AI 智能体可以基于开发者项目自主启动、截取画面、发现问题、修改代码并再次验证修复结果，从而形成完整的“构建 — 测试 — 验证”流程，这样开发者就不需要进行繁琐的摘下 / 戴上头显调试过程。 除了快速迭代调试外，XR Operator 还支持利用自然语言进行命令控制。开发者只需描述测试场景，AI…",
-      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/995/854.htm",
-      "publishedAt": "08:39",
-      "relativeTime": "6 小时前"
-    },
-    {
-      "id": "f1f828e42dd3ae",
-      "level": "关注",
-      "region": "国内",
-      "category": "Agent",
-      "verification": "媒体报道",
-      "title": "阿里云巴西节点开服，Qwen 系列开源模型全球下载量突破 30 亿次",
-      "summary": "IT之家 8 月 29 日消息，8 月 28 日，阿里云宣布巴西数据中心正式启用，设有两个可用区，为企业客户及开发者提供计算、存储、数据库等云服务，企业级 AI 服务将陆续上线。这是阿里云在拉美市场的第二个地域节点，此前已于 2025 年 2 月在墨西哥上线首个拉美节点。至此， 阿里云全球基础设施达到 31 个地域、106 个可用区 。 阿里云披露，Qwen 系列开源模型全球下载量已突破 30 亿次，衍生模型超 30 万个。今年 1 至 7 月，仅 Hugging Face 一个平台下载量便达 20.45 亿次，位居全球第一。围绕智能体应用需求，阿里云…",
-      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
-      "source": "IT之家",
-      "sourceUrl": "https://www.ithome.com/0/995/847.htm",
-      "publishedAt": "08:11",
-      "relativeTime": "6 小时前"
+      "relativeTime": "7 小时前"
     },
     {
       "id": "d63f08afee62f9",
@@ -201,7 +335,7 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
       "publishedAt": "04:24",
-      "relativeTime": "10 小时前",
+      "relativeTime": "17 小时前",
       "titleZh": "Neocloud Lambda 获得 10 亿美元债务以购买更多芯片",
       "summaryZh": "Neocloud Lambda 已筹集 10 亿美元私人债务来购买 Nvidia AI 芯片并将其出租给微软。这是一系列贷款中的最新一笔，突显了人工智能热潮的高昂成本。"
     },
@@ -217,7 +351,7 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
       "publishedAt": "03:30",
-      "relativeTime": "11 小时前",
+      "relativeTime": "18 小时前",
       "titleZh": "一位Anthropic研究人员刚刚向我们展示了自我改进的人工智能",
       "summaryZh": "针对特定未对齐行为的10个基准，自动化系统能够提高每个基准的性能，而不会降低整体性能。"
     },
@@ -233,7 +367,7 @@
       "source": "OpenAI GitHub Releases",
       "sourceUrl": "https://github.com/openai/openai-python/releases/tag/v3.6.0",
       "publishedAt": "06:28",
-      "relativeTime": "8 小时前",
+      "relativeTime": "15 小时前",
       "summaryZh": "3.6.0 (2026-08-27) 功能 api：将compute_units 添加到响应和聊天完成使用 (#3749) (52421d1) 错误修复 auth：强化 X.509 工作负载身份集成 (#3740) (fc3ad6c) 杂务 deps-dev：将 @stdy/cli 从 0.22.1 提升到0.22.2 ( #3719 ) ( 4f5598c ) deps-dev…"
     },
     {
@@ -248,7 +382,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1575474.htm",
       "publishedAt": "14:08",
-      "relativeTime": "58 分钟前"
+      "relativeTime": "7 小时前"
     },
     {
       "id": "4d964367e2b6cb",
@@ -262,7 +396,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1575456.htm",
       "publishedAt": "13:50",
-      "relativeTime": "1 小时前"
+      "relativeTime": "8 小时前"
     },
     {
       "id": "9a04b9b9bdc788",
@@ -276,7 +410,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1575450.htm",
       "publishedAt": "13:43",
-      "relativeTime": "1 小时前"
+      "relativeTime": "8 小时前"
     },
     {
       "id": "883e80af1d5536",
@@ -290,7 +424,7 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
       "publishedAt": "02:19",
-      "relativeTime": "12 小时前",
+      "relativeTime": "19 小时前",
       "titleZh": "开放式人工智能公司是硅谷最热门的收购目标",
       "summaryZh": "有很多资金涌入了赠送模型的业务。"
     },
@@ -306,7 +440,7 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
       "publishedAt": "00:28",
-      "relativeTime": "14 小时前",
+      "relativeTime": "21 小时前",
       "titleZh": "特朗普的EPA希望让数据中心隐藏其空气污染",
       "summaryZh": "正如新数据中心面临邻近社区日益增长的反弹一样，美国环境保护署（ EPA ）将使人们更难权衡这些中心造成的任何污染。 美国环保署计划抛出一项联邦法规，要求公告和……"
     },
@@ -322,20 +456,20 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1575444.htm",
       "publishedAt": "04:23",
-      "relativeTime": "10 小时前"
+      "relativeTime": "17 小时前"
     }
   ],
   "trendLines": [
-    "AI 算力竞争继续转向推理能效、供应能力与整体成本。",
+    "大模型仍是今日高频主线，能力、价格与生态策略持续变化。",
     "AI 产品更新加快，能力正进入更多日常工作流。",
-    "Agent 基础设施和产品落地同步推进，行业更关注任务完成率。"
+    "AI 算力竞争继续转向推理能效、供应能力与整体成本。"
   ],
   "pendingItems": [
-    "本轮有 21 条来自可靠媒体的报道，后续将继续追踪官方确认。"
+    "本轮有 30 条来自可靠媒体的报道，后续将继续追踪官方确认。"
   ],
   "scanStats": {
     "configuredSources": 19,
     "successfulSources": 19,
-    "candidateCount": 23
+    "candidateCount": 32
   }
 }

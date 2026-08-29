@@ -2248,6 +2248,22 @@
     "e43526c5aad289cf2c9091890a2fea428e0f222b2e9c60d4f88bcd2b4ee6ee07": {
       "source": "3.6.0 (2026-08-27) Features api: add compute_units to Responses and Chat Completions usage ( #3749 ) ( 52421d1 ) Bug Fixes auth: harden X.509 workload identity integration ( #3740 ) ( fc3ad6c ) Chores deps-dev: bump @stdy/cli from 0.22.1 to 0.22.2 ( #3719 ) ( 4f5598c ) deps-dev…",
       "zh": "3.6.0 (2026-08-27) 功能 api：将compute_units 添加到响应和聊天完成使用 (#3749) (52421d1) 错误修复 auth：强化 X.509 工作负载身份集成 (#3740) (fc3ad6c) 杂务 deps-dev：将 @stdy/cli 从 0.22.1 提升到0.22.2 ( #3719 ) ( 4f5598c ) deps-dev…"
+    },
+    "d8923d25520fb73e52a64564c5aba9aa37593a294de9b876c33ac334deaeea3e": {
+      "source": "Nvidia’s AI advantage is moving beyond the GPU\nZXQSEPZXQ\nThe new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "zh": "英伟达的人工智能优势正在超越GPU\nZXQSEPZXQ\n新一代数据中心系统通过更智能的流量控制而不仅仅是更多的处理器周期来提高效率。"
+    },
+    "53037d929b1573c786f27c6804dc45f8d385c529eb611097bc5cecb0d6c29b6e": {
+      "source": "Musicians-turned-detectives are hunting for AI grifters\nZXQSEPZXQ\nAs audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kin…",
+      "zh": "音乐家出身的侦探正在寻找人工智能骗子\nZXQSEPZXQ\n随着以音频为重点的生成工具和平台变得越来越复杂，互联网越来越充斥着人工智能生成的音乐，其旋律和人声在算法上源自人类艺术家的作品。 而一些吐出这种血统的人……"
+    },
+    "470a42c1d14fad4d6a0ff71b584d339d3a8d017681dbc76ef671e09918949e67": {
+      "source": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn\nZXQSEPZXQ\nPlus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
+      "zh": "人工智能巨头警告称，网络安全启示将在“几个月内”到来\nZXQSEPZXQ\n此外：黑客瞄准了100多个美国水系统， ICE下了机器狗的订单，你永远猜不到“MrChildPorn”被捕的原因。"
+    },
+    "5711d27cc08ca15a02974c4ce4b39602322dd692d8e28aca95e5211601aaa26e": {
+      "source": "How to Run a Chatbot on Your Own Computer\nZXQSEPZXQ\nInstalling a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
+      "zh": "如何在自己的电脑上运行聊天机器人\nZXQSEPZXQ\n在您的个人电脑上安装大型语言模型可以为您提供一个方便的数字助理，不会损害您的数据隐私。"
     }
   }
 }
