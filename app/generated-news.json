@@ -1,15 +1,169 @@
 {
   "boardMeta": {
-    "generatedAt": "2026-08-30 03:25",
+    "generatedAt": "2026-08-30 13:27",
     "date": "2026年8月30日 · 星期日",
-    "edition": "清晨版",
-    "window": "北京时间今日 00:00 至 03:25",
-    "nextUpdate": "下一轮 08:15 自动更新"
+    "edition": "午后版",
+    "window": "北京时间今日 00:00 至 13:27",
+    "nextUpdate": "下一轮 16:15 自动更新"
   },
   "newsItems": [
     {
-      "id": "a07c3116b1cc16",
+      "id": "7d7b0c0965a9a3",
       "level": "头条",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "预估为 GPT-6 模型：OpenAI Astra 首批演示样本流出，1 次交互生成类 GTA 2 游戏",
+      "summary": "IT之家 8 月 30 日消息，科技媒体 testingcatalog 昨日（8 月 29 日）发布博文，报道称 OpenAI 正加快 Astra 模型发布进程， 新增 mozaik-alpha-fdm 测试阶段，从而扩大内部测试范围。 IT之家注：Astra 是 OpenAI 內部正在开发的新一代 AI 模型系列，代号延续其天体命名传统（Sol、Terra、Luna 之后），拉丁语意为“星辰”。 据《The Information》等报道，Astra 在数学、物理、生物、医学、化学与网络安全等领域展现重大突破，甚至据称已解决多个长期未解的高阶数学难题…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/996/120.htm",
+      "publishedAt": "13:25",
+      "relativeTime": "2 分钟前"
+    },
+    {
+      "id": "759e464b54a88e",
+      "level": "重要",
+      "region": "国内",
+      "category": "研究论文",
+      "verification": "媒体报道",
+      "title": "国家数据局局长刘烈宏：要围绕国民经济重大场景，研究探索词元增值订阅、按效付费等商业模式",
+      "summary": "IT之家 8 月 30 日消息，据央视新闻今日报道，在 2026 中国国际大数据产业博览会上，一批数据领域最新政策举措陆续发布，涵盖了词元、数据标注、数字人才培养等多个领域。国家数据局局长刘烈宏表示，要围绕国民经济重大场景， 研究探索词元增值订阅、按效付费等商业模式 。 词元，为人工智能服务的计量、定价、交易和结算提供了重要标尺。国家数据局负责人表示，将探索适配产业实际的词元商业模式。 数据标注， 相当于给原始数据打标签 ，标注好的数据可用来训练人工智能。国家数据局将在 32 个城市布局新一批数据标注先行先试，深入工业制造、医疗健康、交通运输等领域，破…",
+      "whyItMatters": "新研究可能改变模型能力边界，但仍需要复现、评测与同行检验。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/996/119.htm",
+      "publishedAt": "13:24",
+      "relativeTime": "3 分钟前"
+    },
+    {
+      "id": "a85f69cf4578fe",
+      "level": "重要",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "苹果 M5 Max MacBook Pro 供电边界：极限负载下每小时掉电 12%",
+      "summary": "IT之家 8 月 30 日消息，科技媒体 NotebookCheck 昨日（8 月 29 日）发布博文，测试苹果 2026 款 M5 Max 芯片 16 英寸 MacBook Pro， 发现随附的 140W 电源适配器可能无法覆盖整机峰值需求。 该媒体在测试中指出，在 Cinebench R23 多核测试与 3DMark Wild Life Extreme GPU 压力测试并行的混合负载中，M5 Max 的 CPU、GPU 封装功耗平均为 70.6W，区间为 68.0W 至 114.4W。 其中 GPU 平均功耗为 37.2W（31.552W~49.9…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/996/111.htm",
+      "publishedAt": "12:21",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "3f56f584006ab2",
+      "level": "重要",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "9 月 14 日起，Pro / Max / Team 用户 Claude Code 标准周限额永久 +25%",
+      "summary": "IT之家 8 月 30 日消息，@ClaudeDevs 今天（8 月 30 日）在 X 平台发布推文，宣布自 2026 年 9 月 14 日起，针对 Pro、Max、Team 及按席位计费企业版用户， 将 Claude Code 标准计划的“标准周限额”永久上调 25%。 IT之家附上相关截图如下： 官方表示当前正在执行的临时 50% 增幅将延续至 9 月 13 日，随后被新的永久基准取代。以“原始标准限额 = 100%”为参照：当前临时政策下用户可用额度为 150%；9 月 14 日起将调整为 125%。 该媒体指出相对于“本周仍享受 50% 增幅”…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/996/097.htm",
+      "publishedAt": "11:02",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "0e1e11daeab5f8",
+      "level": "重要",
+      "region": "国内",
+      "category": "政策监管",
+      "verification": "媒体报道",
+      "title": "“史上最大规模版权盗窃”：Anthropic 被指侵权训练 Claude AI，单曲最高索赔 15 万美元",
+      "summary": "IT之家 8 月 30 日消息，科技媒体 Music Business Worldwide 昨日（8 月 29 日）发布博文，报道称索尼音乐出版（Sony Music Publishing）与华纳查佩尔音乐（Warner Chappell Music）起诉 Anthropic 及其两位联合创始人，指控其未经授权抓取、下载并使用“数万部”受版权保护的音乐作品歌词，用于训练 Claude 系列 AI 模型。 索尼音乐出版是全球最大的音乐出版公司 ，隶属于索尼娱乐（Sony Entertainment），负责管理全球最庞大的歌曲版权曲库之一。 华纳查佩尔音乐…",
+      "whyItMatters": "监管与司法判例会直接改变模型训练、产品上线和企业合规成本。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/996/095.htm",
+      "publishedAt": "10:54",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "0783c176003327",
+      "level": "关注",
+      "region": "国内",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "iOS 27 版 Siri AI 上线前，苹果 CarPlay 已接入 4 个第三方 AI 应用",
+      "summary": "IT之家 8 月 30 日消息，科技媒体 9to5Mac 昨日（8 月 29 日）发布博文，报道称在苹果 Siri AI 上线之前， 苹果车联方案 CarPlay 目前已接入支持 4 款 AI 聊天机器人。 IT之家援引博文介绍，苹果自 iOS 26.4 起支持对话类应用接入 CarPlay，计划在今年 9 月推出 iOS 27 后，将 Siri AI 纳入该平台。 最新消息称继 ChatGPT、Perplexity、Grok 之后，苹果 CarPlay 界面出现 Meta AI，成为第 4 款接入 CarPlay 的第三方 AI 聊天机器人应用。 此…",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/996/057.htm",
+      "publishedAt": "07:11",
+      "relativeTime": "6 小时前"
+    },
+    {
+      "id": "eb0bc1242835c6",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
+      "summary": "IT之家 8 月 30 日消息，科技媒体 9to5Mac 昨日（8 月 29 日）报道，苹果计划最早 2027 年推出其首款 AI 智能眼镜，预估会在 2027 年全球开发者大会（WWDC27）上面向开发者公布，并在当年晚些时候出货。 发布节奏方面，该媒体梳理现有爆料信息，认为苹果公司可能会在明年 6 月召开的 WWDC27 期间，面向开发者推出其首款 AI 智能眼镜，邀请开发者提前适配相关软件与服务，产品最早可能于 2027 年 9 月发售。 定位方面，该产品并非增强现实（AR）眼镜，预估不带镜片显示系统，因此不会在用户视野中直接叠加数字画面。该产品…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/996/053.htm",
+      "publishedAt": "06:44",
+      "relativeTime": "6 小时前"
+    },
+    {
+      "id": "549cf164cdd32b",
+      "level": "关注",
+      "region": "国内",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "谷歌确认开发 WSL 支持：Antigravity 将直连 Win11 Linux 环境",
+      "summary": "IT之家 8 月 30 日消息，科技媒体 Windows Latest 昨日（8 月 29 日）发布博文，报道称 谷歌计划为其 AI 编程智能体工具 Antigravity 扩展支持 WSL ，完善对 Windows 10、Windows 11 系统原生支持。 IT之家注：WSL 全称是 The Windows Subsystem for Linux，不需要安装双系统，可以让用户在 Windows 平台上调用 Linux 命令行、软件包与开发工具。 在已落地的产品侧，GitHub Copilot 桌面端于 8 月 26 日宣布实验性支持 WSL。用户可…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/996/081.htm",
+      "publishedAt": "09:37",
+      "relativeTime": "3 小时前"
+    },
+    {
+      "id": "b4f2cb53a4ed88",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%",
+      "summary": "IT之家 8 月 30 日消息，科技媒体 WccfTech 昨日（8 月 29 日）发布博文，根据美国证券交易委员会（SEC）公示文件，台积电 2026 年第二季度公司计入员工的利润分享与奖金约 360 亿新台币 （IT之家注：现汇率约合 76.46 亿元人民币） ， 较 2025 年同期（240 亿新台币 （现汇率约合 50.98 亿元人民币） ）增加 120 亿新台币 （现汇率约合 25.49 亿元人民币） ，同比增幅为 50.6%。 IT之家查询公开资料，台积电在 2024 年年底公开披露数据，台积电及其子公司员工总数达 84,512 人。 受…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/996/073.htm",
+      "publishedAt": "08:55",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "cac8b3b6eb0743",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "Digitimes 称 M6 是苹果 2nm 探路先锋，服务 A20 Pro 芯片量产落地",
+      "summary": "IT之家 8 月 30 日消息，行业科技媒体 DigiTimes 于 8 月 28 日发布博文，报道称 M6 芯片作为苹果首款 2 纳米芯片发布，更主要承担台积电 2 纳米制程的低量验证任务，而 A20 Pro 则是成为拉动 2 纳米产能利用的重要产品。 作为苹果首款 2 纳米芯片，M6 采用 12 核 CPU 设计，较 M5 增加 2 个核心，由 2 个超级核心、4 个性能核心和 6 个能效核心构成 ；GPU 同为 12 核，比 M5 增加 2 核，每个 GPU 核心配备神经网络加速器。M6 另采用双 16 核神经网络引擎，最高支持 32GB 统一内…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/996/071.htm",
+      "publishedAt": "08:33",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "7598a341798fba",
+      "level": "关注",
+      "region": "国内",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "中塞联合建设机器人工厂投产，成为欧洲首座人形机器人量产基地",
+      "summary": "IT之家 8 月 30 日消息，据央视新闻报道，当地时间 29 日，塞尔维亚首座机器人工厂在该国西部城市沙巴茨正式投产。这座由中塞联合建设的工厂， 也是欧洲首座人形机器人量产基地 。塞尔维亚总统武契奇当天在出席机器人工厂投产仪式时表示，这是塞尔维亚迈向未来的重要一步。 工厂投产当天，生产的首台人形机器人正式下线。塞尔维亚总统武契奇与人形机器人进行互动。机器人还现场展示了中国书法、整理衣物、下棋、跳舞等多种功能。 武契奇指出，人形机器人生产为塞尔维亚开辟了新的技术发展领域。塞方希望将机器人制造与人工智能、超级计算机和数据中心等产业相结合，带动当地人才培养…",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/996/102.htm",
+      "publishedAt": "11:28",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "a07c3116b1cc16",
+      "level": "关注",
       "region": "海外",
       "category": "政策监管",
       "verification": "媒体报道",
@@ -19,13 +173,55 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
       "publishedAt": "02:41",
-      "relativeTime": "43 分钟前",
+      "relativeTime": "10 小时前",
       "titleZh": "索尼音乐，华纳起诉Anthropic ，指控知识产权盗窃的“厚颜无耻的活动”",
       "summaryZh": "这起最新的诉讼尤其广泛，涉及非法盗版的指控。"
     },
     {
+      "id": "9ef96b47a35f7b",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "极狐阿尔法 T7 预售 72 小时订单突破 3 万台，新车搭载华为乾崑智驾 ADS 5 Pro",
+      "summary": "IT之家 8 月 30 日消息，ARCFOX 极狐宣布，旗下“智美 AI 越级大五座 SUV”新车 —— 极狐阿尔法 T7 预售 72 小时订单突破 30,000 台 。 据IT之家此前报道， 极狐阿尔法 T7 提供增程、纯电两种动力 ，集结华为乾崑智驾 ADS 5 Pro、全系宁德时代电池、麦格纳百年制造工艺三大行业顶级资源，预售补贴价区间为 13.78 万-17.48 万元。 新车搭载全球首款 5G 4nm 车规级芯片，以及 1.1 米超宽全景 P-HUD，支持导航、驾驶、娱乐个性化组合；全系采用宁德时代品牌电芯，纯电版搭载 84.8kWh 电池包…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/996/067.htm",
+      "publishedAt": "08:14",
+      "relativeTime": "5 小时前"
+    },
+    {
+      "id": "cf7ecfa5beea8d",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "少 1 个展开步骤：部分谷歌搜索测试默认进入 AI 模式，下移传统蓝链搜索结果",
+      "summary": "IT之家 8 月 30 日消息，搜索行业媒体 Search Engine Roundtable 于 8 月 28 日报道， 谷歌搜索正测试将 AI 概览直接扩展为更接近 AI Mode 的回答界面。 与此前仅展示简短摘要、由用户点击“展开”后查看完整内容的方式相比，测试版本会在部分查询中默认加载较长的 AI 回答，并同时打开“尽情提问”（Ask anything）追问框。IT之家附上现有相关查询界面如下： 当前 AI 概览界面 该媒体指出这项变化，导致进一步下移传统带“蓝色链接”的自然搜索结果，现阶段可确认的是界面层级发生变化，尚不能据此量化对网站访问…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/996/062.htm",
+      "publishedAt": "07:45",
+      "relativeTime": "5 小时前"
+    },
+    {
+      "id": "419cb405c97f44",
+      "level": "关注",
+      "region": "国内",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "荣耀 Magic8 系列手机首发的 AI 追色功能迎升级，新增支持类“调色盘”新玩法",
+      "summary": "IT之家 8 月 30 日消息，据荣耀研发工程师 @荣耀曹工 分享，荣耀 Magic8 系列手机上首发的 AI 追色功能， 云端算法一直在持续升级 。 他透露， AI 追色的调节功能最近还上线了一个类似“调色盘”的新玩法 ，可以分“影调”和“颜色”来调整等级。另外，随着 OS 大版本和新产品推进，相机和图库在功能和设计上也一直在持续迭代上线。 IT之家了解到，去年 9 月，荣耀官宣与高通联合研发的高效能端侧 AI 模型方案，带来了新一代向量化检索技术，以及更准确高效的端侧多模态感知能力。用户只需一句话驱动智能体，就可以实现“检索目标图片、关键色提取、对…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/996/058.htm",
+      "publishedAt": "07:18",
+      "relativeTime": "6 小时前"
+    },
+    {
       "id": "160a511db123aa",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -35,13 +231,13 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
       "publishedAt": "01:36",
-      "relativeTime": "1 小时前",
+      "relativeTime": "11 小时前",
       "titleZh": "“我们每年不下30个赌注” ： Vijay Pande在a16z下注40亿美元后下了小赌注$",
       "summaryZh": "维贾伊·潘德（ Vijay Pande ）去年离开了a16z约40亿美元的生物技术实践，开始了规模小得多的人工智能原生VZVC ，他谈到了为什么生物学最终从“发现”科学转变为“工程”科学，为什么临床试验仍然非常昂贵，以及为什么他......"
     },
     {
       "id": "202512972a826b",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "政策监管",
       "verification": "媒体报道",
@@ -51,7 +247,7 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
       "publishedAt": "02:19",
-      "relativeTime": "1 小时前",
+      "relativeTime": "11 小时前",
       "titleZh": "索尼音乐和华纳查普尔起诉Anthropic",
       "summaryZh": "索尼音乐和华纳查普尔已向美国加利福尼亚州北区地方法院提起诉讼，要求赔偿“数万”受版权保护的作品。 这些公司要求每件作品最高收费$ 150,000 ，每件作品最高收费$ 25,000……"
     },
@@ -67,7 +263,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1575510.htm",
       "publishedAt": "00:38",
-      "relativeTime": "2 小时前"
+      "relativeTime": "12 小时前"
     },
     {
       "id": "1397ef5cfe04b1",
@@ -81,7 +277,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/game/1575520.htm",
       "publishedAt": "02:53",
-      "relativeTime": "32 分钟前"
+      "relativeTime": "10 小时前"
     },
     {
       "id": "63be8bc1f0a9b9",
@@ -95,7 +291,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/music/1575518.htm",
       "publishedAt": "02:52",
-      "relativeTime": "32 分钟前"
+      "relativeTime": "10 小时前"
     },
     {
       "id": "7a147b36ac1a91",
@@ -109,7 +305,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1575514.htm",
       "publishedAt": "00:48",
-      "relativeTime": "2 小时前"
+      "relativeTime": "12 小时前"
     },
     {
       "id": "509b27a1213b1c",
@@ -123,20 +319,20 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1575512.htm",
       "publishedAt": "00:47",
-      "relativeTime": "2 小时前"
+      "relativeTime": "12 小时前"
     }
   ],
   "trendLines": [
     "AI 产品更新加快，能力正进入更多日常工作流。",
-    "AI 治理进入更具体的规则与执行阶段，合规边界继续收紧。",
-    "AI 算力竞争继续转向推理能效、供应能力与整体成本。"
+    "AI 算力竞争继续转向推理能效、供应能力与整体成本。",
+    "AI 治理进入更具体的规则与执行阶段，合规边界继续收紧。"
   ],
   "pendingItems": [
-    "本轮有 8 条来自可靠媒体的报道，后续将继续追踪官方确认。"
+    "本轮有 22 条来自可靠媒体的报道，后续将继续追踪官方确认。"
   ],
   "scanStats": {
     "configuredSources": 19,
     "successfulSources": 19,
-    "candidateCount": 8
+    "candidateCount": 22
   }
 }
