@@ -2384,6 +2384,10 @@
     "198f915ae1f10e0a48b8d8f214d2747bee6b97c4492c720e6199ecb9c243f48f": {
       "source": "BLOOM-WILT: Logit Tilting for Behaviour Elicitation in Automated LLM Auditing\nZXQSEPZXQ\nUsers of a deployed language model routinely encounter behaviours that testing almost never surfaces, since deployment puts the model through orders of magnitude more interactions than any evaluation can simulate. Automated auditors make testing cheap to scale and flexible enoug…",
       "zh": "BLOOM-WILT ：自动LLM审计中行为引发的逻辑倾斜\nZXQSEPZXQ\n部署语言模型的用户通常会遇到几乎从未出现过的测试行为，因为部署使模型经历了比任何评估都能模拟的数量级交互。 自动化审核员使测试成本便宜到可扩展和灵活的程度……"
+    },
+    "7787b1a66662012adaf4b6db51add2e098bd0e737a48ae5edc62fc8bfa489323": {
+      "source": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower\nZXQSEPZXQ\nNvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX…",
+      "zh": "英伟达备受争议的DLSS 5将于9月3日上市，需要强大的GPU马力\nZXQSEPZXQ\nNvidia本周正式推出DLSS 5 ，此前在3月份的一次分裂性声明中，我们将AI升级技术比作“视频游戏的实时生成AI过滤器”和“视频游戏的运动平滑，但更糟糕”。 DLSS 5将在腾讯通上正式推出……"
     }
   }
 }
