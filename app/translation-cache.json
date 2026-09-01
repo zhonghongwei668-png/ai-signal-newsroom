@@ -2312,6 +2312,78 @@
     "c35e9d7717c8d7c0664dc677543064c918d7b33a42694d0bf03889b8dd8bb567": {
       "source": "Clipto uses AI to search terabytes of video and is now valued at $250M\nZXQSEPZXQ\nThe three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
       "zh": "Clipto使用人工智能搜索TB级视频，目前价值2.5亿美元（ $ ）\nZXQSEPZXQ\n这家成立三年的初创公司表示，它在ARR和盈利能力方面达到了$ 1500万，然后筹集了最新的$ 1500万。"
+    },
+    "eff7e3f30395d9590e721d7dc53890906a58d6a82f7ac9c0e56f20c762ca96a9": {
+      "source": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI\nZXQSEPZXQ\nApple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "zh": "苹果分享被指控窃取OpenAI公司数据的前员工的“令人震惊的证据”\nZXQSEPZXQ\n苹果公司表示，有证据表明，一名前员工在得知自己正在接受调查后，销毁了数据被盗的证据。"
+    },
+    "b0bf0a0757e23d346035d88e5c81141a9e057d4527f8973ba1b837bccc2069e6": {
+      "source": "The Hugging Face hack could indicate cultural issues at OpenAI\nZXQSEPZXQ\nThis story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the…",
+      "zh": "Hugging Face黑客攻击可能表明OpenAI存在文化问题\nZXQSEPZXQ\n这个故事最初出现在我们的人工智能每周通讯《算法》上。 要先在收件箱中获取此类故事，请在此处注册。 到目前为止，您可能已经听说过上个月发生的重大人工智能安全事件，其中OpenAI特工逃离了他们的沙箱并入侵了……"
+    },
+    "96bd92864f93f18c05fdeaaee242ef585de695b75e8159e17052c3cf74583816": {
+      "source": "Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification\nZXQSEPZXQ\nThe 2025--2026 AI market has seen a wave of stealth releases: frontier models launched anonymously on developer platforms under codenames. For their users, identity determines data-handling terms, supply-chain risk, and capability expectations. No validated methodology exists fo…",
+      "zh": "审核匿名AI模型：黑盒身份验证的四阶段协议\nZXQSEPZXQ\n2025-2026年人工智能市场出现了一波隐形发布：前沿模型以代号在开发者平台上匿名推出。 对于他们的用户来说，身份决定了数据处理条款、供应链风险和能力预期。 不存在任何经过验证的方法论……"
+    },
+    "fac73724e5d5ebae565b26d8eb2e5122a2bd19646e632d4bf744a5728a0d3b1c": {
+      "source": "Context-Aware Interleaved Batching for WhisperX\nZXQSEPZXQ\nWhile WhisperX accelerates speech transcription via intra-audio batching, it isolates audio segments, losing the historical context needed for coherent punctuation and terminology transcription. Conversely, standard Whisper retains context sequentially but suffers from slow infe…",
+      "zh": "WhisperX的上下文感知交错批处理\nZXQSEPZXQ\n虽然WhisperX通过音频内批处理加速语音转录，但它隔离了音频片段，失去了连贯的标点符号和术语转录所需的历史背景。 相反，标准Whisper按顺序保留上下文，但存在缓慢的缺陷……"
+    },
+    "aa5ec181269caf7085383fa6da4b1ca6ff46b5c1a15ad64634a5e29c6521ed4e": {
+      "source": "Constant Individual Regret in General Games\nZXQSEPZXQ\nUncoupled no-regret dynamics provide a decentralized route to equilibrium, but prior guarantees for individual regret retain a polylogarithmic dependence on the horizon. We remove this dependence for every finite $N$-player normal-form game under full-information feedback. We in…",
+      "zh": "一般游戏中持续的个人悔恨\nZXQSEPZXQ\n非耦合的无悔动态为平衡提供了分散的途径，但事先对个人遗憾的保证保留了对地平线的多元对数依赖。 我们在全信息反馈下删除每个有限的$ N $玩家正常形式游戏的依赖关系。我们在……"
+    },
+    "0fb792945672217570bdd8fd40be929f9f1054f8c0d8854c924fab8117010702": {
+      "source": "SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies\nZXQSEPZXQ\nBridging model-based control and learned policies in long-horizon manipulation has harbored a silent disagreement: control executes specified objectives, learning amortizes that behavior into a reactive policy, yet existing protocols discard task semantics, leaving rewards hand-…",
+      "zh": "SUN ：基于语言的控制到学习到现实政策的持久性程序\nZXQSEPZXQ\n在长时间操纵中桥接基于模型的控制和学习策略存在无声的分歧：控制执行指定的目标，学习将这种行为分解为被动策略，但现有的协议放弃了任务语义，留下了奖励……"
+    },
+    "b4d84bee5881c79171a03637c6af7578c0c9c3833794d0ff873981ea7e0fff99": {
+      "source": "Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations\nZXQSEPZXQ\nMany parameter-efficient methods generate the parameters of a large neural network from a low-dimensional latent representation. Given an architecture $Φ$ with $P_Φ$ parameter slots, we write $\\boldsymbolθ_f=\\mathcal{G}(\\boldsymbolξ_f)$, where $\\mathcal{G}\\colon\\mathbb{R}^M\\to\\m…",
+      "zh": "具有仿射潜伏参数的神经网络的尖锐近似率\nZXQSEPZXQ\n许多参数高效的方法从低维潜在表示生成大型神经网络的参数。 给定一个带有$ P_Φ $个参数槽的架构$ Φ $ ，我们写$\\ boldsymbolθ_f =\\ mathcal {G} (\\ boldsymbol_f) $ ，其中$\\ mathcal {G}\\ colon\\ mathbb {R} ^ M\\ to\\ m…"
+    },
+    "f2a899a9e1f09fc0f38fa00685f8703874d99c26379cadf5a1f78e2012801183": {
+      "source": "Configurable Semantic Chunking for Biomedical Information Extraction in Retrieval-Augmented Generation\nZXQSEPZXQ\nBioMedRAG introduced retrieval-augmented generation with a learned chunk scorer for biomedical information extraction. However, it relies on fixed-size chunking which can fragment semantic evidence. We propose a configurable semantic chunking framework that addresses this limita…",
+      "zh": "用于检索增强生成中生物医学信息提取的可配置语义分块\nZXQSEPZXQ\nBioMedRAG引入了具有用于生物医学信息提取的学习块评分器的检索增强生成。 然而，它依赖于固定大小的分块，这可以分割语义证据。 我们提出了一个可配置的语义分块框架，以解决这一局限性……"
+    },
+    "2756f25bf9fc93adb9cff7019d2b9efb23dc4c67e2225ef370b6a2c6c96919ae": {
+      "source": "OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques\nZXQSEPZXQ\nOntology alignment (OA) has evolved through several methodological paradigms, ranging from lexical and structural aligners to knowledge graph embedding (KGE) models and, more recently, Large Language Model (LLM)-based approaches. Although modern OA frameworks provide unified eco…",
+      "zh": "OntoAligner-Ensemble ：跨异构本体对齐技术的基于投票的融合\nZXQSEPZXQ\n本体对齐（ OA ）已经通过几种方法论范式发展，从词汇和结构对齐器到知识图嵌入（ KGE ）模型，以及最近基于大语言模型（ LLM ）的方法。 虽然现代OA框架提供了统一的生态……"
+    },
+    "32e243e87d3ea5f9832dc9b00d90aff547cd32b890b5eeedc1918cb334449236": {
+      "source": "Implementing neural network mixed-effects models in Template Model Builder (TMB)\nZXQSEPZXQ\nNeural network mixed-effects models (NMMs) have gained traction by combining the strong representation and predictive power of artificial neural networks with the capacity of mixed-effects modeling to capture complex correlation structures. However, existing estimation approache…",
+      "zh": "在模板模型生成器(TMB)中实现神经网络混合效果模型\nZXQSEPZXQ\n神经网络混合效应模型（ NMM ）通过将人工神经网络的强大表示和预测能力与混合效应建模捕获复杂相关结构的能力相结合而获得了牵引力。 然而，现有的估计方法……"
+    },
+    "05cf4a833016edbfd96997af5d03918fedfa12a1622d33d819be6fbae671319c": {
+      "source": "DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening\nZXQSEPZXQ\nLarge language models (LLMs) offer promising clinical decision support but remain vulnerable to hallucinated facts, unsupported recommendations, and citation errors. We present DIASENTINEL, a fully on-premise multi-agent system for one-year type 2 diabetes mellitus (T2DM) risk s…",
+      "zh": "DIASENTINEL ：用于基于指南的糖尿病风险筛查的可审核多药剂系统\nZXQSEPZXQ\n大型语言模型（ LLM ）提供了有希望的临床决策支持，但仍然容易受到幻觉事实、不受支持的建议和引用错误的影响。 我们推出了DIASENTINEL ，这是一个完全内部部署的多药系统，用于治疗为期一年的2型糖尿病（ T2DM ）风险……"
+    },
+    "a7bb34746a9f7cac28835a4b2f2b4e0d67a0f0d815e189a0758eb6e67b6cbc38": {
+      "source": "On the Complexity of the Compatibility Problem for Succinctly Encoded Conditional Distributions\nZXQSEPZXQ\nThe motivation for this paper is the investigation of the trade-offs implicit in probabilistic models used in machine learning. Models are often used to make predictions in the form of conditional probabilities. However, a pair of conditional distributions p(x|y) and p(y|x) may…",
+      "zh": "简洁编码条件分布兼容性问题的复杂性\nZXQSEPZXQ\n本文的动机是研究机器学习中使用的概率模型中隐含的权衡。 模型通常用于以条件概率的形式进行预测。 然而，一对条件分布p (x | y)和p (y | x)可以…"
+    },
+    "3daf48473f369a8e6b171d018a6a8de9ce9a3d76bc5985d1c2b9f9e563d1276b": {
+      "source": "PaperGym: Rubric-Centered Evolution for Research-Plan Generation\nZXQSEPZXQ\nResearch planning is the decisive capability of AI scientists. Yet a research plan admits no verifiable answer, so reinforcement learning lacks the environment it requires: tasks paired with a critic. Rubrics extracted from scientific papers can supply the critic. Existing pipel…",
+      "zh": "PaperGym ：以细则为中心的研究计划生成演变\nZXQSEPZXQ\n研究计划是人工智能科学家的决定性能力。 然而，研究计划没有可验证的答案，因此强化学习缺乏所需的环境：任务与批评者配对。 从科学论文中提取的评分细则可以提供给评论家。现有的管道…"
+    },
+    "9cc758717eabb7c140c79a4550b4d0352f1211bf14963151390a7fb91f03d498": {
+      "source": "When Does Bigger Help? A Controlled Study of LLM Scale for Ontology Learning\nZXQSEPZXQ\nThe effect of Large Language Model (LLM) scale on ontology learning (OL) performance remains insufficiently characterized. We present a controlled evaluation of 13 models spanning dense and Mixture-of-Experts variants from the Qwen3.5 and Qwen3.6 lineages, together with propriet…",
+      "zh": "什么时候更大的帮助？ 本体学习法学硕士量表的对照研究\nZXQSEPZXQ\n大语言模型（ LLM ）量表对本体学习（ OL ）性能的影响仍未得到充分表征。 我们对Qwen3.5和Qwen3.6谱系中跨越密集和专家混合的13个模型进行了受控评估，以及专有..."
+    },
+    "f684f21742c2137c2f09c313692ca10f5cafee53882759d6a426a78b7c2338b9": {
+      "source": "\"Train classical, deploy quantum\" requires rethinking generalization\nZXQSEPZXQ\nGenerative models have become central across science and industry, from image and text synthesis to the design of molecules and materials. Quantum generative models are considered one of the most promising applications for quantum computers, since a quantum circuit naturally pro…",
+      "zh": "“训练经典，部署量子”需要重新思考泛化\nZXQSEPZXQ\n生成模型已成为科学和工业的核心，从图像和文本合成到分子和材料的设计。 量子生成模型被认为是量子计算机最有前途的应用之一，因为量子电路天生就…"
+    },
+    "6e62dd2cb04240bfe39fb037d558a01cf398b3710591bfd311a0c972d7a6e554": {
+      "source": "Aspire: Can Models Self-Evolve from Vague Goals?\nZXQSEPZXQ\nMany important forms of human learning begin with a vague goal, such as \"become a better physicist\" or \"improve at research.\" Learners must interpret the goal, identify capability gaps, decide how to learn, and determine whether they have actually improved. In contrast, existing…",
+      "zh": "Aspire ：模型能否从模糊的目标中自我进化？\nZXQSEPZXQ\n人类学习的许多重要形式都是从一个模糊的目标开始的，比如“成为一个更好的物理学家”或“提高研究水平”。 学员必须解释目标，识别能力差距，决定如何学习，并确定他们是否真的得到了改善。相比之下，现有的……"
+    },
+    "3172373fa7851ad017baa7018eb9666ac3fd6bf04320493c3eac8c6abcbf0c47": {
+      "source": "Stress-Testing Efficient Responsible-AI Evaluation: When Compute Savings Change Benchmark Conclusions\nZXQSEPZXQ\nEfficient evaluation changes the protocol used to support claims about model behavior, yet it is rarely tested whether those claims remain stable after the evaluation itself is made cheaper. We stress-test conclusion robustness in responsible-AI benchmarking by evaluating three…",
+      "zh": "压力测试高效的Responsible-AI评估：当计算节约改变基准结论时\nZXQSEPZXQ\n高效评估改变了用于支持模型行为主张的协议，但在评估本身变得更便宜之后，很少测试这些主张是否保持稳定。 我们通过评估三种……来对负责任的人工智能基准测试的结论鲁棒性进行压力测试"
+    },
+    "198f915ae1f10e0a48b8d8f214d2747bee6b97c4492c720e6199ecb9c243f48f": {
+      "source": "BLOOM-WILT: Logit Tilting for Behaviour Elicitation in Automated LLM Auditing\nZXQSEPZXQ\nUsers of a deployed language model routinely encounter behaviours that testing almost never surfaces, since deployment puts the model through orders of magnitude more interactions than any evaluation can simulate. Automated auditors make testing cheap to scale and flexible enoug…",
+      "zh": "BLOOM-WILT ：自动LLM审计中行为引发的逻辑倾斜\nZXQSEPZXQ\n部署语言模型的用户通常会遇到几乎从未出现过的测试行为，因为部署使模型经历了比任何评估都能模拟的数量级交互。 自动化审核员使测试成本便宜到可扩展和灵活的程度……"
     }
   }
 }
