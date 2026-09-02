@@ -2432,6 +2432,54 @@
     "0310da52df78293170367bb81043568f3f8377eaf0d3324dd580c16feb8e2936": {
       "source": "1.3.0 (2026-09-01) Full Changelog: v1.2.0...v1.3.0 Features api: beta user profiles: add external_user_onboarded_at, remove relationship in favor of access_type ( 74080c3 ) api: manual updates ( 1dc3ce0 ) api: organization compliance settings, user-profile order_by, memory-store…",
       "zh": "1.3.0 (2026-09-01)完整更新日志： v1.2.0... v1.3.0功能api: beta用户配置文件：添加external_user_onboarded_at ，删除关系以支持access_type (74080c3) api:手动更新(1dc3ce0) api:组织合规性设置、用户配置文件order_by、内存存储…"
+    },
+    "6d388ba13abda2451319f77fb102efaff606213cb6a95e0eab9811efe66125c0": {
+      "source": "The latest AI news we announced in August 2026\nZXQSEPZXQ\nTransitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\"",
+      "zh": "我们在2026年8月宣布的最新人工智能新闻\nZXQSEPZXQ\n转场卡： 1. Gemini标识图标旁边的文字“Gemini 3.7 Flash” ； 2.像素手机照片； 3. 文字上方的Google Gemini徽标“免费申请1年学生计划”"
+    },
+    "4c421479150bee938fe63895e1e01c53ffc3832c18941d9d73efc2a2370f8005": {
+      "source": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier\nZXQSEPZXQ\n“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce Crowd…",
+      "zh": "NVIDIA和CrowdStrike强化代理网络安全前沿\nZXQSEPZXQ\n“我们正处于网络安全的拐点，” Jensen Huang周二在拉斯维加斯举行的CrowdStrike's Fal.Con 2026上对一群售罄的人说。 攻击现在是自动的。 防御也必须如此。 NVIDIA创始人兼首席执行官加入CrowdStrike首席执行官兼创始人George Kurtz ，宣布Crowd..."
+    },
+    "767314c52d18208c5da11437007f6888f76b5b8eef013d044da7b3b65f3642b2": {
+      "source": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems\nZXQSEPZXQ\nOpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "zh": "OpenAI的Astra模型即将推出—并且非常擅长入侵计算机系统\nZXQSEPZXQ\nOpenAI预览了它在准备发布其最新的网络关键法学硕士Astra时采取的预防措施。"
+    },
+    "c476bd4634daf97cf270eb9301747d8e160653637b0c2980b65e1e0ed13de7ac": {
+      "source": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work\nZXQSEPZXQ\nAnthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and…",
+      "zh": "Anthropic推出Claude寓言5.1 ，并表示代理工作成本低至45 ％\nZXQSEPZXQ\nAnthropic表示，其最新的人工智能模型Fable 5.1和Mythos 5.1解决了客户对价格、数据保留和过度保护的批评。 该公司声称Claude Fable 5.1提供比Fable 5更强的性能，但通常成本降低约25 ％ ，并且......"
+    },
+    "12167eb759e390b62b1d83743f2be5d29381ab83455dd56bee9a679ba2ed8194": {
+      "source": "BenchMIRT: What are LLM benchmarks actually measuring?\nZXQSEPZXQ\nBenchMIRT: What are LLM benchmarks actually measuring?。",
+      "zh": "BenchMIRT ： LLM基准实际衡量的是什么？\nZXQSEPZXQ\nBenchMIRT ： LLM基准实际衡量的是什么？。"
+    },
+    "d79699bf39af4ee7a6d5c1bfdb37ed9d6103b52469736e7c8e95c7ed8e426062": {
+      "source": "OpenAI delayed its new model’s development after the Hugging Face hack\nZXQSEPZXQ\nAfter an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model…",
+      "zh": "Hugging Face黑客攻击后， OpenAI推迟了其新模型的开发\nZXQSEPZXQ\n该公司周二在一篇博客文章中写道，在未发布的OpenAI模型造成了足够大的破坏，成为国际头条新闻之后， OpenAI推迟了另一个未发布的模型套件Astra的开发，以加强其安全工作。 7月，未发布的OpenAI模型……"
+    },
+    "becdbdd4363371d4e87987b1a5bb91e59ad5d1e5eff2e44c262b15299c2f2bbc": {
+      "source": "Anthropic’s new Fable release is cheaper, less restrictive\nZXQSEPZXQ\nFable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+      "zh": "Anthropic新发布的寓言更便宜，限制更少\nZXQSEPZXQ\n寓言5.1包括旨在降低代币成本和模型保护措施误报限制的变化。"
+    },
+    "463354aa68ba7176e1d0746c4667aa66c5682b563b80917330d3f893c27fb863": {
+      "source": "3.7.0 (2026-09-02) Features api: update usage APIs and documentation ( #3779 ) ( 6f0da16 ) Bug Fixes avoid repeated numpy checks for embeddings ( #3757 ) ( b19c216 )",
+      "zh": "3.7.0 (2026-09-02)功能api ：更新使用API和文档(# 3779) (6f0da16)错误修复避免嵌入的重复numpy检查(# 3757) (b19c216)"
+    },
+    "fde8eb7b324c19b9e9c106aa874cccfa179505f9b37c343ebc2cd8efc79380a4": {
+      "source": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B\nZXQSEPZXQ\nAI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+      "zh": "据报道， AfterQuery成为Y Combinator有史以来最快的独角兽，目前估值为$ 32亿\nZXQSEPZXQ\n据报道，人工智能模型培训初创公司AfterQuery在4月份以3亿美元的估值宣布其3000万美元的A轮融资后仅五个月就完成了一轮融资，估值为32亿美元。"
+    },
+    "80cd2157648cac9ec1ae743a1e9b1d2798d2d81c73bdb7a4ade4d158b579ed2f": {
+      "source": "Google needs Hollywood more than the studios need AI\nZXQSEPZXQ\nGoogle has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge f…",
+      "zh": "谷歌对好莱坞的需求超过工作室对人工智能的需求\nZXQSEPZXQ\n据报道，谷歌一直在与好莱坞一些最大的工作室联系，希望达成许可协议，允许它在受版权保护的材料上训练其人工智能模型，以换取大量现金。 从理论上讲，这些交易将是双赢的：一个巨大的..."
+    },
+    "1799652643e3274fd88008a8061fa47a6dd0203d307c1768a5fe836fb9c53b1a": {
+      "source": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities\nZXQSEPZXQ\nThe company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
+      "zh": "OpenAI即将发布其首个具有“关键”网络能力的人工智能模型\nZXQSEPZXQ\n该公司将为选定的合作伙伴提供对其Astra AI模型的早期访问权限，以便他们有时间加强防御。"
+    },
+    "55472c4de042c2775844fd0633a15e88a7ed9919cdf5491e74e053ce5598a57d": {
+      "source": "Google’s Android update tackles motion sickness, accessibility, and more\nZXQSEPZXQ\nWhile some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+      "zh": "谷歌的Android更新可解决晕车、无障碍等问题\nZXQSEPZXQ\n虽然其中一些功能让谷歌追赶苹果，苹果已经为iPhone用户提供了类似的功能，但其他功能则专门利用Gemini提供各种改进。"
     }
   }
 }
