@@ -2532,6 +2532,50 @@
     "e1d8e71998d1aea608618f754352381580ddc49039447dc1a0001d15ec095829": {
       "source": "India’s richest man now wants to turn aging computers into AI-ready PCs\nZXQSEPZXQ\nJio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
       "zh": "印度首富现在希望将老旧的计算机转变为AI就绪的个人电脑\nZXQSEPZXQ\nJio打赌，它可以在两个月内将一台老化的电脑变成一台只需11 $的人工智能电脑。"
+    },
+    "f333c014c7e504c0149d6bf4a931b869d4e9ee41370bfcd451cdccd61dc1a4dd": {
+      "source": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing\nZXQSEPZXQ\nThe company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+      "zh": "Meta将新的人工智能代理推向员工，但放松了Tokenmaxxing\nZXQSEPZXQ\n该公司正在减少工人使用人工智能工具的压力，同时鼓励他们尝试Hatch ，这是迄今为止最先进的人工智能项目。"
+    },
+    "bb1a07e2330bb356b998a194b7317800200de5e2361306efa6673185a24388cc": {
+      "source": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026\nZXQSEPZXQ\nThe Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+      "zh": "Builders Stage带来了将初创公司扩展到TechCrunch Disrupt 2026的实用策略\nZXQSEPZXQ\nBuilders Stage将重返TechCrunch Disrupt ，将创始人、创业运营商和投资者聚集在一起，就构建和扩展所需的内容进行实际对话。"
+    },
+    "739816de1741c14e223170075b7213b1f01ef3a84e5e4be9a8a6fc74af6c757e": {
+      "source": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say\nZXQSEPZXQ\nThe acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "zh": "消息人士称， Palo Alto Networks为Thrive支持的控制台支付了5亿$\nZXQSEPZXQ\n行业观察人士认为，此次收购还使红杉支持的Serval成为人工智能IT服务自动化领域事实上的创业领导者。"
+    },
+    "3e9e93f1228880718ed36517a056bc3b9c07c34eca1c4381370ad20e680ad12a": {
+      "source": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals\nZXQSEPZXQ\nOn our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "zh": "TechCrunch颠覆2026年的新现实世界人工智能舞台，以英伟达、机器人和已灭绝的动物为特色\nZXQSEPZXQ\n在我们新的真实世界人工智能舞台上，我们将专注于数字和物理之间的交集，以及我们将继续看到两者的融合的所有方式。"
+    },
+    "f69835c4f81c19d923c1cb294347de1fac48aa0dd697cc46c0e380dc6ceb9bea": {
+      "source": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more\nZXQSEPZXQ\nGoogle launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3…",
+      "zh": "谷歌表示，其新的Gemini 3.8闪存模型“更加努力” ，但可能会花费更多\nZXQSEPZXQ\n谷歌推出了Gemini 3.8 Flash ，仅比其前身晚了几周。 该公司声称，通过对复杂任务执行更多推理步骤和“迭代调用工具” ，新模型比Gemini 3.7 Flash “更努力”。 它的入门定价与3……相同"
+    },
+    "5a5d174baba55f9fb610ae669156b95fd31fda757c36a1f013b1f7715d8f5cbf": {
+      "source": "OpenAI’s new reasoning technique alarms AI safety experts\nZXQSEPZXQ\nOpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "zh": "OpenAI全新推理技术警示AI安全专家\nZXQSEPZXQ\nOpenAI的新Astra模型将使用“循环深度” ，这种技术允许模型在大多数推理模型的顺序思维之外运行。"
+    },
+    "84a711d50df629b2c94106271d4fcfbee47fe96d2da90f7528efa97035f14aa0": {
+      "source": "A Common Measure of Communication for Speech Brain-Computer Interfaces\nZXQSEPZXQ\nSpeech brain-computer interfaces (speech BCIs) translate neural activity into language, offering a path towards restoring speech for people with paralysis and, more broadly, enabling new forms of natural human-computer interaction. Despite this promise, the field lacks a common…",
+      "zh": "语音脑机接口通讯的一种常见测量方法\nZXQSEPZXQ\n语音脑机接口（语音BCI ）将神经活动转化为语言，为瘫痪患者提供恢复语音的途径，更广泛地说，实现新形式的自然人机交互。 尽管有这个承诺，但该领域缺乏一个常见的……"
+    },
+    "4ad366dd01403c094f7fb22a61ef06e9421ef6ee1dcd963152e72ae388df097a": {
+      "source": "Discriminative World Models for Web Agents\nZXQSEPZXQ\nRecent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PRM). These world models are typically trained via supervised next-state predicti…",
+      "zh": "Web代理的歧视性世界模型\nZXQSEPZXQ\n最近的Web代理使用世界模型进行测试时间操作选择，方法是对候选操作进行采样，预测生成的Web状态，并使用排名器模型或流程奖励模型(PRM)对其进行排名。 这些世界模型通常通过有监督的下一状态预测进行训练……"
+    },
+    "e8547c6873d05238d323e05cd4e917ce7df475536dcf3e03aba59118f32d7666": {
+      "source": "Graph Machine: Towards Better Pretraining via Edges\nZXQSEPZXQ\nWe introduce the Graph Machine (GM), an architecture that maintains an $O(n)$-sized state and accesses it through sparse, dynamic routing. Unlike methods with fixed-size states or sparse but static routing, GM preserves $O(n)$ complexity in its sparse layers without restricting…",
+      "zh": "制图机：通过边缘实现更好的预训练\nZXQSEPZXQ\n我们引入了图形机（ GM ） ，这是一种维护$ O (n) $大小状态并通过稀疏动态路由访问它的架构。 与具有固定大小状态或稀疏但静态路由的方法不同， GM在其稀疏层中保留了$ O (n) $的复杂性，而不会限制…"
+    },
+    "cbb4d9d919c8b41798511df0eab1abe1a57ba5f2d7d3839f0c163d09e5d7e221": {
+      "source": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs\nZXQSEPZXQ\nOrdinary differential equations (ODEs) underlie models in science and engineering, and many applications need derivatives of their solutions with respect to parameters. Ensembles of independent trajectories suit graphics processing units (GPUs), but current GPU software forces a…",
+      "zh": "GRADSOLVE ： GPU上ODE集成的快速精确梯度\nZXQSEPZXQ\n普通微分方程（ ODE ）是科学和工程模型的基础，许多应用需要其参数解的导数。 独立轨迹的集合适合图形处理单元（ GPU ） ，但目前的GPU软件迫使..."
+    },
+    "210d3720a26d38b9fc06a428dff4491cb88cfa7f79a66e68a729589cf6e63bc3": {
+      "source": "Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework\nZXQSEPZXQ\nAutonomous robots powered by deep learning face a fundamental auditability challenge: when incidents occur, investigators cannot reconstruct why the system made specific decisions. This paper presents TRACE (Transparent Reasoning Architecture for Credible Execution), a decision…",
+      "zh": "走向值得信赖的自主机器人：一个可解释的基于人工智能的决策框架\nZXQSEPZXQ\n由深度学习驱动的自主机器人面临着一个基本的可审核性挑战：当事件发生时，调查人员无法重建系统做出特定决策的原因。 本文介绍了TRACE （ Transparent Reasoning Architecture for Credible Execution ，可信执行的透明推理架构） ，这是一项决策……"
     }
   }
 }
