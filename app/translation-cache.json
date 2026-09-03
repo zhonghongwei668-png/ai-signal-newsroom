@@ -2600,6 +2600,46 @@
     "d82ee69b989487e1e8a184e2d8c0c3db1e999bd76e8179cd53eab9563805c64f": {
       "source": "Training a coding model to paint watercolours with TRL and OpenEnv\nZXQSEPZXQ\nTraining a coding model to paint watercolours with TRL and OpenEnv。",
       "zh": "使用TRL和OpenEnv训练编码模型来绘制水彩画\nZXQSEPZXQ\n使用TRL和OpenEnv训练编码模型来绘制水彩画。"
+    },
+    "0575c31ae851891e002ae5decc7f85b4a0d29279216a6704881bb55c83938ae7": {
+      "source": "OpenAI launches Astra, its powerful (and controversial) new model\nZXQSEPZXQ\nOpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+      "zh": "OpenAI推出其强大（且备受争议）的新模型ASTRA\nZXQSEPZXQ\nOpenAI声称Astra代表了“计算机和浏览器使用的新领域” ，它以无与伦比的“速度、准确性和安全性”处理任务。"
+    },
+    "f7cbb0d9cf635f6666c9c4a1a687fdb5fe3dc9201fe079fb9d0c41b509bda83a": {
+      "source": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026\nZXQSEPZXQ\nFrontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in Octobe…",
+      "zh": "Sparks Fly ： NVIDIA在IFA 2026上加速本地AI\nZXQSEPZXQ\n边境情报正在本地化。 在IFA 2026 ， NVIDIA ，微软及其合作伙伴正在合作，提供更快的推理和新工具，使代理更容易在NVIDIA硬件上本地设置和运行。 新的紧凑型NVIDIA RTX Spark Windows PC也将于10月推出……"
+    },
+    "9f688b941452bf1acd80326cdf07641585ebcde2d6200d22ef785e03ae3b553b": {
+      "source": "Abliteration.ai is making a business out of removing AI guardrails\nZXQSEPZXQ\nAbliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+      "zh": "Abliteration.ai正在通过移除人工智能护栏来做生意\nZXQSEPZXQ\nAbliteration.AI正在使没有护栏的强大人工智能模型更容易访问，认为为捍卫者提供与不良行为者相同的工具最终可以改善网络安全。"
+    },
+    "15513f234a75c69374daf6476eea5a199b2a0d4a68d273679798ae4927fec79b": {
+      "source": "Meta is paying to peek at how you use their latest AI model\nZXQSEPZXQ\nFor its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+      "zh": "Meta正在付费查看您如何使用他们最新的人工智能模型\nZXQSEPZXQ\n对于其用于操作编码和其他代理的新Muse Spark模型， Meta为通过分享提示和模型输出为未来模型开发做出“贡献”的用户提供平均约95%的显式折扣。"
+    },
+    "04c98d31865095057a569b4984073f1e3bc1efc5ac4f5a7d904812a836e2e8b6": {
+      "source": "Nvidia launches free tool that links idle computers into a personal AI data center\nZXQSEPZXQ\nNvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware…",
+      "zh": "英伟达推出免费工具，将闲置的计算机连接到个人人工智能数据中心\nZXQSEPZXQ\n英伟达宣布推出其新的个人人工智能路由器（ PAIR ） ，这是一款免费工具，可同步您的家用电脑，使用Ollama和LM Studio等工具处理本地人工智能推理任务。 让我们把显而易见的事情弄清楚，不管它的名字可能意味着什么： PAIR不是硬件……"
+    },
+    "cf68b9773705c324771d92f5494020f4c784204eec8d6dc842736693155d2d61": {
+      "source": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk\nZXQSEPZXQ\nOpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.",
+      "zh": "OpenAI切断了数十亿美元的客户，以避免伊隆马斯克\nZXQSEPZXQ\nWIRED了解到， OpenAI最近估计其Cursor合作伙伴关系每年的收入将超过10 $ 10亿。 在埃隆·马斯克（ Elon Musk ）的SpaceX收购了人工智能编码初创公司之后，它仍然走开了"
+    },
+    "121f85ce1ea15d3cd1ccdaa6ccfc4f4e04e7e9b041f65dac248d85a101b76d47": {
+      "source": "OpenAI’s next big AI model has ‘entered the AGI era’\nZXQSEPZXQ\nOpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as…",
+      "zh": "OpenAI的下一个大型AI模型已经“进入AGI时代”\nZXQSEPZXQ\nOpenAI的下一个大型机型在这里： GPT-6 ASTRA。 该公司称其为网络安全、专业工作、软件工程、科学和计算机使用等领域的“能力的一代飞跃”。 正如OpenAI本周早些时候宣布的那样，它也是第一款被指定为…"
+    },
+    "58668dd08ffda817d5592b4c9571fd6f7f9e149f94aef79f963d28b36dca31f7": {
+      "source": "Ollie is betting its focus on privacy can help it win the AI assistant race\nZXQSEPZXQ\nThe family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+      "zh": "Ollie押注其对隐私的关注可以帮助它赢得AI助手竞赛\nZXQSEPZXQ\n以家庭为中心的人工智能助手希望访问您日常生活的细节，但表示不会使用这些数据来训练人工智能模型或与他人共享。"
+    },
+    "f5bfa82d4774099a8a2321f2e3c99c572b244edf464b7eb1bb386125b51a3231": {
+      "source": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era\nZXQSEPZXQ\nOpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
+      "zh": "GPT-6 ASTRA在这里- OpenAI认为它可能会开启AGI时代\nZXQSEPZXQ\nOpenAI领导者认为，该公司擅长计算机使用和编码的下一代机型可能标志着人工智能开发的一个重要里程碑。"
+    },
+    "69ee4331f9c4e210e4e8c4ce0bd446b443ea71f2c9bd26f9dd7174b7068f7d48": {
+      "source": "Google now lets you chat with Gmail, Docs, and Keep\nZXQSEPZXQ\nGoogle is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, Docs Live, and Keep Live, and like the Gemini Live experience for Google's chat…",
+      "zh": "Google现在允许您与Gmail、文档和Keep聊天\nZXQSEPZXQ\n谷歌正在为Gmail、文档和Keep推出人工智能语音助手模式，允许您通过与他们交谈来管理应用程序。 实时对话功能被称为Gmail Live、Docs Live和Keep Live ，类似于Google聊天的Gemini Live体验……"
     }
   }
 }
