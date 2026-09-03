@@ -2576,6 +2576,30 @@
     "210d3720a26d38b9fc06a428dff4491cb88cfa7f79a66e68a729589cf6e63bc3": {
       "source": "Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework\nZXQSEPZXQ\nAutonomous robots powered by deep learning face a fundamental auditability challenge: when incidents occur, investigators cannot reconstruct why the system made specific decisions. This paper presents TRACE (Transparent Reasoning Architecture for Credible Execution), a decision…",
       "zh": "走向值得信赖的自主机器人：一个可解释的基于人工智能的决策框架\nZXQSEPZXQ\n由深度学习驱动的自主机器人面临着一个基本的可审核性挑战：当事件发生时，调查人员无法重建系统做出特定决策的原因。 本文介绍了TRACE （ Transparent Reasoning Architecture for Credible Execution ，可信执行的透明推理架构） ，这是一项决策……"
+    },
+    "96d04c62a58bd7d7ce7f901f811feb4edd848b376d358d723927121da243ab87": {
+      "source": "Nvidia confirms it will buy Hugging Face for $12.9 billion\nZXQSEPZXQ\nNvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "zh": "英伟达确认将以129亿美元收购Hugging Face\nZXQSEPZXQ\n英伟达表示， Hugging Face拥有超过300万种模型，并被超过1800万开发人员使用。"
+    },
+    "1a6e4299a3e5cdd098875423b08ee68ee75a65e61d0ff13f504ab79b4ff082d8": {
+      "source": "Nvidia is buying Hugging Face for almost $13 billion\nZXQSEPZXQ\nNvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging Face is an online platform founded in 2016 that gives AI d…",
+      "zh": "英伟达以近130亿美元收购Hugging Face\nZXQSEPZXQ\n英伟达已同意以129.3亿美元的价格收购Hugging Face ，将最受欢迎的开源人工智能模型、数据集和工具托管平台之一归全球最大的人工智能芯片制造商所有。 Hugging Face是一个成立于2016年的在线平台，为AI提供…"
+    },
+    "f78f1437caece53850fdb520e1b48d21c7a810cce7eae3273f7afe19d13af23b": {
+      "source": "This Is Flock’s AI Search Tool for Cops\nZXQSEPZXQ\nWIRED rebuilt Flock’s latest search tool from code the company sends to a police officer’s browser. Its AI can keep watch across multiple cameras for anyone fitting a written description.",
+      "zh": "这是Flock的警察人工智能搜索工具\nZXQSEPZXQ\nWIRED从公司发送到警察浏览器的代码中重建了Flock的最新搜索工具。 它的人工智能可以对任何符合书面描述的人的多个摄像头进行监控。"
+    },
+    "42fb4cb1a1bc4859b9214579af1bd96ea2785ad4103b1fa160c26d32cebcd515": {
+      "source": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps\nZXQSEPZXQ\nFine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps。",
+      "zh": "微调350米模型，以100个GRPO步骤实现更好的结构化输出\nZXQSEPZXQ\n微调350米模型，以100个GRPO步骤实现更好的结构化输出。"
+    },
+    "5f390675bcdea0b2c7c7064a15d78a595fbbbbea010878d10fc450c971f343df": {
+      "source": "Give Your Coding Agents a Memory You Own\nZXQSEPZXQ\nGive Your Coding Agents a Memory You Own。",
+      "zh": "为您的编码代理提供您所拥有的内存\nZXQSEPZXQ\n为您的编码代理提供您所拥有的内存。"
+    },
+    "d82ee69b989487e1e8a184e2d8c0c3db1e999bd76e8179cd53eab9563805c64f": {
+      "source": "Training a coding model to paint watercolours with TRL and OpenEnv\nZXQSEPZXQ\nTraining a coding model to paint watercolours with TRL and OpenEnv。",
+      "zh": "使用TRL和OpenEnv训练编码模型来绘制水彩画\nZXQSEPZXQ\n使用TRL和OpenEnv训练编码模型来绘制水彩画。"
     }
   }
 }
