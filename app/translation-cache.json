@@ -2688,6 +2688,34 @@
     "262a18dbc9029ecdb942c3cea6a0025cd8ca9e789659cf4ab659a52f66dad9a5": {
       "source": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing\nZXQSEPZXQ\nVideo editing spans diverse editing paradigms, yet achieving high-quality instruction-guided and subject-guided editing within a single unified framework remains challenging. We introduce EditVid, a training-free framework combining sparse causal memory for local coherence, corr…",
       "zh": "一位编辑，多次编辑：适用于多元化视频编辑的统一无需培训的框架\nZXQSEPZXQ\n视频编辑涉及多种编辑范式，但在单一统一框架内实现高质量的指导式和主题指导式编辑仍然具有挑战性。 我们引入了EditVid ，这是一个无需训练的框架，结合了稀疏的因果记忆，以实现局部相干性，校正……"
+    },
+    "372c731ba8193f144e73117c4cc04c3d33fe8516a8b16c7449bb54aa0cdf0dbd": {
+      "source": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users\nZXQSEPZXQ\nJust hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on…",
+      "zh": "山姆·奥尔特曼（ Sam Altman ）为“混乱”的GPT-6 Astra推出而道歉，该推出已被锁定在付费用\nZXQSEPZXQ\n在OpenAI推出GPT-6 Astra几个小时后，首席执行官Sam Altman已经为他所说的“混乱的推出”道歉，因为付费用户期待访问新的前沿模型。 该公司称赞该模式是……的“能力的一代飞跃”。"
+    },
+    "ce95476f4d8d9c7ff51cf4108fcaa66366ffd9b33941133bcc5c09f3d07b16a7": {
+      "source": "This NAS company wants to run your local smart home\nZXQSEPZXQ\nUgreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home…",
+      "zh": "这家NAS公司希望运营您当地的智能家居\nZXQSEPZXQ\n以手机充电宝、充电器和NAS存储解决方案而闻名的Ugreen正在大举进军智能家居。 本周在IFA科技展上，该公司推出了HomeAgent智能家居平台，该平台结合了安全摄像头存储、设备AI和智能家居……"
+    },
+    "a968ce81105880a0f93f696c9bc080f707f743a30ce4522296515d6e7c9c7847": {
+      "source": "Instagram’s AI detection is a mess (again)\nZXQSEPZXQ\nInstagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label t…",
+      "zh": "Instagram的人工智能检测（再次）一团糟\nZXQSEPZXQ\nInstagram的可见AI标签旨在帮助人们一目了然地快速发现合成生成的内容。 然而，在过去的几周里，用户一直在报告该系统出现了混乱。 他们说Meta已经自动应用了“AI内容”标签……"
+    },
+    "e448669efb93b5eaccd05c11b0fc93d69474ac67a280352826f40190d1553566": {
+      "source": "Data from drones in Ukraine is fueling a new Wild West marketplace\nZXQSEPZXQ\nBattlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which th…",
+      "zh": "来自乌克兰无人机的数据正在推动新的狂野西部市场\nZXQSEPZXQ\n乌克兰的战场上到处都是无人驾驶飞机的残骸，这些无人驾驶飞机现在已成为现代战争的关键武器。 但在所有残骸的背后，有一座新的国防金矿。 无人机产生的数据将远远超过战争，在这些战争中， …"
+    },
+    "169e108759599d191c3a9c3e2a06e80bf9ee6de34613f8a08bf4d4e67e80f817": {
+      "source": "Why AI food looks like that\nZXQSEPZXQ\nThere is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and…",
+      "zh": "为什么人工智能食品看起来像这样\nZXQSEPZXQ\n餐馆、咖啡馆和品牌纷纷涌现出令人不快的倾斜，它们越来越多地转向人工智能来生成宣传其食物的图像。 由此产生的恐怖表演包括甜甜圈虾、来自深海的鲁本斯、蠕虫般的面条、面条般的糕点和……"
+    },
+    "eac909afe5eb24245224ccaa18d68b66b5ab8d1287128f8862d4dcfb778ded4b": {
+      "source": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers\nZXQSEPZXQ\nMicrosoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or…",
+      "zh": "微软的Project Zenith为开发者提供“无干扰的Windows体验”\nZXQSEPZXQ\n微软正在为其开发人员优化的Windows体验命名为Project Zenith。 虽然该软件制造商最初在今年早些时候的Build大会上宣布了类似的开发人员优化Windows工作，但Project Zenith专为64GB或…"
+    },
+    "076555f5ca8fe3c0d7328c63f6884457ee60e406138781cfbf84eea97c66bcfb": {
+      "source": "AI Use in the Job Market Is Creating an Infinite Doom Loop\nZXQSEPZXQ\nJob seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
+      "zh": "人工智能在就业市场的使用正在创造一个无限的厄运循环\nZXQSEPZXQ\n求职者正在尝试使用人工智能来博弈申请流程。 它不起作用，也不是因为您可能会想到的原因。"
     }
   }
 }
