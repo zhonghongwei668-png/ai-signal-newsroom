@@ -2640,6 +2640,54 @@
     "69ee4331f9c4e210e4e8c4ce0bd446b443ea71f2c9bd26f9dd7174b7068f7d48": {
       "source": "Google now lets you chat with Gmail, Docs, and Keep\nZXQSEPZXQ\nGoogle is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, Docs Live, and Keep Live, and like the Gemini Live experience for Google's chat…",
       "zh": "Google现在允许您与Gmail、文档和Keep聊天\nZXQSEPZXQ\n谷歌正在为Gmail、文档和Keep推出人工智能语音助手模式，允许您通过与他们交谈来管理应用程序。 实时对话功能被称为Gmail Live、Docs Live和Keep Live ，类似于Google聊天的Gemini Live体验……"
+    },
+    "49d1aa082410d113b6ccea749a6dcb4b60de2641caae00958f2f2a289ede43c9": {
+      "source": "The sameness problem behind those unappetizing AI-generated menus\nZXQSEPZXQ\nWhile restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+      "zh": "这些令人讨厌的人工智能生成的菜单背后的相同性问题\nZXQSEPZXQ\n虽然餐厅老板可能会将生成式人工智能作为美化菜单的捷径，但顾客可以直观地感觉到食物有问题。"
+    },
+    "21330e56faa9fdf3310e88a69d69bb7cab649a23a6d7a0f36033a8ffb8909832": {
+      "source": "Crusoe reportedly raises $3B at a $30B valuation\nZXQSEPZXQ\nThe round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "zh": "据报道， Crusoe以300亿美元的估值筹集了30亿美元\nZXQSEPZXQ\n据报道，这轮融资是在这家数据中心开发商与Jane Street签订了130亿美元的合同之后进行的。"
+    },
+    "8a9e8f984e87339c74de099cb1225b10de941362aa1ba95e7c9bc755c113d05a": {
+      "source": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today\nZXQSEPZXQ\nChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
+      "zh": "没有人说为什么OpenAI和Anthropic今天有停电\nZXQSEPZXQ\nChatGPT、Claude和Grok几乎同时遭受停电，原因仍然模糊不清。"
+    },
+    "de3f49fe431b9cc22712ff3f10c7e606e839785cb4c036b245fefecaa86c82ba": {
+      "source": "Prediction Market Betting Is Getting People Banned and Arrested\nZXQSEPZXQ\nThis week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
+      "zh": "预测市场博彩正在让人们被禁止和逮捕\nZXQSEPZXQ\n本周在Uncanny Valley ，我们将深入探讨最新的预测市场嗡嗡声， Flock的人工智能警察搜索工具，以及科技兄弟如何不知道如何谈论“胭脂”人工智能代理"
+    },
+    "bf093285bceb5ddf63d504e76b6706b61c4be28acba765edfcff9f437d4d665c": {
+      "source": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation\nZXQSEPZXQ\nThe high-profile startup's annual revenue run rate stands at over $100 million.",
+      "zh": "据报道， Accel正在进行谈判，以$ 400亿的估值领投Thinking Machines $ 10亿的一轮融资\nZXQSEPZXQ\n这家备受瞩目的初创公司的年收入运行率超过1亿美元（ $ 100 million ）。"
+    },
+    "a465342f14e4a05ec71cbce561376e3f75286c8ba0f0e7830f4d45d7be14a70d": {
+      "source": "3.8.0 (2026-09-03) Features api: add gpt-6-astra and related features ( #3791 ) ( 09f446f ) Documentation add canonical SDK security model ( #3778 ) ( 2a097b9 )",
+      "zh": "3.8.0 (2026-09-03)功能api ：添加gpt-6-astra和相关功能(# 3791) (09f446f)文档添加规范SDK安全模型(# 3778) (2a097b9)"
+    },
+    "c5920a2f3175ea4573fd530747b35c0835505cba0a422d1c92e9f1828a3cbfab": {
+      "source": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views\nZXQSEPZXQ\nGaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-training. We posit that auxiliary views, reformulations of knowledge, are causally helpful for learning. We design controlled experiments to isolate this. First, we confirm that rep…",
+      "zh": "在预培训期间获取知识？ 大型语言模型通过辅助视图更好地学习\nZXQSEPZXQ\n我们对大型语言模型（ LLM ）在预训练期间如何获得知识的理解仍然存在差距。 我们认为，辅助观点，知识的重新表述，对学习有因果帮助。 我们设计了对照实验来隔离这一点。 首先，我们确认销售代表……"
+    },
+    "b44e7717a38c902fb3c0ab623ceba3fbb920be59a9d4bb50a12b11758014a4a1": {
+      "source": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions\nZXQSEPZXQ\nMany recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider. We present compile by training, which turns a natural-language specificat…",
+      "zh": "训练编译：将自然语言规范转化为局部神经功能\nZXQSEPZXQ\n许多循环文本函数易于描述，但难以使用规则实现，而为每个输入调用大型远程模型会引入重复的成本、延迟和对提供程序的依赖。 我们通过培训来进行编译，这会变成一种自然语言规范……"
+    },
+    "ba38fbb1d8274ee3117bfd5066e2ca7946812526056d7ff1870f725edbfd47ea": {
+      "source": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints\nZXQSEPZXQ\nLanguage-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to the same model name, reads the same tomorrow. We audited that assumption in two…",
+      "zh": "清洁工程，不稳定测量：共享端点上黑盒LLM观察员的预注册可靠性故障\nZXQSEPZXQ\n语言模型评委现在可以选择训练数据、分数生成和驱动排行榜。 然后，法官是一个测量工具，基于一个很少陈述的假设：相同的请求，发送到相同的模型名称，明天读取相同的。 我们对这一假设进行了两次审计……"
+    },
+    "58c93b6b35734ce20225ee3b013f9a414d5f9b5940c07ce3507c60a66bf12ddb": {
+      "source": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize\nZXQSEPZXQ\nEvolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three deficiencies - incomplete error observation, limited search diversity, and unreli…",
+      "zh": "ESPO ：通过诊断、多样化和稳定的错误结构化提示优化\nZXQSEPZXQ\n进化提示优化器（如GEPA ）会出现提示臃肿：每次迭代都会附加规则和警告，产生的提示最多会延长3 $\\ times $ ，但不会更准确。 我们将其归因于三个缺陷--不完整的错误观察、有限的搜索多样性和不可靠……"
+    },
+    "41a1cbb607c8492d7e0625efc61812c3c560a4a234862b1c93ceff6e5744cd1a": {
+      "source": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning\nZXQSEPZXQ\nReasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors, evaluate faithfulness, and provide step-level supervision via process reward mo…",
+      "zh": "易读性不是可解释性：在思维链推理中比较判断和实际重要性\nZXQSEPZXQ\n思维链模型的推理痕迹似乎为模型如何得出答案提供了一个清晰的窗口。 越来越多的工作这样对待他们，使用法学硕士评委来诊断错误，评估忠诚度，并通过流程奖励提供阶梯级的监督……"
+    },
+    "262a18dbc9029ecdb942c3cea6a0025cd8ca9e789659cf4ab659a52f66dad9a5": {
+      "source": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing\nZXQSEPZXQ\nVideo editing spans diverse editing paradigms, yet achieving high-quality instruction-guided and subject-guided editing within a single unified framework remains challenging. We introduce EditVid, a training-free framework combining sparse causal memory for local coherence, corr…",
+      "zh": "一位编辑，多次编辑：适用于多元化视频编辑的统一无需培训的框架\nZXQSEPZXQ\n视频编辑涉及多种编辑范式，但在单一统一框架内实现高质量的指导式和主题指导式编辑仍然具有挑战性。 我们引入了EditVid ，这是一个无需训练的框架，结合了稀疏的因果记忆，以实现局部相干性，校正……"
     }
   }
 }
