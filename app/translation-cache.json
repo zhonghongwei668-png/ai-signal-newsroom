@@ -2756,6 +2756,14 @@
     "c12461e01854bd920146535cdfeeccacaf5d2dddca5c5c0ae80cc05ca7d80134": {
       "source": "1.4.0 (2026-09-04) Full Changelog: v1.3.0...v1.4.0 Features api: add Claude Tag category and user breakdowns to usage reports ( 9fce1e4 ) api: add named types for organization compliance settings state ( 1de1957 ) api: add support for sending a workspace ID on more endpoints ( d…",
       "zh": "1.4.0 (2026-09-04)完整更新日志： v1.3.0... v1.4.0功能api ：将Claude标签类别和用户细分添加到使用报告(9fce1e4) api ：为组织合规性设置状态添加命名类型(1de1957) api ：添加对在更多端点上发送工作区ID的支持（ d…"
+    },
+    "dfaaa97e8508d4f7ffef92e4555b086e98a2957efadb23c188fb8c120be7c44f": {
+      "source": "OpenAI admits to German wiki ‘incident’\nZXQSEPZXQ\nOpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki inc…",
+      "zh": "OpenAI承认德国维基“事件”\nZXQSEPZXQ\nOpenAI表示，它需要彻底改革AI模型攻击真实世界目标的方式和时间。 这一承认是在该公司管理其一群失控的代理人劫持德国维基网站的报道所带来的后果之际。 关于“'wiki inc…"
+    },
+    "d60f8ea3a2c2bd677305846ed9ef80c92cd3ea825fefb1c1fd98919d8e02afdb": {
+      "source": "OpenAI Agents Hacked Another Website\nZXQSEPZXQ\nPlus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
+      "zh": "OpenAI特工入侵另一个网站\nZXQSEPZXQ\n此外：数以千万计的美国和加拿大驾驶执照在暗网上出售，美国军方最终试图解决在线广告数据给军队带来的风险等等。"
     }
   }
 }
