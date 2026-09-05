@@ -2740,6 +2740,22 @@
     "31b54a267207e2a60239ddc8887d6bc13f8c99b783c9493c1d5f4cbbae558416": {
       "source": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot\nZXQSEPZXQ\nMicrosoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book…",
       "zh": "微软表示，几乎没有人通过其聊天机器人获取《纽约时报》的文章\nZXQSEPZXQ\n微软的Copilot很少复制新闻文章和书籍中的完整句子，更不用说可以替代原始内容的实质性句子了，该公司在新的法律文件中表示，它正在与包括《纽约时报》和书籍在内的出版商的版权索赔作斗争……"
+    },
+    "8c773d01f96e0fe69618c8877ab09f46432ead695eaf5f61f6d98a4453a24628": {
+      "source": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation\nZXQSEPZXQ\nThe round is being raised just months after the robot data startup exited from stealth.",
+      "zh": "XDOF刚刚退出三个月，正在就B轮融资进行谈判，估值为12亿美元$\nZXQSEPZXQ\n这轮融资是在机器人数据初创公司退出隐身几个月后筹集的。"
+    },
+    "53206eed5b3543b14bf107b07df00c2deb635958bd966dfe3e2d2607755be298": {
+      "source": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them\nZXQSEPZXQ\nOpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "zh": "OpenAI的流氓特工不断逃跑，没有正式的调查程序\nZXQSEPZXQ\nOpenAI最新的特工群体事件增加了要求独立调查的紧迫性，因为研究人员和立法者质疑人工智能实验室是否应该控制自己的安全审查范围。"
+    },
+    "b136387b673742d71650941fc6b778f8e40932212454d1fa5640b614f030ad60": {
+      "source": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing\nZXQSEPZXQ\nNscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "zh": "人工智能计算提供商Nscale正在寻找35亿美元的IPO前融资\nZXQSEPZXQ\nNscale最近与Anthropic达成了450亿美元的交易，目前正在为即将到来的IPO筹集额外资金。"
+    },
+    "c12461e01854bd920146535cdfeeccacaf5d2dddca5c5c0ae80cc05ca7d80134": {
+      "source": "1.4.0 (2026-09-04) Full Changelog: v1.3.0...v1.4.0 Features api: add Claude Tag category and user breakdowns to usage reports ( 9fce1e4 ) api: add named types for organization compliance settings state ( 1de1957 ) api: add support for sending a workspace ID on more endpoints ( d…",
+      "zh": "1.4.0 (2026-09-04)完整更新日志： v1.3.0... v1.4.0功能api ：将Claude标签类别和用户细分添加到使用报告(9fce1e4) api ：为组织合规性设置状态添加命名类型(1de1957) api ：添加对在更多端点上发送工作区ID的支持（ d…"
     }
   }
 }
