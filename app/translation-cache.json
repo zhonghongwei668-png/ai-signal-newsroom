@@ -2804,6 +2804,30 @@
     "51fab01e2e54a43c52abdb6ed8a6f1bc161cd8375507cf79cc0fdc85486dd90c": {
       "source": "This AI entrepreneur is developing agents that can plan ahead for the unexpected\nZXQSEPZXQ\nDanijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks i…",
       "zh": "这位人工智能企业家正在开发可以提前计划意外情况的代理商\nZXQSEPZXQ\n旧金山SoMa区的Danijar Hafner的办公室几乎空无一人。 他的全新创业公司仍处于隐身模式，甚至没有名字。 在我参观的那天，那里只有一个人，家具很少。 但它缺少的是我……"
+    },
+    "23c85d3c2da48bdba714e72f7aebad3aaa97887696d4121618265ce8a4dcc694": {
+      "source": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users\nZXQSEPZXQ\nAnthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription t…",
+      "zh": "一项新的集体诉讼质疑Anthropic是否通过误导高级用户而违反了法律\nZXQSEPZXQ\nAnthropic表示，超级用户是其业务的关键--即使这意味着切断OpenClaw等其他流行应用程序，它也会优先考虑他们。 但其中一些客户表示， Anthropic误导了他们，让他们相信他们可以从顶级定价订阅中获得更多……"
+    },
+    "7803f4b965b9c0f5851a61e5a79e974e41475f0d71a06d8d58483edf1f8c67a2": {
+      "source": "Meta bets on AI agent Muse to catch up in AI race\nZXQSEPZXQ\nMeta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion dollar strategy overhaul designed to revitalize the company's ailing…",
+      "zh": "元押注AI特工Muse在人工智能竞赛中迎头赶上\nZXQSEPZXQ\nMeta正在通过Muse再次推动将人工智能带给大众， Muse是一名个人助理，据说可以将人工智能置于几乎任何人的手中。 该产品是价值数十亿美元的战略改革的最新一步，旨在振兴公司陷入困境的……"
+    },
+    "ef22a37458c508f07e8ff91930afc4556f2c7c9332935c2f95a8507049783c0b": {
+      "source": "OpenAI fought dirty on career-making math problem, says NYU mathematician\nZXQSEPZXQ\nThere is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "zh": "纽约大学数学家说， OpenAI在职业生涯数学问题上肮脏地斗争\nZXQSEPZXQ\n第一个为Navier-Stokes的存在和平滑性问题提供解决方案的人将获得100万$的奖金。"
+    },
+    "4d04288e67b41a233b617ddce42a01b86ae4eb8f49268eafae471bdf3fc1022d": {
+      "source": "Google Cloud races to catch up in the AI deployment wars with Accenture deal\nZXQSEPZXQ\nGoogle Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "zh": "谷歌云与埃森哲达成协议，争相追赶人工智能部署大战\nZXQSEPZXQ\n谷歌云通过埃森哲扩展其企业人工智能，押注于前沿部署的工程师，以推动采用并克服部署瓶颈。"
+    },
+    "a8708cbaf971307ff7a6b095ab5083057be1f25d50c3112465366a9e68954ad1": {
+      "source": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul\nZXQSEPZXQ\nA landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
+      "zh": "OpenAI刚刚获得了巨大的数学发现。 一些学者正在哭泣犯规\nZXQSEPZXQ\n前沿人工智能实验室的一项具有里程碑意义的公告因不当行为的指控而蒙上阴影。"
+    },
+    "22467de5cd668c7188667dd2885aaa08f44f706b19c3b32c894c8bae6085bae7": {
+      "source": "3.9.0 (2026-09-05) Features api: Add prompt cache diagnostics ( #3800 ) ( 8326784 ) api: correct function argument completion event fields (openapi-545) ( #3801 ) ( 2a98f6a ) Bug Fixes api: accept incomplete web search call statuses ( #3786 ) ( 3cc8d78 ) refuse overflowing serve…",
+      "zh": "3.9.0 (2026-09-05)功能api ：添加提示缓存诊断(# 3800) (8326784) api ：正确的函数参数完成事件字段(openapi-545) (# 3801) (2a98f6a)错误修复api ：接受不完整的网络搜索调用状态(# 3786) (3cc8d78)拒绝溢出服务…"
     }
   }
 }
