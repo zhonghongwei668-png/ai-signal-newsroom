@@ -1,15 +1,197 @@
 {
   "boardMeta": {
-    "generatedAt": "2026-09-08 03:59",
+    "generatedAt": "2026-09-08 12:41",
     "date": "2026年9月8日 · 星期二",
-    "edition": "清晨版",
-    "window": "北京时间今日 00:00 至 03:59",
-    "nextUpdate": "下一轮 08:15 自动更新"
+    "edition": "午后版",
+    "window": "北京时间今日 00:00 至 12:41",
+    "nextUpdate": "下一轮 16:15 自动更新"
   },
   "newsItems": [
     {
-      "id": "bbd44de733a8ed",
+      "id": "38fd9a864a3fbe",
       "level": "头条",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "联发科官宣天玑旗舰芯首款 Pro 来了：先进制程里程碑式突破、AI 深度融合的 GPU 图形渲染技术等",
+      "summary": "IT之家 9 月 8 日消息，联发科技官方微博刚刚宣布，天玑旗舰芯首款的 Pro 来了。据介绍，新芯片将拥有 Pro 旗舰 + Pro 体验： 能效 Pro： 先进制程里程碑式突破丨 DTCO 制程深度共研丨重构芯片架构 游戏 Pro ： AI 深度融合的 GPU 图形渲染技术丨星速引擎全面进化丨震撼光追技术落地 影像 Pro ： 重塑安卓视频拍摄体验丨 4K 240fps 超高速慢动作丨专业创作玩法 据IT之家今日早些时候报道， 联发科官方今日宣布将于 9 月 15 日 14:30 举行新品发布会 ，“新一代 MediaTek 天玑旗舰芯即将揭晓，一…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/999/622.htm",
+      "publishedAt": "11:12",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "65dc653246b129",
+      "level": "重要",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "让 Win11 实现“灵动岛”：Notchify 迄今最大更新，匹配高刷显示器切换 60~240Hz",
+      "summary": "IT之家 9 月 8 日消息，科技媒体 Windows Central 昨日（9 月 7 日）发布博文，报道称 Notchify 更新 5.0 版本， 这款应用可以让 Windows 11 PC 实现类似苹果“灵动岛”效果，是其迄今最大一次更新。 IT之家附上开发者应用介绍截图如下： 该应用可以在 Windows 11 屏幕顶部显示类似苹果“灵动岛”效果，集中显示信息、通知和快捷操作等等，对希望减少窗口切换、快速查看设备电量和媒体状态的用户，这类顶部浮层提供了新的交互入口。 性能方面，Notchify 新版为提升动画流畅度，新增可选 GPU 硬件渲染…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/999/616.htm",
+      "publishedAt": "11:08",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "60881ff3052d0e",
+      "level": "重要",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "Arm 发布云和数据中心计算子系统 Neoverse CSS N4，支持 LPDDR6、PCIe Gen7",
+      "summary": "IT之家 9 月 8 日消息，Arm 今日在 Arm Everywhere China 年度大会上发布了其面向云和数据中心的新款计算子系统 (Compute Subsystems) Neoverse CSS N4。 Neoverse CSS N4 面向智能体基础设施， 是 Arm 迄今为止可配置性最高的 CSS ，可帮助合作伙伴以最快速度完成从 CSS 到芯片产品的落地。其也是首款支持 CPU 频率高达 3.8 GHz 的 N 系列 CSS、 首款支持 LPDDR6 内存和 PCIe Gen 7 的 Neoverse CSS 。 Neoverse CS…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/999/613.htm",
+      "publishedAt": "11:03",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "f4139950704408",
+      "level": "重要",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "Arm 发布第二代移动终端计算子系统 CSS for Mobile 2，支持双 SME2 引擎，神经加速 GPU",
+      "summary": "IT之家 9 月 8 日消息，Arm 今天在上海举办年度旗舰活动 Arm Everywhere China，并在会上发布了第二代移动终端计算子系统 CSS for Mobile 2。这是一个面向智能体 AI 与 AI 原生图形的计算平台，集成了 Arm C2 CPU 集群、Mali G2-Ultra NX GPU 以及 SI L2 系统互连，同时将系统 IP、软件和开发者工具整合为完整平台。 Arm 方面表示，智能体 AI 的能力已从早期的问答交互，演进到理解用户意图并自主执行任务的阶段，智能体工作流和日益复杂的 AI 原生图形技术，对移动计算提出了新…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/999/590.htm",
+      "publishedAt": "10:28",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "9bcd490b1aac9b",
+      "level": "重要",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "极氪 7X 全球第 20 万台量产车下线，用时两年",
+      "summary": "IT之家 9 月 8 日消息， 极氪 7X 全球第 20 万台量产车 今日正式宣布下线，用时两年。 据IT之家了解，极氪 7X 是极氪推出的首款豪华大五座纯电 SUV，基于 SEA 浩瀚架构打造， 首批极氪 7X 于 2024 年 9 月 16 日量产下线 。 2025 年 10 月， 焕新极氪 7X 汽车正式上市 ，升级 900V 高压架构、全系标配英伟达 Thor-U 芯片和激光雷达，22.98 万元起。 2027 款极氪 7X 将于今年第四季度上市 ，外观风格没有改变，将带来新的外观内饰颜色，新增 85kWh 金砖电池版本车型。",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/999/588.htm",
+      "publishedAt": "10:23",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "776bb1b4b41f47",
+      "level": "重要",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "小米 18 Fold 暖金白折叠屏手机图赏：灵巧中折叠，清新素雅",
+      "summary": "9 月 7 日，小米举办秋季旗舰新品发布会，全新折叠屏旗舰小米 18 Fold 正式发布。官方称这款手机为“中折叠”，因为其一大看点就在于尺寸上的变化：5.38 英寸的外屏，合上是一本护照大小的轻便手机，展开则是一块 7.58 英寸的宽广大屏，同时它还首发搭载自研玄戒 O3 AI 旗舰 SoC，与新一代小米澎湃 OS 4、小米 MiMo 端侧大模型三大自研科技首次集结。目前，IT之家已经拿到小米 18 Fold 暖金白版本，现在先给大家送上开箱图赏。 外观方面，先看包装盒。小米 18 Fold 的包装盒为类似方形礼盒的设计，比较扁平，白色为底，正面没有…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/999/558.htm",
+      "publishedAt": "10:00",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "bc3401d5b6c584",
+      "level": "重要",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "任务栏调整回归只是开始：微软承诺听取用户反馈共塑 Win11 体验",
+      "summary": "IT之家 9 月 8 日消息，科技媒体 Windows Latest 今天（9 月 8 日）发布博文，报道称微软高管承诺将会基于社区反馈， 积极调整 Windows 11 系统，减少 Copilot 入口 / 功能的干扰，并提升任务栏、开始菜单等体验。 在柏林召开的 IFA 2026 展会期间，微软 Windows 与设备部门公司副总裁马克 · 林顿（Mark Linton）表示，承诺会加速 Windows 11 系统的启动速度，并降低内存占用， 让配备 8GB 内存的电脑也能流畅运行 。 在 AI 方面，IT之家此前报道， 林顿表示会进一步降低 Co…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/999/553.htm",
+      "publishedAt": "09:55",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "8ffeb8c148bb5a",
+      "level": "关注",
+      "region": "国内",
+      "category": "融资",
+      "verification": "媒体报道",
+      "title": "小鹏机器人生产线正式启用，“全球首位高阶通用人形机器人”自主走下产线",
+      "summary": "IT之家 9 月 8 日消息，小鹏集团今日官宣，小鹏机器人完成关键跨越， 小鹏机器人生产线正式启用 ，全球首位高阶通用人形机器人完成自动化总装并自主走下产线。 小鹏汽车官方微博称：“从 0 到 1，从实验室到自研自建生产线，我们做到了。” 8 月 24 日，小鹏机器人业务完成首轮超 9 亿美元 （IT之家注：现汇率约合 60.56 亿元人民币） 融资，投后估值超 63 亿美元 （现汇率约合 423.89 亿元人民币） ，刷新中国具身智能行业单轮私募股权融资纪录。 官方透露，本轮融资由 IDG 资本领投，高榕创投参投，同时获得腾讯和阿里巴巴两家战略投资者…",
+      "whyItMatters": "资金流向反映市场正在为哪些 AI 能力与商业模式下注。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/999/529.htm",
+      "publishedAt": "09:06",
+      "relativeTime": "3 小时前"
+    },
+    {
+      "id": "2654ff0b94c6db",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "微信 WeMM-Embedding 多模态模型已在微信大规模使用：覆盖朋友圈搜索等，每天调用量 10 亿次",
+      "summary": "IT之家 9 月 8 日消息，微信 AI 官方在 9 月 4 日宣布， 将通用多模态嵌入模型 WeMM-Embedding 开源 ，包含 2B、4B、9B 三个版本，支持文本、图像、视频、视觉文档以及任意交错的多模态输入。 据微信员工 @客村小蒋 分享，微信视觉团队最近开源的多模态模型 WeMM-Embedding 简单说就是让系统能同时理解文字、图片和视频，把它们放在同一个语义空间里去比较和检索。 他透露， 这个模型已经在微信里大规模用了 —— 朋友圈搜索、视频号推荐、公众号推荐、微信电商都在用 ，每天调用量 10 亿次。 在国际权威榜单 MMEB-…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/999/527.htm",
+      "publishedAt": "09:02",
+      "relativeTime": "3 小时前"
+    },
+    {
+      "id": "972769403c75c0",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "看一眼就能扫付款码，微信支付智能眼镜 SDK 上线",
+      "summary": "IT之家 9 月 8 日消息，微信官方今日宣布， 微信支付智能眼镜 SDK 正式上线 。 微信支付将扫一扫支付能力封装成一套标准 SDK，面向符合接入标准的智能眼镜厂商开放。用户可以在适配的智能眼镜上完成付款。 Rokid 乐奇 AI 眼镜 是首款完成适配的产品。 IT之家从微信官方介绍获悉，用户第一次使用智能眼镜扫一扫支付前， 需要在眼镜厂商的手机 App 中申请开通 ，再跳转至微信小程序验证支付密码。验证完成后，智能眼镜与微信账号绑定生效。 之后日常付款，可以分成几步： 第一步唤起：说一句“微信扫一扫”； 第二步扫码：将视线对准商家的收款二维码…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/999/581.htm",
+      "publishedAt": "10:13",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "0fb7e14f5f5d2b",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "华为乾崑智驾、鸿蒙座舱搭载量达成 200 万里程碑",
+      "summary": "IT之家 9 月 8 日消息，华为智能汽车解决方案 BU 官方微博刚刚宣布， 乾崑智驾和鸿蒙座舱搭载量、华为乾崑 App 用户数 200 万里程碑同步达成 。 IT之家查询获悉， 华为乾崑智驾目前里程数已突破 149 亿公里，即将达成 150 亿公里数的里程碑 。另外，搭载乾崑智驾车辆累计行驶总里程已突破 427 亿公里、乾崑智驾累计主动避免可能的碰撞达 640 万次。 在今年 7 月的 2026 华为乾崑媒体日上，华为智能汽车解决方案 BU CEO 靳玉志透露，从 2023 年到 2026 年，华为乾崑智驾的算力增长超过 20 倍。 靳玉志认为，要做…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/999/540.htm",
+      "publishedAt": "09:39",
+      "relativeTime": "3 小时前"
+    },
+    {
+      "id": "c849bd5b17fbd6",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "华为Mate XT2亮出全自研核心芯片 日媒称已摆脱美国限制",
+      "summary": "据《日经亚洲》报道，华为正式发布最新三折叠屏手机Mate XT2。新机搭载自研麒麟9050 Pro芯片，其CPU、GPU、NPU和通信基带均由华为开发。外媒据此称，这是华为首款采用“不受美国供应限制”核心芯片的三折叠屏手机。 阅读全文",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1576872.htm",
+      "publishedAt": "12:37",
+      "relativeTime": "4 分钟前"
+    },
+    {
+      "id": "913e1ac2c2662c",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "特朗普发布AI图片自诩“为国赚数千亿”股票收益 但未提供任何证据",
+      "summary": "美国总统唐纳德·特朗普上周日在其社交平台Truth Social上密集发布了一系列由人工智能生成的图片，并附带多项未经证实的宏大声明，其中包括声称自己已为美国在股票及其他资产持仓上赚取了“数千亿美元”。 阅读全文",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1576866.htm",
+      "publishedAt": "12:35",
+      "relativeTime": "6 分钟前"
+    },
+    {
+      "id": "bbd44de733a8ed",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -19,9 +201,23 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "publishedAt": "03:24",
-      "relativeTime": "35 分钟前",
+      "relativeTime": "9 小时前",
       "titleZh": "不透明的复发，以及您可能应该知道的其他人工智能术语",
       "summaryZh": "人工智能的崛起带来了大量的新术语和俚语。 以下是您可能遇到的一些最重要的单词和短语的定义词汇表。"
+    },
+    {
+      "id": "13396e5bbb7d5e",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "联合国高级专员警告：人工智能对人类构成“生存性”风险",
+      "summary": "联合国人权事务高级专员沃尔克・蒂尔克（Volker Turk）周一警告称，人工智能可能对人类构成威胁，并承诺敦促人工智能企业降低风险。在开启史无前例的第二个任期前夕发表的讲话中，蒂尔克呼吁拿出 “铁一般的保障措施”，保障人工智能安全。 阅读全文",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1576870.htm",
+      "publishedAt": "12:36",
+      "relativeTime": "5 分钟前"
     },
     {
       "id": "d589b8ef720dae",
@@ -35,7 +231,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1576830.htm",
       "publishedAt": "03:49",
-      "relativeTime": "9 分钟前"
+      "relativeTime": "8 小时前"
     },
     {
       "id": "60f2c9bef1aa20",
@@ -49,21 +245,21 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1576828.htm",
       "publishedAt": "03:46",
-      "relativeTime": "12 分钟前"
+      "relativeTime": "8 小时前"
     }
   ],
   "trendLines": [
+    "AI 算力竞争继续转向推理能效、供应能力与整体成本。",
     "AI 产品更新加快，能力正进入更多日常工作流。",
-    "AI 治理进入更具体的规则与执行阶段，合规边界继续收紧。",
-    "AI 算力竞争继续转向推理能效、供应能力与整体成本。"
+    "大模型仍是今日高频主线，能力、价格与生态策略持续变化。"
   ],
   "pendingItems": [
-    "本轮有 3 条来自可靠媒体的报道，后续将继续追踪官方确认。",
+    "本轮有 17 条来自可靠媒体的报道，后续将继续追踪官方确认。",
     "1 个信息源本轮暂时不可用，系统会在下一轮自动重试。"
   ],
   "scanStats": {
     "configuredSources": 19,
     "successfulSources": 18,
-    "candidateCount": 3
+    "candidateCount": 17
   }
 }
