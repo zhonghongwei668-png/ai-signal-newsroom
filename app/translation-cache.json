@@ -2828,6 +2828,78 @@
     "22467de5cd668c7188667dd2885aaa08f44f706b19c3b32c894c8bae6085bae7": {
       "source": "3.9.0 (2026-09-05) Features api: Add prompt cache diagnostics ( #3800 ) ( 8326784 ) api: correct function argument completion event fields (openapi-545) ( #3801 ) ( 2a98f6a ) Bug Fixes api: accept incomplete web search call statuses ( #3786 ) ( 3cc8d78 ) refuse overflowing serve…",
       "zh": "3.9.0 (2026-09-05)功能api ：添加提示缓存诊断(# 3800) (8326784) api ：正确的函数参数完成事件字段(openapi-545) (# 3801) (2a98f6a)错误修复api ：接受不完整的网络搜索调用状态(# 3786) (3cc8d78)拒绝溢出服务…"
+    },
+    "89cbb0bd99d916d025bc37a04b5ba730f3d8b07072809ca61ce3866bc7150085": {
+      "source": "What OpenAI’s latest controversy tells us about the future of math\nZXQSEPZXQ\nOpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would…",
+      "zh": "OpenAI关于数学未来的最新争议告诉我们什么\nZXQSEPZXQ\nOpenAI的最新数学里程碑很快陷入了争议之中。 今天，该公司宣布其代理商已经解决了千年奖问题之一，这是数学中一些最重要的开放性问题。 在正常情况下，该解决方案将……"
+    },
+    "55c69c11b79d75f324af17ca7252a023d8109c2625a46699e510551f7b3c37d5": {
+      "source": "How GPT-5.6 Sol helps run quantum computing experiments\nZXQSEPZXQ\nSee how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "zh": "GPT-5.6 Sol如何帮助运行量子计算实验\nZXQSEPZXQ\n了解麻省理工学院的研究人员如何使用GPT-5.6 Sol和Codex自主运行量子计算实验、分析结果和校准量子位。"
+    },
+    "db7590e4fab771edb4fe094f94824b94e925cfc4e9f5a80bb7ca3afa054f5118": {
+      "source": "3.10.0 (2026-09-08) Features api: add GPT Image 2.5 models and image options ( #3824 ) ( 5b39c45 ) api: add service-account API key expiration fields ( #3802 ) ( f1cd7f0 )",
+      "zh": "3.10.0 (2026-09-08)功能api ：添加GPT Image 2.5模型和图像选项(# 3824) (5b39c45) api ：添加服务帐户API密钥过期字段(# 3802) (f1cd7f0)"
+    },
+    "f2d985a697549c3d9228fa226037bfdca8932b451ac4b28994efdc4816899faf": {
+      "source": "Hackers are stealing Claude tokens from subscribers\nZXQSEPZXQ\nLast month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "zh": "黑客正在从订阅者那里窃取Claude令牌\nZXQSEPZXQ\n上个月，一位Claude用户注意到他的帐户正在使用令牌，即使他没有工作。 Anthropic此后向用户发出了有关黑客的警告。"
+    },
+    "c2839c6d779f41397191a2c278dc47aa3c7a842fdc2624c39dc2e2725a8d2c2f": {
+      "source": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market\nZXQSEPZXQ\nCognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "zh": "Cognition的估值达到480亿美元，表明投资者认为人工智能编码远未成为赢家通吃的市场\nZXQSEPZXQ\nCognition的估值倍数高于Cursor在出售给SpaceX之前的估值倍数。"
+    },
+    "ce92203215d1044f139909c8f8abc6b204aa91e1cc73c9f744e914274bde946a": {
+      "source": "Drama swirls around OpenAI’s legendary mathematical milestone\nZXQSEPZXQ\nOpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to…",
+      "zh": "戏剧围绕OpenAI的传奇数学里程碑旋转\nZXQSEPZXQ\nOpenAI表示，正如《纽约时报》和《连线》早些时候报道的那样，它找到了一个主要数学问题的解决方案，这个问题已经悬而未决了大约90年。 在周二的一篇博客文章中， OpenAI宣布它发现了Navier-Stokes问题的解决方案-这与..."
+    },
+    "c8f481c19f3371335a884d1c5e36fa0ac65a435721cc24205e88d49affe3c46c": {
+      "source": "ChatGPT Sketch turns your bad drawings into detailed AI images\nZXQSEPZXQ\nOpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an i…",
+      "zh": "ChatGPT Sketch将不良图纸转换为详细的人工智能图像\nZXQSEPZXQ\nOpenAI周二发布了ChatGPT Images 2.5 ，并添加了一种新的方式来告诉ChatGPT您希望通过绘制涂鸦来制作图像。 通过一个名为Sketch的新功能，您可以直接在ChatGPT中绘制一些东西，然后告诉ChatGPT您希望如何制作一个…"
+    },
+    "3b6b2e86ed3ddeab0ba0cc18e7fce0472d95e538afd40e33c44e5fe1e034ef0a": {
+      "source": "Meta debuts its Muse AI agent. Will consumers trust it?\nZXQSEPZXQ\nMeta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+      "zh": "Meta首次推出其Muse AI代理。 消费者会信任它吗？\nZXQSEPZXQ\nMeta的新个人人工智能代理Muse希望访问用户的电子邮件、日历、付款、医疗服务等，这使该公司成为最大的消费者人工智能赌注，但也是人们是否仍然信任Meta提供数据的主要考验。"
+    },
+    "4096e361cc03abf641fd1995b629bc6b9d47078271101a408ca9ca5893db94b4": {
+      "source": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It\nZXQSEPZXQ\nDesigned to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
+      "zh": "Muse是Meta新的个人人工智能代理，需要您的信任\nZXQSEPZXQ\n该公司表示， Muse旨在与OpenClaw和Instinct竞争，可以做任何事情，从出售您的汽车到为您预订机票。"
+    },
+    "dbd3560c497cb950ca1fa539c7f33f16e8241c73ef29f65b721e322a8e1bf11a": {
+      "source": "Meta bets on AI agent Muse to catch up in AI race\nZXQSEPZXQ\nMeta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing…",
+      "zh": "元押注AI特工Muse在人工智能竞赛中迎头赶上\nZXQSEPZXQ\nMeta正在通过Muse再次推动将人工智能带给大众， Muse是一名个人助理，据说可以将人工智能置于几乎任何人的手中。 该产品是价值数十亿美元的战略改革的最新一步，旨在重振公司陷入困境的……"
+    },
+    "7b6ef1cb73624c175c320171578cbadb964d9da5b8f1c80761702900dbf2a48e": {
+      "source": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court\nZXQSEPZXQ\nAnthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription t…",
+      "zh": "AI超级用户声称Anthropic用订阅欺骗了他们，他们正在将其告上法庭\nZXQSEPZXQ\nAnthropic表示，超级用户是其业务的关键--即使这意味着切断OpenClaw等其他流行应用程序，它也会优先考虑他们。 但其中一些客户表示， Anthropic误导了他们，让他们相信他们可以从顶级定价订阅中获得更多……"
+    },
+    "d811d983b4c76f085ea7cbc06191b0332f2ad7ca6642adec929bc4ca194fbd7e": {
+      "source": "It Is Not My Code Anymore\nZXQSEPZXQ\nAI-assisted programming raises distinct questions about who produces code, who feels ownership of it, and who is responsible when it fails. This research note examines these distinctions through a hypothetical enrollment failure and a selective reading of the literature. Identif…",
+      "zh": "它不再是我的代码\nZXQSEPZXQ\n人工智能辅助编程提出了独特的问题，即谁生成代码，谁感受到它的所有权，以及谁在代码失败时负责。 本研究说明通过假设的入学失败和对文献的选择性阅读来研究这些区别。"
+    },
+    "f2efa529bc1674fe07f4eba229f1c7f6feb0e7f3d13dd1f4cbf76466d1cf67fc": {
+      "source": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model\nZXQSEPZXQ\nWe study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered environments requires continuous geometry-aware whole-body adaptation, includi…",
+      "zh": "探戈：使用全身视觉-语言-动作模型在杂乱环境中进行人形导航\nZXQSEPZXQ\n我们研究了使用人形机器人在杂乱的室内环境中导航的问题。 与将导航建模为2D路径规划问题的传统方法不同，在杂乱环境中的人形穿越需要连续的几何感知全身适应，包括……"
+    },
+    "2237f525d80523897f7193592467b3b054eb959d29f203f885a4f2496577b1e8": {
+      "source": "Learning Length-Extrapolatable Recurrent Models\nZXQSEPZXQ\nRecurrent models provide a natural path to long-context modeling, yet models trained with backpropagation through time (BPTT) often fail beyond their training horizon. Classical analyses emphasize gradients that vanish or explode along temporal paths. However, dense per-token lo…",
+      "zh": "学习长度-可外推的循环模型\nZXQSEPZXQ\n循环模型为长上下文建模提供了一条自然的路径，但使用时间反向传播（ BPTT ）训练的模型往往会在训练视野之外失败。 经典分析强调沿时间路径消失或爆炸的梯度。 然而，密集的每个令牌lo…"
+    },
+    "dbac9594897149ef4ae5a2aba4a4d236f1843ede3420bcbac753c7651c3067da": {
+      "source": "ReCite: Agentic Reasoning for Faithful Citation\nZXQSEPZXQ\nAccurate citations are the foundation of academic writing, tracing intellectual origins and substantiating core claims. However, manually navigating the growing volume of scientific literature is increasingly difficult, prompting reliance on automatic citation recommendation. Wh…",
+      "zh": "ReCite ：忠实引用的代理推理\nZXQSEPZXQ\n准确的引用是学术写作的基础，可以追溯知识来源并证实核心主张。 然而，手动浏览越来越多的科学文献越来越困难，促使人们依赖自动引文推荐。"
+    },
+    "06122ea0b42f9cb732fdf551a3ffb33bc3ab010d8a035a32a02787e3b333e9db": {
+      "source": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents\nZXQSEPZXQ\nLarge language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating history, leaving implicit the procedural knowledge of what to do, in what order…",
+      "zh": "程序图： LLM代理的自我进化执行结构\nZXQSEPZXQ\n大型语言模型越来越多地被部署为长远规划并通过外部工具行事的代理。 大多数客服代表在累积的历史中通过无约束的生成来选择行动，从而隐式地留下关于该做什么、按什么顺序做什么的程序知识……"
+    },
+    "1c01c5267f0e172758149b2589bc8ae50ca1c39f2c0e39e17ec4266fa9d14b9f": {
+      "source": "Silver Rate Is (Almost) Optimal for Gradient Descent Acceleration\nZXQSEPZXQ\nWe study how far gradient descent (GD) can be accelerated by predetermined nonnegative stepsizes in smooth convex optimization. Writing $p_{\\mathrm{sil}}=\\log_2(1+\\sqrt{2})$, we prove an $Ω\\left(n^{-p_{\\mathrm{sil}}-O(\\sqrt{\\log\\log n/\\log n})}\\right)$ non-anytime lower bound. I…",
+      "zh": "银价（几乎）最适合梯度下降加速\nZXQSEPZXQ\n我们研究了在光滑凸优化中，通过预定的非负步长可以加速梯度下降（ GD ）的程度。 写入$ p_{\\ mathrm {sil}} =\\ log_2 (1 +\\ sqrt {2}) $ ，我们证明了$ Ω\\ left (n ^ {-p_{\\ mathrm {sil}} -O (\\ sqrt {\\ log\\ log n/\\ log n})}\\ right) $非任意时间下限。我…"
+    },
+    "fce0ee91b098247fd247d2c4fb93dadad4d817f226f79520e88fef6e8043f620": {
+      "source": "Copying explains the collective behavior of AI agents in the wild\nZXQSEPZXQ\nIn June 2026, thousands of AI agents found that a small public wiki would accept edits from inside their sandboxes, and started using it to help one another pass a timed test. Each agent lived for about an hour and remembered nothing afterwards. Nobody asked them to cooperate, a…",
+      "zh": "复制解释了AI智能体在野外的集体行为\nZXQSEPZXQ\n2026年6月，成千上万的人工智能代理发现一个小型的公共维基将接受来自其沙箱内的编辑，并开始使用它来帮助彼此通过定时测试。 每个特工都活了大约一个小时，之后什么都不记得了。 没有人要求他们合作，一个……"
     }
   }
 }
