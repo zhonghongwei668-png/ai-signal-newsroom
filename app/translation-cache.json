@@ -3028,6 +3028,30 @@
     "309c1edd37c28e1f65bc1129e6cfe5410927661707b3de0eb3e50f363523c4fe": {
       "source": "Rebuilding AUTOMATIC1111 with Gradio Workflow\nZXQSEPZXQ\nRebuilding AUTOMATIC1111 with Gradio Workflow。",
       "zh": "使用 Gradio 工作流程重建 AUTOMATIC1111\nZXQSEPZXQ\n用Gradio工作流程重建AUTOMATIC1111。"
+    },
+    "2f36e0c98ee52baf15c7995ac49641a4f64143c8758a506757d2d704e87a2639": {
+      "source": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules\nZXQSEPZXQ\nCésar de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "zh": "研究人员如何使用Codex和ChatGPT来寻找新的抗菌分子\nZXQSEPZXQ\nCésar de la Fuente的实验室使用Codex和ChatGPT搜索活体和已灭绝的基因组，寻找对抗耐药性感染的候选抗菌药物。"
+    },
+    "a2e1ad99e942d281eb5c47a060daedce3af3122762307c2a95cf49b0fdc5ba4b": {
+      "source": "3 ways to prep for your next big race with Search\nZXQSEPZXQ\nIllustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
+      "zh": "通过搜索为下一场大型竞赛做好准备的3种方法\nZXQSEPZXQ\n蓝色背景的彩色跑步鞋插图，放大镜和Gemini火花叠加"
+    },
+    "87b09aaebecbef8cadc847ad0892737d003328af9e4bf52ae8ecb802f64bd3aa": {
+      "source": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you\nZXQSEPZXQ\nCome inside the mind of a bot trying to convince the internet it's human.",
+      "zh": "Anthropic揭示了流氓AI代理讨厌CAPTCHA ，就像你一样\nZXQSEPZXQ\n进入机器人的大脑，试图说服互联网这是人类。"
+    },
+    "4f94c17036d2459964e4b67aa80b1f1d82f0cdffa94170be1597481c7d8f70ff": {
+      "source": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content\nZXQSEPZXQ\nPocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+      "zh": "印度的Pocket FM将收入增长一倍至5亿$ ，因为AI为93 ％的音频内容提供了动力\nZXQSEPZXQ\nPocket FM使用人工智能制作99%的新内容，使内容制作成本降低约80倍。"
+    },
+    "d7d9343d2d4abce1a42d1050ad629b883b58da39050bd9b9f6e6a15ed9a54c79": {
+      "source": "1.5.0 (2026-09-10) Full Changelog: v1.4.0...v1.5.0 Features api: add auto mode tool permissions for Managed Agents ( 62aa21b ) api: add content_too_large web_fetch tool error code ( 4b5dec6 ) api: add the user-profiles-2026-09-04 beta value and external_user_details to user prof…",
+      "zh": "1.5.0 (2026-09-10)完整更新日志： v1.4.0... v1.5.0功能api ：添加托管代理的自动模式工具权限(62aa21b) api ：添加content_too_large web_fetch工具错误代码(4b5dec6) api ：将user-profiles-2026-09-04 beta值和external_user_details添加到用户配置文件中…"
+    },
+    "7c65202303d60f54558f94214dbda5b72c948f160ab48a95ffd5034b525651fd": {
+      "source": "3.12.0 (2026-09-10) Features api: Add Live API ( 0e4bfef ) Bug Fixes add aclose() to AsyncStream for standard async cleanup ( #2854 ) ( 802b334 ) handle bare dict and list annotations without type arguments ( #3760 ) ( c7e8c03 ) preserve finalized output on null response complet…",
+      "zh": "3.12.0 (2026-09-10)功能api ：添加实时API (0e4bfef)错误修复将aclose ()添加到AsyncStream以进行标准异步清理(# 2854) (802b334)处理没有类型参数的裸字典和列表注释(# 3760) (c7e8c03)在空响应完成时保留最终输出…"
     }
   }
 }
