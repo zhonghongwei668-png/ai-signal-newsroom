@@ -3004,6 +3004,30 @@
     "97df7bbc723e69c0482b5d4e21251f8d84e0d6b6f59860f8d90875f88146ac44": {
       "source": "Apple has a new way to prove your iPhone photos aren’t AI slop\nZXQSEPZXQ\nApple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
       "zh": "Apple有一种新方法来证明您的iPhone照片不是AI SLOP\nZXQSEPZXQ\nApple推出了Apple Reference Image ，以帮助用户确定照片是否已被编辑，包括AI所做的更改。"
+    },
+    "fa353782624fea7afedcb0f6fcd756d5482c73b19e369cbbab39effba0534e20": {
+      "source": "Powering AI is an architecture problem\nZXQSEPZXQ\nOn July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60…",
+      "zh": "为人工智能提供动力是一个架构问题\nZXQSEPZXQ\n2026 年 7 月 22 日，弗吉尼亚州阿什本（全球最大数据中心集群的中心）发生输电线路故障，几秒钟内导致超过 3 吉瓦的负载断电。这已经不是第一次了。两年前，一个发生故障的避雷器的电压下降了大约 60..."
+    },
+    "b6ac1340ea32a00ec7d48f22760ac8acf9b2bd815b37735c30f555ca4451542e": {
+      "source": "Release v5.17.0 New Model additions HYV4 Hy4-Preview is a 780B-parameter mixture-of-experts language model that activates 49B parameters per token. Each MoE layer holds 256 routed experts plus one always-active shared expert and routes every token to 8 of them. The context windo…",
+      "zh": "版本 v5.17.0 新模型添加 HYV4 Hy4-Preview 是一个 780B 参数混合专家语言模型，每个令牌激活 49B 参数。每个 MoE 层拥有 256 个路由专家加上一个始终活跃的共享专家，并将每个令牌路由到其中的 8 个。上下文窗口..."
+    },
+    "984ba8da86f56a6d8a2688e189afecd3be8fad5bee0cd5998e46568653536688": {
+      "source": "Mathematicians want proof OpenAI didn’t use their work\nZXQSEPZXQ\nAnother researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpublished work, a second mathematician has come forward accusing…",
+      "zh": "数学家想要证明 OpenAI 没有使用他们的工作\nZXQSEPZXQ\n另一位研究人员正在向 OpenAI 质疑数据驱动其日益令人印象深刻的数学发现。就在围绕该公司的模型是否受益于未发表的工作而引发激烈争吵的几天后，第二位数学家站出来指责……"
+    },
+    "2ee18b19a735e0df2bcda5f329dfc1d1ded483467590e961718c6d5a0a93b2c4": {
+      "source": "Everything New You Can Do With Siri AI\nZXQSEPZXQ\nWhen iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
+      "zh": "Siri AI 可以做的一切新事\nZXQSEPZXQ\n当 iOS 27 到来时，它将为你的 iPhone 带来一个经过全面改造的助手。"
+    },
+    "5638bfead4ff93dfdda770c639b962934ed7648c53e451b1b14e97d233b5a1c0": {
+      "source": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online\nZXQSEPZXQ\nInquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information about people identified through Clearview.",
+      "zh": "Clearview AI 正在测试一款人工智能工具，可以让警察在网上挖掘你的生活\nZXQSEPZXQ\nInquiryIQ 是一个之前未报道的原型，它测试了 Grok 制造商 xAI 的模型，以显示同事、社交帐户以及通过 Clearview 识别的人员的其他信息。"
+    },
+    "309c1edd37c28e1f65bc1129e6cfe5410927661707b3de0eb3e50f363523c4fe": {
+      "source": "Rebuilding AUTOMATIC1111 with Gradio Workflow\nZXQSEPZXQ\nRebuilding AUTOMATIC1111 with Gradio Workflow。",
+      "zh": "使用 Gradio 工作流程重建 AUTOMATIC1111\nZXQSEPZXQ\n用Gradio工作流程重建AUTOMATIC1111。"
     }
   }
 }
