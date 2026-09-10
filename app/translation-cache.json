@@ -2952,6 +2952,58 @@
     "b05a001bec2d93568098043660931d8780ee3b8772a0ef244b8c75be00029e86": {
       "source": "Superintelligence is coming. Should we let it?\nZXQSEPZXQ\nAI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably…",
       "zh": "超级智能即将到来，我们应该让它去吗？\nZXQSEPZXQ\n人工智能公司一直在谈论超级智能人工智能是不可避免的，但最近的安全事件，如OpenAI的Hugging Face漏洞，正在证明部署比人类更强大的人工智能系统的潜在危险。 那么，当我们无法可靠地……"
+    },
+    "12c1c364ff91e404fc5d917ce2adfce3012491d3abf0214bde6dbe11d4336f90": {
+      "source": "Read the Apple document explaining how new listening features still protect your privacy\nZXQSEPZXQ\nAt Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI…",
+      "zh": "阅读Apple文档，了解新的聆听功能如何保护您的隐私\nZXQSEPZXQ\n在周三的iPhone Duo发布会上，苹果宣布了一些新的Siri AI音频智能功能，包括Siri Recap、Live Rewind、声音识别和音乐识别。 在宣布这一消息的同时，苹果还发布了一份文件，阐述了它计划如何平衡人工智能……"
+    },
+    "a7a13dc4df22b4ff128df49372f63d7a730ca89ed52d4e496eb350366214ed8f": {
+      "source": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks\nZXQSEPZXQ\nListen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "zh": "人工智能研究初创公司Listen Labs为Salesforce会谈筹集了15亿美元资金\nZXQSEPZXQ\n消息人士称， Listen Labs放弃了Menlo Ventures签署的C系列条款表。"
+    },
+    "e6ae6fdd578ee5bef4138f403d6cdb6b2db69b6d64fd7d98b9f9d78ad59ef2fd": {
+      "source": "Suno releases its first AI music model made with record industry help\nZXQSEPZXQ\nSuno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes…",
+      "zh": "Suno发布首个在唱片行业帮助下制作的人工智能音乐模型\nZXQSEPZXQ\nSuno的新v6人工智能音乐模型首次在唱片行业的支持下制作。 Suno的Jack Brody告诉The Verge ， v6 “从头开始训练，使用一组新的数据，其中不包括我们以前的模型训练的相同数据。“数据包括……"
+    },
+    "2d89fb7b98b9c639e2991ab0abb0c9ad87ea7fab323d240b9d44dbb04bc0021b": {
+      "source": "OpenAI’s sly mathematical breakthrough sends a chill through academia\nZXQSEPZXQ\nOpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before…",
+      "zh": "OpenAI狡猾的数学突破让学术界心寒\nZXQSEPZXQ\nOpenAI周二宣布，它已经解决了数学界传奇性的千年奖问题之一，这应该是一个胜利的时刻。 其结果既是一项不可否认的成就，也是对人工智能正在以多快的速度改变数学的惊人证明。但在此之前……"
+    },
+    "a1742c11bccb856aaffe72f50af5d38c51d971f7f28051c71db4d50e77dbe0af": {
+      "source": "OpenAI adds a prominent AI doomer to its board of directors\nZXQSEPZXQ\nPaul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "zh": "OpenAI为其董事会增加了一个突出的人工智能末日\nZXQSEPZXQ\nPaul Christiano是一位专注于对齐的有影响力的人工智能研究人员，他将加入OpenAI基金会，成为其董事会成员。"
+    },
+    "0557977c7ce446b2ff7ce6b667d842110b89ced78ec7062e47c35c031b9913c8": {
+      "source": "Massachusetts hits data centers with new clean power rules\nZXQSEPZXQ\nMassachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "zh": "马萨诸塞州采用新的清洁能源规则打击数据中心\nZXQSEPZXQ\n马萨诸塞州已经成为几个月来第三个对数据中心开发施加新限制的州。"
+    },
+    "a2b8d4483c69457c4eaa94cf04678d3bb7b98437ea0ae6fa2d2f67f53b1237cc": {
+      "source": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI\nZXQSEPZXQ\nApple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\" The i…",
+      "zh": "苹果新推出的iPhone相机模式有望证明您的照片不是人工智能\nZXQSEPZXQ\nApple正在推出一种新方法来证明您拍摄的照片不是由人工智能操纵的。 一项名为“参考图像”的新功能将于本月晚些时候随iPhone 18 Pro阵容推出，预计将使用该设备的新相机传感器“对它看到的每个像素进行签名。“我……"
+    },
+    "8a3699db921d23c89b39f6c84049a6d86dfbe70536ba3482ca240e1135af4165": {
+      "source": "Apple Watch’s new AI features are normalizing the idea that technology is always listening\nZXQSEPZXQ\nApple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+      "zh": "Apple Watch的新人工智能功能正在使技术始终在倾听的观念正常化\nZXQSEPZXQ\n苹果表示，其新款手表不会保存原始音频，但可以转录最近的演讲和总结环境对话的功能提出了有关同意、隐私以及人们在知道自己可以随时被录音时的行为方式的新问题。"
+    },
+    "674d31693d042a8bf2590c8138630e5abd2667ba8e0077f57a606b3ae1419d70": {
+      "source": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’\nZXQSEPZXQ\nJacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
+      "zh": "刚刚退出Anthropic的人工智能研究人员表示，现在是“人类的紧要关头”\nZXQSEPZXQ\nJacob Coxon与WIRED讨论了Anthropic内部的“迷你曼哈顿项目”、对齐问题以及为什么人工智能实验室只有几年的时间来确保其系统的安全。"
+    },
+    "7dc5f22f9b19ba775e93664097fd43cea4010078417709537f6e15741c0288a6": {
+      "source": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch\nZXQSEPZXQ\nThe main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+      "zh": "苹果在秋季iPhone发布会上宣布的一切，从可折叠的iPhone Duo到始终聆听的Apple Watch\nZXQSEPZXQ\n主要事件是科技巨头备受期待的第一款可折叠手机iPhone Duo。"
+    },
+    "1ae4e9b4fe3ce2373a533580990e3507200fb8973a310e215ddca17013a9cf9f": {
+      "source": "The hinge for Apple’s new foldable phone was built with AI\nZXQSEPZXQ\nApple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+      "zh": "苹果新款可折叠手机的铰链是用AI打造的\nZXQSEPZXQ\n苹果公司表示，它在其期待已久的可折叠手机的制造过程中使用了人工智能和3D打印。"
+    },
+    "585690e42ccb8995f792976e1b99bbb7dcdc156a896abb6d416d8a94b8ac6e2d": {
+      "source": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads\nZXQSEPZXQ\nThe City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not under the city’s jurisdiction.",
+      "zh": "旧金山命令Meta停止“允许”人工智能虐待儿童广告\nZXQSEPZXQ\n市检察官办公室已要求Meta解释有害广告如何在Facebook和Instagram上反复投放。 该公司声称这些广告不属于该市的管辖范围。"
+    },
+    "97df7bbc723e69c0482b5d4e21251f8d84e0d6b6f59860f8d90875f88146ac44": {
+      "source": "Apple has a new way to prove your iPhone photos aren’t AI slop\nZXQSEPZXQ\nApple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+      "zh": "Apple有一种新方法来证明您的iPhone照片不是AI SLOP\nZXQSEPZXQ\nApple推出了Apple Reference Image ，以帮助用户确定照片是否已被编辑，包括AI所做的更改。"
     }
   }
 }
