@@ -3116,6 +3116,14 @@
     "32d58b718212a02d947d8e8064b6cff8f002160208c7707ba5fd2e3057686ca2": {
       "source": "Distance generalization in transformers: why bother with positional encoding?\nZXQSEPZXQ\nOut-of-distribution length generalization, namely to extrapolate a task from short to longer context, has been studied intensively for transformers. Here we focus on distance generalization, which probes performance when inter-token distances are changed between training and inf…",
       "zh": "变压器中的距离概括：为什么要费心进行位置编码？\nZXQSEPZXQ\n对于变压器，已经深入研究了不分布长度泛化，即将任务从短上下文外推到更长上下文。 在这里，我们专注于距离泛化，当训练和信息之间的令牌间距离发生变化时，它会探测性能。"
+    },
+    "cf3d810eda7f6ed632aebae9f88ee92903055c298af121e0c88f58ce93f3e3c5": {
+      "source": "Why So Many AI Researchers Think the Machines Could Kill Everyone\nZXQSEPZXQ\nA combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
+      "zh": "为什么这么多人工智能研究人员认为机器可以杀死所有人\nZXQSEPZXQ\n快速进步、递归自我提升和特工群体的结合，在大型实验室中真正“吓坏了人们”。"
+    },
+    "09efe94d14db753c90c907a518ca35b274a271d7a230607617c552c0c0282ace": {
+      "source": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his\nZXQSEPZXQ\nMark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+      "zh": "Mark Wahlberg即将来到TechCrunch Disrupt 2026 ，他想谈谈你的工作，而不是他的\nZXQSEPZXQ\nMark Wahlberg加入Disrupt的Bruce K. Lee ，讨论投资、创业、医疗保健、健康和建设业务。"
     }
   }
 }
