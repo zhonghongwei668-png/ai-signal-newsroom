@@ -3428,6 +3428,42 @@
     "35b75520a2bcde818cb556763e8b30906c674884c894aaba6c3a27e9567900c7": {
       "source": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs\nZXQSEPZXQ\nNeural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs. Dynamic frame rate codecs mitigate this by reducing the effective frame rate using a compression step to merge mult…",
       "zh": "LACE ：动态帧速率编解码器的分层压缩\nZXQSEPZXQ\n神经音频编解码器是语音语言建模的关键组成部分。 然而，它们的高帧率导致长序列长度，增加了计算成本。 动态帧速率编解码器通过使用压缩步骤合并多帧来降低有效帧速率来缓解这一问题。"
+    },
+    "1b5a96deec09ba34de6ab82f156e2064da88e4cd35f41ed6cbba96ed11e8580d": {
+      "source": "Reimagining advertising with AI\nZXQSEPZXQ\nExplore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "zh": "用人工智能重新构想广告\nZXQSEPZXQ\n探索OpenAI新的人工智能驱动广告体验，包括赞助商、营销人员工具以及与HubSpot和Shopify的集成。"
+    },
+    "caf759a0b8b2642175950d88966774c000715496f118c8884334412cae6c646d": {
+      "source": "A brief history of AI executives calling for regulation\nZXQSEPZXQ\nOver the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsof…",
+      "zh": "人工智能高管呼吁监管的简要历史\nZXQSEPZXQ\n在过去的几天里，很多能够从人工智能中赚很多钱的人都公开同意，现在是时候让每个人都在我们失去控制之前放慢脚步了--包括OpenAI首席执行官Sam Altman、Anthropic首席执行官Dario Amodei、Google DeepMind联合创始人Demis Hassabis、Microsof……"
+    },
+    "4ff983ac4d71f96faf73ca254a1f2967cec7bccb2e5ee51219813ef29be8c9b7": {
+      "source": "Building the materials foundation for AI\nZXQSEPZXQ\nThe AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, th…",
+      "zh": "为人工智能奠定材料基础\nZXQSEPZXQ\n人工智能热潮正在成为一项材料挑战。 随着人工智能将计算推向新的领域，基础设施背后的材料正变得与在其上运行的算法一样重要。 半导体和数据中心在性能方面正在接近物理极限，因此……"
+    },
+    "bc224e6ad0d5f14fd76153e9718eb0e13a7878f4c30dac27dc220541575a01a9": {
+      "source": "Amazon launches Alexa+ in India with Hindi support\nZXQSEPZXQ\nAmazon is letting all customers use Alexa+ assistant in early access period.",
+      "zh": "亚马逊在印地语支持下在印度推出Alexa +\nZXQSEPZXQ\n亚马逊允许所有客户在抢先体验期间使用Alexa +助手。"
+    },
+    "db5f324c730f70eba2fc49cab00f4b125947feb2d4b6a6dbb364ceab12907719": {
+      "source": "SK Hynix reportedly in talks with Intel to build memory chips in US\nZXQSEPZXQ\nSK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
+      "zh": "据报道， SK海力士正在与英特尔就美国制造内存芯片进行谈判\nZXQSEPZXQ\nSK海力士告诉TechCrunch ，该公司尚未最终确定任何计划或安排。"
+    },
+    "74b8d85fbe4bb802b3a6dee9b2478017a7291b96c8f49ce06c974b7f85953c51": {
+      "source": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK\nZXQSEPZXQ\nAir pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how re…",
+      "zh": "曼彻斯特大学使用NVIDIA Earth-2预测英国各地的空气污染\nZXQSEPZXQ\n空气污染是一种严重的公共卫生风险，去年仅在英国就造成了约3万人死亡。 数据驱动的洞察力可以有所帮助，但使用传统的基于化学的模型计算空气质量是昂贵的，这限制了它们的详细程度以及如何……"
+    },
+    "3c59fe49ee9c9a7fb7028931d0f798ca371a13fc8a4b1095cf74889a9f46a8d3": {
+      "source": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown\nZXQSEPZXQ\nThe US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
+      "zh": "中国不会购买硅谷对人工智能放缓的呼吁\nZXQSEPZXQ\n美国和中国一致认为，先进的人工智能带来了严重的风险。 但北京方面对一项优先考虑让美国公司保持领先地位的协议深表怀疑。"
+    },
+    "67bc77590ad79a4d6a3a5660fdd86cb72b8c0c8c03fe45b7db56c3f60e2bddc6": {
+      "source": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce\nZXQSEPZXQ\nKnow everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa — Salesforce’s first CRM reasoning model, built on NVIDI…",
+      "zh": "Jensen Huang在Dreamforce上说： “现在我们什么都能知道，什么都能做。”\nZXQSEPZXQ\n了解一切。做任何事情。 这是NVIDIA创始人兼首席执行官Jensen Huang周二带给Salesforce Dreamforce的信息，与首席执行官Marc Benioff一起登台演讲，恰逢KOA的发布-- Salesforce的第一个基于NVIDI的CRM推理模型……"
+    },
+    "c3e2acdfef1f00f19468ef787e86b8f04c3919a2b2640b640d835473da6e3e83": {
+      "source": "AI and data centers are incredibly unpopular in every poll\nZXQSEPZXQ\nPoll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech…",
+      "zh": "人工智能和数据中心在每次民意调查中都非常不受欢迎\nZXQSEPZXQ\n《纽约时报》和锡耶纳大学周二发布的民意调查数据证实了我们已经看到的情况，以及政客们的回应--人工智能和数据中心非常不受欢迎。 当被问及他们是否支持或反对建设数据中心以推动人工智能技术时……"
     }
   }
 }
