@@ -3380,6 +3380,54 @@
     "bc9fe521f48de57e54f77e9ef238cc35a2927519a67e10b330f2f43eb53726c9": {
       "source": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’\nZXQSEPZXQ\nThe virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
       "zh": "人工智能“演员”蒂莉·诺伍德（ Tilly Norwood ）告诉我“所有生命都很重要”\nZXQSEPZXQ\n这位虚拟角色正在宣传即将上映的电影《Misaligned》，他试图通过反复评论你穿的衣服来逃避政治。"
+    },
+    "2e76600e69cf89176e6cc54acca63defcfa2a44b215e64b07d44b66131664dbe": {
+      "source": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says\nZXQSEPZXQ\nAI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "zh": "Nvidia的Jensen Huang表示，我们不需要人工智能监管—将安全问题留给我们\nZXQSEPZXQ\n根据Jensen Huang的说法，人工智能并不是“外星人思维”的新形式。 它只是硬件和软件，因此每个人工智能产品制造商都可以设计安全性。"
+    },
+    "8a83c51f85c1d0a1fab35b32e99d28bbfcd0e3d2ded0f116bbd164d452662252": {
+      "source": "AI and data centers are incredibly unpopular in every poll\nZXQSEPZXQ\nPoll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech…",
+      "zh": "人工智能和数据中心在每次民意调查中都非常不受欢迎\nZXQSEPZXQ\n《纽约时报》和锡耶纳大学周二发布的民意调查数据证实了我们已经看到的情况，以及政客们的回应--人工智能和数据中心非常不受欢迎。 当被问及他们是否支持或反对建设数据中心以推动人工智能技术时……"
+    },
+    "570af337c0d5b2871ba15af017078c128f15c603c1252f3316986ac5c889ea1b": {
+      "source": "The AI graveyard: a running list of projects and startups that didn’t make it\nZXQSEPZXQ\nFrom Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "zh": "人工智能墓地：未成功完成的项目和初创公司的运行列表\nZXQSEPZXQ\n从苹果一再推迟Siri AI到OpenAI凌乱的“超级应用”发布，以下是关闭或未达到预期的人工智能项目。"
+    },
+    "fce60eca4fc764d7a7b2a2e4803119983980c598131fc38b6beec519d99e0e15": {
+      "source": "The AI data center boom is colliding with cities scarred by big industry\nZXQSEPZXQ\nNational outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+      "zh": "人工智能数据中心的繁荣正在与被大型产业蹂躏的城市相撞\nZXQSEPZXQ\n全国对数据中心建设的强烈抗议已经蔓延到费城，官员们建议在一个已经受到现已倒闭的炼油厂影响的社区进行建设。"
+    },
+    "5ae4bc6047d1363d75d0d1c366661580afc59627364dad36edd96e39472b5e7e": {
+      "source": "3.14.1 (2026-09-15) Bug Fixes client: validate retry limits and preserve application errors ( #3867 ) ( f86c721 ) correct typo \"th\" to \"the\" in StreamAlreadyConsumed error message ( #3022 ) ( 7186203 ) examples: correct Azure endpoint hostname ( #3298 ) ( 543516c ) examples: ref…",
+      "zh": "3.14.1 (2026-09-15)错误修复客户端：验证重试限制并保留应用程序错误(# 3867) (f86c721)将StreamAlreadyConsumed错误消息中的“th”改为“the” (# 3022) (7186203)示例：正确的Azure端点主机名(# 3298) (543516c)示例： ref…"
+    },
+    "85b97eaa7beb09cf74451105e058e06ac67351987a185c6609bd6a6c1f12a219": {
+      "source": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup\nZXQSEPZXQ\nA new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "zh": "Meta现在允许人工智能代理处理WhatsApp Business设置的无聊部分\nZXQSEPZXQ\n全新的WhatsApp Business MCP服务器允许开发人员使用Claude、Cursor、Codex和ChatGPT等AI编码代理来处理设置、消息传递模板、测试和故障排除。"
+    },
+    "a974bd2db0b084cc1bd28dc05e684fc0ab79b162d29fa7f668c57998f77f090a": {
+      "source": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents\nZXQSEPZXQ\nWe introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carrying out scientific tasks while transforming their requests, fee…",
+      "zh": "ScienceBuddy ：交互式科学代理的递归递归自我改进\nZXQSEPZXQ\n我们推出并发布ScienceBuddy ，这是一个交互式科学研究工作空间，将不断改进的科学代理引入研究人员的日常工作流程。 ScienceBuddy支持研究人员执行科学任务，同时转变他们的要求、费用……"
+    },
+    "b8fcba940c52559addfec72cf4a199e7fdcd02764394cfb9323939dfe37a05f6": {
+      "source": "Agentic Societies Need a Social Harness\nZXQSEPZXQ\nAn agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentally that in agentic societies even honest, competent agents often fail to reach s…",
+      "zh": "代理社团需要社交线束\nZXQSEPZXQ\n代理社会是人工智能代理的集合，它们代表目标可能仅部分一致的不同委托人，跨越信任边界进行自主协调。 我们通过实验表明，在代理社会中，即使是诚实、有能力的代理人也往往无法达到……"
+    },
+    "437b38608434c70faa29d70b62b149dca62ab0b551c3a7da6cf8994985525915": {
+      "source": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control\nZXQSEPZXQ\nInteractive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the full control schedule before generation starts, or use pixel-space signals that…",
+      "zh": "PhysStream ：具有结构化场景内存和精细运动控制的流式物理接地视频生成\nZXQSEPZXQ\n视频生成的交互式控制正在从粗糙的提示转向对动态场景进行细粒度、物理上有意义的操作。 然而，现有的可控方法要么要求在开始生成之前进行完整的控制计划，要么使用像素空间信号……"
+    },
+    "dc9a69255dc2b181b3dfba9bf68f173308f90b2c4ac439ac5521bfe52a461d36": {
+      "source": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control\nZXQSEPZXQ\nLarge language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment conditional on an explicit assessment of the information required to answer a questio…",
+      "zh": "LLM应在何时弃权？ 选择性风险控制的自我质疑链\nZXQSEPZXQ\n当大型语言模型的事实支持较弱时，它们可以产生流畅的答案。 本文介绍了Chain-of-Self-Questioning （ CoSQ ） ，这是一个仅提示的框架，它使答案承诺以回答问题所需的信息的明确评估为条件…"
+    },
+    "67eb3fabe255ce8aa297427163fe6183fd653acf78b4fb1753caec758117a52c": {
+      "source": "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity\nZXQSEPZXQ\nPruning can reduce the deployment cost of large language models (LLMs), but its impact on context-grounded tool calling remains poorly understood. We systematically study pruning-induced degradation in smart-home tool calling across four LLMs spanning dense Transformer, dense hy…",
+      "zh": "在智能家居中，修剪有哪些缺陷？何时修剪？ 评估LLM在架构和任务复杂性方面的退化\nZXQSEPZXQ\n修剪可以降低大型语言模型（ LLM ）的部署成本，但其对基于上下文的工具调用的影响仍然知之甚少。 我们系统地研究了横跨四个LLM的智能家居工具调用中修剪引起的降解，这些LLM跨越密集的变压器、密集的……"
+    },
+    "35b75520a2bcde818cb556763e8b30906c674884c894aaba6c3a27e9567900c7": {
+      "source": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs\nZXQSEPZXQ\nNeural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs. Dynamic frame rate codecs mitigate this by reducing the effective frame rate using a compression step to merge mult…",
+      "zh": "LACE ：动态帧速率编解码器的分层压缩\nZXQSEPZXQ\n神经音频编解码器是语音语言建模的关键组成部分。 然而，它们的高帧率导致长序列长度，增加了计算成本。 动态帧速率编解码器通过使用压缩步骤合并多帧来降低有效帧速率来缓解这一问题。"
     }
   }
 }
