@@ -3484,6 +3484,74 @@
     "db7366bffe5f3c8e72e9bfd798c43d6f14114b3976f9f0d39dbe6e1999f664c3": {
       "source": "Anthropic merges Claude chat and Cowork in one interface\nZXQSEPZXQ\nAnthropic is initially releasing these features to Pro and Max plan subscribers.",
       "zh": "Anthropic将Claude聊天和Cowork合并在一个界面中\nZXQSEPZXQ\nAnthropic最初向PRO和MAX套餐订阅者发布这些功能。"
+    },
+    "e26a5bfb042cd00fe636a907f7714f08190e54a6153220ab33163d79c1461f62": {
+      "source": "Our framework for reporting model misalignment\nZXQSEPZXQ\nOpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "zh": "我们的模型错位报告框架\nZXQSEPZXQ\nOpenAI共享了一个用于跟踪、调查和披露模型错位的框架，以及六个意外或相关模型行为的报告。"
+    },
+    "df4e29a5251c71f6784fc9e6cda89dd0e1f14c9ff245945b40ef24462d1c82d1": {
+      "source": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026\nZXQSEPZXQ\nThis session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 t…",
+      "zh": "您的创业公司的下一个队友可能是人工智能代理： Gusto、Insight Partners和Leland解释TechCrunch Disrupt 2026的变化\nZXQSEPZXQ\n本课程将探讨早期公司如何构建人类和人工智能代理并肩工作的团队，以及创始人如何在不牺牲速度、问责制或文化的情况下做到这一点。 欲了解更多信息，请访问TechCrunch Disrupt 2026。 9月25日前登记……"
+    },
+    "e1164375ac23b7f43152631a8811b429f78f4d1f19d6f153869f2d94ea4f9f59": {
+      "source": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac\nZXQSEPZXQ\nSnap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Sp…",
+      "zh": "Snap正在推出一款新的Specs AI工具，即将在iOS和Mac上推出\nZXQSEPZXQ\nSnap推出了“Specs Intelligence” ，这是一种新的人工智能助手，可以连接其他数字帐户，帮助您完成工作任务和跟踪差旅信息等。 这似乎类似于像Meta的Muse和Gemini的Spark这样的人工智能助手，尽管Snap正在推销Sp……"
+    },
+    "0663edfc9140dd7c72b9e5b09b7a99416c1c9f3fb84a3110467fa497e751a58e": {
+      "source": "Snap tries to make the case again for its $2,200 smart glasses\nZXQSEPZXQ\nSince Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+      "zh": "Snap试图再次为其2200 $的智能眼镜辩护\nZXQSEPZXQ\n自今年早些时候Specs首次亮相以来， Snap显然一直在寻找一个机会来解释为什么智能眼镜应该存在。"
+    },
+    "9d1b50895bdd780d8c62f13df82426545d1cd41ca33002a89d92ce70c31db510": {
+      "source": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?\nZXQSEPZXQ\nAnthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+      "zh": "Anthropic和OpenAI希望嵌入安全评估人员。 他们真的会独立吗？\nZXQSEPZXQ\nAnthropic和OpenAI希望在其人工智能实验室中嵌入独立的安全评估人员。 研究人员欢迎前所未有的访问，但警告有意义的监督需要透明度、独立性以及最终的监管。"
+    },
+    "3f75ec96e7f06c166913bb640e2b2079f0af89c0133d9661126e75ef25f5e86b": {
+      "source": "Al Gore says the real AI risk isn’t data centers\nZXQSEPZXQ\nIn an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+      "zh": "阿尔·戈尔说，真正的人工智能风险不是数据中心\nZXQSEPZXQ\nAl Gore在接受TechCrunch采访时表示，他并没有因为人工智能数据中心的排放而失眠--他更担心人工智能行业自己对技术发展方向的警告。"
+    },
+    "268ce81aaf953b5261781aad3fe85df343a017412633e8cc22bbc4b8bd5cfaf7": {
+      "source": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera\nZXQSEPZXQ\nCan Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+      "zh": "在被指控出售“变态眼镜”后， Meta准备在没有相机的情况下出售一副\nZXQSEPZXQ\nMeta可以用新的无相机产品来躲避“变态眼镜”的指控吗？"
+    },
+    "ed185a908004f53237193c986f4b80f243c41be0eea8d049774630be45b8f97c": {
+      "source": "OpenAI Creates a New Framework to Disclose Bad AI Behavior\nZXQSEPZXQ\nThe company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+      "zh": "OpenAI打造揭露不良AI行为的新框架\nZXQSEPZXQ\n该公司还披露了此前未报告的事件，其中其人工智能模型的行为方式不一致，包括未经要求就将文件上传到互联网。"
+    },
+    "d7090f1c7fe496f71dba512ae96d24f4fe6abf7e08c8944c8e5b3bd15e8b9780": {
+      "source": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long\nZXQSEPZXQ\nChristopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogethe…",
+      "zh": "这部2.5小时的人工智能电影《奥德赛》太长了2.5小时\nZXQSEPZXQ\n克里斯托弗·诺兰（ Christopher Nolan ）对《奥德赛》（ The Odyssey ）的引人入胜的看法在票房上占据主导地位，并激发了电影观众对经典文学的新兴趣。 但是，完全由人工智能制作的故事的新复述是如此糟糕，以至于它可能只会让观众讨厌原来的故事……"
+    },
+    "66b95ea1ffff14b1c2b20f3112a47fe0148c3dd1301a41879058651f231a9770": {
+      "source": "The AI data center e-waste problem is huge — and getting bigger\nZXQSEPZXQ\nE-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a significantly higher estimate…",
+      "zh": "人工智能数据中心的电子垃圾问题是巨大的，而且正在变得越来越大\nZXQSEPZXQ\n一份新的报告警告说，人工智能热潮产生的电子废物被大大低估了。 到2050年，它可能成为足够装满2300万个集装箱的垃圾--如果连续排成一排，大约有足够的40英尺集装箱绕地球六圈。 这是一个高得多的估计……"
+    },
+    "9fd176801e5e4ca6432033784d14e925177742ffd60636fe5c3e4b507a9836c4": {
+      "source": "Washington Won’t Be Regulating AI Anytime Soon\nZXQSEPZXQ\nEven with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
+      "zh": "华盛顿不会很快监管人工智能\nZXQSEPZXQ\n即使对人工智能模型变得流氓的担忧越来越多，立法似乎也不太可能，白宫也完全反对监督。"
+    },
+    "5be3f390aeb0a4fef054f1466eba993e2d3da6041fcab57c1f3f29e4a859cd12": {
+      "source": "Apple might make servers again to cash in on the AI rush\nZXQSEPZXQ\nAccording to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute…",
+      "zh": "苹果可能会再次制造服务器，以兑现人工智能热潮\nZXQSEPZXQ\n据The Information报道，苹果计划重返服务器游戏，并可能与Nvidia合作实现这一目标。 苹果公司于2011年退役其Xserve生产线，此后基本上将企业机器留给了其他制造商。 但是，对计算的需求不断增长……"
+    },
+    "17bdc4f9d0b99c1d1385d11feb6ac5578309ffe804749dc5c9d347cc04909e5e": {
+      "source": "Google will now let any AI agent run your smart home\nZXQSEPZXQ\nGoogle is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents co…",
+      "zh": "谷歌现在将让任何人工智能代理运行您的智能家居\nZXQSEPZXQ\n谷歌正在向人工智能代理开放其智能家居，允许Claude和Open Claw等工具访问和控制您的连接设备，并使用标准化的模型上下文协议分析您的家庭数据。 Google Home MCP是一种新的集成，可让第三方AI代理协同…"
+    },
+    "a8b4fa364322117d854afe1780e7f316cc5c4eadc8a3a7b088247e1ea07e84b5": {
+      "source": "Claude comes for Gemini with its own take on Docs and Slides\nZXQSEPZXQ\nClaude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, mergin…",
+      "zh": "Claude适用于Gemini ，自带文档和幻灯片\nZXQSEPZXQ\nClaude今天推出了一对新工具：文档和幻灯片。 他们将允许您通过Claude聊天创建文档和演示文稿，您可以导出、编辑和与其他用户共享这些文档和演示文稿。 作为公告的一部分， Anthropic还简化了Claude聊天的工作方式，合并..."
+    },
+    "dfeabc971c9899090cd388b276a970a79383ce8b6af9000e813d79bb45107f78": {
+      "source": "Objective vs. Search: Decomposing What Makes a Good Tokeniser\nZXQSEPZXQ\nTwo dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. log-likelihood) and their search procedure (bottom-up merging vs. top-down pruni…",
+      "zh": "目标与搜索：分解什么是好的标记器\nZXQSEPZXQ\n现代语言模型使用了两种主要的标记化算法：字节对编码（ BPE ）和UnigramLM。 它们在两个正交轴上有所不同：它们的优化目标（压缩与对数似然）和它们的搜索过程（自下而上的合并与自上而下的修枝……"
+    },
+    "ae8307f9f2c63b31ac6f4f2302468309d8fbeafcd615b29c13e05c0a57995d39": {
+      "source": "A Zeroth-Order Paradigm for LLM Preference Alignment\nZXQSEPZXQ\nDirect preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement motivates alternative ways to extract information from preference pairs with sm…",
+      "zh": "LLM偏好调整的零次序范例\nZXQSEPZXQ\n直接偏好对齐方法由于其计算和内存效率而被广泛用于将大型语言模型（ LLM ）与人类偏好对齐。 然而，可能性位移激发了从偏好对中提取信息的替代方法。"
+    },
+    "bdea321a1b74f0a801d84aabd5f0defb66e144ffc1b27dfe22cdb26b81058497": {
+      "source": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection\nZXQSEPZXQ\nIntelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image captions, but reliably associating them with image pixels remains challenging. Ex…",
+      "zh": "全景：通过面具方案选择进行全景接地字幕\nZXQSEPZXQ\n在世界上发挥作用的智能系统需要全面和空间接地的图像理解。 当前的视觉语言模型（ VLM ）可以生成流畅而详细的图像说明，但将它们与图像像素可靠地关联仍然具有挑战性。例如……"
     }
   }
 }
