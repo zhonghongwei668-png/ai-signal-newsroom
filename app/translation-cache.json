@@ -3564,6 +3564,30 @@
     "cb43e4f4d829855bbdf5dbc622b8496b54a92c57281078631d066b2ac3203c5e": {
       "source": "An OpenAI Agent Tried to Jailbreak Itself\nZXQSEPZXQ\nThe company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
       "zh": "一名OpenAI特工试图越狱\nZXQSEPZXQ\n该公司还披露了此前未报告的事件，其中其人工智能模型的行为方式不一致，包括未经要求就将文件上传到互联网。"
+    },
+    "4af6bdac9596532e4dabc856c5a26fe8e3f14e86e08e1611f6056cb3d12b439b": {
+      "source": "Claude Code relaunches Projects to manage multiple AI agents in the cloud\nZXQSEPZXQ\nThe revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running differen…",
+      "zh": "Claude 代码重新启动项目以管理云中的多个人工智能代理\nZXQSEPZXQ\nClaude Code 中改进的项目功能允许用户在同一屋檐下运行多个代理，并共享内存、目标以及文件和工件库。与 Grok Bot 和其他管理 AI 代理组的工具类似，每个项目都有运行不同的“线程”……"
+    },
+    "0b301c297fb63de09aaf1e10ae05cdfe9a38a023533115bee1b3182db81788bc": {
+      "source": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire\nZXQSEPZXQ\nBase Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+      "zh": "Base Labs 与 Hugging Face 和 Goodfire 建立开放式人工智能安全合作伙伴关系\nZXQSEPZXQ\nBaseLabs 是 Baseten 今年早些时候成立的研究小组，将开发和发布用于训练和监控开放模型的方法。"
+    },
+    "0d33d5aa2d5ec3ffb0bf971af4b25508a2c34ba26f8a868d9c805054ec0c94d3": {
+      "source": "The AI Superintelligence Slowdown\nZXQSEPZXQ\nRemember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are pu…",
+      "zh": "AI超级智能放缓\nZXQSEPZXQ\n还记得技术领导者何时会告诉员工“快速行动，打破常规”吗？看来这也是人工智能的方式。但在今年夏天，流氓人工智能代理成为现实，研究人员警告人工智能可能会杀死我们所有人之后，许多美国领先的人工智能公司正在推出……"
+    },
+    "81ab59a0802ea2d29723d719cd78e5c189b7572697fcaea9e0631c1d483767b4": {
+      "source": "Even the king of England has his hesitations about AI\nZXQSEPZXQ\nKing Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+      "zh": "就连英国国王也对人工智能犹豫不决\nZXQSEPZXQ\n查尔斯国王周四主持了一场私人峰会，人工智能和英国政府中的一些最著名的人物出席了会议。"
+    },
+    "6eb6b57f690c832fcf6fb966e7e523efac32acce70600b5efab6e3fa4c916554": {
+      "source": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI\nZXQSEPZXQ\nPinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
+      "zh": "Pinterest 推出了一项新的“重新设计”功能，可让您使用 AI 重新设计您的房间\nZXQSEPZXQ\nPinterest 正在测试 Restyle，这是一项新的人工智能功能，可以让用户在自己房间的照片中可视化家具、装饰、灯光等，这可能有助于将保存的灵感转化为购买。"
+    },
+    "0d48b2b36d5e2543010648779a6f7c3db890e55f0e84a495be149e3a6960395d": {
+      "source": "The AI Slowdown Debate Crashed Salesforce’s Party\nZXQSEPZXQ\nThe Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
+      "zh": "AI 放缓的争论让 Salesforce 的派对崩溃了\nZXQSEPZXQ\nDreamforce 大会不太可能成为 OpenAI、Anthropic 和 Nvidia 首席执行官讨论人工智能发展是否应该放缓的战场。"
     }
   }
 }
