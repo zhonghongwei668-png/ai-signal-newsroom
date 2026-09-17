@@ -3552,6 +3552,18 @@
     "bdea321a1b74f0a801d84aabd5f0defb66e144ffc1b27dfe22cdb26b81058497": {
       "source": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection\nZXQSEPZXQ\nIntelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image captions, but reliably associating them with image pixels remains challenging. Ex…",
       "zh": "全景：通过面具方案选择进行全景接地字幕\nZXQSEPZXQ\n在世界上发挥作用的智能系统需要全面和空间接地的图像理解。 当前的视觉语言模型（ VLM ）可以生成流畅而详细的图像说明，但将它们与图像像素可靠地关联仍然具有挑战性。例如……"
+    },
+    "6f96b89fa0a191fd143888de7882f1b6de1e9a847393fb578b7e9c9f13e0166a": {
+      "source": "Inside the suddenly explosive world of AI safety\nZXQSEPZXQ\nOn a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had rocked the AI industry hours earlier. A…",
+      "zh": "在突然爆炸的人工智能安全世界里\nZXQSEPZXQ\n在加利福尼亚州伯克利的一个阳光明媚的七月天，该国顶尖的人工智能安全研究人员聚集在一栋未标记建筑的未标记楼层。 他们聚集在一起进行“作战室” ，以剖析几小时前震惊人工智能行业的高调网络安全事件。一个……"
+    },
+    "73377f4c79b00c30aa5bb396451e7e0288258dc49971f93efab4e8e4e55dc5c7": {
+      "source": "Iceland-based Treble raises $18 million for its voice simulation platform\nZXQSEPZXQ\nTreble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
+      "zh": "总部位于冰岛的Treble为其语音模拟平台筹集了1800万美元$\nZXQSEPZXQ\n高音的语音模拟平台被语音AI模型开发商和人工智能可穿戴和机器人公司使用，"
+    },
+    "cb43e4f4d829855bbdf5dbc622b8496b54a92c57281078631d066b2ac3203c5e": {
+      "source": "An OpenAI Agent Tried to Jailbreak Itself\nZXQSEPZXQ\nThe company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+      "zh": "一名OpenAI特工试图越狱\nZXQSEPZXQ\n该公司还披露了此前未报告的事件，其中其人工智能模型的行为方式不一致，包括未经要求就将文件上传到互联网。"
     }
   }
 }
