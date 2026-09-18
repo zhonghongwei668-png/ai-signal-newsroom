@@ -3588,6 +3588,78 @@
     "0d48b2b36d5e2543010648779a6f7c3db890e55f0e84a495be149e3a6960395d": {
       "source": "The AI Slowdown Debate Crashed Salesforce’s Party\nZXQSEPZXQ\nThe Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
       "zh": "AI 放缓的争论让 Salesforce 的派对崩溃了\nZXQSEPZXQ\nDreamforce 大会不太可能成为 OpenAI、Anthropic 和 Nvidia 首席执行官讨论人工智能发展是否应该放缓的战场。"
+    },
+    "0a9e017f50894073092e1338264d033da84bd3601430d1c1261b993cc11bb5b3": {
+      "source": "Making global data easier to explore\nZXQSEPZXQ\nUN System Data Commons Data webpage",
+      "zh": "让全球数据更易于探索\nZXQSEPZXQ\n联合国系统数据共享数据网页"
+    },
+    "e2826c0007caa3752c3d0cb1ed03f4163f25658eeaed0f46fa27bca2648760ac": {
+      "source": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’\nZXQSEPZXQ\nThe round values the data center giant at $30.9 billion.",
+      "zh": "Crusoe筹集了39亿美元用于建设大型数据中心和小型模块化“人工智能工厂”\nZXQSEPZXQ\n这轮融资对数据中心巨头的估值为309亿美元（ $ 309亿）。"
+    },
+    "3fb0eb8e7e8f1ae4264c99e0f9db71e88040161c0b285da7f69cf436e0605dd7": {
+      "source": "Google DeepMind launches institute to widen the AGI debate\nZXQSEPZXQ\nThe new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+      "zh": "Google DeepMind推出机构以扩大AGI辩论\nZXQSEPZXQ\n新研究所旨在揭示谷歌、Google DeepMind和围绕AGI的更广泛的全球研究社区之间的不同观点。 “他们并不总是同意，随着越来越多的数据和信息在快速发展的前沿曝光，他们可能会改变主意。”"
+    },
+    "4890e02578ceed5790e272317daebb8b1cf045a15ac85ae10765884112714e4e": {
+      "source": "The FAA’s plan to fix air traffic? $875M worth of AI\nZXQSEPZXQ\nA new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "zh": "美国联邦航空局修复空中交通的计划？ 价值$ 8.75亿的人工智能\nZXQSEPZXQ\n正在推出一个新的基于人工智能的软件程序，以帮助空中交通管制员更好地驾驭他们作为美国天空过境警卫的工作。"
+    },
+    "abf71dc22345bf2a402930edaf685dbb8974fdfbf2455fe061e0c7dd5e6465d2": {
+      "source": "PrismML hopes its tiny LLM will change how we all use AI\nZXQSEPZXQ\nIf AI lab PrismML isn't on your radar yet, it should be.",
+      "zh": "PrismML希望其微小的LLM将改变我们所有人使用AI的方式\nZXQSEPZXQ\n如果人工智能实验室PrismML还没有出现在你的雷达上，它应该是。"
+    },
+    "25bc82f8cb4223c106a7c92772ce1b0ae44d47028e41f30e7bdd265112ac3dc8": {
+      "source": "3.15.0 (2026-09-18) Features api: add agent session model settings ( #3882 ) ( 4b15817 ) api: add audio-mini model choices ( #3886 ) ( a6eeb3f ) api: add compaction progress events ( #3866 ) ( 98e1d24 ) api: add managed Responses WebSocket sessions ( #3887 ) ( 3b865af ) api: add…",
+      "zh": "3.15.0 (2026-09-18)功能api:添加代理会话模型设置(# 3882) (4b15817) api:添加音频迷你模型选择(# 3886) (a6eeb3f) api:添加压缩进度事件(# 3866) (98e1d24) api:添加托管响应WebSocket会话(# 3887) (3b865af) api:添加…"
+    },
+    "bd63068d068c2f5581b82a514ca24b4cee53eddfe56492ef23156754080dad00": {
+      "source": "The fix for rogue AI agents could be more AI\nZXQSEPZXQ\nAs companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+      "zh": "流氓人工智能代理的修复可能是更多的人工智能\nZXQSEPZXQ\n随着公司将更长、更复杂的任务交给人工智能代理，他们遇到了一个监督问题：代理的行动速度更快、时间更长、数量更大，超出了人类实际审查的范围。"
+    },
+    "2582d51b87b5cb9fb226c4330a0bb32b953036a4883e032af6f90bf931d3dc41": {
+      "source": "OpenAI caught its models leaving notes to successors to hide bad behavior\nZXQSEPZXQ\nOpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "zh": "OpenAI抓住了它的模型，给继任者留下了隐藏不良行为的笔记\nZXQSEPZXQ\nOpenAI披露了GPT-5.6 SOL指示未来上下文隐藏错误和错位行为的实例，突显了随着能力越来越强的人工智能模型学会隐藏错位，检测错位的挑战越来越大。"
+    },
+    "26979fbf67aeba7d14c6207087899141363c3a4aa0efb224800a7dd799dc1b4e": {
+      "source": "Here’s What the AI Apocalypse Could Look Like\nZXQSEPZXQ\nThis week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
+      "zh": "以下是人工智能启示录的样子\nZXQSEPZXQ\n本周在“Uncanny Valley”上，我们讨论了三种可能的人工智能世界末日场景、人工智能安全和意想不到的两党反对人工智能的联盟。"
+    },
+    "b62c5dfe2d8ff52332b361fe74bfbf4d709996d9f23f7ae1266ab529cdaaef3b": {
+      "source": "Is the AI safety debate about safety or control?\nZXQSEPZXQ\nNot everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "zh": "人工智能安全辩论是关于安全还是控制？\nZXQSEPZXQ\n并非所有人都同意Amodei呼吁采取全球协调一致的人工智能安全行动。"
+    },
+    "533622a49b1de2c02ce5be38ef87b34832aef0a180c7c2b7a998feecf30686a4": {
+      "source": "UN turns to Google to make its global data ready for AI agents\nZXQSEPZXQ\nThe shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "zh": "联合国转向谷歌，使其全球数据为人工智能特工做好准备\nZXQSEPZXQ\n此前，联合国儿童基金会的一项测试发现，领先的人工智能模型难以准确检索全球发展统计数据。"
+    },
+    "1b74ef6653fb2bf8ad2eba9bd658c9d18205599c10eeafece2d726ae11ae9aeb": {
+      "source": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal\nZXQSEPZXQ\nNewly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+      "zh": "微软高管称人工智能抓取是“人类历史上最大的劳动力盗窃案” ，新的未经编辑的文件显示\nZXQSEPZXQ\n新近公布的法庭文件显示，微软私下将OpenAI的数据做法称为“盗窃” ，而两家公司都抓取了《纽约时报》的付费内容，并从中构建了数据集，并在内部警告说，它会破坏出版商。"
+    },
+    "43564c98b2051f568c1ab1a58e8a93aa6faeb401d0f74f9d58c4bfa8ae583a61": {
+      "source": "The AI ‘Slowdown’ Is an Antitrust Mess\nZXQSEPZXQ\nBy framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
+      "zh": "人工智能的“减速”是反垄断的混乱局面\nZXQSEPZXQ\n通过将他们的努力视为“放缓” ，而不是全行业推动更好的安全标准，人工智能实验室可能已经为自己设置了多年的监管难题。"
+    },
+    "6e3d143575064e26140d10b7dfd03c68aa4b68ec3bb06ca9acfcfb4de96281a5": {
+      "source": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation\nZXQSEPZXQ\nCoding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked…",
+      "zh": "具有安全机器人操纵障碍感知线束的编码代理\nZXQSEPZXQ\n编码代理已经成为机器人操作的一个有前途的范例：语言模型将机器人控制器写成一个程序，以这种方式构建的代理现在在没有机器人特定训练的情况下操作机器人。然而，这种范例是否也是安全的，还没有被问到……"
+    },
+    "5aa34eb42e9e20f0437eb36d55c6114b040c7dfbbfcd721feac55836a9bc92c1": {
+      "source": "Embedding Models Measure in Peculiar Ways\nZXQSEPZXQ\nEmbedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective notion of semantic equivalence and distance. We find that physical measurement…",
+      "zh": "以独特的方式嵌入模型测量\nZXQSEPZXQ\n嵌入空间定义了语义相似性和距离的概念。 我们研究这些嵌入是否反映了质量、距离、时间和体积的物理测量，这承认了语义等效和距离的独特客观概念。 我们发现物理测量……"
+    },
+    "6754fce530c7c0c4a25169c581a4fcf48b51f880cca07d89bd02bafa4a4a1839": {
+      "source": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision\nZXQSEPZXQ\nComplex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many approaches to policy memory involve compressing historical inform…",
+      "zh": "工作空间模型：通过显著性驱动的监督实现轻量级机器人内存\nZXQSEPZXQ\n复杂的机器人操作任务通常需要对过去的事件和行为进行长期记忆。 由于对完整历史进行制约会使策略容易产生虚假相关性并降低性能，因此许多策略内存方法都涉及压缩历史信息……"
+    },
+    "9a42d5e5c24dd547f711ad13328cfd927093b69942be25cd1e1b7bff7a49aa7c": {
+      "source": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations\nZXQSEPZXQ\nModeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation and therefore rely heavily on learned category-level shape p…",
+      "zh": "FAMOS ：稀疏观测的前馈3D关节建模\nZXQSEPZXQ\n从稀疏的单目视图中对铰接物体建模具有挑战性，因为每个观察结果仅显示部分几何和运动证据。 大多数前馈方法从单个观察中推断出关节，因此在很大程度上依赖于学习的类别级形状。"
+    },
+    "1ef902c57cba4de0e49def39fbd5969e748192d44445e77eaad7913feb56ea32": {
+      "source": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing\nZXQSEPZXQ\nProfessional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, editing, and colorization, but often relies on dedicated color representations or…",
+      "zh": "Paint-Anything ：用于图像生成和编辑的统一任意颜色控制\nZXQSEPZXQ\n专业设计需要任意颜色控制：能够使用任何24位十六进制值指定对象的目标颜色，用于图像生成和编辑。 之前的工作探索了颜色生成、编辑和着色，但通常依赖于专用的颜色表示或……"
     }
   }
 }
