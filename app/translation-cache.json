@@ -3724,6 +3724,46 @@
     "051b235041cebc9b857c2da0c4bde1ccc686d7cc031f0391994d61d7f12238e5": {
       "source": "1.7.0 (2026-09-18) Full Changelog: v1.6.0...v1.7.0 Features api: add group with display_name to rate limits, deprecate group_type ( 28f0a83 ) tools: add compact_before_next_turn() to the tool runner ( #641 ) ( 8b23fb3 ) Bug Fixes bedrock: raise an API error for eventstream excep…",
       "zh": "1.7.0 (2026-09-18) 完整变更日志：v1.6.0...v1.7.0 功能 api：将带有 display_name 的组添加到速率限制，弃用 group_type ( 28f0a83 ) 工具：将compact_before_next_turn() 添加到工具运行程序 ( #641 ) ( 8b23fb3 ) 错误修复 基岩：引发 eventstream 的 API 错误除了……"
+    },
+    "ae97dc1ace393965f32b49453731266e77aade40df33c04d7e721a041d2d172d": {
+      "source": "India forces caller-ID apps to feed spam reports to telcos\nZXQSEPZXQ\nTruecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "zh": "印度迫使来电显示应用程序向电信公司提供垃圾邮件报告\nZXQSEPZXQ\nTruecaller表示，单向共享要求将向电信运营商提供具有商业价值的专有资产。"
+    },
+    "33dcdffd09dc3084ec4c6adf65cbac2c1f09bfa9688ad074cb9828dd3edab0ad": {
+      "source": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI\nZXQSEPZXQ\nIn one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "zh": "蒂莉·诺伍德（ Tilly Norwood ）的新闻之旅正在进行，正如您对人工智能所期望的那样\nZXQSEPZXQ\n在一次特别奇怪的采访中，诺伍德似乎出现了故障，开始说中文。"
+    },
+    "c6425003acf7f2006513f790ec7e786efc38e29b3cdd3e2cad96e7ed2680723a": {
+      "source": "A startup that builds other startups raised $100M and is all-in on physical AI\nZXQSEPZXQ\nUP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "zh": "一家建立其他初创公司的初创公司筹集了1亿美元，并全力投入物理人工智能\nZXQSEPZXQ\nUP.Labs现在以Vantora的名义开展业务，正在为工业公司建立初创公司。"
+    },
+    "a455577cda95720c97ba8ead1a6e4c97878ea4b598319330fba6ee87f888e072": {
+      "source": "Anthropic is operating a lab that conducts biology experiments\nZXQSEPZXQ\nAI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "zh": "Anthropic正在运营一个进行生物学实验的实验室\nZXQSEPZXQ\n人工智能领导者一直承诺，人工智能是治愈人类疾病的关键。 Anthropic研究人员也一直在警告说，人工智能可能会杀死我们所有人。"
+    },
+    "9bdcc8569c8361c9c3e42d284e4e40e09f7dd8f4f75fb058751304f7916e7eee": {
+      "source": "AI hallucination nearly triggers US military operation\nZXQSEPZXQ\n“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "zh": "人工智能幻觉几乎引发美军军事行动\nZXQSEPZXQ\n一位GovAI研究学者警告说： “对于服务人员来说，了解LLM固有的不确定性非常重要。”"
+    },
+    "5a2818e4bcad3298d6003610f02d44cd56e3de46f84fe64e7ee326ee95573f44": {
+      "source": "Anthropic’s first embedded evaluator is … Accenture?\nZXQSEPZXQ\nAccenture is about to take on its most high-risk consulting engagement ever.",
+      "zh": "Anthropic的第一个嵌入式评估器是……埃森哲？\nZXQSEPZXQ\n埃森哲即将承担其有史以来风险最高的咨询业务。"
+    },
+    "807caf6e5610329cd46b9608ca697d91841dcaf9a1f68c063e6333e7b09580a4": {
+      "source": "World model companies are keeping a lot of secrets\nZXQSEPZXQ\nEveryone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "zh": "世界模特公司保守着很多秘密\nZXQSEPZXQ\n世界上的每一个模特都坐在一堆现金和大量的嗡嗡声上，但祝你好运，从创始人到自己的数据提供商，任何人都可以告诉你他们实际在建造什么。"
+    },
+    "8724b95fcdcc8743e2903f3bf9a2238db2fdfcc1a6ebb0d2eb668cc171e7e4e5": {
+      "source": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web\nZXQSEPZXQ\nRecently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"lar…",
+      "zh": "OpenAI和微软知道他们正在为网络开始一个“厄运循环”\nZXQSEPZXQ\n最近在《纽约时报》针对OpenAI和微软的案件中公开的法庭文件非常令人震惊。 这些公司自己的文件警告说，它正在开始一个会破坏网络的“厄运循环” ，并将其刮取数据以训练其模型的特征描述为“最大的……"
+    },
+    "10bd15a7423fb2338b5246ce2e440ec6f5786a1ebf5de65585d82abe6767958f": {
+      "source": "3.16.2 (2026-09-18) Bug Fixes parsing: drop TextFormatT parameterization in parse_response to fix memory leak ( #3084 ) ( #3088 ) ( 009b7f6 )",
+      "zh": "3.16.2 (2026-09-18) Bug修复解析：在parse_response中丢弃TextFormatT参数化修复内存泄漏(# 3084) (# 3088) (009b7f6)"
+    },
+    "7c934f34147683cdb47fff9334760f4fd90ea8929863296bd181d2997485f987": {
+      "source": "Here’s How an AI Slowdown Could Actually Be Enforced\nZXQSEPZXQ\nEven if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
+      "zh": "以下是如何实际实施人工智能减速的方法\nZXQSEPZXQ\n即使大型人工智能公司同意暂停，确保没有人试图偷偷溜走也可能证明是棘手的。"
     }
   }
 }
