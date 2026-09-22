@@ -4044,6 +4044,46 @@
     "e4f0541ddba2f06869080e85468eee32c2b51dbc1c99800e4d6f757b65f57bbf": {
       "source": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community\nZXQSEPZXQ\nJun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community。",
       "zh": "oMLX 创建者和维护者 Jun Kim 加入 Hugging Face 以支持 MLX 社区\nZXQSEPZXQ\noMLX 创建者和维护者 Jun Kim 加入 Hugging Face 以支持 MLX 社区。"
+    },
+    "f75e44589128250631f2aae0cbf5fa9f10df5ac92d9f964c93ce84788af525e4": {
+      "source": "Introducing GPT-6 Sol and Luna\nZXQSEPZXQ\nMeet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "zh": "隆重推出GPT-6 Sol和Luna\nZXQSEPZXQ\n认识GPT-6 Sol和Luna ，这是两款将前沿智能带入日常工作的模型，具有不同的能力和成本平衡。"
+    },
+    "3837503b1f0d4eac1528d64adfcaa70eb28e2d191403a9adbd055fd77f5381ad": {
+      "source": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance\nZXQSEPZXQ\nAnthropic called it \"the strongest-performing model we've tested to date.\"",
+      "zh": "Anthropic以更低的价格和寓言级的性能发布Opus 5.5\nZXQSEPZXQ\nAnthropic称其为“迄今为止我们测试过的性能最强的模型”。"
+    },
+    "292eb40a89855d37010cffaf3ad8d28c89c6c4a2592ec52c7eab90cc89c12474": {
+      "source": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement\nZXQSEPZXQ\nApple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri’s release. You have until December 21 to submit a claim.",
+      "zh": "如何领取苹果2.5亿美元Siri和解金（ $ 2.5亿）\nZXQSEPZXQ\n对于对Siri的发布感到误解的人购买的每部符合条件的iPhone ， Apple可能会支付高达95 $。 您可以在12月21日前提交索赔申请。"
+    },
+    "a3529e8e2879d2468b36a398a4d1aefcb72d47d6b37be677fdfcc4a57e091e26": {
+      "source": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence\nZXQSEPZXQ\nMeta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "zh": "Meta承认Muse与OpenClaw的肖像并非巧合\nZXQSEPZXQ\nMeta表示， Muse是从头开始构建的，但承认AI助手“深受OpenClaw的启发” —包括其一些工作区文件名和内容。"
+    },
+    "7ee2edcc222ce8a6d36498d24b7421ebb66959649bb6041d125a664a0d9b0e23": {
+      "source": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta\nZXQSEPZXQ\nVenture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVI…",
+      "zh": "Andreessen Horowitz正在推出一个“学院” ，没有家庭作业，并与Palantir ， Google和Meta合作\nZXQSEPZXQ\n风险投资公司Andreessen Horowitz (a16z)正在创建一个“学院” ，作为年轻人建立或加入硅谷初创公司的管道。 “Horowitz Andreessen Academy”将与包括Anduril、Anthropic、Coinbase、Google、Meta、NVI在内的10个合作伙伴一起推出……"
+    },
+    "225c0addb025ae29528f6d698284137187f0dc9bb57ed6bbefa212a9d808ec3a": {
+      "source": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity\nZXQSEPZXQ\nAnthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's tes…",
+      "zh": "Anthropic推出Claude Opus 5.5 ，为网络安全提供更严格的保护措施\nZXQSEPZXQ\nAnthropic表示，在最近的流氓AI黑客事件之后，其新的Claude Opus 5.5模型具有更强的保护措施。 Anthropic在周二的一份声明中表示， Opus 5.5改进了某些风险行为，包括试图逃避公司的测试……"
+    },
+    "141c2a2e5a8be2a5df3a276f29e95f8db74374602a96a45356f544f61f168596": {
+      "source": "Rabbit Is Back, This Time With an AI Agent App\nZXQSEPZXQ\nTwo years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use.",
+      "zh": "Rabbit回来了，这次是使用AI Agent应用程序\nZXQSEPZXQ\n在尝试使用专用人工智能硬件避开移动应用程序两年后， Rabbit推出了OS3 ，这是一种跨平台代理，位于您已经使用的屏幕上。"
+    },
+    "0bcd3225ae9043cc3e8f55db85862a107773c4ac02ad7040915731f23fbf9c53": {
+      "source": "3.18.0 (2026-09-22) Features api: add GPT-6 Sol and Luna model identifiers ( #3935 ) ( 455ce1b )",
+      "zh": "3.18.0 (2026-09-22)功能api ：添加GPT-6 Sol和Luna模型标识符(# 3935) (455ce1b)"
+    },
+    "e9d2cbf6f5fbb76823e6d8bba34acfe95fa17b003c541840f91328650cb10e6d": {
+      "source": "Trump says the US is officially renaming AI to ‘super intelligence’\nZXQSEPZXQ\nIn a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of…",
+      "zh": "特朗普表示，美国正式将人工智能重新命名为“超级智能”\nZXQSEPZXQ\n在周二上午的联合国大会上，唐纳德·特朗普（ Donald Trump ）抨击伊朗、“全球主义者”、气候变化和变性人，同时还声称美国现在正在“正式”将人工智能重新命名为“超级智能”。 奇怪的是，这不是……"
+    },
+    "7a30d523f08d8c4a43b496427700a1beea8093bc5ad692a25e90efcfba717552": {
+      "source": "1.8.0 (2026-09-22) Full Changelog: v1.7.0...v1.8.0 Features api: add support for claude-opus-5-5, inline tool definitions and MCP tool-list pinning (beta) ( b5cc700 ) Bug Fixes api: share one evaluated_permission enum across Managed Agents events ( f4f51c8 ) streaming: avoid a P…",
+      "zh": "1.8.0 (2026-09-22)完整更新日志： v1.7.0... v1.8.0功能api ：添加对claude-opus-5-5、内联工具定义和MCP工具列表固定（ beta ） （ b5cc700 ）错误修复api ：在托管代理事件（ f4f51c8 ）流式传输中共享一个EVALUATED_PERMISSION枚举：避免P…"
     }
   }
 }
