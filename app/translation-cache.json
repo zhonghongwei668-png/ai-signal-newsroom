@@ -3932,6 +3932,66 @@
     "278a0454184a18d02cbea3d7674ca855fd65a4a009b25fa457f03572bda27760": {
       "source": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping\nZXQSEPZXQ\nWashington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations.",
       "zh": "人工智能、关税、稀有矿产：特朗普与习近平即将举行的峰会可以期待什么\nZXQSEPZXQ\n华盛顿和北京在人工智能热潮中越来越紧密地联系在一起，使得硬件出口和技术限制在谈判中成为沉重的讨价还价筹码。"
+    },
+    "3de8bde7f1318388f8ab2702632047b51a3d0697ec9399eba21d693c6478183c": {
+      "source": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping\nZXQSEPZXQ\nApple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "zh": "建造苹果商店的人并不相信硅谷对人工智能购物的赌注\nZXQSEPZXQ\n苹果专卖店建筑师罗恩·约翰逊表示，苹果的秘密武器一直是它的员工。"
+    },
+    "9b540d89b390adfb03a19067feb18611ffbc7a1bae5de4b2884dafb6ba36c11c": {
+      "source": "3.17.0 (2026-09-22) Features api: add external storage configuration management ( #3909 ) ( 6332577 ) api: add safety case retrieval ( #3911 ) ( a87b938 ) api: add safety warning and deactivation webhook events ( #3908 ) ( 19f1f37 ) api: add session environment reset events ( #3…",
+      "zh": "3.17.0 (2026-09-22) 功能 api：添加外部存储配置管理 (#3909) (6332577) api：添加安全案例检索 (#3911) (a87b938) api：添加安全警告和停用 webhook 事件 (#3908) (19f1f37) api：添加会话环境重置事件 (#3…"
+    },
+    "5fc5ca09d655476d5c557dec85e8482b71c6354c602bf56f78e9ef02c1f412a7": {
+      "source": "California tightens rules on AI data center energy and water use\nZXQSEPZXQ\nCalifornia Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classi…",
+      "zh": "加州收紧人工智能数据中心能源和用水的规定\nZXQSEPZXQ\n据《洛杉矶时报》早些时候报道，加利福尼亚州州长加文·纽瑟姆签署了七项法案，旨在防止人工智能数据中心将公用事业成本转嫁给居民。该一揽子法律要求加州公用事业委员会推出新的费率分类……"
+    },
+    "f222d1915d73f0059ec7a0b9a7b8b693452fefe82139e963c3f5607efc46a03e": {
+      "source": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay\nZXQSEPZXQ\nModern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons. Existing datasets and benchmarks, however, either cover a narrow rang…",
+      "zh": "GameHorizon Suite：游戏中的多视野数据和评估\nZXQSEPZXQ\n现代视频游戏为人工智能模型提供了一个可测量的测试平台，结合了视觉理解、指令分解、目标规划和多个时间范围内精确动作控制的能力。然而，现有的数据集和基准要么覆盖狭窄的范围……"
+    },
+    "5b080ca8bc156cce1fcc74e0efbc35b7e122f5fc123716f95cd7e6c5e9041537": {
+      "source": "Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use\nZXQSEPZXQ\nMulti-turn tool-use failures can hinge on a single model call, yet reward variation alone does not reveal which call would benefit from training. When rewards depend on later interactions, their variation can reflect downstream randomness rather than differences between the curr…",
+      "zh": "临界状态强化学习：诊断多回转工具使用的可训练状态\nZXQSEPZXQ\n多回合工具使用失败可能取决于单个模型调用，但奖励变化本身并不能揭示哪个调用将从训练中受益。当奖励取决于后来的互动时，它们的变化可以反映下游随机性，而不是当前之间的差异……"
+    },
+    "d3704c756f4dc9d6a8f5f4b850237048b8a8ce114e3580d9a1c283a0f4613891": {
+      "source": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory\nZXQSEPZXQ\nVideo world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose…",
+      "zh": "WorldCrafter：具有隐式 3D 感知内存的一致视频世界模型\nZXQSEPZXQ\n视频世界模型可以对动态环境进行交互式探索，但很难尊重先前的长期观察和跨视角观察。我们推出了 WorldCrafter，这是一个视频世界模型，它可以为此目的学习可相机查询的隐式 3D 感知内存……"
+    },
+    "64325c40cf309e84af85ec3676f7a74c8f84f573afa187350d77d02fbfe025ce": {
+      "source": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction\nZXQSEPZXQ\nWe present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories. onPanda adopts token-level correction as its core interaction: while reading a model response, the annotator locates the first inappropriate token and either picks a sub…",
+      "zh": "onPanda：通过令牌级别校正为 LLM 和代理提供有效的政策对齐数据注释\nZXQSEPZXQ\n我们推出了 onPanda，这是一种交互式工具，用于有效注释 LLM 对齐数据和代理轨迹。 onPanda 采用 token 级校正作为其核心交互：在读取模型响应时，注释器找到第一个不合适的 token，然后选择一个子…"
+    },
+    "0eaa8a5ce1165f2a2ecf4ae76b1c1618c9765f764f16f2fb865e99d32533606c": {
+      "source": "LoRA-generating hypernetworks for efficient on-device LLM generative personalization\nZXQSEPZXQ\nOn-device large language models (`LLMs'), e.g. running on mobile phones, are ripe for improvement via personalization. The limited compute resources of mobile devices impose limits on model scale and thus model quality, making any realizable quality gains highly impactful. At th…",
+      "zh": "LoRA 生成超网络，用于高效的设备上 LLM 生成个性化\nZXQSEPZXQ\n设备上的大语言模型（“LLM”），例如在手机上运行的应用程序已经成熟，可以通过个性化进行改进。移动设备有限的计算资源限制了模型规模，从而限制了模型质量，使得任何可实现的质量收益都具有高度影响力。在…"
+    },
+    "cc5aae4a8e28d5b3acdd507f675da0540523bed44cacc8b4fa3114afe28815ea": {
+      "source": "DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation\nZXQSEPZXQ\nDexterous manipulation depends on contact dynamics that are often only partially observable from vision. Recent World-Action Models (WAMs) couple predictive video world modeling with action generation, but remain largely vision-centric and therefore cannot directly model these c…",
+      "zh": "DexTacWAM：用于灵巧操作的视觉触觉世界动作模型\nZXQSEPZXQ\n灵巧的操作取决于接触动态，而接触动态通常只能通过视觉部分观察到。最近的世界动作模型（WAM）将预测视频世界建模与动作生成结合起来，但仍然主要以视觉为中心，因此无法直接对这些场景进行建模……"
+    },
+    "35c1756c3f112306ba24099d147690625976b6b7ba6585a64222d3e4270d42c1": {
+      "source": "Harness-Zero: Harness Distillation via Agent-as-Harness\nZXQSEPZXQ\nAgent harnesses, the external systems that mediate model-environment interaction, can substantially improve agent performance, but their gains remain tied to the harness at deployment. Because the best harness varies across domains, instances, and models, a general-purpose agent…",
+      "zh": "Harness-Zero：通过 Agent-as-Harness 进行 Harness Distillation\nZXQSEPZXQ\n代理线束是调解模型与环境交互的外部系统，可以显着提高代理性能，但它们的收益仍然与部署时的线束相关。由于最佳的利用方式因领域、实例和模型而异，因此通用代理……"
+    },
+    "9c2e697cd942aea7cffa243b2c849305642da311ea09d6d531e6fb3a56f21800": {
+      "source": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses\nZXQSEPZXQ\nAn LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise…",
+      "zh": "RRSI：代理安全带的正则化递归自我改进\nZXQSEPZXQ\nLLM 代理的能力在很大程度上通过其工具（即围绕冻结骨干模型的提示、控制流、工具、内存和上下文管理）得到放大。最近的方法通过迭代地提出和选择组件来逐渐自动化这个过程......"
+    },
+    "1f9a9821444e476e075724d09a0b8b653f9cd26c06aadb3b8cb159c8746c744d": {
+      "source": "DolphinBench: Mapping the Pareto Frontier of Agent Memory\nZXQSEPZXQ\nAgents today often take real-world actions that depend on long-term memory and context recall over time. However, most current memory benchmarks are built for a conversational question-answer format, where the question itself signals that some fact must be retrieved, and often w…",
+      "zh": "DolphinBench：映射代理内存的帕累托前沿\nZXQSEPZXQ\n如今，智能体经常根据长期记忆和上下文回忆来采取现实世界的行动。然而，当前大多数内存基准测试都是针对对话式问答格式构建的，其中问题本身表明必须检索某些事实，并且通常..."
+    },
+    "1dfbffea0407cf9c66d1d3e189707b504a1a157a4c0d8dfc2fa4852482397790": {
+      "source": "Rare Event Estimation via Iterative Unalignment\nZXQSEPZXQ\nAs agents are deployed with increased autonomy, even extremely rare events along their stochastic output trajectories can occur and prove catastrophic. Safe deployment therefore does not depend on whether these events can occur, but on how often they might. We study the problem…",
+      "zh": "通过迭代不对齐进行罕见事件估计\nZXQSEPZXQ\n随着智能体的部署具有更大的自主权，即使是沿着其随机输出轨迹的极其罕见的事件也可能发生并被证明是灾难性的。因此，安全部署并不取决于这些事件是否会发生，而是取决于它们发生的频率。我们研究这个问题……"
+    },
+    "fcec9ecf256c8fa53808a182625ecdd3e0ae1d899a58efebb8ec6e32bb3511fa": {
+      "source": "Emergent Collusion in Long-Horizon LLM Agent Interaction\nZXQSEPZXQ\nLLM agents are increasingly deployed in collaborative settings, yet long-term interaction may give rise to undesirable coordination. We study the emergence of collusion in a long-horizon multi-agent environment: two agents repeatedly complete individual tasks, share task logs, v…",
+      "zh": "长期法学硕士代理人互动中的紧急共谋\nZXQSEPZXQ\nLLM代理人越来越多地部署在协作环境中，但长期互动可能会导致不良的协调。我们研究了长期多智能体环境中共谋的出现：两个智能体重复完成单独的任务，共享任务日志，..."
+    },
+    "d8782af92ead4303c21a9563f78396bc0e997706952d7cc166ae49a2b3021968": {
+      "source": "Jev for Scientific Decisions: Evaluating Semantic Choices and Their Consequences\nZXQSEPZXQ\nScientific workflows often require choosing among known relations before a deterministic calculation can proceed. Whether observations share a culture, treatment or reference standard can change the scientific meaning of the resulting count or comparison. We evaluate Jev as a se…",
+      "zh": "Jev 的科学决策：评估语义选择及其后果\nZXQSEPZXQ\n科学工作流程通常需要在进行确定性计算之前在已知关系中进行选择。观察结果是否共享文化、处理或参考标准可以改变所得计数或比较的科学意义。我们将 Jev 评价为一名…"
     }
   }
 }
