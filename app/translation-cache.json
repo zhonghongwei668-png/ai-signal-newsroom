@@ -4084,6 +4084,58 @@
     "7a30d523f08d8c4a43b496427700a1beea8093bc5ad692a25e90efcfba717552": {
       "source": "1.8.0 (2026-09-22) Full Changelog: v1.7.0...v1.8.0 Features api: add support for claude-opus-5-5, inline tool definitions and MCP tool-list pinning (beta) ( b5cc700 ) Bug Fixes api: share one evaluated_permission enum across Managed Agents events ( f4f51c8 ) streaming: avoid a P…",
       "zh": "1.8.0 (2026-09-22)完整更新日志： v1.7.0... v1.8.0功能api ：添加对claude-opus-5-5、内联工具定义和MCP工具列表固定（ beta ） （ b5cc700 ）错误修复api ：在托管代理事件（ f4f51c8 ）流式传输中共享一个EVALUATED_PERMISSION枚举：避免P…"
+    },
+    "e0e5a26ff0192f44606bc44caeb85013e8da45e0f81677a8a58ad08866004625": {
+      "source": "Better prompt caching for GPT-6\nZXQSEPZXQ\nLearn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "zh": "GPT-6的更好提示缓存\nZXQSEPZXQ\n了解GPT-6如何通过更高的缓存命中率、新的诊断、显式断点和控制来改善快速缓存，从而降低延迟和成本。"
+    },
+    "85f585509d6c9a40edff0abcc1172506699fc71c204b2e9b32eafe19446c2fe8": {
+      "source": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia\nZXQSEPZXQ\nNVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event…",
+      "zh": "在新加坡人工智能日， NVIDIA及其合作伙伴展示了整个东南亚的人工智能进步\nZXQSEPZXQ\nNVIDIA AI Day Singapore将于9月22日至23日在莱佛士城会议中心举行，为与会者提供机会，探索实践培训、专家主导的课程和高级工具，以加速他们在人工智能和高性能计算方面的工作。在活动中……"
+    },
+    "7e997cf5085547fba5c109b955d7cc27ebef0b3c9846e52ff7112a2af80923f2": {
+      "source": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4\nZXQSEPZXQ\nFounders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "zh": "TechCrunch创始人峰会的议程揭晓： 11月4日在波士顿解锁筹款、招聘和人工智能洞察\nZXQSEPZXQ\n创始人不应该以最艰难的方式学习最艰难的教训。 TechCrunch创始人峰会旨在使创办公司的挑战更容易，更高的挑战更大。"
+    },
+    "f0e6ddcf7cb2440b21bfd2c3bccbdb865129095ebe08ac11fe02d5cd0c90bfdd": {
+      "source": "OpenAI wants to consult elite mathematicians about how to not fumble again\nZXQSEPZXQ\nAfter turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising…",
+      "zh": "OpenAI想咨询精英数学家如何不再摸索\nZXQSEPZXQ\n在将一系列引人注目的数学结果转化为声誉危机之后， OpenAI正在咨询人类数学家，以帮助其找到一条不那么灾难性的前进道路。 周一，该公司宣布成立一个新的独立数学家小组，负责为……提供建议。"
+    },
+    "1a38a396c5efe885cd24d4464b6cc963f031de24f9f8f79868703c5d0dbd2318": {
+      "source": "Qualcomm launches two new smartphone chips with emphasis on AI\nZXQSEPZXQ\nQualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "zh": "高通推出两款以人工智能为重点的新型智能手机芯片\nZXQSEPZXQ\n高通表示，其新的顶级芯片可以在本地运行30B混合专家模型。"
+    },
+    "ed83205bca32f70c64dcba8a70efc1977f064dc13f02e99401bf21a3c86034d2": {
+      "source": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms\nZXQSEPZXQ\nThe seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "zh": "随着人工智能培训数据需求激增，浮潜人工智能将估值提高三倍至35亿美元（ $ 35亿）\nZXQSEPZXQ\n这家拥有七年历史的初创公司已经筹集了3.5亿美元的E轮融资，以推动其数据即服务的方法。"
+    },
+    "2ba78ea103671f21d6a26428db6f5f95211c6e17e4e0c17e77f32205c2c13ba2": {
+      "source": "3.19.0 (2026-09-22) Features api: add GCP external storage support ( #3943 ) ( d12d60f ) api: add GPT-Rosalind research model ( #3940 ) ( d041d73 ) Bug Fixes _utils/_transform: propagate api_exclude in _async_transform_recursive ( #3324 ) ( 161ae65 ) api: handle omission markers…",
+      "zh": "3.19.0 (2026-09-22)功能api:添加GCP外部存储支持(# 3943) (d12d60f) api:添加GPT-Rosalind研究模型(# 3940) (d041d73)错误修复_utils/_transform: propagate api_exclude in_async_transform_recursive (# 3324) (161ae65) api:处理省略标记…"
+    },
+    "487f22d7c814b37b3e286954bd2ed614d32d87b59f7925b99ae7a90b7a6f945b": {
+      "source": "Rabbit’s new AI agent doesn’t need an R1 to run\nZXQSEPZXQ\nRabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac…",
+      "zh": "Rabbit的新AI agent不需要R1就可以运行\nZXQSEPZXQ\n正如Wired早些时候报道的那样， Rabbit是R1设备背后的公司，正在推出一款独立的AI代理，您不需要使用其硬件。 这家初创公司表示，其新的OS3 “代理操作系统”在云中运行，但在Windows、Mac上本地运行……"
+    },
+    "f4fb5bc720abf0322c16cd9524a6f7728352967c4270d24fb4c98d25d66eaf18": {
+      "source": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta\nZXQSEPZXQ\nVenture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvi…",
+      "zh": "Andreessen Horowitz正在推出一个“学院” ，没有家庭作业，并与Palantir ， Google和Meta合作\nZXQSEPZXQ\n风险投资公司Andreessen Horowitz (a16z)正在创建一个“学院” ，作为年轻人建立或加入硅谷初创公司的管道。 “Horowitz Andreessen Academy”将与包括Anduril、Anthropic、Coinbase、Google、Meta、Nvi在内的10个合作伙伴一起推出……"
+    },
+    "083227ba386b8d856dbce2c42029b04466002fc43f1a6b31bee18e11a8b58be7": {
+      "source": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs\nZXQSEPZXQ\nDiffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text generation. However, their practical deployment remains limited by inefficient inference, largely due to the absence of effective K…",
+      "zh": "Flash-dLLM ：用于快速、内存高效扩散LLM的IO感知KV缓存和并行解码\nZXQSEPZXQ\n通过启用非自回归文本生成，扩散大型语言模型（ dLLM ）最近已经成为自回归LLM的有前途的替代方案。 然而，它们的实际部署仍然受到低效推断的限制，这主要是由于缺乏有效的K…"
+    },
+    "0eb9036a41dfa61674db536660a2b07717c2fe3fddd7bcf362778bf1591c6dcd": {
+      "source": "A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing\nZXQSEPZXQ\nWe study decentralized partially observable team decision problems with low-rank latent dynamics and unknown system models. The proposed framework combines team-theoretic equivalence with low-rank model representations to address cooperative decision-making in partially observab…",
+      "zh": "具有延迟信息共享的去中心化部分可观察团队决策方法\nZXQSEPZXQ\n我们研究具有低秩潜在动力学和未知系统模型的去中心化部分可观察团队决策问题。 所提出的框架将团队理论等价与低秩模型表示相结合，以解决部分观察中的合作决策问题。"
+    },
+    "e3cadefc535f017c563f3af909c0c98904e78f1b073371274ea373f36552bbea": {
+      "source": "Agensh: Scaling Organizational Intelligence to 1,024 Agents\nZXQSEPZXQ\nA multi-agent system can reduce latency on complex tasks by executing work concurrently. Several pioneering harness frameworks support multi-agent systems. However, the scalability of current multi-agent harnesses is often constrained by a central orchestrator's capacity to allo…",
+      "zh": "Agensh ：将组织智能扩展到1,024名代理商\nZXQSEPZXQ\n多代理系统可以通过同时执行工作来减少复杂任务的延迟。 几个开创性的线束框架支持多智能体系统。 然而，当前多智能体线束的可扩展性通常受到中央编排器分配能力的限制……"
+    },
+    "566c831f9a99ebb0c64730ab6436079b3ac5d2e7b42e75f875e9ec57a5f06dff": {
+      "source": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue\nZXQSEPZXQ\nLong-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term conversations: it must distinguish who said what, whom each statement concerns, how individuals perceive one another, what information is shared by the group, an…",
+      "zh": "SpeakerMem-R1 ：以扬声器为中心的多方对话双轨内存\nZXQSEPZXQ\n多方环境中的长期对话记忆需要的不仅仅是从长期对话中检索相关内容：它必须区分谁说了什么，每个陈述涉及谁，个人如何看待彼此，群体共享哪些信息，以及……"
     }
   }
 }
