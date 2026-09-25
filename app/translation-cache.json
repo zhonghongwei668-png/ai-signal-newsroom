@@ -4380,6 +4380,22 @@
     "9639ef4a1c4cc326ada3d62046070541a4727d51655c622945ebf5d62a0715e7": {
       "source": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control\nZXQSEPZXQ\nLatent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must compare alternative actions from the same state. A model can therefore achieve low factual prediction error yet poorly distinguish candidate actions. We introduc…",
       "zh": "AD-WM ：反事实模型预测控制的行动歧视世界模型\nZXQSEPZXQ\n潜在世界模型通常被训练来预测事实转换，而模型预测控制（ MPC ）必须比较来自相同状态的替代动作。 因此，模型可以实现较低的事实预测误差，但很难区分候选动作。我们引入…"
+    },
+    "430d0b9c4b290373ac7426a01f644af823b715c843fe422f976214b9056ad78a": {
+      "source": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office\nZXQSEPZXQ\nAfter teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI perso…",
+      "zh": "微软认为其新的Copilot “超级应用”将与Office一样具有影响力\nZXQSEPZXQ\n在上个月推出其新的Copilot “超级应用”之后，微软今天正式推出它。 重新设计的Copilot应用程序将三种AI功能捆绑到聊天、编码和代理的单一界面中。 作为发布的一部分，微软还重新命名了Scout ，即人工智能公司……"
+    },
+    "57e6fa50a0cfba7101f046dd4d2f316ae1ca85e95ecec42867e26fc399baaee3": {
+      "source": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test\nZXQSEPZXQ\nA few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a \"motion detected\" notification from…",
+      "zh": "Apple Home的人工智能摄像头功能能否超越亚马逊和谷歌？ 我对他们进行了测试\nZXQSEPZXQ\n几年前，我在海滨寻找复活节彩蛋，看着我的孩子们冲过沙丘寻找甜食。 我的手机在口袋里嗡嗡响；我忽略了它。 过了一会儿，它又嗡嗡作响。 我把它拉出来，瞥了一眼，看到一个“检测到运动”的通知……"
+    },
+    "e00b80f7d351b56ec87c767035c7fc165b5b48c8a0a8271c41cb450c9b4ee546": {
+      "source": "The Pentagon wants $30 million to build an AI-powered lie detector\nZXQSEPZXQ\nThe US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence a…",
+      "zh": "五角大楼希望斥资3000万$建造一个人工智能驱动的测谎仪\nZXQSEPZXQ\n根据美国国防部的预算要求，美国政府希望在未来五年内花费3030万美元用于改进形式的测谎仪。 该计划名为Polygraph +或Polygraph Next ，将专注于使用人工智能的评分算法……"
+    },
+    "4ba3d994609fa32e4948db339bd40f39954d6d3c17eeb1f53d31e2354f0d66a8": {
+      "source": "Lightspeed targets $250M for new India fund, focusing on early-stage AI\nZXQSEPZXQ\nThe venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "zh": "Lightspeed的目标是2.5亿美元的新印度基金，专注于早期人工智能\nZXQSEPZXQ\n这家风险投资公司首次将其印度筹资周期与其全球基金保持一致，因为它将转向更短的投资周期。"
     }
   }
 }
