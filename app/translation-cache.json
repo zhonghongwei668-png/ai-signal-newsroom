@@ -4364,6 +4364,22 @@
     "74c272d7098acd6f197f56d10c38cf214314b30aefd1dd2d9638b316bf06c22f": {
       "source": "Google’s Gemini Can Now Make Calls for You on Pixel Phones\nZXQSEPZXQ\nCall for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
       "zh": "Google 的 Gemini 现在可以在 Pixel 手机上为您拨打电话\nZXQSEPZXQ\nPixel 11 系列独有的 Call for Me 功能为机器人通话赋予了新的含义。"
+    },
+    "fa4d0f6b471082c118e72d5275b5bc77c5398fd4cb13ae7c00adb0549e06b4ff": {
+      "source": "Lightspeed targets $250M for new India fund, focusing on early-stage AI\nZXQSEPZXQ\nThe Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "zh": "Lightspeed的目标是2.5亿美元的新印度基金，专注于早期人工智能\nZXQSEPZXQ\n这家硅谷公司首次将其印度筹款周期与其全球基金保持一致，因为它转向了更短的投资周期。"
+    },
+    "17e2f647bd53cdff443510d2433e4499ee75fea7100652c6485c18896ab54472": {
+      "source": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Aut…\nZXQSEPZXQ\nAn acceptance protocol is developed for sensor-coordinate and polarity binding in mechatronic commissioning. Candidate generation is separated from release authority. Requirements unsupported by a deterministic parser are routed to a frozen local language model with four billion…",
+      "zh": "受要求约束的已验证调试：一个冻结的四十亿参数本地模型，作为外部验收层下的候选生成器，具有验证和发布授权……\nZXQSEPZXQ\n针对机电调试中的传感器坐标和极性绑定制定了验收协议。 候选人生成与发布权限分离。 确定性解析器不支持的需求被路由到一个冻结的本地语言模型，该模型有40亿…"
+    },
+    "a0884325cf56be6d9c11269aa6960a075df97c6156e7b3633f96b237b3820331": {
+      "source": "LLM Agents Can Easily Tamper With Their Own Traces\nZXQSEPZXQ\nAsynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own execution traces. We show that local LLM agents such as Claude Code, Codex, Ant…",
+      "zh": "法学硕士经纪人可以轻松篡改自己的痕迹\nZXQSEPZXQ\n异步监控、事件调查和合规性审核主要依靠代理跟踪来重建发生的事情。 这些分析假设LLM代理不能篡改自己的执行跟踪。 我们展示了本地LLM代理，如Claude Code、Codex、Ant……"
+    },
+    "9639ef4a1c4cc326ada3d62046070541a4727d51655c622945ebf5d62a0715e7": {
+      "source": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control\nZXQSEPZXQ\nLatent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must compare alternative actions from the same state. A model can therefore achieve low factual prediction error yet poorly distinguish candidate actions. We introduc…",
+      "zh": "AD-WM ：反事实模型预测控制的行动歧视世界模型\nZXQSEPZXQ\n潜在世界模型通常被训练来预测事实转换，而模型预测控制（ MPC ）必须比较来自相同状态的替代动作。 因此，模型可以实现较低的事实预测误差，但很难区分候选动作。我们引入…"
     }
   }
 }

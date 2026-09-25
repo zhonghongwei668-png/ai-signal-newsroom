@@ -1,15 +1,101 @@
 {
   "boardMeta": {
-    "generatedAt": "2026-09-25 04:00",
+    "generatedAt": "2026-09-25 13:01",
     "date": "2026年9月25日 · 星期五",
-    "edition": "清晨版",
-    "window": "北京时间今日 00:00 至 04:00",
-    "nextUpdate": "下一轮 08:15 自动更新"
+    "edition": "午后版",
+    "window": "北京时间今日 00:00 至 13:01",
+    "nextUpdate": "下一轮 16:15 自动更新"
   },
   "newsItems": [
     {
-      "id": "e7107d9a76d915",
+      "id": "96064fbcf338a9",
       "level": "头条",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "summary": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "publishedAt": "13:00",
+      "relativeTime": "1 分钟前",
+      "titleZh": "Lightspeed的目标是2.5亿美元的新印度基金，专注于早期人工智能",
+      "summaryZh": "这家硅谷公司首次将其印度筹款周期与其全球基金保持一致，因为它转向了更短的投资周期。"
+    },
+    {
+      "id": "8e478af355c3e2",
+      "level": "重要",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "DeepSeek Harness 官方桌面版预览偷跑",
+      "summary": "IT之家 9 月 25 日消息， DeepSeek Harness 悄然上线官方桌面版，目前还是开发者预览版，版本号为 V0.1.7-rc.2。 DeepSeek Harness 此前以 WebUI 方式呈现，本次推出的桌面版无需安装 Node.js 、不用开终端、不用手动跑 npx@deepseek-ai / dsh，目前支持 Windowsx64、macOS Apple Silicon (M 系列)。 当前版本仍属于开发者预览版，功能稳定性和兼容性可能存在一定限制。建议用户在体验新功能的同时，注意保存重要数据，并关注后续正式版本的发布信息。 IT之…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/007/099.htm",
+      "publishedAt": "10:51",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "3166017e991754",
+      "level": "重要",
+      "region": "国内",
+      "category": "研究论文",
+      "verification": "媒体报道",
+      "title": "微软正淡化 Copilot+ PC 品牌，2026 新款 Surface 已弃用",
+      "summary": "IT之家 9 月 25 日消息，科技媒体 Windows Central 昨日（9 月 24 日）发布博文，报道称微软公司正淡化 Copilot+ PC（国内称 Windows 11 AI+ PC）品牌， 2026 年推出的新款 Surface PC 已不再使用该标签。 IT之家援引博文介绍，微软于 2024 年携手高通公司，推出 Windows 硬件新类别“Copilot+ PC”，为 AI 优先计算机设定基准，并配有专属的 Copilot 按键。 不过该产品发布后遇安全研究人员强烈质疑，核心功能 Recall 被发现存在严重安全隐患。微软被迫推迟…",
+      "whyItMatters": "新研究可能改变模型能力边界，但仍需要复现、评测与同行检验。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/007/080.htm",
+      "publishedAt": "09:31",
+      "relativeTime": "3 小时前"
+    },
+    {
+      "id": "c45b675b68627f",
+      "level": "重要",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "影石正布局 AI 眼镜，或采用“分体电池”设计",
+      "summary": "9 月 25 日中午消息，有接近影石创新人士透露， 当前影石创新正在布局 AI 眼镜赛道 ，并在进行相关研发，未来或将推出自己的 AI 眼镜产品。 此前，影石创新获得了一项名为“可穿戴式眼镜”的实用新型专利授权。专利摘要显示，该眼镜主体佩戴于头部，电池装置与眼镜主体分离、佩戴于身体其他部位，通过电连接线供电，目的是“减轻用户头部负重，降低长时间佩戴的压力”。这一“分体电池”设计思路，与当前主流 AI 眼镜将电池塞入镜腿的方案明显不同，更接近长时间佩戴拍摄的工程取向。",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/007/113.htm",
+      "publishedAt": "12:26",
+      "relativeTime": "34 分钟前"
+    },
+    {
+      "id": "2864986cc60460",
+      "level": "重要",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "GPT-6 Astra 需求空前，曝 OpenAI 正筹备 ChatGPT Pro Max 订阅层级",
+      "summary": "IT之家 9 月 25 日消息，Tibor Blaho 通过开发者工具查看 ChatGPT 网页端源代码时发现，其代码中出现了 PROMAX 相关字段。 他认为，OpenAI 正在准备推出更高阶的 ChatGPT Pro 订阅方案，其推测月费可能达到 600 美元 （IT之家注：现汇率约合 4,030 元人民币） 。 目前，OpenAI 尚未正式宣布推出这一更高阶 ChatGPT Pro 计划，也未确认相关代码是否对应未来正式上线的产品，因此产品名称、功能以及最终定价仍存在较大不确定性。 近年来，OpenAI 持续调整 ChatGPT 的订阅体系，已推…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/007/107.htm",
+      "publishedAt": "11:40",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "829b67904723c8",
+      "level": "重要",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "Meta 推出 2 款 AI 工具，让用户在手机端直接构建游戏",
+      "summary": "IT之家 9 月 25 日消息，科技媒体 The Verge 昨日（9 月 24 日）发布博文，报道称在 2026 年 Connect 大会上，Meta 公司扩充其 Horizon 平台， 推出 Horizon Create 和 Horizon Studio 两款 AI 工具，让用户直接在手机上构建游戏。 IT之家援引博文介绍，Horizon Create 是一款移动应用，可以根据用户的提示词，快速制作游戏雏形。而 Horizon Studio 是一款浏览器编辑器，提供更精细的控制选项，用于完善项目。 Meta 表示，两款工具支持创作者把想法转化为完整…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/007/068.htm",
+      "publishedAt": "08:34",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "e7107d9a76d915",
+      "level": "重要",
       "region": "海外",
       "category": "大模型",
       "verification": "已确认",
@@ -19,13 +105,111 @@
       "source": "Google DeepMind",
       "sourceUrl": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
       "publishedAt": "00:20",
-      "relativeTime": "3 小时前",
+      "relativeTime": "12 小时前",
       "titleZh": "介绍 Gemini 3.8 直播与直播头像",
       "summaryZh": "隆重推出 Gemini 3.8 直播头像。"
     },
     {
-      "id": "b5f88521e80c82",
+      "id": "4f101caac41353",
       "level": "重要",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "消息称 OpenAI 将在数日内预览网络安全专用模型 GPT-6 Cyber",
+      "summary": "IT之家 9 月 25 日消息，据《财富》杂志消息，多位知情人士透露， OpenAI 正计划在未来几天内抢先预览其最新的网络安全专用模型 GPT-6 Cyber 。此外，OpenAI 还将推出一款配套新产品，协助客户以更加安全、自动化的方式部署该模型。 据悉，GPT-6 Cyber 模型及其配套产品预计将于 9 月 29 日在旧金山举办的 OpenAI 开发者大会上亮相，甚至可能更早揭晓，并计划在未来数月内正式上线。GPT-6 Cyber 将是 OpenAI 今年发布的第四款网络安全专用模型。 据知情人士透露，OpenAI 旗下仅限申请准入的“Dayb…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/007/061.htm",
+      "publishedAt": "08:04",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "a8bad85b8ea265",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "全球仅此一张：3D 艺术家二手购入 RTX 5090 显卡，开箱发现竟是黄仁勋签名孤品",
+      "summary": "IT之家 9 月 25 日消息，科技媒体 Tom's Hardware 昨日（9 月 24 日）发布博文，报道称 一名 3D 艺术家从二手市场购买到一张华硕 ROG Astral RTX 5090 白色 OC 显卡孤品，配有英伟达首席执行官黄仁勋亲笔签名，全球仅此一张。 该艺术家表示他近期为推进 3D 项目，从二手市场购买了 2 张英伟达 RTX 5,090 显卡，其中一张就是华硕 ROG Astral RTX 5090 白色 OC 版，卖家称有华硕高管签名，到手拆开后发现是黄仁勋签名。 图源：华硕 这张显卡采用白色外观和三风扇设计，属于 ROG As…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/007/085.htm",
+      "publishedAt": "09:59",
+      "relativeTime": "3 小时前"
+    },
+    {
+      "id": "0cb866d50bc2cf",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "Claude Opus 5.5 仅用约 1 小时从零开发 RTX 加速路径追踪器，支持多种材质与光照效果",
+      "summary": "IT之家 9 月 25 日消息，网友 u/Zealousideal_View_12 昨日（9 月 24 日）在 Reddit 社区发帖， 称其使用 Anthropic 的 Claude Opus 5.5 模型，耗时约 1 小时，从零生成实时硬件加速路径追踪器。 IT之家注：路径追踪器（Path Tracer）是一种基于光线传播模拟的 3D 渲染器。系统从摄像机或光源方向追踪大量光线，并计算光线与物体表面的交互结果。 科技媒体 Wccftech 认为即使不具备图形 API、着色器编译和并行执行方面的专业知识，用户也能调用 AI 开发路径追踪器。 该程序能…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/007/115.htm",
+      "publishedAt": "12:28",
+      "relativeTime": "32 分钟前"
+    },
+    {
+      "id": "eedf4f21a3ea21",
+      "level": "关注",
+      "region": "国内",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "长安汽车：力争在 2028 年实现人形机器人量产、2030 年推出商用航线飞行汽车",
+      "summary": "IT之家 9 月 25 日消息，据中新网重庆，重庆辖区上市公司投资者网上集体接待日暨半年度业绩说明会于 9 月 23 日举行。 长安汽车资本运营部副总经理、董事会办公室副主任谢仁军表示：关于固态电池项目，公司正有序推进研发，已开展 20Ah 氧聚复合固态电池验证。 谢仁军还表示，公司将加速推动具身智能人形机器人、飞行汽车等新兴产业布局和产业化落地： 力争在 2028 年实现人形机器人量产 、 2030 年推出商用航线飞行汽车 。 据IT之家此前报道，长安汽车首席专家、长安天枢智能机器人公司总经理谭欢在本月举行的中国汽车产业发展（泰达）国际论坛上表示，长…",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/007/073.htm",
+      "publishedAt": "09:04",
+      "relativeTime": "3 小时前"
+    },
+    {
+      "id": "19a4a668b5bce0",
+      "level": "关注",
+      "region": "国内",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "被骂变态才推无摄像头眼镜？扎克伯格回应称“研发已筹备多年”",
+      "summary": "北京时间 9 月 25 日，据《商业内幕》报道，Meta CEO 马克 · 扎克伯格 (Mark Zuckerberg) 表示，无摄像头版 AI 雷朋眼镜早在研发之中，并非因为人们把带摄像头版本称为“变态眼镜”。 Meta 刚刚在其智能眼镜产品线中增加了一款仅支持音频功能的眼镜。新的 Meta 雷朋音频眼镜没有摄像头，但用户可以用它听音乐、打电话，或者与 Muse AI 智能体交谈。这款新眼镜重量更轻，有两种款式可选，起售价为 349 美元。 扎克伯格在接受乔安娜 · 斯特恩 (Joanna Stern) 采访时，否认近期的舆论反弹促使公司推出无摄像头…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/007/072.htm",
+      "publishedAt": "08:56",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "ec6024bf4adb78",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "苹果 macOS 27 亮点汇总：重绘图标、精简视觉元素、统一窗口圆角等",
+      "summary": "IT之家 9 月 25 日消息，科技媒体 9to5Mac 昨日（9 月 24 日）发布博文，在 Siri AI 之外，深入探索了 macOS 27 Golden Gate 系统的亮点功能。 一、改版应用图标 macOS 27 几乎重绘所有内置应用图标，彻底重新设计 Siri、预览、国际象棋（Chess）等图标，并同步调整 Finder、照片、提醒事项等图标，整体强化“液态玻璃”（Liquid Glass）设计语言。该媒体认为多数改动较为细微，但系统视觉一致性显著提升。IT之家附上相关截图如下： 二、广泛支持 HDR 显示效果 在 macOS 27 系统…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/007/071.htm",
+      "publishedAt": "08:54",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "6dafa7e9bfd22b",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "谷歌 Gemini 3.8 Live 虚拟人上线：实时唇形同步 + 自然表情，无缝切换 97 种语言",
+      "summary": "IT之家 9 月 25 日消息，谷歌近日宣布，在上周推出 Gemini 3.8 Live 的基础上，正式推出带有 Live Avatar 功能的 Gemini 3.8 Live， 为原生实时对话模型带来接近实时的视觉呈现效果。 该功能将接近实时的视频生成与语音相结合，可打造能倾听、观察并以动态视觉形象交流的交互体验， 借助精准唇形同步、自然表情与流畅对话轮次切换 ，帮助企业拓展更具交互性的虚拟服务。IT之家附上相关视频如下： 对话本身天生就是多模态的，人们通过倾听、观察、说话和面部表情交流。Live Avatar 将这些能力赋予企业智能代理，同时处理视…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/007/043.htm",
+      "publishedAt": "08:39",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "b5f88521e80c82",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -35,13 +219,13 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
       "publishedAt": "03:15",
-      "relativeTime": "45 分钟前",
+      "relativeTime": "9 小时前",
       "titleZh": "带上您的联合创始人、合作伙伴或同事，即可获得第二张 TechCrunch Disrupt 2026 通行证 50% 的折扣",
       "summaryZh": "购买一张 TechCrunch Disrupt 2026 通行证，购买第二张相同类型的门票可享受 50% 的折扣。请在太平洋时间 10 月 13 日上午 8 点活动开始前注册。"
     },
     {
       "id": "0b7b681fb83d14",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "Agent",
       "verification": "媒体报道",
@@ -51,13 +235,13 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
       "publishedAt": "01:10",
-      "relativeTime": "2 小时前",
+      "relativeTime": "11 小时前",
       "titleZh": "Muse 看起来确实很像 OpenClaw",
       "summaryZh": "我们似乎正在进入人工智能代理的复兴时期。 Meta 面向消费者的新型人工智能代理 Muse 在发布后不久就登上了 App Store 排行榜榜首，据 Apptopia 估计，在美国拥有 60 万日活跃用户。还有人工智能代理平台 Instinct，其同名创建者是..."
     },
     {
       "id": "9ef4a7c3c63171",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "大模型",
       "verification": "媒体报道",
@@ -67,13 +251,13 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
       "publishedAt": "03:00",
-      "relativeTime": "59 分钟前",
+      "relativeTime": "10 小时前",
       "titleZh": "PrismML 将其小型法学硕士引入高通支持的智能眼镜",
       "summaryZh": "Prism 的更大目标是在设备上运行的开放式人工智能，并更好地利用设备已有的计算能力。"
     },
     {
       "id": "57d9461ca601ff",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -83,13 +267,13 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
       "publishedAt": "02:11",
-      "relativeTime": "1 小时前",
+      "relativeTime": "10 小时前",
       "titleZh": "甲骨文就其新墨西哥州 Stargate 数据中心发出不可抗力通知",
       "summaryZh": "如果该设施未能实现 2028 年上线的目标，该通知将允许甲骨文推迟付款。"
     },
     {
       "id": "69d34719f9a17a",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "大模型",
       "verification": "媒体报道",
@@ -99,13 +283,13 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
       "publishedAt": "00:04",
-      "relativeTime": "3 小时前",
+      "relativeTime": "12 小时前",
       "titleZh": "Gemini 现在可以为您致电企业，因此您无需等待",
       "summaryZh": "谷歌在 Pixel 11 上推出了一项“早期实验”功能，允许用户将本地业务电话委托给 Gemini，例如进行预订、检查产品是否有库存或重新安排预约。根据谷歌的说法，你甚至不需要开始通话就可以……"
     },
     {
       "id": "6374a69076e5ab",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -115,13 +299,13 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
       "publishedAt": "01:39",
-      "relativeTime": "2 小时前",
+      "relativeTime": "11 小时前",
       "titleZh": "Meta 的 Muse Charm 看起来像电子宠物，但它正在迎合一种更新的趋势",
       "summaryZh": "Meta 的新型人工智能设备可能看起来像电子宠物，但其悬垂的外形迎合了 Z 世代更广泛的趋势，包括包袋饰物、复古科技以及将设备转变为时尚配饰。"
     },
     {
       "id": "01b3022d0b4f12",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "Agent",
       "verification": "媒体报道",
@@ -131,13 +315,13 @@
       "source": "WIRED AI",
       "sourceUrl": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
       "publishedAt": "03:36",
-      "relativeTime": "23 分钟前",
+      "relativeTime": "9 小时前",
       "titleZh": "我想我找到了一个值得冒险的人工智能代理",
       "summaryZh": "Instinct 为我节省了 550 美元，预订了餐厅，并警告我注意网络钓鱼诈骗。它还浪费了 64 美元，并且可能是一场安全噩梦。"
     },
     {
       "id": "3ab9cbba8c0d8b",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -147,13 +331,13 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
       "publishedAt": "02:04",
-      "relativeTime": "1 小时前",
+      "relativeTime": "10 小时前",
       "titleZh": "黄仁勋像超级恶棍一样谈论人工智能和气候变化",
       "summaryZh": "正如黄仁勋所说，人工智能可以帮助应对气候变化——但前提是它首先造成“巨大的痛苦和磨难”。这位 Nvidia 首席执行官在最新一集的 Ezra Klein Show 中讨论了能源的未来以及人工智能对我们星球的影响。但他的评论沸沸扬扬……"
     },
     {
       "id": "03ce780af89be3",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -163,13 +347,13 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
       "publishedAt": "01:00",
-      "relativeTime": "3 小时前",
+      "relativeTime": "12 小时前",
       "titleZh": "受“Clueless”启发的 Google Photos 虚拟衣柜现已在 Android 和 iOS 上推出",
       "summaryZh": "这项由人工智能驱动的功能可根据您的照片构建虚拟衣柜，自 6 月份首次向 Android 用户推出以来，现已广泛使用。"
     },
     {
       "id": "18e7444965179a",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -179,13 +363,13 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
       "publishedAt": "01:52",
-      "relativeTime": "2 小时前",
+      "relativeTime": "11 小时前",
       "titleZh": "Meta 将让你可以在手机上使用 AI 构建游戏",
       "summaryZh": "Meta 制定了一项新计划，旨在鼓励人们为其 Horizon 社交平台制作游戏。该公司今天宣布了两款新的开发工具，可让您使用 AI 提示创建游戏：Horizo​​n Create（一款移动应用程序）和 Horizo​​n Studio（一款提供更精细控制的浏览器应用程序）。"
     },
     {
       "id": "06d8bd23c92186",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -195,13 +379,13 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
       "publishedAt": "00:46",
-      "relativeTime": "3 小时前",
+      "relativeTime": "12 小时前",
       "titleZh": "TechCrunch 创始人峰会 2026：您需要了解的一切",
       "summaryZh": "TechCrunch 创始人峰会是 11 月 4 日在波士顿举行的全天聚会，各个阶段的创始人与顶级风险投资家和经验丰富的企业家进行交流，以获得有关建立和扩展公司的战术见解。"
     },
     {
       "id": "5fbe01394f97e0",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -211,13 +395,13 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
       "publishedAt": "00:35",
-      "relativeTime": "3 小时前",
+      "relativeTime": "12 小时前",
       "titleZh": "ElevenLabs 首席执行官谈利润、IPO 时机以及告诉客户他们正在与机器人交谈",
       "summaryZh": "ElevenLabs 在许多客户服务电话的另一端提供人工智能语音，其首席执行官本周告诉我，企业可能应该告诉你这一点——至少在每个人都期望拥有一台机器之前是这样。"
     },
     {
       "id": "cb7e0a0370f056",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -227,13 +411,13 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
       "publishedAt": "01:14",
-      "relativeTime": "2 小时前",
+      "relativeTime": "11 小时前",
       "titleZh": "Muse 显然会让你下载它的整个文件系统",
       "summaryZh": "两位开发人员表示，只需很少的提示，Meta 的 Muse 就会与您共享其整个文件系统。 Peter James 和 Jonny L. Saunders 表示，他们都独立地诱使 Muse 压缩并共享其根文件系统 Ubuntu 系统的全部内容……"
     },
     {
       "id": "a0af0f0d7e888f",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -243,13 +427,13 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
       "publishedAt": "00:03",
-      "relativeTime": "3 小时前",
+      "relativeTime": "12 小时前",
       "titleZh": "在 TechCrunch Disrupt 2026 上与下一波评委 Startup Battlefield 200 的风投们见面",
       "summaryZh": "在 TechCrunch Disrupt 2026 的主舞台上与下一波对 Startup Battlefield 200 竞争者进行评审的风投们见面。请在 9 月 25 日晚上 11:59 之前注册。 PT，最多可节省 200 美元，并获得最激烈的初创公司推介比赛之一的前排座位。"
     },
     {
       "id": "091e61d14291c5",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "Agent",
       "verification": "媒体报道",
@@ -259,13 +443,13 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
       "publishedAt": "01:00",
-      "relativeTime": "3 小时前",
+      "relativeTime": "12 小时前",
       "titleZh": "Meta的Muse AI吉祥物这么可爱真是险恶",
       "summaryZh": "这是 Optimizer，由 Verge 高级评论员 Victoria Song 发送的每周时事通讯，其中剖析和讨论了最新的小玩意和药水，发誓它们将改变你的生活。在此处选择加入优化器。昨晚，我问 Blorbo——我给我的 Muse AI 代理起的名字——来……"
     },
     {
       "id": "b79191560dd640",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "大模型",
       "verification": "媒体报道",
@@ -275,7 +459,7 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
       "publishedAt": "00:00",
-      "relativeTime": "4 小时前",
+      "relativeTime": "13 小时前",
       "titleZh": "Google 测试允许 Gemini 为您致电商家",
       "summaryZh": "谷歌表示，人工智能通话功能将首先向美国购买 Gemini 订阅的 Pixel 11 用户开放。"
     },
@@ -291,7 +475,7 @@
       "source": "WIRED AI",
       "sourceUrl": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
       "publishedAt": "00:00",
-      "relativeTime": "4 小时前",
+      "relativeTime": "13 小时前",
       "titleZh": "Google 的 Gemini 现在可以在 Pixel 手机上为您拨打电话",
       "summaryZh": "Pixel 11 系列独有的 Call for Me 功能为机器人通话赋予了新的含义。"
     },
@@ -307,7 +491,23 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/game/1579524.htm",
       "publishedAt": "02:21",
-      "relativeTime": "1 小时前"
+      "relativeTime": "10 小时前"
+    },
+    {
+      "id": "74f67223f4641b",
+      "level": "关注",
+      "region": "海外",
+      "category": "大模型",
+      "verification": "专题分析",
+      "title": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Aut…",
+      "summary": "An acceptance protocol is developed for sensor-coordinate and polarity binding in mechatronic commissioning. Candidate generation is separated from release authority. Requirements unsupported by a deterministic parser are routed to a frozen local language model with four billion…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "arXiv AI",
+      "sourceUrl": "https://arxiv.org/abs/2609.30219v1",
+      "publishedAt": "01:46",
+      "relativeTime": "11 小时前",
+      "titleZh": "受要求约束的已验证调试：一个冻结的四十亿参数本地模型，作为外部验收层下的候选生成器，具有验证和发布授权……",
+      "summaryZh": "针对机电调试中的传感器坐标和极性绑定制定了验收协议。 候选人生成与发布权限分离。 确定性解析器不支持的需求被路由到一个冻结的本地语言模型，该模型有40亿…"
     },
     {
       "id": "c601102b10833f",
@@ -321,7 +521,53 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1579522.htm",
       "publishedAt": "02:20",
-      "relativeTime": "1 小时前"
+      "relativeTime": "10 小时前"
+    },
+    {
+      "id": "034b45ab1ec8bc",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "微软被曝正悄然放弃曾被寄予厚望的Copilot+ PC品牌",
+      "summary": "微软近年来围绕人工智能PC打造了一系列新的产品品牌，其中最受关注的便是Copilot+ PC。这一品牌最初被视为微软推动下一代Windows体验、尤其是传闻中的Windows 12的重要载体，但如今微软似乎正在逐步淡化这一品牌，甚至开始在部分新产品上直接取消Copilot+ PC标识。 阅读全文",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1579532.htm",
+      "publishedAt": "04:10",
+      "relativeTime": "8 小时前"
+    },
+    {
+      "id": "52443e77bfe623",
+      "level": "关注",
+      "region": "海外",
+      "category": "Agent",
+      "verification": "专题分析",
+      "title": "LLM Agents Can Easily Tamper With Their Own Traces",
+      "summary": "Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own execution traces. We show that local LLM agents such as Claude Code, Codex, Ant…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "arXiv AI",
+      "sourceUrl": "https://arxiv.org/abs/2609.30266v1",
+      "publishedAt": "01:59",
+      "relativeTime": "11 小时前",
+      "titleZh": "法学硕士经纪人可以轻松篡改自己的痕迹",
+      "summaryZh": "异步监控、事件调查和合规性审核主要依靠代理跟踪来重建发生的事情。 这些分析假设LLM代理不能篡改自己的执行跟踪。 我们展示了本地LLM代理，如Claude Code、Codex、Ant……"
+    },
+    {
+      "id": "1d646edd481b91",
+      "level": "关注",
+      "region": "海外",
+      "category": "大模型",
+      "verification": "专题分析",
+      "title": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
+      "summary": "Latent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must compare alternative actions from the same state. A model can therefore achieve low factual prediction error yet poorly distinguish candidate actions. We introduc…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "arXiv AI",
+      "sourceUrl": "https://arxiv.org/abs/2609.30264v1",
+      "publishedAt": "01:59",
+      "relativeTime": "11 小时前",
+      "titleZh": "AD-WM ：反事实模型预测控制的行动歧视世界模型",
+      "summaryZh": "潜在世界模型通常被训练来预测事实转换，而模型预测控制（ MPC ）必须比较来自相同状态的替代动作。 因此，模型可以实现较低的事实预测误差，但很难区分候选动作。我们引入…"
     },
     {
       "id": "0fbb3cb23dd59b",
@@ -335,7 +581,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1579526.htm",
       "publishedAt": "02:22",
-      "relativeTime": "1 小时前"
+      "relativeTime": "10 小时前"
     },
     {
       "id": "f87898975041bb",
@@ -349,7 +595,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1579520.htm",
       "publishedAt": "02:19",
-      "relativeTime": "1 小时前"
+      "relativeTime": "10 小时前"
     },
     {
       "id": "f0dfba206d24a7",
@@ -363,7 +609,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1579518.htm",
       "publishedAt": "02:05",
-      "relativeTime": "1 小时前"
+      "relativeTime": "10 小时前"
     }
   ],
   "trendLines": [
@@ -372,12 +618,12 @@
     "Agent 基础设施和产品落地同步推进，行业更关注任务完成率。"
   ],
   "pendingItems": [
-    "本轮有 22 条来自可靠媒体的报道，后续将继续追踪官方确认。",
+    "本轮有 36 条来自可靠媒体的报道，后续将继续追踪官方确认。",
     "1 个信息源本轮暂时不可用，系统会在下一轮自动重试。"
   ],
   "scanStats": {
     "configuredSources": 19,
     "successfulSources": 18,
-    "candidateCount": 24
+    "candidateCount": 84
   }
 }
