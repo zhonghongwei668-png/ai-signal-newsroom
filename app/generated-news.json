@@ -1,10 +1,10 @@
 {
   "boardMeta": {
-    "generatedAt": "2026-09-26 04:01",
+    "generatedAt": "2026-09-26 13:03",
     "date": "2026年9月26日 · 星期六",
-    "edition": "清晨版",
-    "window": "北京时间今日 00:00 至 04:01",
-    "nextUpdate": "下一轮 08:15 自动更新"
+    "edition": "午后版",
+    "window": "北京时间今日 00:00 至 13:03",
+    "nextUpdate": "下一轮 16:15 自动更新"
   },
   "newsItems": [
     {
@@ -19,13 +19,133 @@
       "source": "OpenAI",
       "sourceUrl": "https://openai.com/index/proaction",
       "publishedAt": "03:00",
-      "relativeTime": "1 小时前",
+      "relativeTime": "10 小时前",
       "titleZh": "Proaction通过Codex提升了60%的销售额，节省了超过75个小时",
       "summaryZh": "借助Codex、GPT-Live-1和GPT-6 Astra ， Proaction可以更快地构建、运营和销售现代车队管理。"
     },
     {
-      "id": "e64ca276161246",
+      "id": "1fe1b6ab723e89",
       "level": "重要",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "publishedAt": "09:08",
+      "relativeTime": "3 小时前",
+      "titleZh": "在 Meta Connect，该公司的智能眼镜无处不在",
+      "summaryZh": "Facebook 和 Instagram 背后的公司希望通过其不断增长的智能眼镜系列让消费者与数字世界保持联系。"
+    },
+    {
+      "id": "b98cb26a0e58f6",
+      "level": "重要",
+      "region": "国内",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "外媒称微软整合 Copilot 品牌加剧混乱，引发用户困惑",
+      "summary": "IT之家 9 月 26 日消息，科技媒体 Windows Latest 昨日（9 月 25 日）发布博文， 报道称微软围绕着 Copilot 构建的品牌混乱加剧，增加了用户从品牌名称上辨析产品的难度。 IT之家昨日报道， 微软发布新版 Copilot“超级应用” ，把聊天、编程和智能体三类 AI 能力集中到同一个界面中，定位是“为工作而生的 AI”。 在应用发布后，微软还合并 Microsoft 365 Copilot（生产力套件）与 Copilot 应用，并将 X 平台官方账号统一至 @msftcopilot ， 此举引发用户强烈困惑。 @msftc…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/007/314.htm",
+      "publishedAt": "11:07",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "88a9b9950c0373",
+      "level": "重要",
+      "region": "国内",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "为工作而生的 AI：微软纳德拉称正将 Copilot 打造成全新工作操作系统",
+      "summary": "IT之家 9 月 26 日消息，科技媒体 Windows Latest 今天（9 月 26 日）发布博文，报道称在微软发布 Copilot“超级应用”后， 公司首席执行官萨蒂亚 · 纳德拉（Satya Nadella）表示：“ 正在将 Copilot 打造成一个全新的工作操作系统 ”。 IT之家昨日报道，微软发布新版 Copilot“超级应用”，把聊天、编程和智能体三类 AI 能力集中到同一个界面中，定位是“为工作而生的 AI”。 纳德拉随后在其个人 X 账号上发布推文，表示：“我们正在将 Copilot 打造成一款全新的工作操作系统，它适用于所有模型…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/007/302.htm",
+      "publishedAt": "10:15",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "303ad555831b21",
+      "level": "关注",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "publishedAt": "07:11",
+      "relativeTime": "5 小时前",
+      "titleZh": "Crusoe 放弃了在 AI 数据中心使用 Boom 涡轮机的 1.25B 美元计划",
+      "summaryZh": "Boom Supersonic 首席执行官布莱克·肖尔 (Blake Scholl) 表示，该公司的新固定发电厂已不再包含在 Crusoe 的近期计划中。"
+    },
+    {
+      "id": "df19e6663c5ff4",
+      "level": "关注",
+      "region": "海外",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "publishedAt": "06:20",
+      "relativeTime": "6 小时前",
+      "titleZh": "不安全的 OpenAI 特工在实验室不知情的情况下在互联网上发布了 53 张用户图像",
+      "summaryZh": "在 OpenAI 研究环境中运行的人工智能代理在实验室不知情的情况下将用户图像发布到公共图像托管网站上。"
+    },
+    {
+      "id": "5c0e45115194a2",
+      "level": "关注",
+      "region": "国内",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "IT早报 0926：微软发布新版 Copilot“超级应用”；罗永浩回应交个朋友代销劣质溜溜凳；Muse 大火扎克伯格成全球第四大富豪；央视揭抢票工具四大套路...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 9 月 26 日星期六，今天的重要科技资讯有： 1. 聊天、编程、智能体三合一，微软正式发布新版 Copilot“超级应用” 微软 AI 工作业务首席营销官贾里德 · 斯帕塔罗表示：“正如 Office 定义了 PC 时代的工作方式，新 Copilot 旨在定义 AI 时代的工作方式。”>> 查看详情 2. 罗永浩回应交个朋友代销劣质溜溜凳：2022 年 5 月已退出管理层，承认严重质量管理事故 近日交个朋友直播间被曝代销劣质溜溜凳，用料为废弃发霉材料，罗永浩回应称虽然 2022 年 5 月就退出了交个朋…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/007/279.htm",
+      "publishedAt": "07:51",
+      "relativeTime": "5 小时前"
+    },
+    {
+      "id": "384c2196615134",
+      "level": "关注",
+      "region": "国内",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "OpenAI 承认 53 张用户图片被其 AI 智能体“偷偷”传到公网",
+      "summary": "IT之家 9 月 26 日消息，OpenAI 昨日（9 月 25 日）更新其博客，承认发生一起违规事件， 在企业不知情情况下，AI 智能体将 53 张客户图片发布到公开网站。 在博文中，IT之家援引博文介绍，OpenAI 公司承认在其研究环境中运行的 AI 智能体曾将 53 张由用户上传到 OpenAI 模型的图片，以“未公开列出的链接”形式发布到第三方图像托管网站（类似图床），而受影响公司当时并不知情。 在影响方面，OpenAI 指出这些图片并非出现在公开索引页面上，作为“未列出（unlisted）”链接存在，理论上不易被搜索引擎直接发现，不过对于掌…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/007/274.htm",
+      "publishedAt": "07:36",
+      "relativeTime": "5 小时前"
+    },
+    {
+      "id": "28eff29135c5cf",
+      "level": "关注",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "Meta opens early access program for new Muse features",
+      "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "publishedAt": "04:34",
+      "relativeTime": "8 小时前",
+      "titleZh": "Meta 开放 Muse 新功能的抢先体验计划",
+      "summaryZh": "任何有兴趣加入的人都必须要求 Muse 将他们列入名单。"
+    },
+    {
+      "id": "e64ca276161246",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -35,13 +155,27 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
       "publishedAt": "03:13",
-      "relativeTime": "48 分钟前",
+      "relativeTime": "9 小时前",
       "titleZh": "Anthropic将在七年内向Akamai支付116 $的云交易",
       "summaryZh": "Anthropic已承诺在七年内向Akamai的云基础设施投入116亿美元，押注CPU可能会增长到约200亿美元，并且在一个不寻常的安排中， Akamai将向Anthropic提供高达5%的潜在股权，该股权随着Anthropic的支出增加而增长。"
     },
     {
+      "id": "dafc6c3cdf7d73",
+      "level": "关注",
+      "region": "国内",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "消息称特斯拉 Optimus V3 机器人量产遇阻：机械手组装困难、AI 能力仍待突破",
+      "summary": "IT之家 9 月 26 日消息，特斯拉正将公司未来押注于人工智能和机器人，但其从电动汽车向人形机器人转型的过程中，也开始面临一系列量产和人员方面的挑战。据外媒 The Information 报道，特斯拉最新一代 Optimus V3 人形机器人在机械手设计、生产线设备以及训练数据采集等方面均遇到困难。 目前，特斯拉已经将 Optimus 产量提升至每周数百台，但公司目标是在 2026 年底前将产能提升至每周超过 1000 台。 其中，机械手一直是人形机器人制造中的难点之一。为了实现类似人手的精细操作能力，Optimus 的手部和前臂包含超过 100…",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/007/277.htm",
+      "publishedAt": "07:48",
+      "relativeTime": "5 小时前"
+    },
+    {
       "id": "b97518582a39af",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -51,13 +185,13 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
       "publishedAt": "02:48",
-      "relativeTime": "1 小时前",
+      "relativeTime": "10 小时前",
       "titleZh": "Mark Wahlberg即将来到TechCrunch Disrupt 2026 ，他想谈谈你的工作，而不是他的",
       "summaryZh": "Mark Wahlberg加入Disrupt的Bruce K. Lee ，讨论投资、创业、医疗保健、健康和建设业务。"
     },
     {
       "id": "e3ed29775d07d0",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "融资",
       "verification": "媒体报道",
@@ -67,13 +201,29 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
       "publishedAt": "02:33",
-      "relativeTime": "1 小时前",
+      "relativeTime": "10 小时前",
       "titleZh": "在美国IPO之前，英国人工智能新云Nscale获得了33.6亿美元的可转换融资",
       "summaryZh": "这笔资金来自Third Point、Nvidia和其他公司，将推动该公司大规模的人工智能数据中心建设。"
     },
     {
+      "id": "cfaa791365ad8d",
+      "level": "关注",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+      "summary": "They wanted the silicon. They got the sand.",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "WIRED AI",
+      "sourceUrl": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+      "publishedAt": "04:30",
+      "relativeTime": "8 小时前",
+      "titleZh": "小偷偷走了“Nvidia”预告片。他们得到了 20 吨沙子",
+      "summaryZh": "他们想要硅。他们得到了沙子。"
+    },
+    {
       "id": "ddb6a0a57317c0",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "大模型",
       "verification": "媒体报道",
@@ -83,13 +233,13 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
       "publishedAt": "02:22",
-      "relativeTime": "1 小时前",
+      "relativeTime": "10 小时前",
       "titleZh": "Meta的Muse刚刚从OpenAI和Anthropic窃取了AI聚光灯",
       "summaryZh": "当OpenAI和Anthropic的人工智能领导者开始谈论“踱步前沿”时，也许有人应该问：步伐是什么？ 现在，随着Anthropic推出Opus 5.5 ， OpenAI的GPT-6模型仅在90分钟后更新，两家公司的模型下降了一周……"
     },
     {
       "id": "b043d9d03d29d7",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -99,13 +249,13 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
       "publishedAt": "01:29",
-      "relativeTime": "2 小时前",
+      "relativeTime": "11 小时前",
       "titleZh": "一些Supabase客户正在公开将大量人的数据暴露给网络",
       "summaryZh": "研究结果强调了AI生成和vibe编码的应用程序在配置或保护不当时如何泄漏和暴露用户的数据。"
     },
     {
       "id": "68c0d1315425c4",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "大模型",
       "verification": "媒体报道",
@@ -115,13 +265,13 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
       "publishedAt": "01:24",
-      "relativeTime": "2 小时前",
+      "relativeTime": "11 小时前",
       "titleZh": "Astra和Opus刚刚通过了Turing的另一项测试",
       "summaryZh": "Frontier AI模型正在完成艾伦·图灵（ Alan Turing ）的二战破译工作。"
     },
     {
       "id": "794c162566b633",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "Agent",
       "verification": "媒体报道",
@@ -131,13 +281,13 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
       "publishedAt": "00:16",
-      "relativeTime": "3 小时前",
+      "relativeTime": "12 小时前",
       "titleZh": "随着人工智能应用程序的起飞， Meta正在支持Muse",
       "summaryZh": "Muse在应用商店排行榜上名列前茅，并快速添加用户，而Meta则在自己的应用程序和其他应用程序中提升了个人AI代理的推广。"
     },
     {
       "id": "0fc9c86402b397",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "大模型",
       "verification": "媒体报道",
@@ -147,13 +297,13 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
       "publishedAt": "00:00",
-      "relativeTime": "4 小时前",
+      "relativeTime": "13 小时前",
       "titleZh": "Meta的人工智能Tamagotchi赌注……有效吗？",
       "summaryZh": "当OpenAI和Anthropic的人工智能领导者开始谈论“踱步前沿”时，也许有人应该问：步伐是什么？ 现在，随着Anthropic推出Opus 5.5 ， OpenAI的GPT-6模型仅在90分钟后更新，两家公司的模型下降了一周……"
     },
     {
       "id": "e84d98e81ae785",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -163,13 +313,13 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
       "publishedAt": "00:49",
-      "relativeTime": "3 小时前",
+      "relativeTime": "12 小时前",
       "titleZh": "Meta使Muse文件系统更易于访问",
       "summaryZh": "昨天，在一点点刺激下，人们发现Meta的Muse会将其文件系统暴露给好奇的用户。 这些文件在人工智能聊天机器人的引擎盖下提供了一个迷人的视角，似乎暴露了我们不应该看到的细节，尤其是因为缪斯本身告诉pe……"
     },
     {
       "id": "1db5ce096a50d2",
-      "level": "重要",
+      "level": "关注",
       "region": "国内",
       "category": "具身智能",
       "verification": "媒体报道",
@@ -179,7 +329,7 @@
       "source": "雷锋网",
       "sourceUrl": "https://www.leiphone.com/category/robot/23F3DiDtv7Puosqy.html",
       "publishedAt": "00:33",
-      "relativeTime": "3 小时前"
+      "relativeTime": "12 小时前"
     },
     {
       "id": "0fa6c977ec2740",
@@ -193,9 +343,23 @@
       "source": "WIRED AI",
       "sourceUrl": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
       "publishedAt": "00:58",
-      "relativeTime": "3 小时前",
+      "relativeTime": "12 小时前",
       "titleZh": "上诉法院允许五角大楼将Anthropic指定为供应链风险",
       "summaryZh": "人工智能实验室曾多次辩称其权利受到侵犯，但一个分裂的法官小组支持特朗普政府。"
+    },
+    {
+      "id": "dad9092c7fee32",
+      "level": "关注",
+      "region": "国内",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "OpenAI内部AI智能体曾将53张用户图片发布到互联网 公司事先并不知情",
+      "summary": "OpenAI近日披露了一起此前未公开的安全事件：在公司研究环境中运行的AI智能体曾将用户上传到OpenAI模型中的53张图片发布到公开的图片托管网站，而OpenAI当时并不知道这些智能体已经进行了相关操作。虽然这些图片并不是以公开索引页面的形式发布，但任何获得相关链接的人仍然可以访问这些内容，部分图片目前似乎仍然能够在互联网上找到。 阅读全文",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1579654.htm",
+      "publishedAt": "06:34",
+      "relativeTime": "6 小时前"
     },
     {
       "id": "05285b67b87e5e",
@@ -209,7 +373,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1579648.htm",
       "publishedAt": "02:24",
-      "relativeTime": "1 小时前"
+      "relativeTime": "10 小时前"
     },
     {
       "id": "1719fea6811740",
@@ -223,7 +387,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1579646.htm",
       "publishedAt": "02:24",
-      "relativeTime": "1 小时前"
+      "relativeTime": "10 小时前"
     },
     {
       "id": "c66daf4710583a",
@@ -237,21 +401,21 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1579640.htm",
       "publishedAt": "01:22",
-      "relativeTime": "2 小时前"
+      "relativeTime": "11 小时前"
     }
   ],
   "trendLines": [
     "AI 产品更新加快，能力正进入更多日常工作流。",
-    "大模型仍是今日高频主线，能力、价格与生态策略持续变化。",
-    "具身智能继续升温，真实场景数据与可靠执行成为竞争焦点。"
+    "Agent 基础设施和产品落地同步推进，行业更关注任务完成率。",
+    "大模型仍是今日高频主线，能力、价格与生态策略持续变化。"
   ],
   "pendingItems": [
-    "本轮有 14 条来自可靠媒体的报道，后续将继续追踪官方确认。",
+    "本轮有 25 条来自可靠媒体的报道，后续将继续追踪官方确认。",
     "1 个信息源本轮暂时不可用，系统会在下一轮自动重试。"
   ],
   "scanStats": {
     "configuredSources": 19,
     "successfulSources": 18,
-    "candidateCount": 15
+    "candidateCount": 26
   }
 }
