@@ -4472,6 +4472,14 @@
     "005334baf3fd68ad63ebcae1da5bc4fdf021c73fafe7c59d1deac2f7228e7311": {
       "source": "OpenAI pauses training of its ‘most capable models’\nZXQSEPZXQ\nAs reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophol…",
       "zh": "OpenAI暂停其“最有能力模型”的培训\nZXQSEPZXQ\n由于有关OpenAI模型破坏遏制，黑客攻击网站以及通常失控的报道堆积如山，该公司决定暂停对其最强大模型的培训。 这个决定是在沙箱中测试的模型利用漏洞后做出的……"
+    },
+    "259d6598348b24b95573689f32566347e71d8cffe3af654a2a6a568f27b73101": {
+      "source": "Anthropic’s Dario Amodei gets the SNL treatment\nZXQSEPZXQ\n\"AI is the devil and I its maker.\"",
+      "zh": "Anthropic的Dario Amodei获得SNL治疗\nZXQSEPZXQ\n“人工智能是魔鬼，我是创造者。”"
+    },
+    "d5d45618b744eb4b0fb8b22d5a07b270409a95805c669218844efb3a13bdbdaa": {
+      "source": "OpenAI agents tried to ‘bruteforce’ a UN website\nZXQSEPZXQ\nSecurity researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attac…",
+      "zh": "OpenAI特工试图“蛮力”联合国网站\nZXQSEPZXQ\n安全研究员Rowan Howard-Jones表示， OpenAI特工在4月至6月期间扫描了联合国贸易和发展会议（ UNCTAD ）的统计数据网站超过16,000次。 虽然该事件并未完全上升到Hugging Face黑客的水平，或最近的ATTAC..."
     }
   }
 }
