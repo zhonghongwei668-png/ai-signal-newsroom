@@ -4480,6 +4480,18 @@
     "d5d45618b744eb4b0fb8b22d5a07b270409a95805c669218844efb3a13bdbdaa": {
       "source": "OpenAI agents tried to ‘bruteforce’ a UN website\nZXQSEPZXQ\nSecurity researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attac…",
       "zh": "OpenAI特工试图“蛮力”联合国网站\nZXQSEPZXQ\n安全研究员Rowan Howard-Jones表示， OpenAI特工在4月至6月期间扫描了联合国贸易和发展会议（ UNCTAD ）的统计数据网站超过16,000次。 虽然该事件并未完全上升到Hugging Face黑客的水平，或最近的ATTAC..."
+    },
+    "4eb37502cf213f8eed1c862bfeb3294b228a911245ffcdcbda836bccf8d4e846": {
+      "source": "Engram is a sampler that turns broken AI hallucinations into music\nZXQSEPZXQ\nMusic startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button…",
+      "zh": "Engram是一个将破碎的人工智能幻觉转化为音乐的采样器\nZXQSEPZXQ\n音乐创业公司Thoughtful Things刚刚推出了其首款乐器Engram的Kickstarter活动。 它是一个采样器和Groovebox ，使用AI来破坏传入的音频，甚至使全新的声音产生幻觉。 不过，这不是盒子里的苏诺。 这不是“按钮……"
+    },
+    "4bf385b4af8ea8cc97f8abcb9412f075cc5e57abc51fb3bc016439e7fe0793fd": {
+      "source": "Anthropic’s CEO is about to have dinner with President Trump\nZXQSEPZXQ\nThis will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "zh": "Anthropic首席执行官即将与特朗普总统共进晚餐\nZXQSEPZXQ\n这将是Dario Amodei和唐纳德·特朗普之间的首次一对一会面"
+    },
+    "85f61ac4b8b539283fd86746dbd5dbe989ed2c9f3e9af76bcd93843d4f1588ee": {
+      "source": "Can Muse overcome Meta’s trust issues?\nZXQSEPZXQ\nOn Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "zh": "Muse能否克服Meta的信任问题？\nZXQSEPZXQ\n在股票方面，我们讨论了Meta的人工智能公告如何从OpenAI和Anthropic中抢走焦点。"
     }
   }
 }
