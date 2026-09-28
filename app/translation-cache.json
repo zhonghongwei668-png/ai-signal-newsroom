@@ -4492,6 +4492,14 @@
     "85f61ac4b8b539283fd86746dbd5dbe989ed2c9f3e9af76bcd93843d4f1588ee": {
       "source": "Can Muse overcome Meta’s trust issues?\nZXQSEPZXQ\nOn Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
       "zh": "Muse能否克服Meta的信任问题？\nZXQSEPZXQ\n在股票方面，我们讨论了Meta的人工智能公告如何从OpenAI和Anthropic中抢走焦点。"
+    },
+    "51a4edd790d10ec671149a22064824cdd1b0f65b9bf0f063a8c4b24075b39e2b": {
+      "source": "Walmart won’t hike prices based on your shopping history, CEO says\nZXQSEPZXQ\nWalmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal. In a letter to customers, Walmart CEO John Furner writes that the company's switch to digital shelf labels is meant to save store as…",
+      "zh": "首席执行官表示，沃尔玛不会根据您的购物历史记录提高价格\nZXQSEPZXQ\n正如《华尔街日报》早些时候报道的那样，沃尔玛表示不会根据您的个人信息或一天中的时间更改产品价格。 沃尔玛首席执行官约翰·弗纳（ John Furner ）在致客户的一封信中写道，该公司改用数字货架标签是为了将商店保存为……"
+    },
+    "d05098288bcb4442e97535b732490f6a28207a50366dbbd44991c65bbaafc473": {
+      "source": "3.20.0 (2026-09-28) Features api: add Agents credential and session options ( #3967 ) ( bb68198 ) api: add Cyber access programs to Responses ( #3956 ) ( 09c5b6f ) responses: opt in to incremental WebSocket text and tool snapshots ( #3973 ) ( d0207b4 ) responses: preserve detail…",
+      "zh": "3.20.0 (2026-09-28)功能api ：添加代理凭据和会话选项(# 3967) (bb68198) api ：将网络访问程序添加到响应(# 3956) (09c5b6f)响应：选择加入增量WebSocket文本和工具快照(# 3973) (d0207b4)响应：保留详细信息……"
     }
   }
 }
