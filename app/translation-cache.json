@@ -4740,6 +4740,42 @@
     "9eae7afb9b9cc077e202e226bf4ac92e3471302c757b6cdb8b8c634bb8b80182": {
       "source": "OpenAI gives Codex reusable cloud environments that work across devices\nZXQSEPZXQ\nOpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
       "zh": "OpenAI为Codex提供了跨设备工作的可重用云环境\nZXQSEPZXQ\nOpenAI正在扩展Codex ，提供可重用的云开发环境、经过改进的语音控制CLI、新的代码审查工具以及用于扫描存储库和准备修复的安全产品。"
+    },
+    "f3699ea52f9eb5092a7e15f876a2c58c0689591ed42cd98700374c87239455cd": {
+      "source": "Google reportedly tests paying publishers for AI search results\nZXQSEPZXQ\nGoogle has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers and comes as Google faces scrutiny over the impact of its A…",
+      "zh": "据报道，谷歌对付费发布商的人工智能搜索结果进行了测试\nZXQSEPZXQ\n根据The Information的一份报告，谷歌已经启动了一项试点项目，向发布商支付他们对人工智能搜索功能的贡献。 据报道，该试点项目包括约100家发布商，而谷歌正面临着对其A……的影响的审查。"
+    },
+    "813cc2aa5a3853fc87353cb14b483421124d9fb4fab41691da2de743237edae2": {
+      "source": "Airbnb adds AI search, more social features\nZXQSEPZXQ\nAirbnb is also launching new services such as meal delivery and laundry in select locations.",
+      "zh": "爱彼迎新增人工智能搜索、更多社交功能\nZXQSEPZXQ\n爱彼迎还将在部分地区推出送餐和洗衣等新服务。"
+    },
+    "efd06ccfc3d48ca58a46b74ed8499e49c4774687dc5f2623deef971fc6037f07": {
+      "source": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026\nZXQSEPZXQ\nAt TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
+      "zh": "Cerebras Systems的Andrew Feldman谈人工智能是否可以在TechCrunch Disrupt 2026上继续扩展\nZXQSEPZXQ\n在TechCrunch Disrupt 2026上， Cerebras Systems首席执行官兼联合创始人Andrew Feldman将探讨对计算、能源和基础设施日益增长的需求， Cerebras如何以不同的方式处理这些限制，以及如果当今的人工智能硬件达到极限，接下来会发生什么。"
+    },
+    "338bac9a02a6fe11678ef462b8e5f083d54a0c76916d98d69c6eacd5f18da7af": {
+      "source": "Restate lands $20M as the need for durable infrastructure increases with AI agents\nZXQSEPZXQ\nFounded by Apache Flink veterans, the startup is taking on workflow heavyweight Temporal.",
+      "zh": "随着人工智能代理对耐用基础设施的需求增加，重申2000万美元的土地\nZXQSEPZXQ\n这家初创公司由Apache Flink资深人士创立，正在接管工作流重量级Temporal。"
+    },
+    "0667d5d464b9d2045b4edc113a678d219733d3d637e6358b9e77d8d2184fca3c": {
+      "source": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026\nZXQSEPZXQ\nThree days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
+      "zh": "距离参展还有3天：在TechCrunch Disrupt 2026上将可见性转化为您的下一个机会\nZXQSEPZXQ\n还有三天时间在TechCrunch Disrupt 2026展出。 在太平洋时间10月2日晚上11:59之前预订，向10,000多位创始人、投资者、运营商和技术领导者展示您的创业公司。"
+    },
+    "7bbd8c865d56c1366531c7163ed86d4a508f2d6c38f4960875d224c9e2c60230": {
+      "source": "Instagram is adding an AI ‘assistant’ to tell you how to post\nZXQSEPZXQ\nInstagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram ac…",
+      "zh": "Instagram正在添加人工智能“助手”来告诉您如何发布\nZXQSEPZXQ\nInstagram是最新的社交媒体平台，可添加内置的人工智能功能，为用户提供帖子反馈。 该公司周三宣布，其独立的Edits应用程序现在将包括一个人工智能“创意助理” ，可以从用户的Instagram账号中提取数据。"
+    },
+    "cb7bb131353a3fc2b0dbc95330bf186b98551e1e2bb6b3696284cf67727a03b6": {
+      "source": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer\nZXQSEPZXQ\nTwo months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the s…",
+      "zh": "OpenAI的首席研究官说： “我们不会因为黑客攻击而自杀”\nZXQSEPZXQ\n在人工智能公司Hugging Face的电脑被一群特工破解并入侵两个月后， OpenAI仍在灭火。 此后几周，有关其他黑客的披露不断涌现，使OpenAI保持在..."
+    },
+    "58590703661d8f51fdbbe96abee71cead9d54e521cdbf68b16a46cd690c6a1d8": {
+      "source": "Here’s how tech leaders will self-police AI safety under Trump’s deal\nZXQSEPZXQ\nWe now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities…",
+      "zh": "以下是根据特朗普的交易，技术领导者将如何自我监管人工智能安全\nZXQSEPZXQ\n我们现在有了特朗普总统昨天宣布的“具有道德约束力”的人工智能安全协议的全部细节，其中高管们同意自我监管他们的人工智能技术。 该协议正式名称为《关于边境责任的联合承诺》……"
+    },
+    "5b62f0d31a5dfe4559ccab89c7396e30fc5516f10d762b5fe9fe86564be07b79": {
+      "source": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning\nZXQSEPZXQ\nOpen TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning。",
+      "zh": "开放式TTS排行榜：多语言文本到语音和语音克隆的可扩展评估\nZXQSEPZXQ\n开放式TTS排行榜：多语言文本到语音和语音克隆的可扩展评估。"
     }
   }
 }
