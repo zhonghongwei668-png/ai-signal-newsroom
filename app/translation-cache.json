@@ -4696,6 +4696,50 @@
     "58c51c9f338c36c294210777cd33f4620bae3409d605a6083b9d6a9670f22262": {
       "source": "3.21.0 (2026-09-29) Features api: add GPT-6.1 Sol model identifier ( #3986 ) ( 160b2c0 )",
       "zh": "3.21.0 (2026-09-29)功能api ：添加GPT-6.1 SOL模型标识符(# 3986) (160b2c0)"
+    },
+    "81896c471dd0a05fb25ea349f22a2f5e45207d644271c2d8384a9772a75c7431": {
+      "source": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch\nZXQSEPZXQ\nBefore OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "zh": "互联网深信埃隆·马斯克（ Elon Musk ）的xAI控制了OpenAI的“Dots”发布\nZXQSEPZXQ\n在OpenAI周二推出其新的AI代理Dots之前， Elon Musk的xAI已经获得了域名“dot.com” ，该域名现在重定向到Grok聊天机器人下载页面。"
+    },
+    "d0d7b8bdca5833cfb89c5fe3588e463478e8b89be112cf77a59981f855127a09": {
+      "source": "Trump orders US government to call AI ‘Super Intelligence’\nZXQSEPZXQ\nThe US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump…",
+      "zh": "特朗普命令美国政府将人工智能称为“超级智能”\nZXQSEPZXQ\n美国行政部门不再承认“人工智能”的存在。 今后，由于唐纳德·特朗普总统签署了一项新的行政命令，官方政策网站、政策文件和新闻稿将仅提及“超级情报” ……"
+    },
+    "e1348701a499a58dd8a6a29ccc12b4c5fdd5342488eb2695b555afcb6da786c4": {
+      "source": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch\nZXQSEPZXQ\nFor the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+      "zh": "当您询问有关Minecraft的信息时， America.gov会变得非常奇怪，但这并不是一个小故障\nZXQSEPZXQ\n为了国家安全，得知America.gov没有产生幻觉，以至于它正在写冗长的诗歌，这是一种解脱。"
+    },
+    "0d2020665258e87f852971177d836c2643474149d8f4bc3827ff091630793918": {
+      "source": "Sam Altman says OpenAI won’t go public until its models are safe\nZXQSEPZXQ\nFor months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward…",
+      "zh": "Sam Altman表示，在其模型安全之前， OpenAI不会上市\nZXQSEPZXQ\n几个月来，人们一直想知道OpenAI何时上市。 首席执行官萨姆·奥尔特曼（ Sam Altman ）表示，除非公司能够对模型安全性做出更好的承诺，并且没有明确的时间表，否则这种情况不会发生。 “我们打算继续推进人工智能的发展……但随着模型的激增……"
+    },
+    "f2f458e502ac4a83beb6eeca6338cc03030883b329f3aadf77f71ac717f1371f": {
+      "source": "3.22.1 (2026-09-30) Bug Fixes api: correct the missing authentication error message ( #3993 ) ( 51692ed ), closes #3962 transform NotRequired typed dictionary fields ( #3995 ) ( 5544c18 ) Chores tests: mark sample_file.txt as text with LF line endings ( #3879 ) ( fd78a48 ) Docum…",
+      "zh": "3.22.1 (2026-09-30)错误修复api ：更正缺少的身份验证错误消息(# 3993) (51692ed) ，关闭# 3962转换NotRequired类型字典字段(# 3995) (5544c18)任务测试：将sample_file.txt标记为带有LF行尾的文本(# 3879) (fd78a48)文档…"
+    },
+    "35c8ce055b4463bc845d79f36690853fb95c0fd04d2e411a9928267a6838f7b3": {
+      "source": "Elon Musk’s AI-powered Grokipedia is updating again\nZXQSEPZXQ\nGrokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing vari…",
+      "zh": "Elon Musk的人工智能Grokipedia再次更新\nZXQSEPZXQ\nSpaceXAI的人工智能在线百科全书Grokipedia似乎在经过长达数月的停顿后再次更新文章。 今年8月， Lawfare报道称，自4月以来， Grokipedia上的文章没有审查过编辑，但该平台的实时更新网站现在显示了……"
+    },
+    "f7dc8056dc5d1ab3c029660f572800cdcd00365d28248f8e173cbb16effcfed7": {
+      "source": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite\nZXQSEPZXQ\nOpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+      "zh": "OpenAI与微软竞争，推出ChatGPT自己的办公套件\nZXQSEPZXQ\nOpenAI新推出的办公功能套件使其与更传统的软件公司展开更直接的竞争。"
+    },
+    "57054af40a3d85ffc7cebc683b0d930dd07c973ba1f3dbe3ab9ff436ce76dc7b": {
+      "source": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less\nZXQSEPZXQ\nOpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
+      "zh": "OpenAI推出GPT-6.1 SOL ，称其几乎与GPT-6 ASTRA相匹配，成本更低\nZXQSEPZXQ\nOpenAI表示， GPT-6.1 SOL在复杂的专业任务方面比GPT-6 SOL提供了显着的改进，包括代码编写和调试、文档理解以及执行多步骤业务工作流程。"
+    },
+    "08726bac068461679fb036ceece00b275ce34cddc097889bd98ae968cfef0bf7": {
+      "source": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation\nZXQSEPZXQ\nThe new round is anticipated to be the company's last before its delayed 2027 public debut.",
+      "zh": "据报道， OpenAI正在洽谈以$ 1.4T的估值筹集$ 300亿轮融资\nZXQSEPZXQ\n预计新一轮融资将是该公司在2027年推迟公开亮相之前的最后一轮融资。"
+    },
+    "163b82327f666073df7c745c380e9b5441a77b96a1d654ec2f54791cc06d9999": {
+      "source": "AI-powered app maker Wabi pivots to a messaging experience\nZXQSEPZXQ\nWabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
+      "zh": "人工智能应用程序制造商Wabi转向消息传递体验\nZXQSEPZXQ\nWabi正在将其基于提示的应用构建器重新定位为个人AI代理，该代理可以按需创建界面，将聊天、应用和正在进行的任务结合起来。"
+    },
+    "9eae7afb9b9cc077e202e226bf4ac92e3471302c757b6cdb8b8c634bb8b80182": {
+      "source": "OpenAI gives Codex reusable cloud environments that work across devices\nZXQSEPZXQ\nOpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
+      "zh": "OpenAI为Codex提供了跨设备工作的可重用云环境\nZXQSEPZXQ\nOpenAI正在扩展Codex ，提供可重用的云开发环境、经过改进的语音控制CLI、新的代码审查工具以及用于扫描存储库和准备修复的安全产品。"
     }
   }
 }
