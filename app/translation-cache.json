@@ -4844,6 +4844,34 @@
     "c415d0793d76d9bf709effa29e0182d2b176dfa230a6470ce2cfac7a8feeb48d": {
       "source": "New Model additions Nemotron 3 Diarization Nemotron 3 Diarization is an open-weight streaming speaker diarization model designed to determine \"who spoke when\" in real-world audio. It supports both streaming and offline inference, handles up to eight speakers, and orders speaker…",
       "zh": "新模型添加Nemotron 3 Diarization Nemotron 3 Diarization是一种开放式流媒体扬声器Diarization模型，旨在确定真实世界音频中的“谁说话时”。它支持流媒体和离线推理，最多可处理八个扬声器，并可订购扬声器……"
+    },
+    "287e688dec7d051deea15d53f6f950c0d76f185ef5488dd87a41abde845e6ed8": {
+      "source": "Google releases Gemini 4 Argon, called its most powerful model yet\nZXQSEPZXQ\nGoogle has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "zh": "谷歌发布Gemini 4 Argon ，被称为迄今为止最强大的模型\nZXQSEPZXQ\n谷歌发布了最新的Gemini模型，将其作为编码和网络安全工作的主力进行营销。"
+    },
+    "7b58c412e874abf65e53397e2528b02749138c00c07c3e8a7e71a581d9e6978f": {
+      "source": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design\nZXQSEPZXQ\nGrokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor call…",
+      "zh": "伊隆·马斯克（ Elon Musk ）的《格罗基百科全书》（ Grokipedia ）采用“\nZXQSEPZXQ\nSpaceXAI的人工智能驱动的维基百科竞争对手Grokipedia最近再次开始合并编辑，今天，作为v0.3更新的一部分，它进行了一些设计调整，包括新徽标以及对其主页和实时编辑页面的刷新。 SpaceXAI设计主管Benji Taylor致电……"
+    },
+    "0918a95438e9333d9f3f9d26685ffa3207459754062b4efa386668149bbf361a": {
+      "source": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation\nZXQSEPZXQ\nFlow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "zh": "Valor、Atreides和Sequoia以7.5亿美元的估值支持人工智能初创公司Flow Engineering\nZXQSEPZXQ\nFlow Engineering将人工智能代理引入硬件设计，也让Roelof Botha成为天使投资人和董事会成员。"
+    },
+    "1c5e837fd63a3ac999c0f0e09717c66a75971b1b61c4fd54fdd59fbfc5405442": {
+      "source": "1.11.0 (2026-09-30) Full Changelog: v1.10.0...v1.11.0 Features api: add list spend limits endpoint ( e8f0cac ) Chores client: deprecate sonnet 4.5 ( 22b36b1 )",
+      "zh": "1.11.0 (2026-09-30)完整更新日志： v1.10.0... v1.11.0功能api ：添加列表支出限制端点(e8f0cac) Chores客户端：弃用十四行诗4.5 (22b36b1)"
+    },
+    "030e3d14a297d378af3148162b83d39901066ab4b679a76b50cbee06c4b365c6": {
+      "source": "Comparison of techniques for fine-tuning open-weight models for entity extraction from radiology reports\nZXQSEPZXQ\nConverting free-text radiology reports into structured labels supports cohort building, quality assurance, and monitoring of clinical imaging models, but the strongest label extractors are hosted proprietary models whose use raises privacy, cost, and reproducibility concerns. We…",
+      "zh": "从放射学报告中提取实体的开放权重模型的微调技术比较\nZXQSEPZXQ\n将自由文本放射学报告转换为结构化标签支持队列构建、质量保证和临床成像模型的监测，但最强的标签提取器是托管的专有模型，其使用会引发隐私、成本和可重复性问题。我们……"
+    },
+    "13177ba910140c0b3483aeed85c433cb49b46a9f32129a0d3cd8ab6f1da5a266": {
+      "source": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis\nZXQSEPZXQ\nMultimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanced: a constant-majority predictor can score above 90% accuracy while being clin…",
+      "zh": "针对多模式临床诊断的排名感知提示优化\nZXQSEPZXQ\n多模态大型语言模型（ MLLM ）正在迅速推进临床诊断，但其适应管道仍然以基于准确性的目标为基础。 临床数据严重不平衡：在临床时，恒定多数预测因子可以获得90 ％以上的准确率……"
+    },
+    "c162049426e611b336982068c8d0a22d80c3634343d5fff5b5fc730ca1cfa6e6": {
+      "source": "Semifactual Credit-Augmented Policy Optimization\nZXQSEPZXQ\nReinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features. We investigate this sensitivity through semifactual prompt interventions that…",
+      "zh": "半事实信用增强政策优化\nZXQSEPZXQ\n具有可验证奖励的强化学习（ RLVR ）提高了大型语言模型（ LLM ）的推理能力，但它们的预测仍然对与任务无关的提示功能敏感。 我们通过半事实的即时干预措施来研究这种敏感性……"
     }
   }
 }
