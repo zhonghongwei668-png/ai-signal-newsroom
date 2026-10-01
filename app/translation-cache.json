@@ -4872,6 +4872,26 @@
     "c162049426e611b336982068c8d0a22d80c3634343d5fff5b5fc730ca1cfa6e6": {
       "source": "Semifactual Credit-Augmented Policy Optimization\nZXQSEPZXQ\nReinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features. We investigate this sensitivity through semifactual prompt interventions that…",
       "zh": "半事实信用增强政策优化\nZXQSEPZXQ\n具有可验证奖励的强化学习（ RLVR ）提高了大型语言模型（ LLM ）的推理能力，但它们的预测仍然对与任务无关的提示功能敏感。 我们通过半事实的即时干预措施来研究这种敏感性……"
+    },
+    "abc737ff45ee26348f2e872051758167e6c130c0ec76992991a03249534b9eaf": {
+      "source": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs\nZXQSEPZXQ\nIntroducing Olmo-core 3: Open, scalable training infrastructure for large MoEs。",
+      "zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施\nZXQSEPZXQ\nOlmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施。"
+    },
+    "76fe979238a839e08a090702317b82e486c51d6d98a34a378051711c038691bf": {
+      "source": "Hearing tech startup Legato launches its AI hearing glasses\nZXQSEPZXQ\nThe glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+      "zh": "听力科技初创公司 Legato 推出人工智能助听眼镜\nZXQSEPZXQ\n该眼镜源于该初创公司的目标，即通过解决与传统助听器相关的成本、舒适度和耻辱感，让听力保健变得更容易获得。"
+    },
+    "0edba0e21822626e52b1c291d5ba3fc931cf04680c1c335c7caf3e726bc759ad": {
+      "source": "Brian Chesky interview: AI agents need their own operating system\nZXQSEPZXQ\nBrian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+      "zh": "Brian Chesky 专访：人工智能代理需要自己的操作系统\nZXQSEPZXQ\nBrian Chesky 讲述了 Airbnb 代理友好型、消费者人工智能的现状，以及为什么世界需要一个人工智能原生操作系统。"
+    },
+    "196f70d9ee6b46214b7dfe71b5e9c68f05b0770167eaa415ef6b999fd65618a7": {
+      "source": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites\nZXQSEPZXQ\nSatlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "zh": "Satlyt 由前 Google 和 SpaceX 产品经理创立，筹集 800 万美元用于在卫星上运行人工智能\nZXQSEPZXQ\nSatlyt 希望成为轨道计算领域的 Android，提供可在许多公司的卫星上运行的开放软件，而不是 SpaceX 封闭的、一体化的 iPhone 式方法。"
+    },
+    "a0ebae240f9da7458ce1e8f4b6aba90e93c9eecb83bd43870affc6f6f3543d0b": {
+      "source": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.\nZXQSEPZXQ\nThe startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+      "zh": "Photon 为移动应用举办了一场葬礼。现在它有 450 万美元来帮助用代理商替换他们。\nZXQSEPZXQ\n该初创公司帮助开发人员构建可在 iMessage、SMS/RCS、电子邮件和其他消息平台上工作的人工智能代理。人们押注消费者将越来越多地使用代理而不是下载应用程序。"
     }
   }
 }
