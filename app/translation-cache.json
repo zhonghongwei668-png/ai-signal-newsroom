@@ -4936,6 +4936,50 @@
     "aee2cbea8d5c726a941ab1c686a293399e1e38d3cbfc3f4e8f8ea82a930500e5": {
       "source": "Shopify debuts Canvas, a way to build online stores by chatting with AI\nZXQSEPZXQ\nShopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
       "zh": "Shopify推出Canvas ，这是一种通过与AI聊天来构建在线商店的方式\nZXQSEPZXQ\nShopify的新Canvas网站构建器允许商家通过与其AI代理Sidekick聊天来创建和自定义他们的在线商店，同时实时观看发生的变化。"
+    },
+    "9af9340acaef2bf8467b1000f7ee79aa080468b54af5c1bf2251993736184b1b": {
+      "source": "AutoSynthData: Generating Training Data for Enterprise Agents\nZXQSEPZXQ\nAutoSynthData: Generating Training Data for Enterprise Agents。",
+      "zh": "AutoSynthData ：为企业代理生成培训数据\nZXQSEPZXQ\nAutoSynthData ：为企业代理生成培训数据。"
+    },
+    "a38d8296ce82a30a001bd3e06ff7a0f4d385f699e3a111164f903f3e4a34f7df": {
+      "source": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast\nZXQSEPZXQ\nGPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast…",
+      "zh": "NVIDIA GPU如何帮助加速OpenAI的GPT-6 Astra Ultrafast\nZXQSEPZXQ\n在NVIDIA Blackwell GPU上运行的GPT-6 Astra Ultrafast现已在OpenAI API和符合条件的ChatGPT Work和Codex用户中可用。 通过OpenAI的模型进行推理优化来加速，这些模型利用了NVIDIA Blackwell架构的功能，超快……"
+    },
+    "f99d54e8fb62e2fd89e7bf2b3ea49b05547d7aff7558ed937695651a3c97c3fb": {
+      "source": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president\nZXQSEPZXQ\nPresident Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "zh": "据报道，马斯克的人工智能聊天机器人Grok鼓励特朗普抓捕委内瑞拉总统\nZXQSEPZXQ\n据报道，特朗普总统在入侵委内瑞拉并抓获尼古拉斯·马杜罗之前征求了格罗克的意见。"
+    },
+    "dfd574f6a1da520d5d1a97ba96439b06002e602da4ef25783a03ed4ac524eacb": {
+      "source": "Whatever AI Safety Is, It’s Not This\nZXQSEPZXQ\nAsking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
+      "zh": "无论人工智能安全是什么，都不是这个\nZXQSEPZXQ\n要求人工智能公司进行自我监管是一种假装你已经取得了成就的好方法。"
+    },
+    "69136c51c797b29acdb3814a117f6bb15c904e54d745b0bccebc3ba198f36114": {
+      "source": "3.23.0 (2026-10-01) Features agents: [1/n] return typed answers from session streams ( #4007 ) ( 10f8816 ) agents: stage files and download turn artifacts ( #4009 ) ( 4fc2438 ) api: Add session traces and Realtime translations ( #4001 ) ( 138e3d1 ) beta: expose typed application…",
+      "zh": "3.23.0 (2026-10-01)功能代理： [1/n]从会话流返回键入的答案(# 4007) (10f8816)代理：暂存文件并下载TURN工件(# 4009) (4fc2438) api ：添加会话跟踪和实时翻译(# 4001) (138e3d1) beta ：公开键入的应用程序…"
+    },
+    "a28a02eeb688ca46de46ce64c8da21246db253edb505d1f5fb4e8d68aca017cc": {
+      "source": "Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features\nZXQSEPZXQ\nIntrinsically disordered protein regions (IDRs) play central roles in cellular processes such as transcriptional regulation, signal transduction, and subcellular localization, yet their functional design remains challenging. Structure-based design methods do not readily apply to…",
+      "zh": "通过加强稀疏自编码器特征对固有无序蛋白质区域进行生成建模\nZXQSEPZXQ\n固有无序蛋白质区（ IDR ）在转录调节、信号转导和亚细胞定位等细胞过程中起着核心作用，但其功能设计仍然具有挑战性。 基于结构的设计方法不容易应用于……"
+    },
+    "edec9ef7b52670517f283736817c0a3fc43668ca8cd767ea8a48017622c99673": {
+      "source": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars\nZXQSEPZXQ\n3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-i…",
+      "zh": "为他们所有人制作动画的一个基础：实时头像的高斯混合形状蒸馏\nZXQSEPZXQ\n3D高斯化身支持快速渲染，然而，它们的实时动画往往受到昂贵的神经推断的挑战。 我们解决了这个瓶颈，并表明预训练头像模型的动画可以通过身份的线性组合来近似-i…"
+    },
+    "45639611858ac180758b585dda6adfc2468611073a86e3d22e3ca5479212a84d": {
+      "source": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards\nZXQSEPZXQ\nLLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to gen…",
+      "zh": "KaliBench ：在Kali Linux上使用网络安全工具的细粒度基准，具有无运行时可验证奖励\nZXQSEPZXQ\nLLM越来越多地应用于网络安全工作流程，他们有望将分析师的意图转化为工具调用。 然而，现有的评估侧重于基于知识的评估或端到端的代理任务，并不能直接衡量LLM的能力。"
+    },
+    "fb0ce3d3995de7f93af9e684a0c12fb2242ab29f759981947b8bf2cc212f511f": {
+      "source": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents\nZXQSEPZXQ\nBuilding reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go Real (RPG), a framework for autonomous improvement of robot exe…",
+      "zh": "重建、实践、实现：针对具体代理人的指导性自我提升\nZXQSEPZXQ\n在各种任务中构建可靠的机器人能力需要大量的人力来开发和维护技能，设计奖励，并将感知与控制相结合。 我们提出了重建，实践，走向现实（ RPG ） ，这是一个自主改进机器人exe的框架……"
+    },
+    "89c76b29cd7548e9db8994e8d1f52b830e2584b733bb38a24041a27ea010ddc1": {
+      "source": "Embedding Prediction Helps Image Generation\nZXQSEPZXQ\nIn diffusion transformers, a class label or a text prompt is embedded once, and the same condition is reused at every denoising step. We ask whether predicted embeddings can serve as this condition instead. Next-Embedding Predictive Autoregression (NEPA) trains a Transformer to…",
+      "zh": "嵌入预测有助于图像生成\nZXQSEPZXQ\n在扩散变压器中，类标签或文本提示被嵌入一次，并且在每个去噪步骤中重复使用相同的条件。 我们询问预测的嵌入是否可以用作此条件。 Next-Embedding预测自回归（ NEPA ）训练变压器…"
+    },
+    "16c71b3c1c4d9d560b11f1e124bf0522012a1a0e86c2fe31b0c2c14cae56a292": {
+      "source": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research\nZXQSEPZXQ\nWhat makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of research, a new problem needs. To study this skill, we draw on researchers who kno…",
+      "zh": "ScholarCatalyst ：检索激发新研究的论文的基准\nZXQSEPZXQ\n是什么让伟大的科学家变得伟大？ 即使人工智能系统开始在未解决的问题上取得进展，科学家们仍然远远领先于他们，他们正在感知埋藏在不断增长的研究档案中的先前想法，一个新的问题需要。 为了研究这项技能，我们借鉴了那些知道……"
     }
   }
 }
