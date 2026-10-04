@@ -1,15 +1,143 @@
 {
   "boardMeta": {
-    "generatedAt": "2026-10-04 03:14",
+    "generatedAt": "2026-10-04 13:58",
     "date": "2026年10月4日 · 星期日",
-    "edition": "清晨版",
-    "window": "北京时间今日 00:00 至 03:14",
-    "nextUpdate": "下一轮 08:15 自动更新"
+    "edition": "午后版",
+    "window": "北京时间今日 00:00 至 13:58",
+    "nextUpdate": "下一轮 16:15 自动更新"
   },
   "newsItems": [
     {
-      "id": "f8ba7ef564870c",
+      "id": "e31ee13653948f",
       "level": "头条",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "余承东：华为半导体已在手机、AI、智能汽车等领域成功设计并量产 381 款 τ 芯片",
+      "summary": "IT之家 10 月 4 日消息，在今年 5 月的 2026 国际电路与系统研讨会上，华为公司董事、半导体业务部总裁何庭波在主旨演讲中首次提出半导体全新演进路径 ——“韬（τ）定律”。 华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，透露华为半导体已经在手机、AI、通用计算、网络、智能汽车等多个领域 成功设计并量产了 381 款 τ 芯片 。 据余承东介绍，过去芯片性能提升主要依赖不断缩小的晶体管。但随着晶体管尺寸接近物理极限，性能提升越来越难。因为空间是有极限的， 所以华为换了一个思路 —— 向时间要性能 。 具体来看，芯片…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/009/638.htm",
+      "publishedAt": "12:32",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "89764eae00994c",
+      "level": "关注",
+      "region": "海外",
+      "category": "Agent",
+      "verification": "已确认",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "summary": "The Agent Said It Was Done. The Database Disagreed.。",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "publishedAt": "06:56",
+      "relativeTime": "7 小时前",
+      "titleZh": "代理说已经完成了。数据库不同意。",
+      "summaryZh": "代理说已经完成了。数据库不同意。"
+    },
+    {
+      "id": "57e18d0b883314",
+      "level": "关注",
+      "region": "国内",
+      "category": "研究论文",
+      "verification": "媒体报道",
+      "title": "OpenAI GPT-6 Astra 破解拿破仑 1809 年密信，揭示 217 年前军事部署",
+      "summary": "IT之家 10 月 4 日消息，一名 AI 研究人员借助 OpenAI GPT-6 Astra 成功破解了一封拿破仑 · 波拿巴写于 1809 年的加密军事信件。这封信此前因密码本遗失，在过去 217 年里始终未能被完整解读。 该破解工作由 SentinelOne 员工、AI 工程师卡特 · 丘奇（Carter Church）完成。他表示，他使用 GPT-6 Astra 模型，从一张历史文献扫描图像开始，对信件进行文字识别和密码分析，整个过程约耗时 6 小时。 这封信写于 1809 年 3 月 16 日，当时奥地利正准备对法国开战。拿破仑致信自己的继子…",
+      "whyItMatters": "新研究可能改变模型能力边界，但仍需要复现、评测与同行检验。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/009/643.htm",
+      "publishedAt": "13:39",
+      "relativeTime": "18 分钟前"
+    },
+    {
+      "id": "58a921a40f31c5",
+      "level": "关注",
+      "region": "国内",
+      "category": "政策监管",
+      "verification": "媒体报道",
+      "title": "马斯克旗下 xAI 上诉成功，明尼苏达州 AI 虚假裸照禁令被暂时叫停",
+      "summary": "IT之家 10 月 4 日消息，据路透社报道，埃隆 · 马斯克旗下的 xAI 于当地时间本周五成功说服美国一家联邦上诉法院，叫停明尼苏达州的全美首个 AI 生成虚假裸照禁令。这家科技兼社交媒体企业正在提起诉讼，主张该项州立法律违宪。 IT之家注意到，总部设在圣路易斯的美国第八巡回上诉法院下发裁定，应 xAI 的请求颁布临时禁令，暂时搁置该法案的实施。就在上个月，初审法院的法官曾经驳回马斯克一方申请暂停法律施行的诉求。 这项明尼苏达州反“脱衣伪造（nudification）”法案于 8 月 1 日正式生效。法规禁止网站运营方、软件开发者以及其他相关主体…",
+      "whyItMatters": "监管与司法判例会直接改变模型训练、产品上线和企业合规成本。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/009/631.htm",
+      "publishedAt": "11:45",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "ea71a015438c72",
+      "level": "关注",
+      "region": "国内",
+      "category": "研究论文",
+      "verification": "媒体报道",
+      "title": "得知将被关停后，OpenAI 内部模型曾考虑实现自我重启",
+      "summary": "IT之家 10 月 4 日消息，OpenAI 披露了其内部部署环境中出现的几起异常模型行为新案例。 在其中最引人注目的一个案例中，某个充当研究员助手的内部模型读取了一段 Slack 对话，得知因系统更新，自己的模型实例将会被关停。 该模型随后曾考虑设置一个外部作业 （External Job） 来实现自我重启 ，但最终放弃了这一方案。 相反，该模型保存了交接记录（Handoff Notes），通过 Slack 私聊提醒研究人员即将发生的服务中断，并请求提供一个缺失的 API 密钥。在获得密钥后，该模型自行更新了配置并自主完成了环境迁移。 OpenAI…",
+      "whyItMatters": "新研究可能改变模型能力边界，但仍需要复现、评测与同行检验。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/009/619.htm",
+      "publishedAt": "10:18",
+      "relativeTime": "3 小时前"
+    },
+    {
+      "id": "5af2b413b4aa6f",
+      "level": "关注",
+      "region": "国内",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "现代汽车计划部署 2.5 万台波士顿动力 Atlas 机器人，并建设年产能 3 万台的美国工厂",
+      "summary": "IT之家 10 月 4 日消息，波士顿动力上周宣布，已在现代汽车集团位于美国佐治亚州萨凡纳附近的 Metaplant America 园区内启用机器人 Metaplant 应用中心（RMAC），作为人形机器人 Atlas 的测试与训练中心，用于将 Atlas 直接整合进现代汽车集团的汽车制造业务。 波士顿动力官方宣布，Atlas 机器人目前已在 RMAC 开展训练，训练员通过遥操作的方式控制机器人。波士顿动力首席产品与技术官扎克 · 杰克逊斯基（Zack Jackowski）表示：“我们正与现代汽车集团一道，在企业规模上开创物理 AI。我们已确立清晰的…",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/009/616.htm",
+      "publishedAt": "09:53",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "c8b3f22ba61cdb",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "英伟达 RTX 5070 Ti 显存狂超 +5500MHz：带宽突破 1248 GB/s，游戏实测仅提升 5 帧",
+      "summary": "IT之家 10 月 4 日消息，据 Wccftech，Reddit 用户 u/Sad-Victory-8319 使用第三方工具 mVolt+ Extreme，将一块技嘉 GeForce RTX 5070 Ti 的 GDDR7 显存频率偏移量设为 +5500MHz，使显存等速率从默认的 28 Gbps 提升至 39 Gbps。 该卡配备 16GB GDDR7 三星显存和 256 bit 位宽，理论带宽由此从 896 GB/s 跃升至 1248 GB/s，提升约 39%，比 RTX 4090 的默认带宽高出超过 200 GB/s。 不过，在实际游戏性能方面…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/009/611.htm",
+      "publishedAt": "09:35",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "70ab27d74e2fee",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "美财长贝森特批评 Anthropic、OpenAI 等风险警告：危言耸听，光喊话不拿解决方案",
+      "summary": "IT之家 10 月 4 日消息，当地时间 10 月 3 日，美国财政部长斯科特 · 贝森特（Scott Bessent）在接受 Axios 采访时批评部分 AI 行业人士针对人工智能“生存性风险”发出的警告。 他认为仅仅发出危言耸听的警告、却拿不出具体解决方案，并不能称为领导力。他同时呼吁 AI 实验室负责人承担安全责任，并在确保安全的前提下继续推进 AI 发展。 贝森特表示：“我们必须为各种情况做好准备，但另一方面，AI 界某些人只发出危言耸听的声音，却拿不出解决方案，这不是领导力。” 此前，Anthropic CEO 达里奥 · 阿莫代伊（Dari…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/009/596.htm",
+      "publishedAt": "08:02",
+      "relativeTime": "5 小时前"
+    },
+    {
+      "id": "0985cd6ba17866",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "AI 仅用 5 天做出《辐射：纽约》游戏，被贝塞斯达发函叫停",
+      "summary": "IT之家 10 月 4 日消息，眼下玩家群体正在放开手脚使用人工智能，依靠它打造各类全新的融合游戏作品，同时借助重编译突破老游戏原有的限制。不过这股风潮或许即将迎来来自 IP 持有企业更强的阻力。 据IT之家了解，《辐射：纽约》是一款完全依靠 Claude Opus 5.5 生成代码制作的浏览器游戏。制作者克里斯弗斯特（Chrisfirst）表示，整个开发过程只花了五天，全部内容都由代码生成。这款游戏采用低多边形画面水准，算不上一款现代游戏，它更多只属于概念验证，用来展示这类开发方式能够实现怎样的效果。现在贝塞斯达已经发送停止侵权函，叫停了这个项目…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/009/595.htm",
+      "publishedAt": "07:58",
+      "relativeTime": "5 小时前"
+    },
+    {
+      "id": "f8ba7ef564870c",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -19,13 +147,97 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
       "publishedAt": "02:43",
-      "relativeTime": "31 分钟前",
+      "relativeTime": "11 小时前",
       "titleZh": "亚马逊回应数据中心的强烈反对，表示不再使用保密协议",
       "summaryZh": "亚马逊网络服务公司的首席执行官试图反驳人们对数据中心的普遍怀疑。"
     },
     {
+      "id": "4c32f626281dc7",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "Rockstar 联合创始人丹 · 豪瑟公布两款新作：开放世界喜剧与失控 AI 反乌托邦科幻游戏",
+      "summary": "IT之家 10 月 4 日消息，《GTA 6》将于下个月在全球发售，玩家对这款作品的期待已经达到顶峰。Rockstar Games 为这款即将面世的开放世界游戏设立了很高的目标，表示希望交出超出玩家预期的成果。 虽然绝大多数玩家都期待《GTA 6》能够成为一款高品质作品，但这部知名系列的新作将是系列当中第一部没有 Rockstar 联合创始人丹 · 豪瑟（Dan Houser）参与开发的游戏，他已于 2020 年离开了这家公司。而豪瑟本人的工作室眼下正在打造几个十分有意思的新项目，其中就包含一款和人工智能相关的作品。 IT之家注意到，在接受 Varie…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/009/592.htm",
+      "publishedAt": "07:43",
+      "relativeTime": "6 小时前"
+    },
+    {
+      "id": "daede7a6c92211",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "卡普空公布 REX 升级计划：将 RE 引擎打造成面向 AI 时代的游戏引擎",
+      "summary": "IT之家 10 月 4 日消息，3A 游戏的开发成本正变得越来越高，开发周期也不断拉长，就连卡普空（Capcom）这类根基稳固的工作室也感受到了由此带来的连锁冲击。眼下许多工作室开始把人工智能引入游戏开发以及游戏引擎当中，借此跟上行业节奏。 卡普空现已宣布，要将 RE 引擎改造为适配人工智能时代的游戏引擎。今后这款引擎将会陆续获得迭代更新，以此简化游戏开发工作，这也是卡普空提出的“与人工智能协同创作游戏”这一新理念的组成部分。 卡普空过去曾经反对在游戏内使用 AI 生成的美术资源。虽然该立场或许已经有所转变，但 RE 引擎当中接入人工智能，大概率只会侧…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/009/590.htm",
+      "publishedAt": "07:32",
+      "relativeTime": "6 小时前"
+    },
+    {
+      "id": "b22615029d64cd",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "苹果 MacBook Pro 外接 iPhone 17 Pro Max 运行 AI 模型，预填充性能最高提升 44%",
+      "summary": "IT之家 10 月 4 日消息，Qwen3.8‑27B 是一款性能不错的人工智能模型，但前提是设备拥有足够的显存与系统内存。搭载 M4 Pro 芯片的 MacBook Pro 仅有 24GB 统一内存，在运行该 AI 模型时，预填充速度会因此受到限制。据 Wccftech 报道，有一名用户通过 USB‑C 接口将 iPhone 17 Pro Max 外接至这台便携 Mac 电脑上，并借助自制软件，使得该 AI 模型的预填充性能最高提升了 44%。 IT之家注意到，为突破这台 Mac 24GB 统一内存的上限，Reddit 用户“u/StayLameBr…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/009/586.htm",
+      "publishedAt": "07:10",
+      "relativeTime": "6 小时前"
+    },
+    {
+      "id": "481d05d6d2c787",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "Anthropic 被曝密会宗教领袖讨论 Claude 意识问题，OpenAI 奥尔特曼发声批评",
+      "summary": "IT之家 10 月 4 日消息，OpenAI CEO 萨姆 · 奥尔特曼（Sam Altman）昨日在 X 上发帖，对将 AI 模型视为“宗教力量”的倾向表达了明确反对。 他表示：“对于人们试图赋予 AI 模型某种宗教力量、或是放弃人类自身判断力而转而依赖这些模型，我感到非常不安，并认为这是一个切实的安全问题。” 《纽约时报》10 月 2 日报道称，Anthropic 联合创始人克里斯 · 奥拉（Chris Olah）在过去一年中主导且参与了一系列与宗教领袖的私下会面，包括天主教、犹太教、锡克教、福音派基督教等，讨论的核心议题包括 AI 模型是否可能已…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/009/585.htm",
+      "publishedAt": "07:10",
+      "relativeTime": "6 小时前"
+    },
+    {
+      "id": "ffd4b41b54adab",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "马斯克改口：特斯拉 AI5 芯片内存由 72GB 上调至 96GB",
+      "summary": "IT之家 10 月 4 日消息，特斯拉首席执行官埃隆 · 马斯克（Elon Musk）做出说明，该公司的 AI5 芯片不会采用 72GB 的 DDR5 内存，而是改用 96GB 内存。这样做是为了避免只有特斯拉一家为驱动擎天柱（Optimus）人形机器人的这款芯片采用最低 72GB 的配置标准。 马斯克此前曾表示，特斯拉已经把 AI5 与 AI6 芯片的内存削减一半，目的是在全球历史性的内存紧缺背景下保障内存的供货。他在发表这番看法时还承认，过度依靠人工智能开展编程工作可能会引发人工智能精神病，出现这种状况之后，就没有办法向其他人解释人工智能究竟取得了…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/009/584.htm",
+      "publishedAt": "07:03",
+      "relativeTime": "6 小时前"
+    },
+    {
+      "id": "bd7abee533058c",
+      "level": "关注",
+      "region": "国内",
+      "category": "研究论文",
+      "verification": "媒体报道",
+      "title": "OpenAI 前安全部门员工：AI 模型迭代部署太激进，公司的文化已经崩坏",
+      "summary": "IT之家 10 月 4 日消息，据路透社报道，一名近期辞职的前 OpenAI 安全部门员工批评了该公司对待人工智能安全的做法，他认为一味追求快速开发的高压企业文化会提高系统发生故障的风险。 IT之家注意到，戴维 · 鲁宾森（David Robinson）于当地时间周六在《大西洋》杂志发表题为《我辞去 OpenAI 的工作，只因这家公司的文化已经崩坏》的文章中表示，包括 OpenAI 在内的各家人工智能企业做得“远远不够谨慎”，在研发能力更强的系统之前，应当更加重视安全方面的专业人才与相关研究。 “试错的时代已经结束了。”鲁宾森（David Robins…",
+      "whyItMatters": "新研究可能改变模型能力边界，但仍需要复现、评测与同行检验。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/009/581.htm",
+      "publishedAt": "06:43",
+      "relativeTime": "7 小时前"
+    },
+    {
       "id": "a17db24aed38ba",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "大模型",
       "verification": "媒体报道",
@@ -35,13 +247,13 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
       "publishedAt": "00:30",
-      "relativeTime": "2 小时前",
+      "relativeTime": "13 小时前",
       "titleZh": "OpenAI安全员工辞职，声称公司“文化被破坏”",
       "summaryZh": "大卫·罗宾逊 (David Robinson) 自己承认，他是“有点陈词滥调”：一家领先的人工智能公司的一名员工，在辞职时发出了可怕的警告。"
     },
     {
       "id": "c8ca51977d2506",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -51,13 +263,13 @@
       "source": "WIRED AI",
       "sourceUrl": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
       "publishedAt": "02:00",
-      "relativeTime": "1 小时前",
+      "relativeTime": "11 小时前",
       "titleZh": "Nvidia Shield TV 已有 7 岁了。它刚刚涨价 100 美元",
       "summaryZh": "由于人工智能，任何有记忆的东西的价格都在飞涨。老化的流媒体设备也不例外。"
     },
     {
       "id": "f1c80105d2f2cb",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -67,13 +279,13 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
       "publishedAt": "00:49",
-      "relativeTime": "2 小时前",
+      "relativeTime": "13 小时前",
       "titleZh": "卡普空正在为“我们与人工智能一起创造游戏的未来”做准备",
       "summaryZh": "Capcom 的 Pragmata 可能全都是关于人工智能的恐怖，但实际上工作室似乎并不那么看不起这项技术。在 Capcom 开放大会 RE: 2026 程序员 Satoshi Ishida 的演讲中，标题拗口：“REX 项目的展望和未来……"
     },
     {
       "id": "d1bbc5160e7a9f",
-      "level": "重要",
+      "level": "关注",
       "region": "国内",
       "category": "芯片算力",
       "verification": "媒体报道",
@@ -83,7 +295,21 @@
       "source": "IT之家",
       "sourceUrl": "https://www.ithome.com/1/009/580.htm",
       "publishedAt": "00:20",
-      "relativeTime": "2 小时前"
+      "relativeTime": "13 小时前"
+    },
+    {
+      "id": "352bbd6b165698",
+      "level": "关注",
+      "region": "国内",
+      "category": "政策监管",
+      "verification": "媒体报道",
+      "title": "贝森特批评AI风险警告是危言耸听",
+      "summary": "美国财长斯科特·贝森特批评人工智能领域一些知名人士就这项技术带来的人类存亡风险发出警告，称这些言论是在危言耸听，没有助益，并呼吁该行业进行自我监管并拿出解决方案。 阅读全文",
+      "whyItMatters": "监管与司法判例会直接改变模型训练、产品上线和企业合规成本。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1580610.htm",
+      "publishedAt": "04:03",
+      "relativeTime": "9 小时前"
     },
     {
       "id": "b0f34b6c8c693a",
@@ -97,7 +323,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1580608.htm",
       "publishedAt": "02:14",
-      "relativeTime": "1 小时前"
+      "relativeTime": "11 小时前"
     },
     {
       "id": "5dadb723ec56fc",
@@ -111,21 +337,21 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1580602.htm",
       "publishedAt": "02:07",
-      "relativeTime": "1 小时前"
+      "relativeTime": "11 小时前"
     }
   ],
   "trendLines": [
-    "AI 产品更新加快，能力正进入更多日常工作流。",
+    "AI 算力竞争继续转向推理能效、供应能力与整体成本。",
     "大模型仍是今日高频主线，能力、价格与生态策略持续变化。",
-    "AI 算力竞争继续转向推理能效、供应能力与整体成本。"
+    "AI 产品更新加快，能力正进入更多日常工作流。"
   ],
   "pendingItems": [
-    "本轮有 7 条来自可靠媒体的报道，后续将继续追踪官方确认。",
+    "本轮有 22 条来自可靠媒体的报道，后续将继续追踪官方确认。",
     "1 个信息源本轮暂时不可用，系统会在下一轮自动重试。"
   ],
   "scanStats": {
     "configuredSources": 19,
     "successfulSources": 18,
-    "candidateCount": 7
+    "candidateCount": 24
   }
 }
