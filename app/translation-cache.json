@@ -5236,6 +5236,58 @@
     "f7a5203811b12371c3dc896b99b3d01a503a4466e3812629e283c16ff165f670": {
       "source": "Kevin Roose Didn’t Use AI to Write His Book About AI\nZXQSEPZXQ\nThe author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
       "zh": "凯文·罗斯（ Kevin Roose ）没有使用人工智能来写他的关于人工智能的书\nZXQSEPZXQ\n《通用人工智能编年史》的作者说，他的书“是由一个非常疲惫、过度劳累、睡眠不足的人写的。”"
+    },
+    "9d22ae3b35a751724ee89b620ea4fa100ea2f1af9d8b3eae888be6a45471b844": {
+      "source": "EmbeddingGemma 2: an open, lightweight multimodal embedding model\nZXQSEPZXQ\nEmbeddingGemma 2: an open, lightweight multimodal embedding model。",
+      "zh": "EmbeddingGemma 2 ：开放、轻量级的多模态嵌入模型\nZXQSEPZXQ\nEmbeddingGemma 2 ：开放、轻量级的多模态嵌入模型。"
+    },
+    "c32f9054622aae9f9016b952090fe03441f6dfbbc89167c5e9622cc390169ef2": {
+      "source": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action\nZXQSEPZXQ\nAtlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "zh": "Atlassian和OpenAI扩大合作伙伴关系，将企业知识转化为行动\nZXQSEPZXQ\nAtlassian和OpenAI正在扩大合作伙伴关系，将前沿模型与企业知识联系起来，并帮助团队规划、构建和交付工作。"
+    },
+    "be562c952d40a4dd5298b167338f32e8654efac55b266a0dd6ad57fb9dbaadef": {
+      "source": "How AI decision models could change content moderation\nZXQSEPZXQ\nOn Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "zh": "人工智能决策模型如何改变内容审核\nZXQSEPZXQ\n周二， Musubi宣布了一种针对实时审核的轻量级决策模型，称为PolicyLM-1.7B ，该模型以开放式权重发布。"
+    },
+    "45c4218c3d3ed8200fc6129f268ffa3f45f0b94d972860b48803ef7ca7bf295f": {
+      "source": "Hark releases an AI personal assistant with a focus on privacy\nZXQSEPZXQ\nThe AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+      "zh": "Hark发布了一款注重隐私的AI个人助理\nZXQSEPZXQ\n人工智能实验室的个人助理是一个面向未来的操作系统，旨在与 Muse、Dots 和 Instinct 竞争。"
+    },
+    "6339b6dddd2b84131c237b78749feeaf2f12a494d8151ca9d1ac6ce7d8511dd5": {
+      "source": "AI computing startup Lambda to raise $4B ahead of planned IPO\nZXQSEPZXQ\nNvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "zh": "人工智能计算初创公司Lambda在计划的IPO之前筹集$ 4B\nZXQSEPZXQ\n英伟达支持的Lambda在由Coatue和Blackstone牵头的计划2027年首次公开募股之前，以145亿美元的投资前估值筹集了高达40亿美元的资金。"
+    },
+    "55b77a7e82a0db2d4c73a7d617a0296a353c18afe9d2228f2e9d9e3b2a184357": {
+      "source": "The next hurdle for AI agents: getting websites to let them in\nZXQSEPZXQ\nPersonal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+      "zh": "人工智能代理的下一个障碍：让网站让他们进入\nZXQSEPZXQ\n个人人工智能代理承诺为您购物、预订航班和预订。 但故意阻止和反机器人防御正在阻碍，让消费者陷入困境。 新标准旨在提供帮助。"
+    },
+    "05ae21bfe8f19f6bc081915537233239c22bc7ce969b7dff57977a1162d64e0e": {
+      "source": "Mirror Particle is building a ‘world model’ of human behavior\nZXQSEPZXQ\nMirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+      "zh": "Mirror Particle正在构建人类行为的“世界模型”\nZXQSEPZXQ\nMirror Particle将在TechCrunch Disrupt的Startup Battlefield 200上推出，其世界模型从头开始构建以预测人类行为，认为LLM角色扮演在市场研究和品牌战略方面表现不佳。"
+    },
+    "4de6f2d546b95da7b0a8e511776c1783c63581afadb3c1d723dc361f80844cbc": {
+      "source": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again\nZXQSEPZXQ\n“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
+      "zh": "OpenAI再次激怒一群数学家\nZXQSEPZXQ\n一位数学家告诉WIRED ，当OpenAI准备发布100多个新的解决方案来解决未解决的问题时，来自领先的人工智能公司的“对黑帮行为的看法”。"
+    },
+    "8e5ae161539629426e77bdd71bef770ca4f49f6e3576d4520b1821e038030f43": {
+      "source": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers\nZXQSEPZXQ\nFrom their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
+      "zh": "“人工”烘焙人工智能的创造者，并就其危险发出黑暗警告\nZXQSEPZXQ\n从他们愚蠢的派对到奇怪的散步，这部电影蔑视OpenAI首席执行官Sam Altman和其他利益相关者，同时展示了他们的鲁莽。"
+    },
+    "3e147ef59b27a7b83881be231d7aa518963f4a189634eeb2f3c35398d214e1c9": {
+      "source": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits\nZXQSEPZXQ\n\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+      "zh": "Anthropic将为初创公司免费提供一年的Claude团队和1000 $的学分\nZXQSEPZXQ\n“我们之所以创建这个项目，是因为我们相信人工智能的好处将通过建立在模型之上的公司而不是仅仅通过模型来惠及大多数人。”"
+    },
+    "3749da240b2db5fbbec93482da4597a195853728d05336ebd2594dec51fa5841": {
+      "source": "We can’t just change the definition of ‘recording’\nZXQSEPZXQ\nWith AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without muc…",
+      "zh": "我们不能只改变“录音”的定义\nZXQSEPZXQ\n借助人工智能硬件，科技公司正在推动定义什么构成录音，什么不构成录音。 对于大多数小工具历史记录，可以合理地假设带有麦克风或摄像头的设备正在录制您或没有录制；它要么打开要么关闭，没有粘液……"
+    },
+    "ffba520240dc4e35582ed28352a1045e4ba1262d16b66dbb0404d791bc0dc8cf": {
+      "source": "3.25.0 (2026-10-06) Features agents: observe local tool failures ( #4028 ) ( 95d9645 ) agents: run local tools during streamed session creation ( #4027 ) ( 919b623 ) api: add agent turn items and usage source grouping ( #4030 ) ( bd74c4e ) lib: export type_to_response_format_par…",
+      "zh": "3.25.0 (2026-10-06)功能代理：观察本地工具故障(# 4028) (95d9645)代理：在流式会话创建过程中运行本地工具(# 4027) (919b623) api ：添加代理TURN项和使用源分组(# 4030) (bd74c4e)库：导出type_to_response_format_par…"
+    },
+    "f63e75ce0d6fb9e0bc52f2102ff3354b089f7cdac075e73567826de0cd7f6650": {
+      "source": "Release v5.19.0 New Model additions EmbeddingGemma2 EmbeddingGemma 2 is a multimodal embedding model from Google built on the Gemma 4 architecture. It encodes text, images, audio, and video, individually or combined in one input, into a shared 768-dimensional vector space for cr…",
+      "zh": "版本v5.19.0新模型添加EmbeddingGemma2 EmbeddingGemma 2是Google在Gemma 4架构上构建的多模态嵌入模型。它将文本、图像、音频和视频单独或组合在一个输入中编码到一个共享的768维矢量空间中，用于CR..."
     }
   }
 }
