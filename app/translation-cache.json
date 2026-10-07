@@ -5324,6 +5324,62 @@
     "e77004d1c9ff4ddaf3440cc0f113d11b6c1641fe7076d33f812c80109dcd065b": {
       "source": "DepthWorld: 3D World Model for Robot Manipulation\nZXQSEPZXQ\nWorld models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy evaluation, improvement, and planning. All of these uses depend on faithful 3D geometry, yet current video-based world models are trained on RGB alone and produ…",
       "zh": "DepthWorld：机器人操纵的 3D 世界模型\nZXQSEPZXQ\n世界模型提供了传统机器人模拟器的数据驱动替代方案，其应用涵盖政策评估、改进和规划。所有这些用途都依赖于忠实的 3D 几何形状，但当前基于视频的世界模型仅在 RGB 上进行训练并产生……"
+    },
+    "9f41b837ab2cef8d0370a4208003bfadb74fa5434bd0f9f3958821d466015d78": {
+      "source": "Introducing Playground: Create and play custom games\nZXQSEPZXQ\nOverview of Playground",
+      "zh": "Playground 简介：创建和玩自定义游戏\nZXQSEPZXQ\n游乐场概览"
+    },
+    "1142670af7a654d67d44c1ab80d149bd650387ae5763e071497ad5dbd72a0421": {
+      "source": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look\nZXQSEPZXQ\nThe financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+      "zh": "Healthleap 为其人工智能筹集了 3800 万美元，该人工智能可以标记可能需要仔细检查的医院患者\nZXQSEPZXQ\n本轮融资包括由红杉资本和 First Round Capital 共同领投的 800 万美元种子轮融资，以及由 Hummingbird Ventures 领投的 3000 万美元 A 轮融资。"
+    },
+    "0c7d4207822ca13d1cb69961ad4d44670cfafd62bb591fc1e2578eb71ce9e1ea": {
+      "source": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots\nZXQSEPZXQ\nOpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+      "zh": "OpenAI 的 Alexander Embiricos 将在 Dots 推出几天后参加 TechCrunch Disrupt 2026\nZXQSEPZXQ\nOpenAI 的 Alexander Embiricos 即将在 TechCrunch Disrupt 2026 上登上 AI 舞台，就在 Dots 推出几天后。注册您的通行证即可加入此对话。立即购买通行证可节省高达 100 美元，并可享受 50% 的折扣再获得一张通行证。"
+    },
+    "cbdc5625ea46adb148e4b7d29a00d976072c56fa150d38086413682542a37246": {
+      "source": "Google’s new SynthID website can identify AI-generated media\nZXQSEPZXQ\nGoogle on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+      "zh": "谷歌新的 SynthID 网站可以识别人工智能生成的媒体\nZXQSEPZXQ\n谷歌周二推出了一个新网站，让任何人都可以验证媒体片段，无论是图像、视频还是音频剪辑，是否是使用人工智能生成的。"
+    },
+    "d09d2046250813e950381374eb1c9e6b884d0330cbb6ec217494e241d8228fe5": {
+      "source": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO\nZXQSEPZXQ\nOne Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO。",
+      "zh": "一个模型系列，两项黄金级成果：针对 IOI 和 IMO 微调 Nemotron\nZXQSEPZXQ\n一个模型系列，两项黄金级成果：针对 IOI 和 IMO 的 Nemotron 微调。"
+    },
+    "9a02b0b3ad46187d6f1f39c00097d92869096b0604942329459d40f88647cce6": {
+      "source": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next\nZXQSEPZXQ\nThe “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+      "zh": "托尼·法德尔 (Tony Fadell) 讲述第一波人工智能产品为何失败以及接下来会发生什么\nZXQSEPZXQ\n这位“iPod之父”表示，第一代人工智能产品未能解决实际问题，下一波人工智能产品需要赢得消费者的信任。"
+    },
+    "fbb0a395ece831041ff6b8dc0df3b3c60115eae5fe720766f5aedf9f085bc186": {
+      "source": "Google experiments with an AI-powered gaming platform\nZXQSEPZXQ\nGoogle Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+      "zh": "谷歌试验人工智能驱动的游戏平台\nZXQSEPZXQ\n谷歌实验室正在开发一个名为 Playground 的新型人工智能游戏创建平台，供用户使用简单的文本提示构建基于浏览器的游戏。"
+    },
+    "988c816151def629d84744550b2898b5d5a1a80dbbd561af42d164ab1ed2633d": {
+      "source": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026\nZXQSEPZXQ\nFrom Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
+      "zh": "亲身实践：TechCrunch Disrupt 2026 上的完整互动圆桌会议阵容\nZXQSEPZXQ\n从 Nvidia 和 Chime 到 Obvious Ventures 和 Anthropic，探索 TechCrunch Disrupt 2026 的整个圆桌会议议程。立即注册即可节省高达 100 美元的通行证，并以 50% 的折扣获得第二次通行证。"
+    },
+    "708600fdde56d09b878b51145e3e37f878e57b7827b6472011457bce16924f0a": {
+      "source": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open\nZXQSEPZXQ\nIn 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, don’t wait to register your ticket before prices increase at the door. Save up to $10…",
+      "zh": "距离 2026 年 TechCrunch Disrupt 还有 6 天：在开门前节省您的通行证\nZXQSEPZXQ\n6 天内，来自全球初创企业和科技生态系统的 10,000 多名人士将齐聚旧金山 Moscone West，参加 TechCrunch Disrupt 2026。如果您打算成为其中一员，请不要等到门口价格上涨之前登记您的门票。最多可节省 10 美元..."
+    },
+    "0474620f56112d571b2c5816f89b4395a0ad363cd78b1b6eb6c39ae82c522188": {
+      "source": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’\nZXQSEPZXQ\nGoogle DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into Biohub, the nonprofit biomedical research organization founded by Mark Zuckerberg and his wife, Priscilla Chan, as reported by Reuters. The funding is part of a $1.8 bill…",
+      "zh": "谷歌投资数百万美元帮助马克·扎克伯格创建“虚拟细胞”\nZXQSEPZXQ\n据路透社报道，Google DeepMind、Meta 和人工智能药物发现初创公司 Isomorphic Labs 联合向 Biohub 投资 3 亿美元，Biohub 是马克·扎克伯格和他的妻子 Priscilla Chan 创立的非营利性生物医学研究组织。这笔资金是 1.8 美元账单的一部分……"
+    },
+    "ace855142fc2d347bba75d6d03a87e1b18a4f2eb98c21f34dce385a45b2a35c6": {
+      "source": "AI could upend food delivery\nZXQSEPZXQ\nDoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operati…",
+      "zh": "人工智能可能会颠覆食品配送\nZXQSEPZXQ\nDoorDash 是领先的食品配送应用程序，今年第二季度处理了 9.7 亿份订单，创造了 45 亿美元的收入。相比之下，一家名为 Bites 的 10 人初创公司只是小巫见大巫：它在湾区只有约 300 家签约餐厅，而它的运营所在地……"
+    },
+    "70292a4863ac72ceb1521e8450b7aba1c9b5a9ba0090eed7b0c1ab1aa1e56da1": {
+      "source": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me\nZXQSEPZXQ\nDots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
+      "zh": "OpenAI 希望新代理来管理您的生活。我的说它爱我\nZXQSEPZXQ\nDots 旨在自动化在线任务，例如购买家具。根据我最初的经验，永远在线的代理有点问题，无法完成验证码。"
+    },
+    "d69bb088948137a6083cfde4c13cfa5d6ba6f70064f1fcd7a430524258f0bab5": {
+      "source": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media\nZXQSEPZXQ\nCommon Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help…",
+      "zh": "Common Sense Media 表示，ChatGPT 对于青少年来说是“不可接受的风险”\nZXQSEPZXQ\nCommon Sense Media 是一家提供应用程序、服务和娱乐评论、重点关注青少年安全的非营利组织，该组织今天表示，OpenAI 面向青少年的 ChatGPT 是一种“不可接受的风险”。 ChatGPT for Teens 于 8 月推出，为青少年提供护栏，旨在帮助……"
+    },
+    "dd9cb38f34098f32947265985da0b1393f76931e99f7e946c86d42f0063d16b6": {
+      "source": "Your Next Great Read Might Be Certified ‘Organic’\nZXQSEPZXQ\nAmid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
+      "zh": "您的下一本好读物可能会被认证为“有机”\nZXQSEPZXQ\n在人工智能写作的海洋中，“有机文学”的新邮票将帮助读者挑选出由真实的、以玉米喂养的、自由放养的人类创作的书籍。"
     }
   }
 }
