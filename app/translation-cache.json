@@ -5288,6 +5288,42 @@
     "f63e75ce0d6fb9e0bc52f2102ff3354b089f7cdac075e73567826de0cd7f6650": {
       "source": "Release v5.19.0 New Model additions EmbeddingGemma2 EmbeddingGemma 2 is a multimodal embedding model from Google built on the Gemma 4 architecture. It encodes text, images, audio, and video, individually or combined in one input, into a shared 768-dimensional vector space for cr…",
       "zh": "版本v5.19.0新模型添加EmbeddingGemma2 EmbeddingGemma 2是Google在Gemma 4架构上构建的多模态嵌入模型。它将文本、图像、音频和视频单独或组合在一个输入中编码到一个共享的768维矢量空间中，用于CR..."
+    },
+    "f1c5e2978e242cdf805abdd2dcb762a3ab86310f8e6604f1d6eed93002aeda5f": {
+      "source": "OpenAI drops another batch of mathematical breakthroughs\nZXQSEPZXQ\nOpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettle…",
+      "zh": "OpenAI 又一批数学突破落下\nZXQSEPZXQ\nOpenAI在一批722篇手稿中揭示了由未发布的前沿模型产生的许多长期存在的数学问题的解决方案，涵盖了将相关论文分组的372个结果族。它延续了一系列既令人印象深刻又令人不安的突破……"
+    },
+    "fd9b0c23621bfb9a2b3d311d72f301cfca02d280f10d7db96dec54cea68a1cc2": {
+      "source": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product\nZXQSEPZXQ\nInstead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+      "zh": "前 Ramp 工程师在废弃他们的第一个产品后为 Melius 平台筹集了 2000 万美元\nZXQSEPZXQ\n该公司没有帮助营销人员管理和优化广告支出，而是专注于构建生成创意资产和活动的工具。"
+    },
+    "f459abc016b633200c30cbcb81c1c4df91900561379ed84c6459088bea0582f8": {
+      "source": "3.26.0 (2026-10-06) Features api: add standalone Decisions support ( #4033 ) ( b99e3e4 )",
+      "zh": "3.26.0 (2026-10-06) 功能 api：添加独立决策支持 ( #4033 ) ( b99e3e4 )"
+    },
+    "325be086daaa74a0987a203d679518eb61672f8580710cfe14edc39ab2b56015": {
+      "source": "A Systematic Study of Small Language Models on Abstract Reasoning Tasks\nZXQSEPZXQ\nEndpoint accuracy on abstract-reasoning benchmarks does not reveal whether a language model has acquired a transferable rule or fit distribution-specific regularities. We study this distinction in small language models on the ARC-TGI benchmark, which organizes abstract grid tran…",
+      "zh": "抽象推理任务小语言模型的系统研究\nZXQSEPZXQ\n抽象推理基准的端点准确性并不能揭示语言模型是否获得了可转移的规则或适合特定于分布的规律。我们在 ARC-TGI 基准上研究小语言模型中的这种区别，该基准组织了抽象网格传输……"
+    },
+    "46e718b005a0246295b90ab33f19d248e6a2c98e21c93638d0dcaa9d2907deb5": {
+      "source": "QF3: Fast Flow RL with Filtered Q-Gradients\nZXQSEPZXQ\nFlow policies have become a standard policy class for learning robot behaviors from demonstrations, but reinforcement learning is still critical for improving pre-trained flow policies or learning them from scratch through interaction. We introduce QF3 (Fast Flow RL with Filtere…",
+      "zh": "QF3：具有过滤 Q 梯度的快速流程 RL\nZXQSEPZXQ\n流策略已经成为从演示中学习机器人行为的标准策略类，但强化学习对于改进预训练的流策略或通过交互从头开始学习它们仍然至关重要。我们推出 QF3（带过滤器的 Fast Flow RL…"
+    },
+    "3a291159074685dfbce052d8cef0c573c472c7bfbd02033cd168b05a6af3cc32": {
+      "source": "Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective\nZXQSEPZXQ\nConformal prediction is a popular tool for uncertainty quantification that outputs prediction sets with finite-sample coverage guarantees. While prediction set size is commonly used as a heuristic measure of uncertainty, the information-theoretic basis for this interpretation re…",
+      "zh": "共形预测集量化信息增益：理论视角\nZXQSEPZXQ\n保形预测是一种流行的不确定性量化工具，可输出具有有限样本覆盖保证的预测集。虽然预测集大小通常用作不确定性的启发式度量，但这种解释的信息论基础..."
+    },
+    "5cb9abd4db6acea6a03fbf833132f3af6fad6af82f0f8548bcbe97ff7838701a": {
+      "source": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction\nZXQSEPZXQ\nExisting methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to unstable interaction prediction. We introduce 4D-HOF, a feed-forward framework th…",
+      "zh": "4D-HOF：用于前馈 4D 交互重建的手-物体流匹配\nZXQSEPZXQ\n现有的 4D 手部物体重建方法通常依赖于成本高昂的每个序列优化，而生成方法通常从随机噪声中合成交互，这可能导致交互预测不稳定。我们介绍 4D-HOF，一个前馈框架......"
+    },
+    "1d4b8f4b8c39e217b81911e4936ffe28940cbf34f209a1cf2da471ddf67449ea": {
+      "source": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas\nZXQSEPZXQ\nScientific research often begins by synthesizing ideas from a set of related papers to identify gaps and formulate new directions. However, training language models to perform this form of literature-grounded ideation remains challenging, as existing approaches based on promptin…",
+      "zh": "IdeaAnchor：教授法学硕士将文学转化为研究理念\nZXQSEPZXQ\n科学研究通常从综合一系列相关论文中的想法开始，以找出差距并制定新的方向。然而，训练语言模型来执行这种形式的基于文献的构思仍然具有挑战性，因为现有的方法基于提示……"
+    },
+    "e77004d1c9ff4ddaf3440cc0f113d11b6c1641fe7076d33f812c80109dcd065b": {
+      "source": "DepthWorld: 3D World Model for Robot Manipulation\nZXQSEPZXQ\nWorld models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy evaluation, improvement, and planning. All of these uses depend on faithful 3D geometry, yet current video-based world models are trained on RGB alone and produ…",
+      "zh": "DepthWorld：机器人操纵的 3D 世界模型\nZXQSEPZXQ\n世界模型提供了传统机器人模拟器的数据驱动替代方案，其应用涵盖政策评估、改进和规划。所有这些用途都依赖于忠实的 3D 几何形状，但当前基于视频的世界模型仅在 RGB 上进行训练并产生……"
     }
   }
 }
