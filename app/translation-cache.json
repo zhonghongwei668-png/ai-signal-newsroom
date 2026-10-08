@@ -5476,6 +5476,62 @@
     "e8f832f66498b71d615b87cefd9ca841cbea49b1a096eddefe67f0a686aa3f3b": {
       "source": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping\nZXQSEPZXQ\nHeavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized settings, much less is known in decentralized ones, where applying a nonlinearit…",
       "zh": "重尾噪声下的去中心化 SGD：最优收敛率和梯度裁剪的作用\nZXQSEPZXQ\n重尾噪声在现代机器学习中被广泛观察到，这激发了梯度裁剪和归一化等方法的使用。虽然这些方法在集中式设置中得到了很好的理解，但在分散式设置中却知之甚少，其中应用非线性......"
+    },
+    "9c20dbdddc3b8bb0bf88b52239b891cba89a5f0731aaf6e2ef946daa8bc9ba1d": {
+      "source": "Google’s AI note-taking app transcribes your meetings completely offline\nZXQSEPZXQ\nGoogle has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free to use and runs on macOS using the company's on-device EmbeddingGemma 2 model…",
+      "zh": "谷歌的人工智能笔记应用程序可以完全离线转录您的会议\nZXQSEPZXQ\n正如 TechCrunch 早些时候报道的那样，谷歌发布了一款实验性笔记应用程序，可以完全离线转录会议和音频文件。该应用程序名为 Google AI Edge Foresight，可免费使用，并使用该公司设备上的 EmbeddingGemma 2 模型在 macOS 上运行……"
+    },
+    "4e26e23a18c77a0de994c1b3e37b1ffb6625ee6d4856d4cb82cf6e2399f3ece5": {
+      "source": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup\nZXQSEPZXQ\nZach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+      "zh": "Cal AI 的 19 岁创始人刚刚为其新的人工智能初创公司筹集了 1000 万美元\nZXQSEPZXQ\nZach Yadegari 是流行的 Cal AI 卡路里追踪应用程序的青少年联合创始人，他推出了一家新的个人人工智能代理初创公司，与 Instinct、Muse 和 Bee 竞争。"
+    },
+    "8f5228e679d803882d5b009c45f9d54367f8bbdab7fc1b20abd91eb01080126e": {
+      "source": "Google releases a new local-first Granola competitor\nZXQSEPZXQ\nGoogle’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
+      "zh": "谷歌发布了一款新的本地优先格兰诺拉麦片竞争对手\nZXQSEPZXQ\n谷歌新推出的 AI Edge Foresight 应用程序与 Granola 形成鲜明对比，它具有离线会议记录功能，可以使用设备上的 AI 转录对话、生成笔记并回答问题。"
+    },
+    "ab48497710c0b07be8343e3cc4df7084e77403fd1956cf1a213afdf25da45647": {
+      "source": "Google is launching a one-stop Gemini agent for your work tasks\nZXQSEPZXQ\nGoogle is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of the Gemini at Work event on Thursday, will be available within the Gemini Enterprise app, allowing users to chat with the Gemini agent and as…",
+      "zh": "Google 正在为您的工作任务推出一站式 Gemini 代理\nZXQSEPZXQ\n谷歌正在推出一款“通用”Gemini AI代理，它可以在后台跨应用程序和设备工作。该工具作为周四 Gemini at Work 活动的一部分宣布，将在 Gemini Enterprise 应用程序中提供，允许用户与 Gemini 代理聊天并作为……"
+    },
+    "ec04f5a702a14a27f9ac13c1fab612247deaa702895900c34c6c4d40915f9fc2": {
+      "source": "China’s Manus raises over $500M in first funding round since split with Meta\nZXQSEPZXQ\nBoyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+      "zh": "中国的 Manus 在与 Meta 分道扬镳后的第一轮融资中筹集了超过 5 亿美元\nZXQSEPZXQ\n博裕资本、IDG资本领投，现有股东腾讯、HSG（原红杉中国）、真格基金等跟投。"
+    },
+    "0556d3ce3316d544ea5d1bf59b23e57a54342992d14b917477d9a6b9968ef7ef": {
+      "source": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026\nZXQSEPZXQ\nAmbrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
+      "zh": "在 TechCrunch Disrupt 2026 上聆听 Ambrosia Energy 和 Bloom Energy 高管讲述人工智能基础设施热潮在哪些方面创造机会\nZXQSEPZXQ\nAmbrosia Energy 首席执行官 Ben Longmier 和 Bloom Energy 高级副总裁 Bill Thayer 加入 TechCrunch Disrupt 的智能系统舞台。立即注册可节省高达 100 美元。抢第二次相同的通行证可节省 50%。"
+    },
+    "ec0c04b8d2ad2f891195e9c5fd8f3d119730299650e99660afbbef1d364eb42f": {
+      "source": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass\nZXQSEPZXQ\nThe global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
+      "zh": "距离 2026 年 TechCrunch 颠覆还有 5 天：无需在门口支付更多费用\nZXQSEPZXQ\n全球科技生态系统将于 10 月 13 日至 15 日在旧金山 Moscone West 齐聚 TechCrunch Disrupt 2026。立即购买通票可节省高达 100 美元。购买第二张相同类型的门票可节省 50%。"
+    },
+    "18f642defc63ab75c01b8075f978c346b2bbef98585e3abae41ff5fb5c1628d9": {
+      "source": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?\nZXQSEPZXQ\nMy Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents. If you’ve been paying attention to this space, you know AI enthusiasts have been using agents for a minute now — homebrew OpenClaw setups led…",
+      "zh": "你能相信 Meta 的 Muse 或 OpenAI 的 Dots 来掌控你的生活吗？\nZXQSEPZXQ\n今天我的 Decoder 嘉宾是 The Verge 的高级 AI 记者 Hayden Field，我们正在讨论新一波消费者友好型 AI 代理。如果您一直关注这个领域，您就会知道人工智能爱好者现在已经使用代理了一分钟——自制 OpenClaw 设置导致了……"
+    },
+    "361f2f68dd1d59c9c8da6819e7fbc6af70ce225842f378124cf8a9c0a1098732": {
+      "source": "Artificial is a wicked satire that also sticks to the facts\nZXQSEPZXQ\nAt the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" The idea of playing God, and power in general - who has it, who desperately want…",
+      "zh": "《人工》是一部恶毒的讽刺，但也坚持事实\nZXQSEPZXQ\n在卢卡·瓜达尼诺 (Luca Guadagnino) 讽刺萨姆·奥尔特曼 (Sam Altman) 传记片《人工》(Artificial) 在纽约电影节首映式上，导演在台上表示，“当有人想扮演上帝时，这对我来说非常有趣。”扮演上帝的想法，以及一般的权力——谁拥有它，谁迫切想要……"
+    },
+    "ceba633f7ee83da356b33af89572e8f10371b97ccfb6b4bb4144f7f067e20383": {
+      "source": "AI breakthroughs in robotics won’t change your life any time soon\nZXQSEPZXQ\nThe story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been poppi…",
+      "zh": "机器人领域的人工智能突破不会很快改变你的生活\nZXQSEPZXQ\n这个故事是 MIT Technology Review 和 Aventine 之间的合作，Aventine 是一个非盈利研究基金会，致力于创建和支持有关技术和科学如何改变我们生活方式的内容。一个形状像人类的机器人——白色，头部和躯干黑色——已经流行起来……"
+    },
+    "3d66148fbbe8e202f11b75496992b4349bf5fd71e21ebc790c13f63a3d7186d8": {
+      "source": "Disrupting AI-enabled “false front” operations\nZXQSEPZXQ\nOpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "zh": "破坏人工智能支持的“假面”操作\nZXQSEPZXQ\nOpenAI 破坏了两个人工智能影响力行动，这些行动利用假面记者和智囊团传播地缘政治信息。"
+    },
+    "fa62efc28c12796adf8f9645747e7075856820947f4ddd0b00e8a21f917e29c0": {
+      "source": "Building a safer path to autonomous industrial AI\nZXQSEPZXQ\nIndustrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that op…",
+      "zh": "打造更安全的自主工业人工智能之路\nZXQSEPZXQ\n工业人工智能正在进入一个新阶段。经过数十年的预测分析和其他专业应用，基础模型、物理人工智能和代理人工智能的进步使得跨工业环境自动化更复杂的任务成为可能。但与人工智能不同的是……"
+    },
+    "98861eba92a1a323049026afa98ae550ed2353f93e195c0883ccef877c16a5bc": {
+      "source": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’\nZXQSEPZXQ\nThe Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
+      "zh": "特里斯坦·哈里斯的科技非营利组织将解雇大部分员工并转向“创始人领导”\nZXQSEPZXQ\n消息人士告诉 WIRED，人道技术中心帮助引发了一场反对过多屏幕时间的运动，但其方向和战略的内部紧张局势多年来一直在酝酿。"
+    },
+    "ec3ea8ec645d30e922895c8740955175969dd2f009a6c24e33966b5232bbb0da": {
+      "source": "3.26.1 (2026-10-08) Bug Fixes api: correct custom voice creation parameters ( #4038 ) ( b9bc5c1 )",
+      "zh": "3.26.1 (2026-10-08) Bug 修复 api：正确的自定义语音创建参数 ( #4038 ) ( b9bc5c1 )"
     }
   }
 }
