@@ -5440,6 +5440,42 @@
     "48723f3c1c7569d2a5d487ff2d910be06128538ceadd84376206d75c937c5eb9": {
       "source": "1.12.0 (2026-10-07) Full Changelog: v1.11.0...v1.12.0 Features api: add claude-haiku-5-5 and typed computer and browser toolset tool calls ( f6346e6 ) api: add disabled to thinking types in model capabilities ( 78d815d ) api: add display_name to RBAC roles and deprecate name ( f…",
       "zh": "1.12.0 (2026-10-07) 完整变更日志：v1.11.0...v1.12.0 功能 api：添加 claude-haiku-5-5 和键入的计算机和浏览器工具集工具调用 ( f6346e6 ) api：将禁用添加到模型功能中的思维类型 ( 78d815d ) api：将 display_name 添加到 RBAC 角色并弃用名称 ( f…"
+    },
+    "0711be1f28b5ed8a5936e6431931e5a01528719eed1e5ca8c5dbbab00b17571c": {
+      "source": "Chores ci: check that pull requests update the changelog docs: note that listing Claude Console spend limits is in early access internal: match the package version in uv.lock",
+      "zh": "杂务 ci：检查拉取请求是否更新变更日志文档：请注意，列出 Claude 控制台支出限制位于早期访问内部：与 uv.lock 中的软件包版本匹配"
+    },
+    "79a58a4e9e12eef4f142d74b631a01504eac3cb259136b8e8f55d0cb06d89d98": {
+      "source": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users\nZXQSEPZXQ\nThe developer of Hermes Agent raised a $90 million Series B.",
+      "zh": "Nous Research 确认其估值达到 1.5B 美元，为商业用户推出人工智能代理\nZXQSEPZXQ\nHermes Agent 的开发商筹集了 9000 万美元的 B 轮融资。"
+    },
+    "03a4f0631dfe9d70ba3e405acb915eee6c2d07f84cf6266849f76272e11ce465": {
+      "source": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents\nZXQSEPZXQ\nAt a Microsoft event in San Francisco on Wednesday, Jensen Huang and Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents are coming to Windo…",
+      "zh": "NVIDIA，微软利用 RTX Spark 和 AI Agent 为 Windows PC 开启新的开始\nZXQSEPZXQ\n周三在旧金山举行的微软活动上，Jensen Huang 和 Satya Nadella 概述了 NVIDIA 和微软如何共同设计硬件和软件，让 AI 代理在 Windows PC 上运行。黄说，NVIDIA是因为Windows而成立的。现在人工智能代理即将来到 Windo..."
+    },
+    "6d93dfca8693ab282a42fdcf8ac410d132bbfd529d4577d31ed3845ede97fd08": {
+      "source": "A Society of Researchers: Designing Institutions for Populations of Autonomous Research Agents\nZXQSEPZXQ\nDeployments of research agents are moving to populations of thousands that share one pool of compute, while most current systems organize one project at a time or leave the population unorganized. We argue that such a population will acquire an organization whether or not its de…",
+      "zh": "研究人员协会：为自主研究主体群体设计机构\nZXQSEPZXQ\n研究代理的部署正在转向共享一个计算池的数千人群体，而当前的大多数系统一次组织一个项目，或者使群体处于无组织状态。我们认为，这样的人群将获得一个组织，无论其是否..."
+    },
+    "dfe26c42ebacbe4383d24c001b1be53700cb20a9871ae77f584c2f1448d134f7": {
+      "source": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos\nZXQSEPZXQ\nAs we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without knowing we would need it later. Here, we study how an embodied as…",
+      "zh": "永不回头：从以自我为中心的视频中了解 3D 对象记忆的持久性\nZXQSEPZXQ\n当我们周游世界并执行日常任务时，我们会遇到一些可能在以后才变得相关的物体。我们能够回忆起我们把东西留在哪里或容器内有什么，即使我们不知道我们以后会需要它。在这里，我们研究如何体现为……"
+    },
+    "bd8458a0a7c641b3268c5dc0d5367a7fac6a07c692cbe13bc9d5e2998175637d": {
+      "source": "Decoupling Exploration from Optimization in RLVR\nZXQSEPZXQ\nModern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sample novel ideas absent from its prior training data. In pr…",
+      "zh": "将探索与 RLVR 优化解耦\nZXQSEPZXQ\n现代语言模型在已经训练的检查点之上进行具有可验证奖励（RLVR）的强化学习。 RLVR 的一个关键承诺是发现新的推理策略。原则上，模型可以采样先前训练数据中缺少的新想法。在项目中…"
+    },
+    "fe0f857980f7bfecd4d446fdc577f0d20e7d6d58b8143634beb7272f6ee53c58": {
+      "source": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory\nZXQSEPZXQ\nConditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Beyond model scaling, this architecture has demonstrated the potential to decoupl…",
+      "zh": "EngramEdit：通过条件记忆解耦法学硕士知识更新\nZXQSEPZXQ\nDeepSeek Engram 等条件记忆架构使用输入 n-gram 来查找学习的嵌入，以有限的额外计算扩展大型语言模型 (LLM) 的容量。除了模型扩展之外，该架构还展示了解耦的潜力……"
+    },
+    "38e9e1b9cbe88a2f3e7493e00e547426dc9fed6b402d4abf375466bcc437a26d": {
+      "source": "Long-WAM: Scaling the Context of World-Action Models\nZXQSEPZXQ\nReal-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the context of causal world-action models under real-time control constraints. Our cen…",
+      "zh": "Long-WAM：扩展世界行动模型的背景\nZXQSEPZXQ\n实时机器人控制需要足够的视觉历史记录来推断运动和任务进度，但处理该历史记录可能会延迟行动。我们提出了 Long-WAM，一种模型系统框架，用于在实时控制约束下扩展因果世界动作模型的上下文。我们的中心…"
+    },
+    "e8f832f66498b71d615b87cefd9ca841cbea49b1a096eddefe67f0a686aa3f3b": {
+      "source": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping\nZXQSEPZXQ\nHeavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized settings, much less is known in decentralized ones, where applying a nonlinearit…",
+      "zh": "重尾噪声下的去中心化 SGD：最优收敛率和梯度裁剪的作用\nZXQSEPZXQ\n重尾噪声在现代机器学习中被广泛观察到，这激发了梯度裁剪和归一化等方法的使用。虽然这些方法在集中式设置中得到了很好的理解，但在分散式设置中却知之甚少，其中应用非线性......"
     }
   }
 }
