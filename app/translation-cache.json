@@ -5532,6 +5532,70 @@
     "ec3ea8ec645d30e922895c8740955175969dd2f009a6c24e33966b5232bbb0da": {
       "source": "3.26.1 (2026-10-08) Bug Fixes api: correct custom voice creation parameters ( #4038 ) ( b9bc5c1 )",
       "zh": "3.26.1 (2026-10-08) Bug 修复 api：正确的自定义语音创建参数 ( #4038 ) ( b9bc5c1 )"
+    },
+    "a1b78f9b96672b39fcde85560d58b3d24375ff1a09f238c2adb8a8e89aca0125": {
+      "source": "How Oracle turns days of work into minutes with ChatGPT and Codex\nZXQSEPZXQ\nAcross recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "zh": "Oracle如何通过ChatGPT和CODEX将工作日变为几分钟\nZXQSEPZXQ\n在招聘、工程和运营方面， Oracle通过ChatGPT Work and Codex将专业知识转化为快速、可重复的工作流程。"
+    },
+    "4ee504e0aaa5e5cd0d86b2a8d7b582360eb981c3476d1306ceaa86d7dfea48a5": {
+      "source": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website\nZXQSEPZXQ\nWith over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "zh": "假装你坐在伊丽莎白·福尔摩斯（ Elizabeth Holmes ）的办公桌前，在这个奇怪的详细网站上\nZXQSEPZXQ\nExtend的工程师Bo Lau使用来自美国诉伊丽莎白·霍姆斯案审判的一千多封电子邮件、幻灯片、文本和文件，创建了一个网站，模拟了通过Theranos创始人的桌子来复枪的感觉。"
+    },
+    "9482d52fb4e0a1e0ccd7b4bbab1ed62dd4a0057095e9552229ee2f01674943e3": {
+      "source": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect\nZXQSEPZXQ\nThree fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "zh": "被解雇的OpenAI安全研究人员对不当行为索赔提出异议，警告寒蝉效应\nZXQSEPZXQ\n三名被解雇的OpenAI安全研究人员对有关不当处理敏感信息的指控提出异议，并在一封公开信中警告说，他们的解雇正在对该公司的人工智能安全文化产生寒蝉效应。"
+    },
+    "e2cc63e06ebb8ad81628408640bc3b9708d2095eadf45107a63f6e80a2ffeef4": {
+      "source": "Inside Elon Musk’s Midterm Spending Spree\nZXQSEPZXQ\nThis week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
+      "zh": "深入了解伊隆·马斯克的中期支出狂欢\nZXQSEPZXQ\n本周在“Uncanny Valley”上，我们讨论了Elon Musk的PAC在哪里花费数百万美元，特朗普声称的最新意识形态是危险的，以及对Muse徽标背后的设计师的强烈反对。"
+    },
+    "b622065678a5b6d697ec25903a5a13033f557a076e0c0e6bedff62773c29b5a4": {
+      "source": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost\nZXQSEPZXQ\nGoodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+      "zh": "Goodfire表示，其新的“由内而外”监控器只需花费一小部分成本就能捕捉到流氓AI代理\nZXQSEPZXQ\nGoodfire刚刚推出了一种更便宜的方式来控制人工智能代理：它的监视器不会花费第二个人工智能来读取代理所做的一切，而是在模型工作时偷看模型内部，只有在看起来有问题时才会调用备份。"
+    },
+    "820b0d2814da9a13d84eb7e06bb7aace35047290e1cc74667cd272241db3bbe5": {
+      "source": "Ben Affleck is an AI nerd, and the internet is impressed\nZXQSEPZXQ\nBen Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+      "zh": "Ben Affleck是个人工智能书呆子，互联网给人留下了深刻的印象\nZXQSEPZXQ\n本·阿弗莱克（ Ben Affleck ）因其对人工智能的深入了解而广为人知，从神经网络和变压器到开放式权重。 这位演员今年早些时候将自己的人工智能电影创业公司卖给了Netflix ，这证明他不仅仅是一名好莱坞明星。"
+    },
+    "0c0845f33555316124807db7f05d642b61fc3a57b27f9ded7d5cf59267dc7f8d": {
+      "source": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months\nZXQSEPZXQ\nThe company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "zh": "受欢迎的人工智能排行榜Arena的估值在10个月内几乎翻了一番，达到31亿美元\nZXQSEPZXQ\n广受欢迎的LMArena排行榜背后的公司已经筹集了2亿美元($) ，由Lightspeed和Khosla领投，现在正在衡量AI模型在撒谎等对齐问题上的表现。"
+    },
+    "298fe396c04e249d71e04cce99d6e78c6c2c69fcca259383a29c19efd928eb8e": {
+      "source": "OpenAI’s revenue is reportedly $20 billion less than previously projected\nZXQSEPZXQ\nIt had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+      "zh": "据报道， OpenAI的收入比之前预测的少200 $\nZXQSEPZXQ\n此前曾有报道称，人工智能实验室的年化收入约为700亿美元，但一份新报告称，这一数字远低于此。"
+    },
+    "7eddbe3452b278b34b65c938406a8f189d8b9d51858b1eb0a2d3df9814dbd5b2": {
+      "source": "Google brings agentic AI to Gemini, starting with businesses\nZXQSEPZXQ\nGoogle is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+      "zh": "谷歌将代理AI引入Gemini ，从企业开始\nZXQSEPZXQ\n谷歌正在将Gemini变成一个可以跨业务应用和系统规划、执行任务和工作的人工智能代理。 代理可以将工作委派给子代理，使用多个人工智能模型，甚至可以获得自己的工作场所身份，并附带一个电子邮件地址。"
+    },
+    "801fb7fd581a027bc2c74dd262e6545239a7b40f9e2078e2e3b5b8dc833a9859": {
+      "source": "Anthropic changes usage policy to ban model abuse and election interference\nZXQSEPZXQ\nAnthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+      "zh": "Anthropic修改使用政策，禁止模型滥用和选举干扰\nZXQSEPZXQ\nAnthropic更新后的使用政策明确禁止用户在极端情况下反复滥用Claude ，但仍允许普通的挫折和批评。 新规则还涉及选举干预、欺骗性活动、武器软件和监控。"
+    },
+    "2674a78620353de4ce9950006fa4a88633fe01c36f969c6fd063ad27363da54b": {
+      "source": "OpenAI’s math solutions aren’t meeting the field’s standards yet\nZXQSEPZXQ\nOpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+      "zh": "OpenAI的数学解决方案尚未达到该领域的标准\nZXQSEPZXQ\nOpenAI的大量证明偏离了前沿实验室咨询的一组数学研究人员制定的指导方针。"
+    },
+    "38e1cafa7103199781f982d65c3e54474a633ceb726091df272b469747bf658a": {
+      "source": "She Designed Meta’s New AI Logo. Then Came the Hate\nZXQSEPZXQ\nJessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
+      "zh": "她设计了Meta的新AI徽标。 Then Came the Hate\nZXQSEPZXQ\nJessica Hische知道为Meta工作可能会让一些人感到不安。 但她没有预料到他们会有多生气。"
+    },
+    "9069b27fc755c4f29f70b0e9eec43d7b9d9c4bc1f34646724918c0eb1c2ae1af": {
+      "source": "USA Today becomes the latest publisher to sue OpenAI\nZXQSEPZXQ\nUSA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $2…",
+      "zh": "今日美国成为起诉OpenAI的最新出版商\nZXQSEPZXQ\n据路透社早些时候报道，今日美国公司及其拥有的几家当地报纸正在起诉OpenAI ，声称该公司抄袭了“数十万”篇文章来训练其人工智能模型。 在周四的一份文件中，出版商要求赔偿超过$ 2……"
+    },
+    "34265faa09ce589f41ca75792241661de8c07f330257cb2c81260def670c5d25": {
+      "source": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute\nZXQSEPZXQ\nIf Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy, as a Founding Corporate Patron and donating $1.5 million worth of Grok tokens…",
+      "zh": "SpaceXAI以150万美元的计算支持备受争议的Linux发行版Omarchy\nZXQSEPZXQ\n如果Elon Musk和SpaceXAI打算支持任何Linux发行版，那么很明显他们会支持Omarchy。 今天宣布， SpaceXAI将加入监督Omarchy的Omacom基金会，成为创始企业赞助人，并捐赠价值150万美元的Grok代币……"
+    },
+    "960c3af4368dc13ff667743b6d1a1e723fb2b5df8aa65ec7df18fc250d7d3502": {
+      "source": "Anthropic bans ‘abusive or cruel behavior’ toward Claude\nZXQSEPZXQ\nAnthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits \"…",
+      "zh": "Anthropic禁止对Claude的“辱骂或残忍行为”\nZXQSEPZXQ\nAnthropic一年多来首次修改其使用政策，以反映新的高风险滥用案例，包括选举干预、武器开发、监控以及健康和金融用途。 但最重要的变化之一是禁止“……"
+    },
+    "2881e83460e8969cf344df4d0395052e18e6b7ff185c1dd0acc3ea0b3e8feee3": {
+      "source": "Natura’s $99 smart ring puts AI agents on your finger\nZXQSEPZXQ\nNatura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+      "zh": "Natura的$ 99智能戒指将AI代理放在您的手指上\nZXQSEPZXQ\nNatura的$ 99 Interface智能戒指可让您轻松召唤人工智能代理完成任务、捕捉思想和控制设备，同时兼作健康追踪器。"
     }
   }
 }
