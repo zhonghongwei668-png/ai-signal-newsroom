@@ -5620,6 +5620,38 @@
     "26bec5cee689b3868beff37771777527cf4cf732f851925e42a13b98b99f1c3e": {
       "source": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control\nZXQSEPZXQ\nGeneral-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, current RL pipelines depend on engineering-heavy, per-task structural priors suc…",
       "zh": "平衡的数据饮食：解决Mega-Scale RL用于机器人控制的探索瓶颈\nZXQSEPZXQ\n通用机器人必须执行从敏捷运动到灵巧操作的各种任务。 虽然模拟到现实的强化学习（ RL ）已被证明是实现这一目标的有用工具，但目前的RL管道依赖于工程繁重，每项任务的结构先验……"
+    },
+    "09926695b708b418cb5f21df648381af4d02c001b3e2a0ce9c823b266003c4c2": {
+      "source": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak\nZXQSEPZXQ\nDiscover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "zh": "Sophos 通过 OpenAI Daybreak 将威胁调查时间缩短了 96%\nZXQSEPZXQ\n了解 Sophos 如何使用 OpenAI 的 Daybreak 将网络威胁调查时间缩短 96%，并自动处理 52% 的 MDR 案例，同时保留人工监督。"
+    },
+    "935d1977a03db9a0176cbf4a068da695505026a24b62f6cff8f54b6b84c761d6": {
+      "source": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise\nZXQSEPZXQ\nFour days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
+      "zh": "TechCrunch Disrupt 2026 将在 4 天后开始——在价格上涨之前锁定您的通票节省高达 100 美元\nZXQSEPZXQ\n距离 TechCrunch Disrupt 2026 开始还有四天，届时 10,000 名创始人、投资者和技术领导者将于 10 月 13 日至 15 日聚集在旧金山的 Moscone West。最多可节省 100 美元。另外，第二次购买相同类型的产品可节省 50% 的费用。"
+    },
+    "df6307d75178dd27fac2bb2f06f8fae7cd1cc6e48c6439c2a6dc7cca11737029": {
+      "source": "Trump’s attempt to rename AI is looking awfully artificial\nZXQSEPZXQ\nPresident Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the pres…",
+      "zh": "特朗普给人工智能重新命名的尝试看起来非常人为\nZXQSEPZXQ\n唐纳德·特朗普总统有一套用言语攻击敌人的技巧。他第一次成功竞选总统是建立在“小马可”和“狡猾的希拉里”等绰号之上的。他将“假新闻”从描述诈骗媒体的短语改为对总统的贬义词……"
+    },
+    "faf484f56c02690a04966dae05ed2e533149ca3c2a778ad4e2b13356e983deab": {
+      "source": "Instinct was the buzziest AI agent around — can it survive Muse?\nZXQSEPZXQ\nBefore there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its str…",
+      "zh": "Instinct 是最热门的人工智能代理——它能在 Muse 中幸存吗？\nZXQSEPZXQ\n在有可爱的小家伙之前，就有了本能。 8 月，这家初创公司通过一套不同寻常的策略将其人工智能代理推向市场：仅限邀请，没有营销，而且几乎没有一个网站。然而，本能很快成为人工智能领域最热门的事物，因其强大的功能而受到赞誉……"
+    },
+    "a1d48ecf8abae04d9517dcf27eca7458843abbd5e1ad7cea6ac2815da6549710": {
+      "source": "3.27.0 (2026-10-09) Features api: add prewarmed hosted environments ( #4043 ) ( c511a77 )",
+      "zh": "3.27.0 (2026-10-09) 功能 api：添加预热的托管环境 ( #4043 ) ( c511a77 )"
+    },
+    "f5d24abd30a0b0f4d5553175f20c7dcb57dc56cdec7c6fcfb511ba33631ffe9f": {
+      "source": "We’re putting too much faith in AI’s ability to say no\nZXQSEPZXQ\nEver since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cau…",
+      "zh": "我们过于相信人工智能说不的能力\nZXQSEPZXQ\n自从人们第一次认真考虑赋予机器以我们自己为模型的智能以来，毫无疑问他们会像我们一样拒绝。科幻经典中充满了机器人不服从命令的故事。当然，大多数这些刺山柑都是因为……"
+    },
+    "6e422e283ce3785e8febf3e9eeb4a63b977d2473396062326efff92239ddf3ae": {
+      "source": "OpenAI doubles down on decision to fire three AI safety researchers\nZXQSEPZXQ\nOpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear pol…",
+      "zh": "OpenAI 加大力度决定解雇三名人工智能安全研究人员\nZXQSEPZXQ\n在调查发现三名安全研究人员“严重违反信任”后，OpenAI 坚定地决定解雇他们。该公司周五在 X 上发帖称，Jasmine Wang、Tomek Korbak 和 Mikita ⁠Balesni 因违反“明确的政策”而被解雇。"
+    },
+    "3d34b82af08615ca873559f39a801a6ef3f22804c4c5bcfe038a2ce9b7cb9341": {
+      "source": "Even ‘Law & Order’ Is Terrified of AI\nZXQSEPZXQ\nIn its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
+      "zh": "就连《法律与秩序》也害怕人工智能\nZXQSEPZXQ\n这部程序性法律剧在第 26 季首播中描绘了疯狂的人工智能首席执行官的可怕画面。"
     }
   }
 }
