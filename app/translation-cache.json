@@ -5596,6 +5596,30 @@
     "2881e83460e8969cf344df4d0395052e18e6b7ff185c1dd0acc3ea0b3e8feee3": {
       "source": "Natura’s $99 smart ring puts AI agents on your finger\nZXQSEPZXQ\nNatura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
       "zh": "Natura的$ 99智能戒指将AI代理放在您的手指上\nZXQSEPZXQ\nNatura的$ 99 Interface智能戒指可让您轻松召唤人工智能代理完成任务、捕捉思想和控制设备，同时兼作健康追踪器。"
+    },
+    "8ec2ccd2237bc723bdfcfcdd1d28993b5980c71ebf871e12bff969e006572d60": {
+      "source": "Roundtables: A Conversation With the Creator of AI-Designed Viruses\nZXQSEPZXQ\nFriday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, b…",
+      "zh": "圆桌会议：与人工智能设计病毒的创造者对话\nZXQSEPZXQ\n2026年10月16日（星期五）人工智能可以设计新的生命形式吗？ 2025年，斯坦福大学博士生塞缪尔·金（ Samuel King ）在使用生成人工智能模型提出微观病毒的遗传蓝图时提出了初步答案。 它还不是人工智能生成的生命的一个例子， b……"
+    },
+    "844a9aaaacab0ed8ef2402fe5d65efdc1db9167b6c0aa975e166a9e1f77d10e5": {
+      "source": "Anthropic launches free AI security scans for open-source projects\nZXQSEPZXQ\nAnthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source proj…",
+      "zh": "Anthropic推出开源项目免费AI安全扫描\nZXQSEPZXQ\nAnthropic提供名为OSS Scanner的新服务，帮助开源项目跟踪安全漏洞。 它表示，选择加入的开源项目将“由我们最强大的模型免费进行全面、定期的安全扫描”。 这可能意味着开源项目……"
+    },
+    "d046e1ba6c966c0ae20900a73675328a586f14f8bab9434a584e6df3b2abced6": {
+      "source": "California is trying to shut down robot vs. human cage matches\nZXQSEPZXQ\nThe California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid…",
+      "zh": "加利福尼亚州正试图关闭机器人与人类笼子匹配\nZXQSEPZXQ\n据《纽约时报》报道，加利福尼亚州体育委员会(California State Athletic Commission)上个月向一家初创公司发出了一封停止信，该公司主办了一场人类与机器人的比赛。 这场战斗发生在9月18日，让人类弗兰基·拉彭娜（ Frankie LaPenna ）与类人猿对抗……"
+    },
+    "8aa369da90fbf6fefd5ccc169c596e69097198f7c4579ce4a60bd1066af20e5f": {
+      "source": "CSF: Contextual Safety Filtering for Motion Generators\nZXQSEPZXQ\nText-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either inspect the prompt, require labeled motion data, or enforce geometric constrain…",
+      "zh": "CSF ：运动发生器的上下文安全过滤\nZXQSEPZXQ\n文本条件运动生成器产生可跟踪的全身运动，但它们没有场景相关安全性的概念：相同的动作可能针对对象或人。 现有的安全措施要么检查提示，要求标记运动数据，要么强制执行几何约束……"
+    },
+    "55fc7b713cd95d700f5ef9bfc569772d29632dce97b56e6ef23395c637300a57": {
+      "source": "On the estimation and validity of AI time horizons---a statistical look at the METR plot\nZXQSEPZXQ\nMETR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we recompute the time horizons using splines and item-response theory…",
+      "zh": "关于人工智能时间范围的估计和有效性--METR图的统计学研究\nZXQSEPZXQ\nMETR的50 ％时间范围测量人工智能以50 ％的概率解决的软件任务的人工完成时间，允许人工智能能力以可解释的单位表示。 在228个任务和26个人工智能上，我们使用样条和项目响应理论重新计算时间范围……"
+    },
+    "26bec5cee689b3868beff37771777527cf4cf732f851925e42a13b98b99f1c3e": {
+      "source": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control\nZXQSEPZXQ\nGeneral-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, current RL pipelines depend on engineering-heavy, per-task structural priors suc…",
+      "zh": "平衡的数据饮食：解决Mega-Scale RL用于机器人控制的探索瓶颈\nZXQSEPZXQ\n通用机器人必须执行从敏捷运动到灵巧操作的各种任务。 虽然模拟到现实的强化学习（ RL ）已被证明是实现这一目标的有用工具，但目前的RL管道依赖于工程繁重，每项任务的结构先验……"
     }
   }
 }
