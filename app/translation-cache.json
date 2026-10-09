@@ -5652,6 +5652,42 @@
     "3d34b82af08615ca873559f39a801a6ef3f22804c4c5bcfe038a2ce9b7cb9341": {
       "source": "Even ‘Law & Order’ Is Terrified of AI\nZXQSEPZXQ\nIn its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
       "zh": "就连《法律与秩序》也害怕人工智能\nZXQSEPZXQ\n这部程序性法律剧在第 26 季首播中描绘了疯狂的人工智能首席执行官的可怕画面。"
+    },
+    "06feb900edd9c48d94d7f75185d724c05e38bba0617cd5d90e0e2a8e3a5b81c4": {
+      "source": "An Anthropic AI model sent a false homicide tip to Philadelphia police\nZXQSEPZXQ\nAnthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "zh": "Anthropic AI 模型向费城警方发送了虚假的凶杀案线索\nZXQSEPZXQ\nAnthropic 直到其 AI 提交虚假提示两个多月后才发现这种行为。"
+    },
+    "428592b5cb1d1e7e740c6ad3f29b656493eff744c667523310e9ae1019d1a3b7": {
+      "source": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop\nZXQSEPZXQ\n\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped…",
+      "zh": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新下降\nZXQSEPZXQ\n“令人震惊。” “压倒。” “空前的。” “超现实的。” “纯粹的疯狂。”这些是超过三打数学家在与 The Verge 的对话中提出的描述，因为他们试图理解 OpenAI 突然下降的大量数学结果......"
+    },
+    "a9fe10d5168f9e397247c6b61755e144a5d829db4d0f5125516417ca516552cf": {
+      "source": "3.28.0 (2026-10-09) Features api: add agent environment suspension and expiration ( #4046 ) ( 6aa25a9 ) Chores deps: bump astral-sh/setup-uv from 10.1.0 to 10.2.0 ( #4026 ) ( 8bfffd4 ) deps: bump CodeQL init and analyze to 4.38.2 ( #4025 ) ( 4f5e618 ) deps: update PyJWT security…",
+      "zh": "3.28.0 (2026-10-09) 功能 api：添加代理环境暂停和过期 ( #4046 ) ( 6aa25a9 ) 杂务 deps：将 astral-sh/setup-uv 从 10.1.0 提升到 10.2.0 ( #4026 ) ( 8bfffd4 ) deps：将 CodeQL 初始化和分析提升到 4.38.2 ( #4025 ) ( 4f5e618 ) deps: 更新 PyJWT 安全性…"
+    },
+    "f0a88af7b5486650e9fb40374337bef33ba81daedb6233ec2e58cfccb6b21346": {
+      "source": "Book Publishers Are Quietly Using More AI. Staff Are Revolting\nZXQSEPZXQ\nWorkers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
+      "zh": "图书出版商正在悄然使用更多人工智能。员工造反\nZXQSEPZXQ\n三大出版社的工作人员告诉 WIRED，法学硕士被用于宣传、封面艺术、封底文案和电子邮件，因为一些高管敦促初级员工支持这项技术。"
+    },
+    "6a6635aaaad02d94d8638772e151957bb733c350a0ab3712ce5783e7f347236b": {
+      "source": "Nikon microscopic video competition winner disqualified for using generative AI\nZXQSEPZXQ\nNikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cili…",
+      "zh": "尼康显微视频大赛获胜者因使用生成人工智能而被取消资格\nZXQSEPZXQ\n尼康表示，最初在“运动小世界”竞赛中获得第一名的视频“不符合生成人工智能的竞赛规则”。 BBC 报道称，徐宁博士最初的第一名视频声称显示了“称为纤毛的微小毛发状结构......"
+    },
+    "13f14a819ad4b378eeb6c6f637b7e3832be83e76d6cd195289687b2eab45f489": {
+      "source": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?\nZXQSEPZXQ\nAmazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted…",
+      "zh": "亚马逊和其他公司已经不再对数据中心交易保密。建立信任就足够了吗？\nZXQSEPZXQ\n亚马逊表示，在与地方政府谈判数据中心交易时，它将停止使用保密协议，微软今年早些时候也采取了类似举措。保密加剧了社区对人工智能基础设施的强烈反对，反对导致数百项提议和颁布……"
+    },
+    "4374252d45ae3f3a308101df6b056ee7e1ba77c0acb43355c7c2954d8de046bb": {
+      "source": "Amazon drops data center NDAs, and AI agents want your credit card\nZXQSEPZXQ\nAmazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted…",
+      "zh": "亚马逊放弃数据中心保密协议，人工智能代理想要你的信用卡\nZXQSEPZXQ\n亚马逊表示，在与地方政府谈判数据中心交易时，它将停止使用保密协议，微软今年早些时候也采取了类似举措。保密加剧了社区对人工智能基础设施的强烈反对，反对导致数百项提议和颁布……"
+    },
+    "2ab8cabe37f7332838b2b308fa260c7d04746f9dfe3f5954fbb4aee8c04d2191": {
+      "source": "Danu Robotics’ fight to build a better recycling robot\nZXQSEPZXQ\nFor six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+      "zh": "Danu Robotics 致力于打造更好的回收机器人\nZXQSEPZXQ\n六年来，Danu 创始人 Amy Ma 一直致力于寻找更好的方法来分类可回收垃圾。"
+    },
+    "00b70a0df7fe89e7ee81dec280a8cf540da3d9fb3d61d47996bf881d0d370a79": {
+      "source": "We can’t help treating AI like it’s human. But should we?\nZXQSEPZXQ\n\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+      "zh": "我们情不自禁地像对待人类一样对待人工智能。但我们应该吗？\nZXQSEPZXQ\n雪莉·特克尔博士写道：“当我们被某种相关物品吸引，哪怕是最原始的交流时，我们都相信它会关心我们。” “作为回报，我们也会照顾它。”"
     }
   }
 }
