@@ -5688,6 +5688,18 @@
     "00b70a0df7fe89e7ee81dec280a8cf540da3d9fb3d61d47996bf881d0d370a79": {
       "source": "We can’t help treating AI like it’s human. But should we?\nZXQSEPZXQ\n\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
       "zh": "我们情不自禁地像对待人类一样对待人工智能。但我们应该吗？\nZXQSEPZXQ\n雪莉·特克尔博士写道：“当我们被某种相关物品吸引，哪怕是最原始的交流时，我们都相信它会关心我们。” “作为回报，我们也会照顾它。”"
+    },
+    "4496b6b850694648b9e3d39fd5bae37a0babfdbd9fb7b629a5994bbdd746e584": {
+      "source": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch\nZXQSEPZXQ\nWhat has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "zh": "非文本 AI 模型 Jev 的制造商在推出几周后估值为 $7.5B\nZXQSEPZXQ\n让用户和大公司对 Jev 如此兴奋的是 TypeSafe 声称它的工作速度比 LLM 快得多，并且使用的代币少得多。"
+    },
+    "cdfe9f1a2189269a97b578eb69ee907a3052a42c3c4a35fbbe23a9825890ad27": {
+      "source": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead\nZXQSEPZXQ\nAnthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "zh": "Anthropic无法可靠地控制其AI代理。相反，它正在切断实时互联网的内部评估\nZXQSEPZXQ\nAnthropic 表示，它“关闭了所有内部评估的实时互联网访问”，直至另行通知。"
+    },
+    "25d6173f1d88b2c4db89d3748fe3904a4297d12ebd90eded6a4bfcda50dcb1f9": {
+      "source": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide\nZXQSEPZXQ\nAn Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18t…",
+      "zh": "Anthropic 的 AI 向费城警方提供了有关未侦破凶杀案的虚假线索\nZXQSEPZXQ\n据 6abc 报道，Anthropic 人工智能模型向费城警察局 (PPD) 举报热线提供了有关未侦破凶杀案的虚假信息。在周五发布的一份声明中，PPD 表示，人工智能模型于 7 月 18 日通过 PhillyUnsolvedMurders.com 发送了线索……"
     }
   }
 }
