@@ -5732,6 +5732,22 @@
     "25d77ebda46ae3a4c34dd2eca2a27db09bd1e58696347ff21fdf9903b67ab410": {
       "source": "I Made Terrible Games With Google’s AI Playground\nZXQSEPZXQ\nA long day’s haul in the video game slop mines.",
       "zh": "我用 Google 的 AI Playground 制作了糟糕的游戏\nZXQSEPZXQ\n在电子游戏废液矿井中度过了漫长的一天。"
+    },
+    "845f9cfd56c1518bb593a05d97f6a6176a883467dd02627a719eab34903e23fe": {
+      "source": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next\nZXQSEPZXQ\nLess than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+      "zh": "距离TechCrunch Disrupt 2026 48小时车程—直接聆听大楼人员的心声\nZXQSEPZXQ\n不到48小时， TechCrunch Disrupt 2026在旧金山的Moscone West开始。 在价格上涨之前，通行证最多可节省$ 100 ，第二张通行证还可享受50%的优惠。 或获得其他优惠。"
+    },
+    "5ddeae02021d7cb779c018ef39647cb758ef5cb307532cddaabc21a6f7c83ee4": {
+      "source": "Silicon Valley is falling in line with Trump’s attempt to rename AI\nZXQSEPZXQ\nWhen President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling…",
+      "zh": "硅谷正在与特朗普重命名AI的尝试保持一致\nZXQSEPZXQ\n当唐纳德·特朗普总统宣布他计划将人工智能重新命名为“超级智能”时，你会原谅对它会流行的怀疑。 虽然大多数人坚持使用人工智能，但硅谷一些最强大的人却在下降……"
+    },
+    "e8f1522f36cb767cbb5eb5d27b105f52a31eaa4cf10bb767a666a22bfb2be9ef": {
+      "source": "Can the AI industry persuade data center opponents by getting rid of NDAs?\nZXQSEPZXQ\nOn Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "zh": "人工智能行业能否通过摆脱保密协议来说服数据中心的对手？\nZXQSEPZXQ\n在Equity上，我们讨论了数据中心暂停的影响以及人工智能行业是否存在通信问题。"
+    },
+    "b0019e4be4349e8ad5f0ba084cda717eb30c17a81dd8abd6bcbb1b8086528d2c": {
+      "source": "3.29.0 (2026-10-11) Features api: add billing_not_active session error code ( #4052 ) ( c88b320 ) api: add shida to named Live voices ( #4053 ) ( 7352cf5 ) api: add vault updates and metadata filters ( #4047 ) ( e72f493 ) api: align beta pagination limits and non-null parameters…",
+      "zh": "3.29.0 (2026-10-11)功能api: add billing_not_active会话错误代码(# 4052) (c88b320) api: add shida to named Live voices (# 4053) (7352cf5) api: add vault updates and metadata filters (# 4047) (e72f493) api: align beta pagination limits and non-null parameters…"
     }
   }
 }
