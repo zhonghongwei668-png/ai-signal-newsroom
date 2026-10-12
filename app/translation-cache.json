@@ -5748,6 +5748,10 @@
     "b0019e4be4349e8ad5f0ba084cda717eb30c17a81dd8abd6bcbb1b8086528d2c": {
       "source": "3.29.0 (2026-10-11) Features api: add billing_not_active session error code ( #4052 ) ( c88b320 ) api: add shida to named Live voices ( #4053 ) ( 7352cf5 ) api: add vault updates and metadata filters ( #4047 ) ( e72f493 ) api: align beta pagination limits and non-null parameters…",
       "zh": "3.29.0 (2026-10-11)功能api: add billing_not_active会话错误代码(# 4052) (c88b320) api: add shida to named Live voices (# 4053) (7352cf5) api: add vault updates and metadata filters (# 4047) (e72f493) api: align beta pagination limits and non-null parameters…"
+    },
+    "6993c48667b94eb80f2fb2d2d4057c969acd1ee0df2a6a0511d2496f6dfa9cce": {
+      "source": "Will the HomeView be Apple’s first smart home success?\nZXQSEPZXQ\nOver the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+      "zh": "HomeView 会成为苹果第一个成功的智能家居产品吗？\nZXQSEPZXQ\n在过去的几年里，我们看到多篇报道称苹果正在开发一款新的智能家居产品，但现在该产品似乎已经有了名称和发布日期。"
     }
   }
 }
