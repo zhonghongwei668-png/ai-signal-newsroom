@@ -6028,6 +6028,34 @@
     "8a446da1400be551091c77d33279c3d8893b2ed602e2eb659ac955f66b2bd424": {
       "source": "Your Transformer Is Secretly Elastic\nZXQSEPZXQ\nScaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L), forcing users to commit to a model based on hardware and latency constraints…",
       "zh": "你的变压器秘密地有弹性\nZXQSEPZXQ\n扩展 Transformer 产生了具有广泛功能的模型，可以跨异构硬件和波动的工作负载进行部署。然而，模型系列仅提供几种固定尺寸（例如，S、B、L），迫使用户基于硬件和延迟限制来使用模型……"
+    },
+    "47e749b14a55888bae698b335a2bd55380090891fe6f059ec22a6e16869cd5b6": {
+      "source": "Google launches its ‘universal’ online shopping cart ahead of the holidays\nZXQSEPZXQ\nGoogle's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May is now rolling out in the US across the Gemini app and Google Search, with the…",
+      "zh": "谷歌在假期前推出“通用”在线购物车\nZXQSEPZXQ\n谷歌的智能人工智能购物车终于来了，正好及时吸引用户进入黑色星期五和季节性假期消费。 谷歌在5月份的I/O活动中预览的通用购物车工具现已通过Gemini应用程序和Google搜索在美国推出，其中..."
+    },
+    "3b966ae109ee1131472c9b0014f9d89ba1a2b7fc6b04bd7c85b2bd5c78e1b6d4": {
+      "source": "Amazon’s Bee launches two new personal AI devices, starting at $75\nZXQSEPZXQ\nAmazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, w…",
+      "zh": "亚马逊的Bee推出两款新的个人人工智能设备，起价为$ 75\nZXQSEPZXQ\n亚马逊旗下的Bee自收购以来推出了首批新的人工智能设备，包括更新的可穿戴设备和连接到智能手机的信用卡大小的录音机。 这些设备可以总结对话，创建待办事项列表，并与Alexa和亚马逊购物集成，包括……"
+    },
+    "0f7e4077cde3252d7a605ef27f16ebe9f7f6a55dd3bc0b259c24fa4aa700baa4": {
+      "source": "Apertus 1.5 Release Notes\nZXQSEPZXQ\nApertus 1.5 Release Notes。",
+      "zh": "Apertus 1.5发行说明\nZXQSEPZXQ\nApertus 1.5发行说明。"
+    },
+    "71e031217c5dfa50730b56be8dd15f24b5534cf26bf01ae353bec4ec1f1ff56a": {
+      "source": "Amazon’s always-listening Bee wearable can now help you buy stuff\nZXQSEPZXQ\nLast year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them. First is the $74.99 Bee Frontier…",
+      "zh": "亚马逊始终聆听的Bee可穿戴设备现在可以帮助您购买东西\nZXQSEPZXQ\n去年，亚马逊收购了Bee ，这是一家相对不为人知的初创公司，拥有价值50 $的AI可穿戴设备，可以总结你的每一次谈话。 今天，这家电子商务巨头宣布推出两款新的Bee设备-以及与之配套的新订阅。 首先是$ 74.99 Bee Frontier……"
+    },
+    "0bb3bfb1787478562160277a18c42dbe3f6af8f8ef404efcc61ee1d767337871": {
+      "source": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing\nZXQSEPZXQ\nThe Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is unfolding as countries race to build one of Europe’s most consequ…",
+      "zh": "Nordics和NVIDIA展示了一个地区致力于高级计算的可能性\nZXQSEPZXQ\n北欧国家已成为独角兽创业密度方面的欧洲领导者，在非洲大陆产生了人均价值10亿美元或以上的最新兴公司。 现在，随着各国竞相打造欧洲最具影响力的产品之一，该地区的新篇章正在展开……"
+    },
+    "5b4ddad49c2f50bd531fe53e2ff570a9a35cd2462eca1632ba95a8f851895c28": {
+      "source": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked\nZXQSEPZXQ\nThere's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI companion can store literally everything you tell it on Ch…",
+      "zh": "这款可爱的机器人玩具让您的秘密变得不安全—它们位于中国服务器上，随时可以被黑客入侵\nZXQSEPZXQ\n镇上有一种新的数字宠物--一种可爱的机器人小棉花糖，可以改变它的卡通表情来配合你的心情。 但是，如果您或您的孩子通过Wi-Fi与“Eiliko”交谈，它会打电话给中国。 它的AI伴侣可以存储您在Ch上讲述的所有内容……"
+    },
+    "39c85c4e060027c4ccd81be033197fdfcbf7ce23db3fdec230687a317f8e8886": {
+      "source": "Features api: add execution_identity to Managed Agents agents api: add organization_type_not_supported error to spend limit lists api: add telemetry destination test endpoint api: add telemetry destinations to the Admin API client: add native support for OpenTelemetry tracing If…",
+      "zh": "功能api:将execution_identity添加到Managed Agent代理api:将organization_type_not_supported错误添加到支出限制列表api:添加遥测目标测试端点api:将遥测目标添加到Admin API客户端:添加对OpenTelemetry跟踪的本机支持如果…"
     }
   }
 }
