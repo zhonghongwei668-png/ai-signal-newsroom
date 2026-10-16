@@ -6144,6 +6144,26 @@
     "c28309c2c7dc2b5882b18dffbbb0175d7354901833b0244c7830ff6a8be1b77f": {
       "source": "Meta and Apple team up to make Muse AI models run better on Macs\nZXQSEPZXQ\nMeta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX fr…",
       "zh": "Meta和Apple合作，使Muse AI模型在Mac上更好地运行\nZXQSEPZXQ\nMeta今天宣布推出Muse Spark Open AI模型，声称它是“迄今为止最强大的美国开放重量模型”。 但该公司还表示，它是“同类产品中的第一款” ，可以“在使用两个配备最新MLX的Apple M5 Ultra Mac Studios的桌面上运行……"
+    },
+    "ec17d658e08b4d7fc849fee97a7f9329cb270ef3eacd72e60bdd03f1283e7441": {
+      "source": "Roundtables: A Conversation With the Creator of AI-Designed Viruses\nZXQSEPZXQ\nListen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-gener…",
+      "zh": "圆桌会议：与人工智能设计病毒的创造者对话\nZXQSEPZXQ\n收听下面的会话或观看人工智能可以设计新的生命形式吗？ 2025年，斯坦福大学博士生塞缪尔·金（ Samuel King ）在使用生成人工智能模型提出微观病毒的遗传蓝图时提出了初步答案。 它还不是人工智能生成的一个例子……"
+    },
+    "752e26efce3f0951893f0c058452f922e90e74f1e4dce2357c57117405b15878": {
+      "source": "India becomes the latest country to report rogue AI agent activity\nZXQSEPZXQ\nThe agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "zh": "印度成为报告流氓AI代理活动的最新国家\nZXQSEPZXQ\n代理通过应用配置、公共代码存储库和过于宽松的云角色中暴露的凭据和连接设置进入。"
+    },
+    "c79a370cb2935ec957b636b6ddddb99ecf62ffb4e80c97925c3875c084d78f1a": {
+      "source": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet\nZXQSEPZXQ\nAmulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs coun…",
+      "zh": "英伟达内部人士转向VC ，解释为什么机器人技术还没有达到其ChatGPT时刻\nZXQSEPZXQ\nAmulya Vishwanath花了七年时间领导NVIDIA机器人平台的产品营销，他说机器人技术目前正处于“乐高时代” ，执行器、机器人手、软件和安全标准等基本构建模块仍在重建中。 此视图运行计数器…"
+    },
+    "45503498903011f1a9ac3388f32454b05ce6a0163cee3eb087016d0663bc3c1a": {
+      "source": "Physical AI is more than robots, says the Nvidia veteran now investing in it\nZXQSEPZXQ\nAmulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs coun…",
+      "zh": "物理人工智能不仅仅是机器人，这位英伟达的资深人士现在投资于它\nZXQSEPZXQ\nAmulya Vishwanath花了七年时间领导NVIDIA机器人平台的产品营销，他说机器人技术目前正处于“乐高时代” ，执行器、机器人手、软件和安全标准等基本构建模块仍在重建中。 此视图运行计数器…"
+    },
+    "23944ad19ad47fc28c1b01b48d51be06a9e1f5133ca7158496dfcaa8b22d0325": {
+      "source": "Elorian’s first AI model wants to reason with images, not just about them\nZXQSEPZXQ\nAccording to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "zh": "Elorian的第一个人工智能模型想要用图像进行推理，而不仅仅是关于它们\nZXQSEPZXQ\n根据Elorian的评估， Glimpse在科学图表推理和短视频字幕方面的表现甚至优于GPT-6 Astra ，在其他视觉推理任务上取得了有竞争力的结果。"
     }
   }
 }
