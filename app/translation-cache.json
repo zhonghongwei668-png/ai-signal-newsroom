@@ -6184,6 +6184,10 @@
     "b3df0a33211f48512d25829c03a5b7dfdfed8cc3c768d4b40e2ccb50ddb166fa": {
       "source": "3.32.0 (2026-10-16) Features api: add cache settings and key options [2/2] ( #4087 ) ( 325da45 ) api: add prompt-based voice creation ( #4091 ) ( 2e39db7 ) api: add regional processing residency options ( #4081 ) ( 21ce0c2 ) api: add response error diagnostics and model notices…",
       "zh": "3.32.0 (2026-10-16) 功能 api：添加缓存设置和关键选项 [2/2] ( #4087 ) ( 325da45 ) api：添加基于提示的语音创建 ( #4091 ) ( 2e39db7 ) api：添加区域处理驻留选项 ( #4081 ) ( 21ce0c2 ) api：添加响应错误诊断和模型通知…"
+    },
+    "de6e1e956aff6adbe6f8451899c1c7dded1a126139d6ae4a403c3b87c6f81d7b": {
+      "source": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes\nZXQSEPZXQ\nThe DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+      "zh": "为什么人工智能还没有准备好解决我们复杂的基因组问题\nZXQSEPZXQ\n我们细胞内的DNA不仅仅是一系列指令，而是更动态的东西。 像科学家一样，人工智能模型还没有数据来正确解码它。"
     }
   }
 }
