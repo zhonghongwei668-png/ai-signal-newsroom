@@ -6164,6 +6164,26 @@
     "23944ad19ad47fc28c1b01b48d51be06a9e1f5133ca7158496dfcaa8b22d0325": {
       "source": "Elorian’s first AI model wants to reason with images, not just about them\nZXQSEPZXQ\nAccording to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
       "zh": "Elorian的第一个人工智能模型想要用图像进行推理，而不仅仅是关于它们\nZXQSEPZXQ\n根据Elorian的评估， Glimpse在科学图表推理和短视频字幕方面的表现甚至优于GPT-6 Astra ，在其他视觉推理任务上取得了有竞争力的结果。"
+    },
+    "aef3d4da0623bd62bd0e9b38c8b32323e80b7b6339ef5e4a45029c4cc5332c08": {
+      "source": "How Itaú is building generative AI for its entire customer base\nZXQSEPZXQ\nWith ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "zh": "Itaú 如何为其整个客户群构建生成式人工智能\nZXQSEPZXQ\n借助对话界面 ia.i 和 IARA 治理平台，Itaú 正在将其人工智能优先战略应用于巴西监管最严格的行业之一的客户和员工。"
+    },
+    "a5591be521cd76fef0f5513f2f9eab739ca20a953897eb07e7760cf3b8fe6da0": {
+      "source": "3.33.0 (2026-10-16) Features api: add safety identifiers to image requests and responses ( #4093 ) ( c969e32 ) api: share Decisions cache breakpoint parameter type ( #4092 ) ( f7cefda )",
+      "zh": "3.33.0 (2026-10-16) 功能 api：为图像请求和响应添加安全标识符 (#4093) (c969e32) api：共享决策缓存断点参数类型 (#4092) (f7cefda)"
+    },
+    "ed643dc66e9ee49028958a6468919a76c70f6d7182bd7d91c1a3dbbc4bd411ef": {
+      "source": "Replit is no longer working with Anthropic, CEO says\nZXQSEPZXQ\nMasad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "zh": "Replit 首席执行官表示不再与 Anthropic 合作\nZXQSEPZXQ\n马萨德表示，做出这一决定是出于多种不同的原因，其中包括成本。 Replit 在 8 月份宣布与 OpenAI 建立合作伙伴关系，但从未有任何迹象表明它不再与 Anthropic 合作。"
+    },
+    "ee70574669b417147dac5eaa7b9837913af38714b05087f1fdf8b94971c1a801": {
+      "source": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds\nZXQSEPZXQ\nThe short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+      "zh": "凯蒂·扎卡里亚 (Katie Zacharia) 与一家人工智能稀土初创公司有联系。这比听起来更奇怪\nZXQSEPZXQ\n这位短命的白宫新闻秘书被列为一家与克里斯蒂·诺姆有联系的公司的顾问，该公司旨在利用人工智能进行采矿。该公司和她都说她从未在那里工作过。"
+    },
+    "b3df0a33211f48512d25829c03a5b7dfdfed8cc3c768d4b40e2ccb50ddb166fa": {
+      "source": "3.32.0 (2026-10-16) Features api: add cache settings and key options [2/2] ( #4087 ) ( 325da45 ) api: add prompt-based voice creation ( #4091 ) ( 2e39db7 ) api: add regional processing residency options ( #4081 ) ( 21ce0c2 ) api: add response error diagnostics and model notices…",
+      "zh": "3.32.0 (2026-10-16) 功能 api：添加缓存设置和关键选项 [2/2] ( #4087 ) ( 325da45 ) api：添加基于提示的语音创建 ( #4091 ) ( 2e39db7 ) api：添加区域处理驻留选项 ( #4081 ) ( 21ce0c2 ) api：添加响应错误诊断和模型通知…"
     }
   }
 }
