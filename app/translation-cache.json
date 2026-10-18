@@ -6188,6 +6188,30 @@
     "de6e1e956aff6adbe6f8451899c1c7dded1a126139d6ae4a403c3b87c6f81d7b": {
       "source": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes\nZXQSEPZXQ\nThe DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
       "zh": "为什么人工智能还没有准备好解决我们复杂的基因组问题\nZXQSEPZXQ\n我们细胞内的DNA不仅仅是一系列指令，而是更动态的东西。 像科学家一样，人工智能模型还没有数据来正确解码它。"
+    },
+    "36d99b42eed38ae78d45f6cb951d601b132a8d09cd53eb5915b34e4504246217": {
+      "source": "3.35.1 (2026-10-18) Bug Fixes preserve beta Realtime byte reads on websockets 13 ( #4102 ) ( 5766349 )",
+      "zh": "3.35.1 (2026-10-18) Bug 修复保留 beta 实时字节读取 websockets 13 ( #4102 ) ( 5766349 )"
+    },
+    "94b8581769fb7d27ec9d1f3c6bfbc8b9c8ba980591b1f9b56269bb49cc74cffc": {
+      "source": "Meta removes language that raised scraping and AI training concerns\nZXQSEPZXQ\nA Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "zh": "Meta 删除了引起抓取和人工智能培训问题的语言\nZXQSEPZXQ\nMeta 发言人坚称，更新的条款并不反映 Meta 抓取网络方式的变化。"
+    },
+    "88151fa49d32651032890a1dbe85937ab8fb7bb5d7d79c9f45b55b310fe6e5a9": {
+      "source": "Anthropic says its workforce has become less junior and is spending more time in meetings\nZXQSEPZXQ\nThe composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "zh": "Anthropic 表示，其员工队伍的初级程度有所降低，花在会议上的时间更多\nZXQSEPZXQ\n去年，Anthropic 的员工构成和完成的工作类型发生了显着变化。"
+    },
+    "4e2be6e0315d247ccde9728d9b6169cb590046f9bcae1454f235584c47c4406b": {
+      "source": "3.35.0 (2026-10-17) Features api: add typed Live sideband events ( #4099 ) ( 8d5cbf0 ) api: add ultrafast service tier for Agents ( #4101 ) ( 100bf8f ) Bug Fixes realtime: preserve byte receives with websockets 13 ( #4098 ) ( 309916e )",
+      "zh": "3.35.0 (2026-10-17) 功能 api：添加类型化实时边带事件 (#4099) (8d5cbf0) api：为代理添加超快服务层 (#4101) (100bf8f) 实时错误修复：保留使用 websockets 接收的字节 13 (#4098) (309916e)"
+    },
+    "40abba01bbed4354a916a9f623ce8f8ead17ad88c436c74849df5fcebf1ae786": {
+      "source": "Replit makes OpenAI its default over Anthropic, CEO says\nZXQSEPZXQ\nOver the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "zh": "Replit 首席执行官表示，将 OpenAI 设置为默认值，而不是 Anthropic\nZXQSEPZXQ\n周末，Masad 澄清 OpenAI 将取代 Anthropic 作为其默认模型提供商。 Claude 仍可供平台上的客户使用。"
+    },
+    "a5c7e8d8c8a3ccfbfcf61c86f5e0ca2e622ffcf701ee55335b3bbb4e39c1341b": {
+      "source": "3.34.0 (2026-10-17) Features api: add degraded external storage status ( #4097 ) ( b216cb2 ) api: add Realtime Translation WebSocket sessions ( #4095 ) ( bfada50 )",
+      "zh": "3.34.0 (2026-10-17) 功能 api：添加降级外部存储状态 ( #4097 ) ( b216cb2 ) api：添加实时翻译 WebSocket 会话 ( #4095 ) ( bfada50 )"
     }
   }
 }
