@@ -6280,6 +6280,54 @@
     "0b1bf295adf62cd6a2e755a88dde4d87704b4f2b384cac87cb9558b098a0b8cd": {
       "source": "Patch release v5.20.2\nZXQSEPZXQ\nPatch release: v5.20.2 This patch notably solves an issue where some inputs could loose their original type inside prepare_inputs_for_generation in generate , leading to problems with multimodal models. It also fixes some other issues listed on the below commits. It contains the…",
       "zh": "补丁发布v5.20.2\nZXQSEPZXQ\n补丁版本：v5.20.2 该补丁主要解决了一些输入可能会在generate中的prepare_inputs_for_ Generation中丢失其原始类型的问题，从而导致多模态模型出现问题。它还修复了以下提交中列出的一些其他问题。它包含…"
+    },
+    "e5ba5f2c99f9634b77d5fd3dc011c0527959338d063f508222a4f8ab354bc067": {
+      "source": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back\nZXQSEPZXQ\nMayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "zh": "马姆达尼说，联邦调查局已经放弃了人工智能，敦促纽约人反击\nZXQSEPZXQ\n市长Zohran Mamdani周一晚间表示，纽约人必须抵制人工智能收购不可避免的说法，并要求保护公众并将权力交还给他们的监管。"
+    },
+    "e397e736b9a4e81998b409d0e559fa760d153a01528bb2b3a3b81b2a0e0d11e3": {
+      "source": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal\nZXQSEPZXQ\nIf the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "zh": "据报道， Nscale和Anthropic正在就另一笔450亿美元的计算机交易进行谈判\nZXQSEPZXQ\n如果这笔交易成功，这将是Anthropic在过去一年中达成的一系列巨型计算交易中的最新一笔。"
+    },
+    "bb7688d82e4d2e9e3fdab8f2a5e68c4490d2f983d4e09021a1b54e3e5b86a7a4": {
+      "source": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says\nZXQSEPZXQ\nThe idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of…",
+      "zh": "Hugging Face的政策主管表示，嵌入式人工智能评估器不是一个简单的解决方案\nZXQSEPZXQ\n在过去的几个月里，随着人工智能实验室努力应对一系列安全事故，引发了人们对……潜在危害的担忧，嵌入式评估人员的想法--据称是“中立”的第三方观察员被安置在人工智能组织内部--已经普及开来。"
+    },
+    "0098d79cccc502227e8761bb0a3fbf6fc98cc3a9c2c64dd911850bdff79f0752": {
+      "source": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’\nZXQSEPZXQ\nMicrosoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "zh": "微软表示，人工智能代理就像内部威胁一样，因为“前沿模型不可信”\nZXQSEPZXQ\n微软希望企业密切关注员工在不受OpenAI和Anthropic等人工智能实验室控制的系统中使用的代理。"
+    },
+    "25437d483957d27f3547bb073e77f66d885ab5908687e5049fb7e5c184d5d881": {
+      "source": "The fossil fuel comeback is here\nZXQSEPZXQ\nThe US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging…",
+      "zh": "化石燃料卷土重来\nZXQSEPZXQ\n一份新的报告显示，美国正在建设比十年来更多的化石燃料基础设施，而可再生能源增长放缓。 电力需求的增长速度也超过了十多年来的增速，数据中心、工厂和电动汽车的数量增加了……"
+    },
+    "43340e3419800d32b7528ef4ff7fa715488657f87dc8a5ce8271bd6118890968": {
+      "source": "CoreWeave’s debt is becoming the whole AI industry’s problem\nZXQSEPZXQ\nCoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and a…",
+      "zh": "CoreWeave的债务正在成为整个人工智能行业的问题\nZXQSEPZXQ\nCoreWeave上周表现不佳。 根据一个共同的定义，其债券陷入困境--投资者对收益率的要求比从政府债券中获得的要多1000个基点。 最后Tuesady Chamath “SPAC King” Palihapitiya注意到了不良债务，并且……"
+    },
+    "6be9512609246109f726a94e9b9f96748def278ecf4237a55ad24c54fb977af8": {
+      "source": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts\nZXQSEPZXQ\nOpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "zh": "黑客攻击人工智能编码工具OpenCode ，对用户的人工智能账户收费\nZXQSEPZXQ\nOpenCode是一种开源的AI编码代理，已成为Claude代码和光标的流行替代品。 但黑客进入了其在线平台的一部分，并窃取了一些用户的API密钥，它寻求帮助的人工智能工具一直拒绝查看恶意代码。"
+    },
+    "34934cdf4466af25c01ce1c59645948989a2b0f063780187eb4c02999d8b1ae4": {
+      "source": "WeAct: Dynamic Weight Switching as Agent Actions\nZXQSEPZXQ\nLong-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously acquired ones, resulting in catastrophic forgetting. As a trajectory unfolds, different stages may require differe…",
+      "zh": "WeAct ：作为客服代表操作的动态权重切换\nZXQSEPZXQ\n长视野智能体必须从交错轨迹中学习异构能力。 更新共享参数以学习新功能可能会降低以前获得的功能，从而导致灾难性的遗忘。 随着轨迹的展开，不同阶段可能需要不同的……"
+    },
+    "5a675f3473c4aa05c850cf5b1f1fa280512fd148188da8ffa84dcc0afee6d448": {
+      "source": "Text-to-Image Generative Modeling Without Language Pretraining\nZXQSEPZXQ\nModern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introduce Halcyon, a family of early-fusion multimodal autoregressive models pretraine…",
+      "zh": "无需语言预训练的文本到图像生成建模\nZXQSEPZXQ\n现代文本到图像（ T2I ）系统使用互联网规模的语言预训练来生成文本条件图像。 我们询问对于强大的T2I生成是否需要语言预训练。 我们介绍了Halcyon ，这是一个早期融合多峰自回归模型家族……"
+    },
+    "316c5a332ad23e16cf167cc792486a46e1d6560d2ec9571f33403cef4316cf45": {
+      "source": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory\nZXQSEPZXQ\nMultimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks shows that simply increasing the inference budget of the bas…",
+      "zh": "OpenVLHarness ：真实世界的视觉代理工具-使用多模态内存\nZXQSEPZXQ\n多模态大型语言模型（ MLLM ）在视觉推理方面取得了快速进展，但许多任务需要仅通过内部推理难以获得的证据：我们对22个基准的对照研究表明，简单地增加基础的推理预算......"
+    },
+    "fbf7e66f66b66a7b1071a2d12ec75d4e2895a6ecd1a8d4c05cbbf2d18ea92c52": {
+      "source": "Can It Actually Work? Synthesizing Functional CAD Mechanisms\nZXQSEPZXQ\nWhile LLM agents can generate visually plausible CAD assemblies, these designs often fail to fulfill their intended physical functions. We study functional CAD design, a setting where agents interpret underspecified requests to construct and iteratively revise mechanisms that sa…",
+      "zh": "它真的能起作用吗？ 综合功能性CAD机制\nZXQSEPZXQ\n虽然LLM代理可以生成视觉上合理的CAD组件，但这些设计通常无法实现其预期的物理功能。 我们研究功能性CAD设计，在这种环境中，代理解释构建和迭代修改机制的低指定请求，以保护…"
+    },
+    "8869b4cbd8d855e27d0e3e046845db490cccf3177f3483d16dd010b78a4b4e1b": {
+      "source": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation\nZXQSEPZXQ\nMultimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections fr…",
+      "zh": "使用可视归因的策略自我蒸馏进行强化学习\nZXQSEPZXQ\n具有可验证奖励的多模态强化学习（ RLVR ）提供可靠的任务级监督，但为定位视觉推理中的错误提供有限的指导。 策略上自馏（ OPSD ）通过密集的令牌级校正来补充这种监督……"
     }
   }
 }
