@@ -6328,6 +6328,46 @@
     "8869b4cbd8d855e27d0e3e046845db490cccf3177f3483d16dd010b78a4b4e1b": {
       "source": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation\nZXQSEPZXQ\nMultimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections fr…",
       "zh": "使用可视归因的策略自我蒸馏进行强化学习\nZXQSEPZXQ\n具有可验证奖励的多模态强化学习（ RLVR ）提供可靠的任务级监督，但为定位视觉推理中的错误提供有限的指导。 策略上自馏（ OPSD ）通过密集的令牌级校正来补充这种监督……"
+    },
+    "37874a99fa4ba949e48b5d1bbcbc9f07c152fef0022a0353c71b3928059b6ae9": {
+      "source": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool\nZXQSEPZXQ\nMeeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use…",
+      "zh": "Otter.ai 为其会议工具从 General Catalyst 增长基金筹集了 3.2 亿美元\nZXQSEPZXQ\n会议笔记工具 Otter.ai 周二宣布，已从 General Catalyst 的客户价值基金 (CVF) 筹集了 3.2 亿美元，该基金在不稀释股权的情况下为初创公司提供资金，并从营销支出的结果中获得回报。 Otter.ai 表示它将使用……"
+    },
+    "d7854abc7be93bfebedbbd72a10332b4dcb37670351ee9248f43b55128086fde": {
+      "source": "US orders federal agencies to remove China’s DeepSeek AI from their systems\nZXQSEPZXQ\nThe US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "zh": "美国命令联邦机构从其系统中删除中国的 DeepSeek AI\nZXQSEPZXQ\n美国以国家安全为由，下令联邦民事机构删除 DeepSeek 产品和使用其技术构建的第三方服务。"
+    },
+    "14afc79e6bfce8dfc348dab1fde88c84fa748d675c2d9b1a8912a9fc34c313b2": {
+      "source": "Eka is worth $1.45B thanks to a physical AI model that has experts raving\nZXQSEPZXQ\nEka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+      "zh": "Eka 的价值 $1.45B 得益于专家们赞叹的物理 AI 模型\nZXQSEPZXQ\nEka Robotics 可能是第一个真正擅长拾取各种物体的机械臂，而且它非常流畅且像人类一样，令整个行业惊叹不已。"
+    },
+    "81ebf9ee733e15c4c7e1c39f2b47ab708ed1b04988fd4dc6e486ff357a28789b": {
+      "source": "AI adoption by industry shows what other sectors can learn\nZXQSEPZXQ\nThe current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mat…",
+      "zh": "行业对人工智能的采用表明其他行业可以学习什么\nZXQSEPZXQ\n当前关于工作场所人工智能的叙述很大程度上是由硅谷推动的。但将科技行业视为一座孤岛忽略了技术采用的实际趋势——科技只是第一个行业。随着生成式人工智能和自动化工具的发展......"
+    },
+    "b1fbc8a9651cde42bc467eb7201133f59c5de27ff28541be703858ad8d0e4879": {
+      "source": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap\nZXQSEPZXQ\nAdobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will a…",
+      "zh": "Adobe Lightroom mobile 现在只需轻按一下即可打开照片中闭着的眼睛\nZXQSEPZXQ\nAdobe 昨天宣布，适用于 iOS、iPadOS 和 Android 的 Lightroom 移动版本现在只需轻按一下即可使用生成式 AI 打开照片中闭着的眼睛。当应用程序检测到一个人或一群人在照片中闭着眼睛时，它会......"
+    },
+    "032669bdabd59f164ca85298694e85b59a5eb7889e1ba17f482b6a1601d3265c": {
+      "source": "Yelp can now call on your behalf to check wait times at a restaurant\nZXQSEPZXQ\nYelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+      "zh": "Yelp 现在可以代表您致电查询餐厅的等待时间\nZXQSEPZXQ\nYelp 正在其应用程序中嵌入许多新的人工智能功能，这些功能可以执行各种操作，从打电话到检查餐厅等待时间，再到创建记住您偏好的个性化推荐。"
+    },
+    "73e01e06911520cd0933d5a5a95cc31a5c0b4c462bfcb7ae41fcd5778c70afa3": {
+      "source": "A visit to Samsung’s massive new semiconductor hub\nZXQSEPZXQ\nGenerative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fa…",
+      "zh": "参观三星大型新半导体中心\nZXQSEPZXQ\n生成式人工智能模型在称为 GPU 的强大芯片上运行，这些芯片依赖于与处理器封装在一起的专用内存芯片堆栈。为了满足不断增长的内存需求，三星正在韩国平泽建造一座大型新半导体制造工厂。三法…"
+    },
+    "91577ac4ad4943cfa10bb6bcd06b2c48a3f8a280964778e3a1c1bbc2e88362c3": {
+      "source": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms\nZXQSEPZXQ\nAnyLanguageModel 1.0: One Year of Local Models on Apple Platforms。",
+      "zh": "AnyLanguageModel 1.0：Apple 平台本地模型一年\nZXQSEPZXQ\nAnyLanguageModel 1.0：苹果平台本地模型一年。"
+    },
+    "066bc9152ed42b411c8c91c2361b9db6e55a8723ac39713a21de3c4ead691bc4": {
+      "source": "MPS in PyTorch 2.15\nZXQSEPZXQ\nMPS in PyTorch 2.15。",
+      "zh": "PyTorch 2.15 中的 MPS\nZXQSEPZXQ\nPyTorch 2.15 中的 MPS。"
+    },
+    "1a77b5df393f8a7c48f4cf5e4e7c80c1bfeaf90087e3edd5a9b2705726d14568": {
+      "source": "CoreWeave’s debt is becoming the whole AI industry’s problem\nZXQSEPZXQ\nCoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and a…",
+      "zh": "CoreWeave的债务正在成为整个AI行业的问题\nZXQSEPZXQ\nCoreWeave 上周过得很糟糕。根据一个常见的定义，当投资者要求的收益率比他们从政府债券中获得的收益高出 1,000 个基点时，其债券就陷入了困境。上周二，查马斯“SPAC之王”帕里哈皮蒂亚注意到了不良债务，并且……"
     }
   }
 }
