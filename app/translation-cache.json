@@ -6408,6 +6408,66 @@
     "fd4cf03664875b98616257aee092a5f9075622116b4f8e09dff1f1f9b81c25bb": {
       "source": "Features api: add data_refreshed_at and has_more to analytics report pages api: add workspace rate-limit updates to the Admin API api: make User Profiles generally available client: yield server-sent events with unrecognized event names google-cloud: use the v1 endpoints and add…",
       "zh": "功能api ：将data_refreshed_at和has_more添加到分析报告页面api ：将工作区速率限制更新添加到管理API api ：使用户配置文件通用client ： yield服务器发送的事件具有无法识别的事件名称google-cloud ：使用v1端点并添加…"
+    },
+    "aa228f1504f374964dcb824386d76146f253b895110bde65461593e0b71ee09f": {
+      "source": "Southeast Asia’s digital economy to hit $368 billion\nZXQSEPZXQ\nCover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen",
+      "zh": "东南亚数字经济将达到3680亿美元（ $ ）\nZXQSEPZXQ\n《e-Conomy SEA 2026》报告的封面图片，标题为《Building the intelligent economy by Google, Temasek, and Bain and Company》。 一张3D插图展示了一颗发光的黄色星星，周围环绕着代表数字扇区的微型场景，包括数据中心"
+    },
+    "11c1d9aa56505b52c3f7ca0d0b948d2ea930980e0be19016709f11858570c588": {
+      "source": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed\nZXQSEPZXQ\nThe proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "zh": "Anthropic提出人工智能安全法案，如果超过50人可能被杀，可能会阻止模特\nZXQSEPZXQ\n拟议的政策似乎提供了针对人工智能疯狂运行的保护措施，但实际上禁止联邦机构在未经法官许可的情况下阻止模型的发布。"
+    },
+    "9b9dd1ee90be07eb237d88ed23dd3eb777059674aa0345c0192b416d6f58bf19": {
+      "source": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit\nZXQSEPZXQ\nOn Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann…",
+      "zh": "法官驳回Sam Altman姐姐的性虐待诉讼\nZXQSEPZXQ\n周二，美国地区法官Zachary Bluestone驳回了Ann Altman去年提起的诉讼，指控她的兄弟OpenAI首席执行官Sam Altman在她的童年时期对她进行了性虐待。 正如《卫报》早些时候报道的那样，法官写道，在过去的一年里，安…"
+    },
+    "4d2fcc0543f94fc24188cea089476949b87e0b51241127227ceca63c07b0f8d2": {
+      "source": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business\nZXQSEPZXQ\nOpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "zh": "OpenAI收购创业公司Orchestra Bio ，以加强其生物技术业务\nZXQSEPZXQ\nOpenAI表示，它正在增加Orchestra的团队和技术，以开发其用于生命科学研究的人工智能模型Rosalind ，以及其相关的Rosalind Workbench工具，该工具旨在帮助研究人员计划实验和分析结果。"
+    },
+    "f8f390657c69f03032bd41821f879d441f2dbca89c1cd66d56e69658266e2025": {
+      "source": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate\nZXQSEPZXQ\nBefore you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "zh": "Hugging Face首席执行官警告Netflix的OpenAI黑客纪录片不准确\nZXQSEPZXQ\n在您分享Netflix纪录片《AI Gone Rogue》之前，请注意这一点。 Hugging Face的联合创始人克莱姆·德朗格（ Clem Delangue ）是这部电影的主角，他说它进入了“全毁灭模式” ，并不准确。"
+    },
+    "fe545f53ee85ec307c4ac141d9ad6bf4f38b83855def6a3c091aac3199a2cbc8": {
+      "source": "Anthropic’s cloud partnerships are getting messy\nZXQSEPZXQ\nAnthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "zh": "Anthropic的云合作伙伴关系变得混乱\nZXQSEPZXQ\n据报道， Anthropic正在努力从云提供商那里获得足够的计算，这些云提供商越来越多地将其视为竞争对手，尽管其基础设施支出在计划于11月首次公开募股之前激增。"
+    },
+    "3989febd114ac4901020bfb0210e1a70e859217a44b8dc0bb66f71a04240ab8c": {
+      "source": "Google’s more personalized Gemini AI is heading to your car\nZXQSEPZXQ\nGoogle is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says yo…",
+      "zh": "谷歌更个性化的Gemini AI正在前往您的汽车\nZXQSEPZXQ\n谷歌正在将个人智能引入您车内的Gemini AI。 借助此次更新， Android Auto和内置Google的汽车中的Gemini可以在Google应用程序（包括Gmail、日历、地图、照片、YouTube和搜索）中挖掘您的信息。 例如，谷歌说你……"
+    },
+    "83fcfef1cab8ec32ee52aaf95082e0cbba9faa89e863513e379e7b6f236b88ba": {
+      "source": "SpaceX’s AI business is beating expectations\nZXQSEPZXQ\nSpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
+      "zh": "SpaceX的人工智能业务超出预期\nZXQSEPZXQ\nSpaceX在第三季度实现了盈利，净利润为44亿美元（ $ ）。 人工智能是引擎。"
+    },
+    "480bdba7040910c1d064ddc1d13e04f94423ea4ab4a8290abcc094d866f19c74": {
+      "source": "Features api: add org webhook endpoints and user profile enforcement events api: add RBAC Group owner-access error codes to the Admin API api: document the unsupported_charset error code for plugin uploads Bug Fixes bedrock: keep a workspace ID set in default_headers on the Bedr…",
+      "zh": "功能api ：添加org webhook端点和用户配置文件强制执行事件api ：将RBAC组所有者访问错误代码添加到Admin API api ：记录插件上传的unsupported_charset错误代码错误修复基石：在Bedr上的default_headers中设置工作区ID…"
+    },
+    "794beb73d3ea522d6750f3c3343dcee9f5d002d31c3c22a4c77b7d8a229be622": {
+      "source": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei\nZXQSEPZXQ\nEric Schmidt’s fortune is about to get even bigger.",
+      "zh": "据报道， Eric Schmidt拥有Anthropic的股份约为首席执行官Dario Amodei的一半\nZXQSEPZXQ\n埃里克·施密特（ Eric Schmidt ）的财富即将变得更大。"
+    },
+    "e71afd1584f5870cce042968ae93f16d991246f8111f86eea6a69c8f6b58f55e": {
+      "source": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps\nZXQSEPZXQ\nNew data also shows Muse is retaining users at higher rates than its AI rivals.",
+      "zh": "Meta的Muse在40天内达到了1000万美国下载量，这是其他11个应用程序达到的里程碑\nZXQSEPZXQ\n新数据还显示， Muse保留用户的比率高于其人工智能竞争对手。"
+    },
+    "1c598034094f91171bf0b65a15c38fee13231cc34589fed2fabcb88f458af441": {
+      "source": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’\nZXQSEPZXQ\nIt’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+      "zh": "前英伟达变身VC Amulya Vishwanath ： “物理人工智能正处于乐高时代”\nZXQSEPZXQ\nAmulya Vishwanath向TechCrunch的Equity解释说，这是每个人都在等待的时刻--机器人的ChatGPT时刻。"
+    },
+    "19847fbf724d3cd5597fc989137900eaed9bdd5d1356196d4b4fffecec1447c4": {
+      "source": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs\nZXQSEPZXQ\nVideo generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For instance, a video model can show a monkey jumping over a crossbar, but it cann…",
+      "zh": "关节、摄像头、动作！为任意钻机共同生成3D动作和视频\nZXQSEPZXQ\n视频生成模型现在可以描绘出非常逼真的运动。 然而，目前尚不清楚如何在像素之外使用此运动：为特定的3D资源制作动画并在其3D场景中重播动画。 例如，视频模型可以显示一只猴子跳过横杆，但它不能……"
+    },
+    "fc37d57ff43ec2fed163b8b14070cf2094d9116d54257566284aca312966deea": {
+      "source": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery\nZXQSEPZXQ\nAgentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for inv…",
+      "zh": "GBClaw ：一种用于原子晶界研究和机械发现的代理人工智能框架\nZXQSEPZXQ\n代理人工智能（ AI ）系统在材料发现和设计的复杂工作流程自动化方面拥有巨大的潜力，但将其扩展到领域密集型机械研究仍然具有挑战性。 在这里，我们展示了GBClaw ，这是一个用于投资的智能AI框架。"
+    },
+    "8ebb772de9d1060c15483236df3d08a35ddbdbd93cd7931b4ad0974c3f1a76fe": {
+      "source": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking\nZXQSEPZXQ\nDexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-designed world assumes, yet existing learning recipes force a trade-off. Goal-reaching reinforcement learning generalizes to arbi…",
+      "zh": "通过混合灵巧模仿学习适应性强的灵巧技能\nZXQSEPZXQ\n灵巧的多指手有望解锁人类设计的世界所假设的各种技能，如功能抓握、手部重新定位和动态交接，但现有的学习食谱迫使人们做出权衡。 实现目标的强化学习推广到arbi…"
     }
   }
 }
