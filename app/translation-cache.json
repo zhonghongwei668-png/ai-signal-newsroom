@@ -6468,6 +6468,58 @@
     "8ebb772de9d1060c15483236df3d08a35ddbdbd93cd7931b4ad0974c3f1a76fe": {
       "source": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking\nZXQSEPZXQ\nDexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-designed world assumes, yet existing learning recipes force a trade-off. Goal-reaching reinforcement learning generalizes to arbi…",
       "zh": "通过混合灵巧模仿学习适应性强的灵巧技能\nZXQSEPZXQ\n灵巧的多指手有望解锁人类设计的世界所假设的各种技能，如功能抓握、手部重新定位和动态交接，但现有的学习食谱迫使人们做出权衡。 实现目标的强化学习推广到arbi…"
+    },
+    "f2059c074db5b3b169aebfb8d80df22372baf1fdf293ec134c33743cc75c1ae0": {
+      "source": "OpenAI models are coming to Google Cloud\nZXQSEPZXQ\nOpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "zh": "OpenAI机型即将登陆Google Cloud\nZXQSEPZXQ\nOpenAI和Google Cloud正在通过Google Cloud Marketplace将前沿模型和Codex工作流程引入Gemini的模型花园。"
+    },
+    "3c1eeda4f9a1012a320f00b212acf82240aca6f31ca2c32c30c9400b86f257c4": {
+      "source": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents\nZXQSEPZXQ\nAt GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontie…",
+      "zh": "将火花带到欧洲：本地情报为下一波特工提供动力\nZXQSEPZXQ\n在GTC柏林， NVIDIA将展示其全系列的本地AI硬件。 上周推出的RTX Spark为Windows PC上的个人代理提供支持； DGX Spark支持开发人员在Linux上构建和扩展应用程序； DGX Station为企业团队提供服务……"
+    },
+    "1031e9c89169ae452e0258c46accff129f60d2e292b0f30b7604556eb89c4173": {
+      "source": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations\nZXQSEPZXQ\nNVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs. Complex engineering feats — from advanced chips to aircraft to industrial systems —– depend on simulation to predict…",
+      "zh": "NVIDIA cuDSS现已普遍可用于加速工程和科学模拟\nZXQSEPZXQ\n今天正式推出的NVIDIA cuDSS是一个NVIDIA CUDA-X库，它将工程和科学模拟的关键部分转移到GPU上。 复杂的工程壮举--从先进的芯片到飞机再到工业系统—–都依赖于模拟来预测……"
+    },
+    "a0901121236e1c647d27a1bb9a5069d89eefc7a77ec247632578b7bf3345320a": {
+      "source": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA\nZXQSEPZXQ\nTo increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmos and Nemotron open models, across the engineering and manufacturing lifecycle…",
+      "zh": "欧洲工业领导者通过NVIDIA重塑工程和制造业\nZXQSEPZXQ\n为了提高生产力，加速创新并为经济增长创造新的机会，欧洲的行业领导者正在利用NVIDIA CUDA-X和Omniverse库，以及NVIDIA Cosmos和Nemotron开放模型，贯穿整个工程和制造生命周期……"
+    },
+    "e9cacb1d16d0d55c8d2a772d1fa1d92ad01ebadbd4b38ab882e2f7be05ac046e": {
+      "source": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure\nZXQSEPZXQ\nNVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy agents at scale. NVIDIA Confidential Computing is the infra…",
+      "zh": "NVIDIA机密计算扩展，使前沿模型构建商能够在全球基础设施中安全扩展\nZXQSEPZXQ\nNVIDIA构建工具以在整个堆栈中启用安全代理。 今天宣布的NVIDIA OpenShell参考架构是NVIDIA不断增长的技术组合的一部分，使组织能够大规模安全地部署代理。 NVIDIA机密计算是…"
+    },
+    "146c538a4bec6287d822499873fbc66b2fbbfa79010853ab167c06df6270af2f": {
+      "source": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data\nZXQSEPZXQ\nAgents are only as useful as what they know, and only as trustworthy as the boundaries they run within. Leading enterprises are using the open source NVIDIA Agent Toolkit — now expanded with new tools — to customize and control agents, use company data to inform their answers an…",
+      "zh": "NVIDIA代理工具包扩展，在公司数据中接地企业代理\nZXQSEPZXQ\n客服代表只有在他们知道的情况下才有用，并且只有在他们所处的范围内才值得信赖。 领先的企业正在使用开源NVIDIA代理工具包（现已扩展为新工具）来定制和控制代理，使用公司数据为他们的答案提供信息......"
+    },
+    "24c4f31ba145131c3065a41b3fe338bd505a2065a98203f98445c95d95cada04": {
+      "source": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries\nZXQSEPZXQ\nNVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what they need to build applications tailored to local languages and industries The portfolio includes the new NVIDIA Nemotron…",
+      "zh": "NVIDIA开放式模型推进欧洲各行各业的主权智能\nZXQSEPZXQ\nNVIDIA正在扩展其跨语言、机器人、生物学和量子计算的开放模型系列，为开发人员、研究人员和企业提供构建适合当地语言和行业的应用程序所需的一切产品组合，包括新的NVIDIA Nemotron……"
+    },
+    "3c93abb52615358a6eae60812cf8e619ce8140b3ede7d2f45185d1cd2aadcfa5": {
+      "source": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability\nZXQSEPZXQ\nNVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability。",
+      "zh": "NVIDIA KUMO预测将预训练的时间序列表示与历史模式检索和可解释性相结合\nZXQSEPZXQ\nNVIDIA KUMO预测将预训练的时间序列表示与历史模式检索和可解释性相结合。"
+    },
+    "e027fc343a1b4facebcee45389b8f62fbad1cadb06c60653d75edfae48ee2b49": {
+      "source": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote\nZXQSEPZXQ\nFounded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001. Its permanent home has since hosted concerts, galas and political events. Today, it hosts a different kind of spectacle. GTC Berlin runs three days, w…",
+      "zh": "GTC Berlin 2026 ：来自NVIDIA首席执行官Jensen Huang主题演讲的实时更新\nZXQSEPZXQ\nTempodrom于1980年在柏林墙附近的一个帐篷里成立，在2001年在Anhalter Bahnhof附近定居之前，曾多次搬迁。 此后，这里一直举办音乐会、庆祝活动和政治活动。 如今，这里呈现出与众不同的景象。 GTC柏林运行三天，与…"
+    },
+    "6fa9bd6969d8fbbf6f74e4b422db02ee561d89a1b860c6cca5ae639839eedc06": {
+      "source": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse\nZXQSEPZXQ\nThe company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+      "zh": "共享链接中的设计缺陷暴露了用户与Meta Muse的个人对话\nZXQSEPZXQ\n在安全研究人员发现访问与人工智能助手共享的敏感信息是多么容易之后，该公司暂停了该功能。"
+    },
+    "0ac7dbf2b02fe80b8bc94e3752b82255b3080eccd08d3ba959713e4330235246": {
+      "source": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer\nZXQSEPZXQ\nIt’s the latest in a growing wave of bets that AI companies are making on brain data.",
+      "zh": "OpenAI投资于使用脑植入物检测癌症的初创公司\nZXQSEPZXQ\n这是人工智能公司对大脑数据日益增长的押注浪潮中的最新一次。"
+    },
+    "ddbe6058b613bf3be6cb94442b6811699265fa1f5824a609274adad18025ae45": {
+      "source": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way\nZXQSEPZXQ\nA plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
+      "zh": "欧洲需要数据中心。 其气候目标正在受到阻碍\nZXQSEPZXQ\n一项将数据中心释放的热量输送到附近家庭的计划在德国搁浅。 在整个欧洲，政策制定者正在权衡人工智能的雄心和气候目标。"
+    },
+    "3dc5954ef64bd9be63bbe9a1d80c03090c1abfeaf7834778291dc97b9f307073": {
+      "source": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed\nZXQSEPZXQ\nThe proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "zh": "Anthropic提出人工智能安全法案，如果超过50人可能被杀，可能会阻止模特\nZXQSEPZXQ\n拟议的政策似乎提供了防止人工智能疯狂运行的保护措施，但实际上禁止联邦机构在未经法官许可的情况下阻止模型的发布。"
     }
   }
 }
