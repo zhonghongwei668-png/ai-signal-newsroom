@@ -6520,6 +6520,38 @@
     "3dc5954ef64bd9be63bbe9a1d80c03090c1abfeaf7834778291dc97b9f307073": {
       "source": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed\nZXQSEPZXQ\nThe proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "zh": "Anthropic提出人工智能安全法案，如果超过50人可能被杀，可能会阻止模特\nZXQSEPZXQ\n拟议的政策似乎提供了防止人工智能疯狂运行的保护措施，但实际上禁止联邦机构在未经法官许可的情况下阻止模型的发布。"
+    },
+    "7298356e81b852b579ce2caf5445548a46f7c7048810d9a1abf85783c7e68c7b": {
+      "source": "How AT&T is rethinking in-house legal work with OpenAI\nZXQSEPZXQ\nAT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "zh": "AT&T 如何通过 OpenAI 重新思考内部法律工作\nZXQSEPZXQ\nAT&T 正在与 OpenAI 合作，让法律知识更容易获取。了解其 LegalEdge 团队如何重新考虑纳入和扩大法律判断范围。"
+    },
+    "9c322962fca270eeab3254691909ce58d33b79f670b73cda42bf6ad76e1592d7": {
+      "source": "Anthropic takes on Muse with Claude Duet, its new AI agent\nZXQSEPZXQ\nAnthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and And…",
+      "zh": "Anthropic 与新 AI 代理 Claude Duet 对抗 Muse\nZXQSEPZXQ\nAnthropic 刚刚宣布了一款 AI 代理，可与 Meta 的 Muse 和 OpenAI 的 Dots 竞争：Claude Duet。据 Anthropic 称，这款专为专业人士和小企业主设计的新代理将以“研究预览版”的形式推出，并且可以在 iOS 和…上作为独立应用程序使用。"
+    },
+    "451ebdcec050c26b211b44e0c2a9928cc477bef6ec42c336ea895b023aee4f33": {
+      "source": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required\nZXQSEPZXQ\nNVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required。",
+      "zh": "NVIDIA Kumo Relational 在关系数据上的表现优于监督机器学习，无需培训\nZXQSEPZXQ\nNVIDIA Kumo 关系型在关系数据上优于监督机器学习，无需培训。"
+    },
+    "6e624b894dfde8d0cbec0cdb722d5854cc41b7f47f934c6a512f879de09bdb70": {
+      "source": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications\nZXQSEPZXQ\nHow Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications。",
+      "zh": "SLM 词汇专业化如何在实际应用中将推理成本降低 77%\nZXQSEPZXQ\nSLM 词汇专业化如何在实际应用中将推理成本降低 77%。"
+    },
+    "8483d488e9f2062eb99ee78b3a3d670686de40b5b602c46365743c8fc38578b4": {
+      "source": "While Amazon blocks AI agents, Walmart rolls out the welcome mat\nZXQSEPZXQ\nAs Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      "zh": "亚马逊封锁人工智能代理，沃尔玛却推出欢迎垫\nZXQSEPZXQ\n当亚马逊阻止人工智能代理在其网站上购物时，沃尔玛则采取了相反的方法，引入了新技术，让人工智能代理可以代表客户进行购物，并控制支出和交易审批。"
+    },
+    "5f195fb6f443aa97c63dedf4248a1d3fc386672e131eba0eb0c00ae34117563a": {
+      "source": "Walmart is inviting AI agents to shop for you\nZXQSEPZXQ\nWalmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark cont…",
+      "zh": "沃尔玛邀请人工智能代理人为你购物\nZXQSEPZXQ\n沃尔玛很快将允许人工智能代理在其网站上为你购物。下个月，这家零售巨头将允许您将自己的人工智能代理连接到该网站，并使用适当的系统来批准和审查购买并设置支出限额。人工智能代理的拥抱与此形成了鲜明的对比……"
+    },
+    "9d53665400facd49dac1a2e2a59764b806c449ad130acaf495665f4b32043318": {
+      "source": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.\nZXQSEPZXQ\nProfiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.。",
+      "zh": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。\nZXQSEPZXQ\nTorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。"
+    },
+    "73df0f1272be772ca45d62e234db88cb38d3eec0ee456facfcbc862d1475dbe0": {
+      "source": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good\nZXQSEPZXQ\nRecursive makes the case that the benefits of using AI to build AI outweigh the risks.",
+      "zh": "这家初创公司完全致力于递归自我完善。它的最新模型是可怕的好\nZXQSEPZXQ\nRecursive 证明，使用人工智能构建人工智能的好处大于风险。"
     }
   }
 }
