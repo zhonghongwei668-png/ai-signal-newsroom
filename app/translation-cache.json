@@ -6608,6 +6608,54 @@
     "58885d7383301435bb367121af005605e573f9c1e4406aefa52cc1686b5f022f": {
       "source": "BatchBench: Benchmarking AI Robustness to Batch Effects and Domain Shift in Biomedical Images - A JUMP Cell Painting Leaderboard\nZXQSEPZXQ\nDespite recent advances, current AI systems remain highly susceptible to domain shifts, particularly in biomedical imaging, where images are usually acquired under substantially different experimental conditions. Although recent domain adaptation methods have made substantial pr…",
       "zh": "BatchBench ：将AI鲁棒性与生物医学图像中的批处理效果和域转移进行对标- JUMP细胞绘制排行榜\nZXQSEPZXQ\n尽管最近取得了进展，但目前的人工智能系统仍然非常容易受到领域转移的影响，特别是在生物医学成像中，图像通常是在截然不同的实验条件下采集的。 尽管最近的领域适应方法已经取得了实质性的进展……"
+    },
+    "b464ef8e7e16c9f76b089a73b77e58ea1cf0792323c7499e98cf3aa104f6fc81": {
+      "source": "What FDE means at OpenAI\nZXQSEPZXQ\nWhat forward deployed engineering means at OpenAI",
+      "zh": "FDE 在 OpenAI 中的含义\nZXQSEPZXQ\nOpenAI 的前沿部署工程意味着什么"
+    },
+    "ea5e94abb841f437657233843d20c3b9a9c68f9ea6a87da3d37dfa68b4270243": {
+      "source": "Nirva raises $33M for a pendant that only listens to you\nZXQSEPZXQ\nNirva will ship its $249 ambient AI pendant by the end of the year.",
+      "zh": "Nirva 为一款只听你声音的吊坠筹集了 3300 万美元\nZXQSEPZXQ\nNirva 将于今年年底推出售价 249 美元的环境 AI 吊坠。"
+    },
+    "65641935be6046bbb23c0ad11353bb2f485de2ef26231cb42c5c9452ea4091c8": {
+      "source": "DeepSeek reportedly raises $15B days after US restrictions\nZXQSEPZXQ\nDeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+      "zh": "据报道 DeepSeek 在美国限制几天后筹集了 150 亿美元\nZXQSEPZXQ\n据报道，DeepSeek 在中国最大的一轮融资中筹集了 150 亿美元，就在几天前，美国出于国家安全考虑，下令联邦机构撤回其技术。"
+    },
+    "875d113e842e9637d96dcb18d5e15ab40127ce41ea36aba09d33b3e50616a07e": {
+      "source": "Claude did not invent scorpion antivenom\nZXQSEPZXQ\nAn investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising starting points, but nothing close to a…",
+      "zh": "Claude没有发明蝎子抗蛇毒血清\nZXQSEPZXQ\n一家投资研究公司希望证明人工智能可以彻底改变药物开发。因此，他们与 Anthropic 合作，看看 Claude 的未发布版本是否可以制造蝎子抗蛇毒血清。不可能。它提出了一些有希望的起点，但没有接近......"
+    },
+    "a09594dd9445e572c6ccf94a54c9eaf29c9319ed04db9dd831519d1e60f1b49b": {
+      "source": "1Password lets AI agents use your passwords without seeing them\nZXQSEPZXQ\n1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant app…",
+      "zh": "1Password 让 AI 代理可以在不看到密码的情况下使用您的密码\nZXQSEPZXQ\n1Password 推出了一项新功能，允许人工智能代理登录您的帐户，而无需实际查看或处理您的密码。恰当命名的 1Password for Agents 并不能让机器人自由地访问您所有连接的帐户 - 您仍然需要授予应用程序..."
+    },
+    "bbc976ffc023045a4eea16936d283919916678158f412424fc5b85d44204493e": {
+      "source": "AI agents are ready to shop. Some retailers are wary.\nZXQSEPZXQ\nUsing an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buying things, it's more like sending an a…",
+      "zh": "AI 代理已准备好购物。一些零售商对此持谨慎态度。\nZXQSEPZXQ\n使用人工智能代理为你购物是一种奇怪的体验。科技公司将它们作为私人助理进行营销——劳动力的民主化，而通常只有富人和有权势的人才能享受到。在实践中，至少对于买东西来说，这更像是发送一个......"
+    },
+    "3b2d2a350f60aba0ef17260f5090801fbe9505d6d4ea763241d4c9c13106bcbb": {
+      "source": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything\nZXQSEPZXQ\nStep one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+      "zh": "来认识一下森，一个可爱的机器人蘑菇，它不会说（或做）任何事情\nZXQSEPZXQ\n说服人们与脸上装有摄像头的机器人一起生活的第一步是什么？将它们伪装成可爱的家居装饰品。"
+    },
+    "743c49a0e79433a4087493dd0ce2ffe11da32c665194cfc7d62d574aebdee55a": {
+      "source": "Making the case for context-aware AI\nZXQSEPZXQ\nEnterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the ri…",
+      "zh": "情境感知人工智能的案例\nZXQSEPZXQ\n企业人工智能可以生成建议、自动执行任务并帮助组织更快地做出决策。但如果不了解企业的​​实际运作方式，即使是强大的模型也可能会忽略决定决策是否正确的约束和关系……"
+    },
+    "3b39480450be6de278c4ccf3419df587aa8966a64bbada7b0d2d71c57b20f258": {
+      "source": "Eiliko maker says it’s hiring an ‘independent security firm’ after Verge report on its insecure robots\nZXQSEPZXQ\nEiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the…",
+      "zh": "Eiliko 制造商表示，在 Verge 报告其不安全机器人后，该公司正在聘请一家“独立安全公司”\nZXQSEPZXQ\nEiliko 是一款可爱的机器人饰品，可以挂在包上，内置人工智能对话功能，但结果却是一场安全噩梦。它告诉主人“你的秘密对我来说是安全的”，但黑客可以轻松阅读我们告诉玩具的所有内容的完整记录，而这只是……"
+    },
+    "2a1a180d957093657546f964d7d007e983833d0421ae16ba8b11dd10d322ba4f": {
+      "source": "Ensemble forecasting with IBM Granite time-series models\nZXQSEPZXQ\nEnsemble forecasting with IBM Granite time-series models。",
+      "zh": "使用 IBM Granite 时间序列模型进行集合预测\nZXQSEPZXQ\n使用 IBM Granite 时间序列模型进行集合预测。"
+    },
+    "bcfe52fd6c7e68fdc240198d8f8f99c98a0ede85df970198a4ae1d4d1957683e": {
+      "source": "AI’s hidden storage bill: What inference leaves behind\nZXQSEPZXQ\nAsk most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data t…",
+      "zh": "人工智能隐藏的存储费用：推理留下了什么\nZXQSEPZXQ\n如果让大多数高管想象一下人工智能的成本，他们很可能会看到 GPU（具有千兆瓦功率的加速器机架）和硅的候补名单。但这张图遗漏了一些东西：数据存储成本。模型响应后数据会发生什么？许多后端数据..."
+    },
+    "13f053b4678e9d655983f17ced68204319b0f349dd3b89772de755bb6d04a395": {
+      "source": "Hugging Face’s New AI Biology Model Lets You Chat With DNA\nZXQSEPZXQ\nThe new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+      "zh": "Hugging Face全新AI生物学模型让你与DNA对话\nZXQSEPZXQ\n新的开源模型使用 DNA 语言，可以帮助研究人员了解任何变化对基因活性和健康的影响。"
     }
   }
 }
