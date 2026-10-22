@@ -6656,6 +6656,74 @@
     "13f053b4678e9d655983f17ced68204319b0f349dd3b89772de755bb6d04a395": {
       "source": "Hugging Face’s New AI Biology Model Lets You Chat With DNA\nZXQSEPZXQ\nThe new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
       "zh": "Hugging Face全新AI生物学模型让你与DNA对话\nZXQSEPZXQ\n新的开源模型使用 DNA 语言，可以帮助研究人员了解任何变化对基因活性和健康的影响。"
+    },
+    "f1135ffbaf58660fe3be7722d8a3ef30217819a158ce2bf0758dbe5cffc55839": {
+      "source": "Build more responsive apps with the Decisions API\nZXQSEPZXQ\nFast, focused, low-cost decisions for any application.",
+      "zh": "使用Decisions API构建响应速度更快的应用程序\nZXQSEPZXQ\n适用于任何应用程序的快速、专注、低成本决策。"
+    },
+    "19f8e3032bc95b36e077783baecd1e51ab62277c8660c9652b2fbcf09d804c9a": {
+      "source": "1Password launches a way for AI agents to log in on your behalf without seeing your password\nZXQSEPZXQ\nThe new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "zh": "1Password为AI代理推出了一种无需查看密码即可代您登录的方式\nZXQSEPZXQ\n新功能允许客服代表登录客户的个人账号，同时保护用于保护这些账号的私人凭据。"
+    },
+    "84f8e030583941e453ba9e598f606c601d6034bd940b296be5953a7943d58a62": {
+      "source": "Canva releases its first image generation model\nZXQSEPZXQ\nCanva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "zh": "Canva发布首个图像生成模型\nZXQSEPZXQ\nCanva正在向所有用户提供新的图像模型，承诺以更低的成本提供更好、更可定制的性能。"
+    },
+    "b471f69760966b9804cd4d65719644fca2285311a97ae2b88e3a3aea12018390": {
+      "source": "OpenAI makes its Jev competitor widely available as decision model competition heats up\nZXQSEPZXQ\nOpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "zh": "随着决策模型竞争的加热， OpenAI使其JEV竞争对手广泛可用\nZXQSEPZXQ\nOpenAI正在向世界推出其决策模型。 它能与原来的Jev竞争吗？"
+    },
+    "29072ad91723e8477bb8dc5c0ed37d12fc0898ae80f3e369234466d4dea47b3c": {
+      "source": "Discord now formats Markdown previews right\nZXQSEPZXQ\nDiscord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved pr…",
+      "zh": "Discord现在将Markdown预览格式化为右侧\nZXQSEPZXQ\n据该公司称，今天发布的Discord最新更新对Markdown预览有了很大的改进：它们现在应该能够正确渲染，而不是使用“一堆符号”。 LLM和AI代理通常依赖Markdown文件来获取指令和上下文，因此这些改进的公关……"
+    },
+    "bb1038e983156c504acc62c4d5ed98be72722480474baf244d519e79cf8860e2": {
+      "source": "3.37.0 (2026-10-22) ⚠ BREAKING CHANGES api: This minor release includes a breaking change to Decisions types. In Live response models, question instructions can now be a string or a list of structured text, image, or JSON parts; check isinstance(question.instructions, str) befor…",
+      "zh": "3.37.0 (2026-10-22)⚠破坏性更改API ：此次要版本包括对决策类型的破坏性更改。在实时响应模型中，问题说明现在可以是字符串或结构化文本、图像或JSON部分的列表；请检查isinstance (question.instructions, str) …"
+    },
+    "0540662124dcfedc5a2c623595918f44d686da218c3eace3421512420fdbcadc": {
+      "source": "The Foundations of Scalable AI\nZXQSEPZXQ\nA scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulate…",
+      "zh": "可扩展AI的基础\nZXQSEPZXQ\n可扩展的人工智能系统需要强大的基础。 数据、工程、平台、运营模式和治理必须融为一体。 来自MIT Technology Review的EmTech Future会议的这次会议探讨了在一个高度监管的..."
+    },
+    "d3b48f2ee328509762242ba8558fda52a632bd1985523bbf5fba8f3abcbfc7e1": {
+      "source": "Sure, let’s smoosh SpaceX and Tesla together, who cares\nZXQSEPZXQ\nOh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has t…",
+      "zh": "当然，让我们把SpaceX和特斯拉放在一起，谁在乎\nZXQSEPZXQ\n哦，当然， SpaceX的信用风险相当高，因为它即将再借400亿美元用于Nvidia芯片，但谁在乎呢？ SpaceX和特斯拉已经成立了专门的委员会来讨论合并！ 您认为此次合并具有吸引力的程度可能使……"
+    },
+    "c9f795225f3290ef8e9e8b67b652a045c3d947c833ce48a9193ebbb8970114c6": {
+      "source": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’\nZXQSEPZXQ\nMicrosoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "zh": "微软的穆斯塔法·苏莱曼（ Mustafa Suleyman ）表示，在追求“医学超级智能”的过程中，其人工智能在困难病例上的表现优于医生\nZXQSEPZXQ\n根据《科学》杂志的一项研究，微软的新人工智能诊断系统在困难病例上击败了多面手医生。 但大部分改进似乎来自下面的人工智能模型，而不是来自微软的系统本身。"
+    },
+    "7da073a646ad60d5d5a50e503b8fd38cf68baa9c0def61c9de964df7b7875db7": {
+      "source": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet\nZXQSEPZXQ\nOlmoEarth v1.3: State-of-the-art embeddings for the whole planet。",
+      "zh": "OlmoEarth v1.3 ：最先进的全球嵌入式系统\nZXQSEPZXQ\nOlmoEarth v1.3 ：最先进的全球嵌入式系统。"
+    },
+    "3d711dcc6eb583faa223fef7bd171c6532839f3f587f66b9ccf1d23b168af205": {
+      "source": "The Social Society Helping Women Join the AI Boom\nZXQSEPZXQ\nWIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
+      "zh": "帮助女性加入人工智能热潮的社会\nZXQSEPZXQ\nWIRED采访了老年智力协会的创始人，这是一家快速发展的活动创业公司，将女性聚集在一起“使用前沿工具解决中年问题”。"
+    },
+    "5410c0515a736262537830f45544d5a5f5965138d6690cebb38477cb9c19d377": {
+      "source": "In Meta’s version of the future, I’ll have my Muse call your Muse\nZXQSEPZXQ\nMark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we commun…",
+      "zh": "在Meta的未来版本中，我会让我的Muse打电话给你的Muse\nZXQSEPZXQ\n马克·扎克伯格（ Mark Zuckerberg ）正在努力走向一个未来，在这个未来中，人工智能代理的自主网络将主宰我们的生活--为我们购物、为我们工作、为我们与他人的人工智能代理交谈。 人类是否已经准备好迎接这个非常具体和无情的生活愿景，在这个愿景中，我们交流……"
+    },
+    "f9af896191834d46d3a071db02844856a55eb94f7d5dfb5b70e4f11f993103e6": {
+      "source": "Microsoft says its AI tool is better than doctors at diagnosing conditions\nZXQSEPZXQ\nFor years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose co…",
+      "zh": "微软称其人工智能工具在诊断疾病方面优于医生\nZXQSEPZXQ\n多年来，人工智能领导者一直将医疗保健吹捧为他们的技术将改善生活的最明显例子之一。 微软人工智能首席执行官穆斯塔法·苏莱曼（ Mustafa Suleyman ）告诉The Verge ，现在“终于来了”。 该公司声称已经开发出一种人工智能驱动的工具，据说可以诊断……"
+    },
+    "641d4d8650db2fe70705a941db40b4af00413f9da79dbacc32f8a3380343c2e4": {
+      "source": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise\nZXQSEPZXQ\nMicrosoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      "zh": "中国黑客在入侵IT巨头ConnectWise后监视了数千家公司\nZXQSEPZXQ\n微软将ConnectWise的入侵归咎于一名与中国结盟的黑客，该黑客依靠人工智能代理迅速入侵其数千名客户。"
+    },
+    "c858e08e1a6701c2d7dd7d4b4afe44ac6b697982c93fbe003fc175cb6d488b45": {
+      "source": "Someone hacked the Switch 2 by using an old game and AI\nZXQSEPZXQ\nThe Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped ma…",
+      "zh": "有人用旧游戏和人工智能入侵了Switch 2\nZXQSEPZXQ\n任天堂Switch 2显然已经越狱，一个改装者已经展示了运行马里奥卡丁车世界定制版本的控制台，其中包含新的可玩角色，如Cinnamoroll ，红色愤怒的小鸟，彼得格里芬和来自Minecraft的史蒂夫。 OpenAI的Codex帮助……"
+    },
+    "69c1e150c5779810e51d5b99327333d70bdcc45da22ce6b39800cb2840026d6d": {
+      "source": "Uber puts all 30,000 employees on ChatGPT Work\nZXQSEPZXQ\nThe ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+      "zh": "优步让所有30,000名员工加入ChatGPT Work\nZXQSEPZXQ\n这家拼车巨头以前为ChatGPT Work部署了一个更小的试点，但现在正在全公司范围内进行企业代理。"
+    },
+    "bd76b6f692757b1785fe66d67a47864371b5ae88f1da5b1b82d9f86e7b4625a8": {
+      "source": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’\nZXQSEPZXQ\nWildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue al…",
+      "zh": "怀尔德伍德的导演说，人工智能“与我们在这个工作室的一切背道而驰”\nZXQSEPZXQ\n怀尔德伍德（ Wildwood ）是莱卡（ Laika ）迄今为止最雄心勃勃的电影，莱卡是以卡洛琳（ Coraline ）和帕拉诺曼（ ParaNorman ）等人而闻名的定 这是一场庞大的梦幻冒险，花了五年时间才完成。 这个过程涉及230多个木偶，其中包括36个主角Prue al…"
     }
   }
 }
