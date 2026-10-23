@@ -6756,6 +6756,22 @@
     "304f339cbee5c04be4cb0db4b8e1846538856fb6beb78f1c79296616bdcb81ea": {
       "source": "Meta turns Muse sharing back on\nZXQSEPZXQ\nMeta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan applicat…",
       "zh": "Meta 重新开启 Muse 共享\nZXQSEPZXQ\n在安全研究人员报告公共对话链接很容易找到后，Meta 重新启用了 Muse 共享。研究人员表示，他们已经能够找到 Muse 页面，例如营销公司的内部收入审查和小企业主的贷款申请……"
+    },
+    "777a673ea4a523d677885abbe910e6a682f71f92a0406b54794ce5554a6a3836": {
+      "source": "Retro gaming is being overrun with AI\nZXQSEPZXQ\nRetro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible fre…",
+      "zh": "复古游戏正在被人工智能淹没\nZXQSEPZXQ\n最近，复古电子游戏无处不在——尤其是在它们不应该出现的地方。网络浏览器中的光环、iPhone 上的风之杖、混合现实中的任天堂明星大乱斗。在过去的一个月左右的时间里，这些意想不到的项目以令人难以置信的频率迅速走红……"
+    },
+    "8a17ad4a829f5de41fba80ab54107491b79dd6a94264aeab5dcda5854026e1c8": {
+      "source": "OpenAI and Poland’s NASK partner to advance AI safety and security\nZXQSEPZXQ\nOpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "zh": "OpenAI与波兰NASK合作推进人工智能安全\nZXQSEPZXQ\nOpenAI 和波兰的 NASK 正在人工智能安全、安保和技术研究方面开展合作，以加强保障措施并支持更具弹性的数字生态系统。"
+    },
+    "f475c204e74b029d1f1ff2d8e01f62bbbc713fe039a1a8f3d3935517f99349ea": {
+      "source": "Features api: add support for message threads api: add usage and cost reports by dimension, mark older reports legacy Bug Fixes client: stop suggesting math.inf in the max_retries error message tools: leave the tool runner's history to the caller after append_messages() , and ke…",
+      "zh": "功能 api：添加对消息线程的支持 api：按维度添加使用情况和成本报告，标记较旧的报告遗留错误修复客户端：停止在 max_retries 错误消息中建议 math.inf 工具：在append_messages（）之后将工具运行程序的历史记录留给调用者，然后..."
+    },
+    "1cf3dbf20207cf750b6fd3e75ed9a1ee1e0deb2623a91123bc63ec0c6bac5180": {
+      "source": "Does Your Model Run on AWS Trainium? Look It Up\nZXQSEPZXQ\nDoes Your Model Run on AWS Trainium? Look It Up。",
+      "zh": "您的模型在 AWS Trainium 上运行吗？查找一下\nZXQSEPZXQ\n您的模型在 AWS Trainium 上运行吗？查一下。"
     }
   }
 }
