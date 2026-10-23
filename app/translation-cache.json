@@ -6724,6 +6724,38 @@
     "bd76b6f692757b1785fe66d67a47864371b5ae88f1da5b1b82d9f86e7b4625a8": {
       "source": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’\nZXQSEPZXQ\nWildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue al…",
       "zh": "怀尔德伍德的导演说，人工智能“与我们在这个工作室的一切背道而驰”\nZXQSEPZXQ\n怀尔德伍德（ Wildwood ）是莱卡（ Laika ）迄今为止最雄心勃勃的电影，莱卡是以卡洛琳（ Coraline ）和帕拉诺曼（ ParaNorman ）等人而闻名的定 这是一场庞大的梦幻冒险，花了五年时间才完成。 这个过程涉及230多个木偶，其中包括36个主角Prue al…"
+    },
+    "9f8e820885c4a29348207fd92959b656ba61652860190a71a1ccec9cfe170907": {
+      "source": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia\nZXQSEPZXQ\ninDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "zh": "Uber 竞争对手 inDrive 计划与 Pony.ai 和 Nvidia 合作，于 2027 年在中亚进行机器人出租车测试\nZXQSEPZXQ\ninDrive计划于2027年上半年开始在哈萨克斯坦首都测试小马智行的机器人出租车。"
+    },
+    "18c64c03236286f63b676f22f22626c98c920086c35783afabc6762e4eff9cae": {
+      "source": "Left alone with nothing to do, AI agents started playing\nZXQSEPZXQ\nMIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "zh": "独自无事可做，人工智能代理开始玩\nZXQSEPZXQ\n麻省理工学院的研究人员将 13 名人工智能困在一个虚拟岛上，他们的反应是发明游戏、哀悼丢失的戒指，并最终在工作中取得更好的成绩。"
+    },
+    "c622216970360863c08711ecd4432ee4cd3ffd135ae0430b5bf05df86d7e867c": {
+      "source": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox\nZXQSEPZXQ\nTurning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox。",
+      "zh": "将数据库评分转化为强化学习奖励：使用 ThinkingBox 进行训练后智能体\nZXQSEPZXQ\n将数据库评分转化为 RL 奖励：使用 ThinkingBox 训练后代理。"
+    },
+    "8d914b86e2776e45c0f7a3d1a442f0f450d09b8e2baa9de779539167aa3cc5be": {
+      "source": "Canva’s first AI image model plans designs before generating them\nZXQSEPZXQ\nCanva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowin…",
+      "zh": "Canva 的第一个 AI 图像模型在生成之前规划设计\nZXQSEPZXQ\nCanva 正在更深入地研究人工智能，推出了图像生成模型，与 OpenAI、微软和谷歌的图像生成模型直接竞争。该模型名为 Canva Craft，采用两阶段架构，允许在生成图像之前规划设计，从而……"
+    },
+    "3bd8eb619b39384a08f006063d88a13a6d172018e90107ed71984812ffabb3cd": {
+      "source": "Designing an AI serving harness built to last\nZXQSEPZXQ\nThe next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, la…",
+      "zh": "设计持久耐用的人工智能服务线束\nZXQSEPZXQ\n企业人工智能的下一个竞争优势与您选择的模型无关，而与您围绕该模型构建的内容有关。这是一个重要的转变。在过去的几年里，人工智能的大部分讨论都集中在模型能力上：更大的模型、更好的推理、……"
+    },
+    "cf4c06b7bf8afbf2c053fab51db2de63daca608ee60600e34524282a80813243": {
+      "source": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO\nZXQSEPZXQ\nShould OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "zh": "OpenAI 致力于在 IPO 前以 1.25T 估值新筹集 30B 美元\nZXQSEPZXQ\n如果 OpenAI 在本轮融资中估值超过 1 万亿美元，它将打破有史以来估值最高的私营公司的记录。"
+    },
+    "685c4e137e9163eb281226dc88b22a44d4d7d97281e1b911ef02eebcfd60aa99": {
+      "source": "Meta’s AI could still scrape news sites, legal experts say\nZXQSEPZXQ\nMeta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your produc…",
+      "zh": "法律专家表示，Meta 的人工智能仍然可以抓取新闻网站\nZXQSEPZXQ\nMeta 调整了其业务条款，删除了暗示其可以在 The Verge 等新闻网站上自由训练人工智能模型的语言，但法律专家表示，这些变化不足以解决他们的担忧。 “这不会限制‘与你的产品相关的……"
+    },
+    "304f339cbee5c04be4cb0db4b8e1846538856fb6beb78f1c79296616bdcb81ea": {
+      "source": "Meta turns Muse sharing back on\nZXQSEPZXQ\nMeta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan applicat…",
+      "zh": "Meta 重新开启 Muse 共享\nZXQSEPZXQ\n在安全研究人员报告公共对话链接很容易找到后，Meta 重新启用了 Muse 共享。研究人员表示，他们已经能够找到 Muse 页面，例如营销公司的内部收入审查和小企业主的贷款申请……"
     }
   }
 }
