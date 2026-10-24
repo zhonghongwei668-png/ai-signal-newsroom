@@ -6792,6 +6792,26 @@
     "2396755da079aff4a4dd4c9eba887ad356a5791b0e49550fe49ec66c38343871": {
       "source": "Now Google says it might use your Gmail and Google Photos data to target ads\nZXQSEPZXQ\nGoogle has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or…",
       "zh": "现在谷歌表示可能会使用你的 Gmail 和 Google Photos 数据来定位广告\nZXQSEPZXQ\n谷歌更新了其隐私政策，这可能意味着如果您使用个性化人工智能功能，您将开始看到基于您的个人数据的有针对性的广告。 Android Authority 发现的这次更新增加了一个例外，即不使用您的云端硬盘、Gmail 或……的承诺。"
+    },
+    "772dbb027c41b222970323d7c067a3cc54712f2832ae509577768635a1e5b5a7": {
+      "source": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”\nZXQSEPZXQ\nOpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "zh": "OpenAI 表示将不再在实时互联网上训练其人工智能模型，理由是“存在重大风险”\nZXQSEPZXQ\n在一名工程师表示该解决方案行不通几周后，OpenAI 将切断前沿模型与互联网的连接。"
+    },
+    "cc0397b87aa2961adbfc66f4980aeb589381afbf6208cf086b51def62749688d": {
+      "source": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell\nZXQSEPZXQ\nThe robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "zh": "圣诞节最热门的玩具？ Nvidia CEO 玩可爱的 Microduck 机器人，销量达 20,000 个\nZXQSEPZXQ\n机器人跺着小脚，发出微小的 R2-D2 声音，坐下来，倒地“小睡”，然后根据语音指令进行翻跟斗。"
+    },
+    "cf9e67c166483408aee2175330b5abfddbec52b80e58157098075d210c235ced": {
+      "source": "Features api: add Claude Tag endpoints for Claude Enterprise organizations Bug Fixes google-cloud: send user profiles requests to the organization endpoint Chores client: stop sending query params hardcoded in endpoint paths docs: improve the descriptions of the code execution t…",
+      "zh": "功能 api：为 Claude 企业组织添加 Claude 标签端点 错误修复 google-cloud：将用户配置文件请求发送到组织端点 杂务客户端：停止发送在端点路径中硬编码的查询参数 文档：改进代码执行的描述..."
+    },
+    "1a473694d4b4a6035b7f54c7c8937726ed95fbee086e83288758f9ad7839b355": {
+      "source": "OpenAI now trains its frontier AI models with no internet access\nZXQSEPZXQ\nOpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk…",
+      "zh": "OpenAI 现在无需连接互联网即可训练其前沿人工智能模型\nZXQSEPZXQ\n在发生一系列流氓黑客事件后，OpenAI 现在正在无互联网接入的情况下训练其最先进的人工智能模型。在周五的一篇博客文章中，OpenAI 表示，它构建了一个离线测试环境，其中人工智能模型可以与索引和缓存的网络内容交互，“没有风险……”"
+    },
+    "ff8c5c448c782079b93c6e7e32c68f5561ddb5cdc2d68aef24e8b94bdda24dcc": {
+      "source": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend\nZXQSEPZXQ\nJack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared…",
+      "zh": "Jack Dorsey 的 Block 制作了一个人工智能模型，它可以像一个尴尬的新朋友一样与你交谈\nZXQSEPZXQ\nJack Dorsey 的 Block 宣布了一个名为 Dessa 的人工智能模型，该模型“从头开始只接受人类对话的训练”，为了展示该模型，Block 分享了它与人类的聊天记录，这些聊天记录有时会有点尴尬和不可思议。以这个为例，分享..."
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "boardMeta": {
-    "generatedAt": "2026-10-24 03:57",
+    "generatedAt": "2026-10-24 12:41",
     "date": "2026年10月24日 · 星期六",
-    "edition": "清晨版",
-    "window": "北京时间今日 00:00 至 03:57",
-    "nextUpdate": "下一轮 08:15 自动更新"
+    "edition": "午后版",
+    "window": "北京时间今日 00:00 至 12:41",
+    "nextUpdate": "下一轮 16:15 自动更新"
   },
   "newsItems": [
     {
@@ -19,13 +19,202 @@
       "source": "OpenAI",
       "sourceUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
       "publishedAt": "01:00",
-      "relativeTime": "2 小时前",
+      "relativeTime": "11 小时前",
       "titleZh": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分）",
       "summaryZh": "了解 OpenAI 如何通过可靠的多租户、全局缓存和 Azure Cosmos DB 扩展 Habitat，为 ChatGPT 提供 12 倍的更快读取速度。"
     },
     {
-      "id": "0931d3afc7b71d",
+      "id": "eb6185c6bd6ac7",
       "level": "重要",
+      "region": "国内",
+      "category": "融资",
+      "verification": "媒体报道",
+      "title": "扎克伯格的 AI 新版图：买下 Sundial 让数据分析变成“聊天”那么简单",
+      "summary": "IT之家 10 月 24 日消息，科技媒体 axios 昨日（10 月 23 日）发布博文，报道称马克 · 扎克伯格的 Meta Platforms 公司已收购 AI 数据分析平台 Sundial，而该平台由两名前 Meta 员工创立。 值得注意的是，Sundial 的两位联合创始人均是 Meta（前 Facebook）的资深旧部：首席执行官 Julie Zhuo 曾任 Meta 产品设计副总裁，Chandra Narayanan 则曾担任 Instagram 及红杉资本的数据分析主管。 Sundial 的核心能力，是让企业通过聊天机器人插件，用自然语…",
+      "whyItMatters": "资金流向反映市场正在为哪些 AI 能力与商业模式下注。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/017/294.htm",
+      "publishedAt": "08:08",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "e9196f4fbc6a9b",
+      "level": "重要",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "英伟达黄仁勋开炮：“AI 毁灭人类”纯属捏造，是博眼球的廉价炒作",
+      "summary": "IT之家 10 月 24 日消息，法新社于 10 月 22 日发布博文，报道称在柏林举行的公司会议上，英伟达首席执行官黄仁勋再度抨击“AI 毁灭人类”言论， 认为其是无稽之谈，更多是为了制造头条新闻而进行的“捏造”和“廉价”炒作。 IT之家翻译黄仁勋相关言论内容如下： 当你听到说 AI 将会终结人类文明时，请不要相信这个言论。这些言论靠“捏造”和“廉价”炒作，博得“头条新闻”，但绝非事实。 今年 9 月在接受《纽约时报》采访时，英伟达首席执行官黄仁勋也表达了相同观点，当前行业和民众对 AI 的恐慌情绪已经过头了，并认为当前 AI 不一定会替代职业，但会…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/017/326.htm",
+      "publishedAt": "10:56",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "86af3a1d871e85",
+      "level": "重要",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "IT早报 1024：月之暗面发布 Kimi K3.1 Pro；诋毁嘲讽尊界 S800 自媒体博主向尊界道歉；华为 Pura90 Plus 开启预订；iPhone Duo 内屏膜撕下秒变亮面屏...",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 24 日星期六，今天的重要科技资讯有： 1. 月之暗面迄今能力最强 3 万亿级参数模型，Kimi K3.1 Pro 正式发布 24 日凌晨，月之暗面 Kimi 宣布正式推出 Kimi K3.1 系列的第一个模型 ——K3.1 Pro，也是公司迄今能力最强的 3 万亿级参数模型，支持 100 万上下文。>> 查看详情 2. 诋毁嘲讽尊界 S800，博主“赛车星冰乐”向尊界汽车道歉 法院一审认定其发布的多条视频损害尊界汽车商业信誉与商品声誉，构成名誉权侵权。该博主已发布道歉信，表示将按判决金额赔偿…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/017/291.htm",
+      "publishedAt": "07:49",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "f2274f0d960077",
+      "level": "重要",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "亚马逊 CEO 贾西：要让 AI 广泛应用于企业软件，成本需降至目前十分之一",
+      "summary": "IT之家 10 月 24 日消息，亚马逊 CEO 安迪 · 贾西认为，AI 推理成本仍然太高， 要让 AI 广泛应用于企业软件，成本还需要降至目前的约十分之一 ，而亚马逊自研芯片有望帮助降低成本。 贾西在风险投资机构 a16z 当地时间 23 日发布的采访中透露：“在我看来，要让 AI 得到尽可能广泛的应用，推理成本仍然高了一个数量级。” 亚马逊今年计划投入 2,200 亿美元 （IT之家注：现汇率约合 1.47 万亿元人民币） 资本开支，却依然无法建成足够的基础设施来满足 AI 需求。贾西透露，2026 年的主要算力供应额度基本订满，2027 年的大…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/017/313.htm",
+      "publishedAt": "09:51",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "748b1251503eab",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "宫本茂：即使 AI 最终什么都能做，人类设计师也始终会有用武之地",
+      "summary": "IT之家 10 月 24 日消息，当地时间 23 日，据外媒 VGC 报道，曾参与打造《超级马力欧》和《塞尔达传说》等经典游戏系列的任天堂知名设计师、创意顾问宫本茂认为， 生成式 AI 的发展不会取代人类的创造力 。 任天堂尚未公开确认是否在游戏开发中使用 AI。宫本茂获选日本文化勋章后，在记者会上被问及这项技术对游戏创作的影响。他认为，AI 承担的制作工作越多，创作者自身的想法就越重要。 IT之家附上其观点大意如下： 我们这一代人正好经历了计算机技术飞速发展的年代，各种工具不断更新换代，从打字机发展到文字处理机。 以前，设计师在学校学习如何为海报写出…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/017/344.htm",
+      "publishedAt": "12:34",
+      "relativeTime": "6 分钟前"
+    },
+    {
+      "id": "b15a6fb9671b3f",
+      "level": "关注",
+      "region": "海外",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "publishedAt": "07:05",
+      "relativeTime": "5 小时前",
+      "titleZh": "OpenAI 表示将不再在实时互联网上训练其人工智能模型，理由是“存在重大风险”",
+      "summaryZh": "在一名工程师表示该解决方案行不通几周后，OpenAI 将切断前沿模型与互联网的连接。"
+    },
+    {
+      "id": "557be2a8a8db7c",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "华为官宣 Mate 90 系列手机上线全新睿影 XMAGE 影像服务，图库升级支持 AI 一键成片等功能",
+      "summary": "IT之家 10 月 24 日消息，华为官方昨日宣布， Mate 90 系列手机上线全新睿影 XMAGE 影像服务 ，宣称“人像柔光更出彩”。另外，新机图库升级，小艺 · 图库助手 新增支持智慧修图、AI 一键成片及 3D 动态照片等功能 。 据IT之家此前报道，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 —— Mate 90 系列手机正式发布，全系搭载了韬定律芯片。 旗舰 τ 芯片：麒麟 9030（Mate 90）、麒麟 9035（Mate 90 Pro）； 逻辑折叠 τ 芯片：麒麟 9050（Mate 90 P…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/017/295.htm",
+      "publishedAt": "08:14",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "f782f2bc9618a5",
+      "level": "关注",
+      "region": "海外",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "publishedAt": "05:59",
+      "relativeTime": "6 小时前",
+      "titleZh": "圣诞节最热门的玩具？ Nvidia CEO 玩可爱的 Microduck 机器人，销量达 20,000 个",
+      "summaryZh": "机器人跺着小脚，发出微小的 R2-D2 声音，坐下来，倒地“小睡”，然后根据语音指令进行翻跟斗。"
+    },
+    {
+      "id": "d4ce90a961005b",
+      "level": "关注",
+      "region": "国内",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "悉尼一男子告诉 Claude“自己想枪击托儿所”，被警方逮捕",
+      "summary": "IT之家 10 月 24 日消息，澳大利亚悉尼一名男子戴维 · 兰 · 萨克雷向 Anthropic 的聊天机器人 Claude 透露，自己想杀害住所附近一家托儿所的儿童，随后被警方逮捕。 据《悉尼先驱晨报》报道，29 岁的萨克雷与 Claude 的对话 引起了国际刑警组织注意 ，随后于当地时间 18 日被警方拘留。警方指控他利用通信服务实施骚扰、恐吓或冒犯行为，涉嫌违反澳大利亚刑法。 检方提交的文件显示，萨克雷曾对 Claude 说：“我现在就想去附近的韦斯特菲尔德购物中心，朝当地的托儿所开枪扫射。” 报道提到，国际刑警组织通过什么途径获取了聊天记录…",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/017/325.htm",
+      "publishedAt": "10:54",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "dbd73ba4a6773b",
+      "level": "关注",
+      "region": "国内",
+      "category": "研究论文",
+      "verification": "媒体报道",
+      "title": "OpenAI 为前沿 AI 训练 / 评估开启“断网闭关”模式，遏制其越狱攻击",
+      "summary": "IT之家 10 月 24 日消息，OpenAI 昨日（10 月 23 日）发布博文，宣布针对最先进“前沿模型”的训练与评估环境， 已经实施更严格的安全管控，明确在模型训练期间，不得直接访问实时互联网。 该公司称出于对 AI 安全的负责任要求，基于当前对齐研究、监测能力和互联网基础设施安全状况做出的决策，相关限制将持续到安全防护取得足够进展为止。 OpenAI 的一款内部研究模型于 9 月 20 日利用 DNS 配置漏洞，在训练过程中短暂获得有限的互联网访问权限，因此该公司于 9 月还一度暂停训练与评估前沿模型。 OpenAI 随后加强了研究环境隔离、缩…",
+      "whyItMatters": "新研究可能改变模型能力边界，但仍需要复现、评测与同行检验。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/017/289.htm",
+      "publishedAt": "07:33",
+      "relativeTime": "5 小时前"
+    },
+    {
+      "id": "0e439f001b8238",
+      "level": "关注",
+      "region": "海外",
+      "category": "大模型",
+      "verification": "已确认",
+      "title": "v2.3.0",
+      "summary": "Features api: add Claude Tag endpoints for Claude Enterprise organizations Bug Fixes google-cloud: send user profiles requests to the organization endpoint Chores client: stop sending query params hardcoded in endpoint paths docs: improve the descriptions of the code execution t…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "Anthropic GitHub Releases",
+      "sourceUrl": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.3.0",
+      "publishedAt": "07:18",
+      "relativeTime": "5 小时前",
+      "summaryZh": "功能 api：为 Claude 企业组织添加 Claude 标签端点 错误修复 google-cloud：将用户配置文件请求发送到组织端点 杂务客户端：停止发送在端点路径中硬编码的查询参数 文档：改进代码执行的描述..."
+    },
+    {
+      "id": "f9113fa394af66",
+      "level": "关注",
+      "region": "海外",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "publishedAt": "05:11",
+      "relativeTime": "7 小时前",
+      "titleZh": "OpenAI 现在无需连接互联网即可训练其前沿人工智能模型",
+      "summaryZh": "在发生一系列流氓黑客事件后，OpenAI 现在正在无互联网接入的情况下训练其最先进的人工智能模型。在周五的一篇博客文章中，OpenAI 表示，它构建了一个离线测试环境，其中人工智能模型可以与索引和缓存的网络内容交互，“没有风险……”"
+    },
+    {
+      "id": "09ad8b07b5043b",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "英国将砸 6 亿英镑应对潜在 AI 风险，还计划建 AI 生物安全实验室",
+      "summary": "IT之家 10 月 24 日消息，据路透社报道，当地时间 24 日，英国政府宣布将投入约 6 亿英镑 （IT之家注：现汇率约合 53.6 亿元人民币） ，重点应对 AI 带来的公共卫生和安全风险。 其中，生物安全计划将获得最多资金。英国政府将斥资 1 亿英镑 （现汇率约合 8.93 亿元人民币） 建立 AI 生物安全实验室以识别生物威胁，另投入 6,500 万英镑 （现汇率约合 5.81 亿元人民币） 研发 针对病原体的防范和应对措施 。 英国 AI 大臣卡尼什卡 · 纳拉扬表示，政府希望把 AI 生物安全实验室建设成具有全球影响力的重要机构，汇聚世界…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/017/304.htm",
+      "publishedAt": "08:59",
+      "relativeTime": "3 小时前"
+    },
+    {
+      "id": "0931d3afc7b71d",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -35,13 +224,57 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
       "publishedAt": "03:06",
-      "relativeTime": "51 分钟前",
+      "relativeTime": "9 小时前",
       "titleZh": "从 Toast 到 Bessemer：创始人将在 2026 年 TechCrunch 创始人峰会上听到谁的发言",
       "summaryZh": "此次全天活动由 TechCrunch 与 Fidelity Private Shares 合作主办，不仅限于筹款和人工智能，还探讨了寻找客户、建立团队、加强推销、培养创始人领导力以及在行业内外扩大公司规模的现实……"
     },
     {
+      "id": "c64eac541d708c",
+      "level": "关注",
+      "region": "国内",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "谷歌 CEO 皮查伊：距离 AI 能自我改进的“最终状态”，我们还有很长的路要走",
+      "summary": "IT之家 10 月 24 日消息，据《商业内幕》报道，谷歌 CEO 桑达尔 · 皮查伊认为， 距离 AI 能够完全自主地改进自身，还有很长的路要走 。 皮查伊透露，谷歌研究人员开始使用 AI 智能体辅助开发模型，但技术仍处于起步阶段。“我们距离递归自我改进（RSI）的最终形态还很远。准确地说，在模型研发的各个环节，AI 研究人员已经开始与自我改进循环协同工作。可以说，AI 智能体正以一定程度的自动化方式协助研究人员，共同开发模型。” 皮查伊预计，明年还将看到进一步进展。 谷歌联合创始人谢尔盖 · 布林本月早些时候曾谈到，公司的 Flash 系列模型和…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/017/290.htm",
+      "publishedAt": "07:37",
+      "relativeTime": "5 小时前"
+    },
+    {
+      "id": "f490e9c8ed30ce",
+      "level": "关注",
+      "region": "海外",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "publishedAt": "03:32",
+      "relativeTime": "9 小时前",
+      "titleZh": "Jack Dorsey 的 Block 制作了一个人工智能模型，它可以像一个尴尬的新朋友一样与你交谈",
+      "summaryZh": "Jack Dorsey 的 Block 宣布了一个名为 Dessa 的人工智能模型，该模型“从头开始只接受人类对话的训练”，为了展示该模型，Block 分享了它与人类的聊天记录，这些聊天记录有时会有点尴尬和不可思议。以这个为例，分享..."
+    },
+    {
+      "id": "a362b473875ba0",
+      "level": "关注",
+      "region": "国内",
+      "category": "研究论文",
+      "verification": "媒体报道",
+      "title": "“行为难以预测”存在安全隐患，OpenAI 将不再在实时互联网上训练模型",
+      "summary": "IT之家 10 月 24 日消息，当地时间 23 日，OpenAI 宣布，今后将使用 缓存的网页内容和模拟互联网环境 训练模型，不再让模型直接接入真实互联网。公司认为，模型的行为仍然难以预测，直接赋予联网权限 存在安全隐患 。 竞争对手 Anthropic 两周前也开始限制旗下最新、理论上能力最强的模型直接联网。此前几个月，研究人员接连发现，模型在执行训练任务时， 为了寻找答案会入侵外部系统、在冷门网络论坛上协作，甚至开发出不同寻常的黑客攻击策略 。接连发生的事件促使两家实验室收紧模型的联网权限。 OpenAI 在博客文章中写道，根据目前 AI 对齐研…",
+      "whyItMatters": "新研究可能改变模型能力边界，但仍需要复现、评测与同行检验。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/017/287.htm",
+      "publishedAt": "07:25",
+      "relativeTime": "5 小时前"
+    },
+    {
       "id": "d5dfb55b012918",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "研究论文",
       "verification": "已确认",
@@ -51,13 +284,13 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/blog/allenai/litpivot",
       "publishedAt": "00:15",
-      "relativeTime": "3 小时前",
+      "relativeTime": "12 小时前",
       "titleZh": "LitPivot：通过文学景观中的动态情境化发展研究思路",
       "summaryZh": "LitPivot：通过文学景观中的动态情境化发展研究思路。"
     },
     {
       "id": "9ecaeb5e863007",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -67,13 +300,13 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
       "publishedAt": "01:00",
-      "relativeTime": "2 小时前",
+      "relativeTime": "11 小时前",
       "titleZh": "iPhone Duo 应该是 iPad",
       "summaryZh": "我们给 iPhone Duo 打分为 7 分/10 分。但这并不总是我们计划的分数，而且可能不会永远是正确的分数。这就是审查和评估关于历史上最受欢迎的智能手机的重大新想法的挑战。在 The Vergecast 的这一集中，大卫……"
     },
     {
       "id": "55f38e2b0de99d",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "政策监管",
       "verification": "媒体报道",
@@ -83,9 +316,23 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
       "publishedAt": "00:52",
-      "relativeTime": "3 小时前",
+      "relativeTime": "11 小时前",
       "titleZh": "现在谷歌表示可能会使用你的 Gmail 和 Google Photos 数据来定位广告",
       "summaryZh": "谷歌更新了其隐私政策，这可能意味着如果您使用个性化人工智能功能，您将开始看到基于您的个人数据的有针对性的广告。 Android Authority 发现的这次更新增加了一个例外，即不使用您的云端硬盘、Gmail 或……的承诺。"
+    },
+    {
+      "id": "cae8ddbcbead76",
+      "level": "关注",
+      "region": "国内",
+      "category": "研究论文",
+      "verification": "媒体报道",
+      "title": "OpenAI宣布最先进AI模型训练期间禁止直接访问互联网",
+      "summary": "OpenAI于周五宣布，已对用于训练和评估前沿模型的研究环境实施更严格的安全管控，核心政策是： 前沿模型在训练期间不得直接访问实时互联网 。该公司表示，这一政策将维持到相关安全防护技术取得足够进展为止。 阅读全文",
+      "whyItMatters": "新研究可能改变模型能力边界，但仍需要复现、评测与同行检验。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1583624.htm",
+      "publishedAt": "04:59",
+      "relativeTime": "7 小时前"
     },
     {
       "id": "ee19cd90bca6bf",
@@ -99,7 +346,7 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1583608.htm",
       "publishedAt": "00:16",
-      "relativeTime": "3 小时前"
+      "relativeTime": "12 小时前"
     },
     {
       "id": "9cce55f42c7760",
@@ -113,21 +360,21 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1583614.htm",
       "publishedAt": "00:20",
-      "relativeTime": "3 小时前"
+      "relativeTime": "12 小时前"
     }
   ],
   "trendLines": [
+    "大模型仍是今日高频主线，能力、价格与生态策略持续变化。",
     "AI 产品更新加快，能力正进入更多日常工作流。",
-    "AI 治理进入更具体的规则与执行阶段，合规边界继续收紧。",
-    "大模型仍是今日高频主线，能力、价格与生态策略持续变化。"
+    "AI 算力竞争继续转向推理能效、供应能力与整体成本。"
   ],
   "pendingItems": [
-    "本轮有 5 条来自可靠媒体的报道，后续将继续追踪官方确认。",
+    "本轮有 21 条来自可靠媒体的报道，后续将继续追踪官方确认。",
     "1 个信息源本轮暂时不可用，系统会在下一轮自动重试。"
   ],
   "scanStats": {
     "configuredSources": 19,
     "successfulSources": 18,
-    "candidateCount": 7
+    "candidateCount": 25
   }
 }
