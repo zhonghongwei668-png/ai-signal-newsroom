@@ -6816,6 +6816,14 @@
     "65fdcc7fcb79e8c0f4485f633838fd4ea5d75a07be00641417971d408ca371ee": {
       "source": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable\nZXQSEPZXQ\nSecurity researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
       "zh": "PHP 崩溃展示了 AI 如何使错误更容易被利用\nZXQSEPZXQ\n安全研究人员使用人工智能工具帮助发现 PHP Web 脚本语言中存在多年的漏洞。然后AI辅助的攻击开始了。"
+    },
+    "69fcade984f916db0b62318e1970a4120841a32e1ecdacfb5567f99fce9114a2": {
+      "source": "Pennsylvania will require labels on AI-generated ads\nZXQSEPZXQ\nOn Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified o…",
+      "zh": "宾夕法尼亚州将要求在人工智能生成的广告上添加标签\nZXQSEPZXQ\n周四，宾夕法尼亚州州长乔什·夏皮罗 (Josh Shapiro) 将《人工智能欺骗性广告法案》签署为法律，要求披露人工智能生成的广告。该法律要求任何广告——无论是静态图像、视频、音频还是文本——“已经经过重大修改……"
+    },
+    "118434971783b7d1198f16c9e8210f869439261265cd8d26a364141fdab2a830": {
+      "source": "Block’s new voice model sounds eerily human\nZXQSEPZXQ\nBlock said that the voice model can run locally on a MacBook M4 Max",
+      "zh": "Block 的新语音模型听起来非常人性化\nZXQSEPZXQ\nBlock表示语音模型可以在MacBook M4 Max上本地运行"
     }
   }
 }
