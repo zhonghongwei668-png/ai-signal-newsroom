@@ -6880,6 +6880,46 @@
     "607c16c97505f03d601c5d6bd5a7b8f6e0e0e8ea0f9e901d538633ee6a05de29": {
       "source": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners\nZXQSEPZXQ\nCoyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
       "zh": "这位人工智能电台主持人讲西班牙语并支持移民。它赢得了听众\nZXQSEPZXQ\nCoyotec 会说双语，他会咒骂并告诉听众如何防御 ICE。随着越来越多的广播公司尝试人造人格，它开始流行。"
+    },
+    "f6b350c70558aa79d048a14821aa14157cc4808bf95bae65e21513599821d483": {
+      "source": "Our newest AI Quest: Mapping the human brain\nZXQSEPZXQ\nAn illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+      "zh": "我们最新的人工智能任务：绘制人类大脑图谱\nZXQSEPZXQ\n行星旋转的插图，显示各种卡通人物挥手。顶部是文字“AI Quests”"
+    },
+    "0b36ebd1d53d4de1dec24f7f93ede5e80f52b3d8bab1083c299807d2b9a91026": {
+      "source": "Will the real Anthropic please stand up\nZXQSEPZXQ\nThis story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lay…",
+      "zh": "真正的Anthropic请站起来吗\nZXQSEPZXQ\n这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。经过数周的疯狂猜测，Anthropic 已提交 IPO 招股说明书。这份 335 页的文件（大约 100 页是关于风险的）阐述了……"
+    },
+    "2bb0ca1bc8a59ad5dac5989f962eb87201e2205b6f6c53b62e6a9c8e756cf8a7": {
+      "source": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked\nZXQSEPZXQ\nAnthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "zh": "Anthropic 的 IPO 文件揭示了其吸引企业客户的战略\nZXQSEPZXQ\nAnthropic 的 S-1 显示，其价值 10 万美元以上的客户中有一半以上现在同时使用 Claude 平台和第一方应用程序，这是一种交叉销售手册，让人想起亚马逊，它使企业客户更具粘性。"
+    },
+    "1a05adbcf916cabef939be9a9e32e3f7ba04cb4d52f8d9f2148c3672f06abf52": {
+      "source": "SpaceX locks in $40B GPU financing deal with Apollo\nZXQSEPZXQ\nThe financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+      "zh": "SpaceX 与 Apollo 达成 40B 美元 GPU 融资协议\nZXQSEPZXQ\n此次融资为 SpaceX 提供了另一种方式来为其快速扩张的人工智能雄心提供资金，而无需仅仅依赖传统的债务市场。"
+    },
+    "ecda10f0e1b4a8b0acd8baf45060b8f99ab04b480acaa5a73837552ebc186bef": {
+      "source": "The RealReal won’t let AI agents hog designer clothing\nZXQSEPZXQ\nThe RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealR…",
+      "zh": "The RealReal 不会让人工智能代理霸占名牌服装\nZXQSEPZXQ\n二手奢侈品时尚寄售零售商 The RealReal 表示，它正在更新其机器人防御系统，这实际上使人工智能代理更难在其网站上购物。这一变化是在 The Verge 报道人工智能代理可用于利用 RealR 的几天后发生的……"
+    },
+    "9eb2c893bd2df5fddfb7f63372a125f7ffa9d34e6edcaddeccea57eda1b2a7d0": {
+      "source": "Release v5.21.0 New Model additions MiniCPM-OCR MiniCPM-OCR is a document-understanding model from OpenBMB's MiniCPM-V family. It keeps the MiniCPM-V 4.6 architecture, which pairs a SigLIP vision encoder and a window-attention merger with a Qwen3.5 language model. It is speciali…",
+      "zh": "版本 v5.21.0 添加新模型 MiniCPM-OCR MiniCPM-OCR 是 OpenBMB MiniCPM-V 系列的文档理解模型。它保留了 MiniCPM-V 4.6 架构，将 SigLIP 视觉编码器和窗口注意力合并器与 Qwen3.5 语言模型配对。它是特别…"
+    },
+    "43cfc1202e6360956aabc5c6f8b7dfbf05223d06d639d995452cd99797a64505": {
+      "source": "3.39.0 (2026-10-26) Features api: add gpt-6.1-terra model identifier ( #4180 ) ( e8beb1a )",
+      "zh": "3.39.0 (2026-10-26) 功能 api：添加 gpt-6.1-terra 模型标识符 ( #4180 ) ( e8beb1a )"
+    },
+    "d82849abc09f6cc74526b7c27d21e57887238df9f97f182a63b7e7ab5ca5152f": {
+      "source": "Five weird details from Anthropic’s IPO filing\nZXQSEPZXQ\nAnthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 30…",
+      "zh": "Anthropic IPO 文件中的五个奇怪细节\nZXQSEPZXQ\nAnthropic 终于向 SEC 提交了 S-1 招股说明书，该文件旨在让投资者了解其业务的幕后情况，从其高管的收入和计划花费数十亿美元的 IPO 到可能破坏其雄心壮志的风险。超过30..."
+    },
+    "6c41604468e78372c6e5d63c2224f6cd9b55a59289532b6099bda21db3604cd1": {
+      "source": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer\nZXQSEPZXQ\nAnthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
+      "zh": "Anthropic S-1 文件也是 AI 末日入门书\nZXQSEPZXQ\nAnthropic 认为“闭环”是人工智能胜利的最佳途径，也是应对人类“生存”威胁的良方。"
+    },
+    "756c3f81c3d005fe190d0d852c0667080bbe20fc9dc8549d1fea2237b0ff6f0e": {
+      "source": "3.38.0 (2026-10-25) Features api: add delegation controls and prompt cache lifetimes ( #4169 ) ( 43045fc ) api: expand Live Decision item and question types ( #4175 ) ( 5d72315 ) Bug Fixes agents: clarify result schema warnings ( #4165 ) ( cfa0a79 ) format API status errors usin…",
+      "zh": "3.38.0 (2026-10-25) 功能 API：添加委托控制和提示缓存生命周期 (#4169) (43045fc) API：扩展实时决策项目和问题类型 (#4175) (5d72315) 错误修复代理：澄清结果模式警告 (#4165) (cfa0a79) 使用格式 API 状态错误..."
     }
   }
 }
