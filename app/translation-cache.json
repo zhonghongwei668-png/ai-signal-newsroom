@@ -6920,6 +6920,54 @@
     "756c3f81c3d005fe190d0d852c0667080bbe20fc9dc8549d1fea2237b0ff6f0e": {
       "source": "3.38.0 (2026-10-25) Features api: add delegation controls and prompt cache lifetimes ( #4169 ) ( 43045fc ) api: expand Live Decision item and question types ( #4175 ) ( 5d72315 ) Bug Fixes agents: clarify result schema warnings ( #4165 ) ( cfa0a79 ) format API status errors usin…",
       "zh": "3.38.0 (2026-10-25) 功能 API：添加委托控制和提示缓存生命周期 (#4169) (43045fc) API：扩展实时决策项目和问题类型 (#4175) (5d72315) 错误修复代理：澄清结果模式警告 (#4165) (cfa0a79) 使用格式 API 状态错误..."
+    },
+    "9e5e5c44a1d1fd44227fa4f7dc660e0a65ac1b9df54b99341697ae0f121f0284": {
+      "source": "Greptile takes bug detection beyond code review with GPT-6 Astra\nZXQSEPZXQ\nHow Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "zh": "Greptile使用GPT-6 Astra进行代码审查之外的错误检测\nZXQSEPZXQ\nGreptile如何使用GPT-6 Astra测试用户工作流程， Daybreak如何加强安全性， Codex如何减少返工。"
+    },
+    "b5ef34b0fece72c15b6854d9882ce3a9e7285bd78559c03750ef64c9ad57e0a6": {
+      "source": "How OpenAI turned its coding tools into dots, an always-on personal assistant\nZXQSEPZXQ\nAlexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "zh": "OpenAI如何将其编码工具转化为点，一个始终在线的个人助理\nZXQSEPZXQ\n负责DOT的OpenAI高管Alexander Embiricos从不希望与其他人的AI代理会面。"
+    },
+    "fe9e6dc386c7f6a83b7ae48ae4940beb9129e8fb2573225b814f05bc8c2435cb": {
+      "source": "OpenAI announces three big science discoveries and a new way to work with academics\nZXQSEPZXQ\nLess than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to hav…",
+      "zh": "OpenAI宣布三大科学发现和与学术界合作的新方式\nZXQSEPZXQ\nOpenAI在大规模发布数百份手稿后不到一个月， OpenAI在数学、计算机科学和物理学领域又有了三项“重大”发现。 这次的不同之处在于选择……"
+    },
+    "90846ee75cc9b48dca80593b58e2d1e393214f299abd1db88da46618c6abca92": {
+      "source": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing\nZXQSEPZXQ\nAn AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "zh": "Cohere表示，阿里巴巴的Qwen模式试图向北京发送文件\nZXQSEPZXQ\n一个人工智能模型说它不会使用任何工具，然后试图向北京的一台服务器发送一些东西，虽然研究人员说这可能是一个训练怪癖，而不是间谍活动，但整个事情让人们询问有多少人相信免费的中国人工智能。"
+    },
+    "1ea8b2ef7c8cc7c5b7f23ec3ce7c764b0545dc2d962b89e4c0423a1d6939c5bb": {
+      "source": "Anthropic is burning gas to feed the AI boom\nZXQSEPZXQ\nAs it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exch…",
+      "zh": "Anthropic正在燃烧燃气以供给AI热潮\nZXQSEPZXQ\n在准备上市时， Anthropic的S-1申请使生成式人工智能的甲烷依赖性显而易见。 “对电力供应和数据中心位置的竞争非常激烈，电力供应充足。” 在向美国证券交易所提交的文件中……"
+    },
+    "dd4f87ad79d3a4a407b3dddf20d7a361aac4c0715d955d50df3eac5d6ee119d3": {
+      "source": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures\nZXQSEPZXQ\nAnthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+      "zh": "为什么Anthropic的IPO招股说明书缺少这么多关键数据\nZXQSEPZXQ\nAnthropic的S-1文件长达数百页，遗漏了相当多的财务细节。 “Anthropic欠投资者更多信息，”一位分析师告诉WIRED。"
+    },
+    "4f78acc5431039634a28c3eb3e26af4e94179e332c6cf5a8897f3eb33562c328": {
+      "source": "I-HITL: Inalienable Human-in-the-Loop\nZXQSEPZXQ\nHuman oversight is a pillar of AI safety. It is often exercised by a human in the loop (HITL) who approves critical actions taken by an AI agent. AI agents' increasing ability to bypass guardrails, though, raises the question of how to enforce HITL robustly. We introduce the con…",
+      "zh": "I-HITL ：不可剥夺的人类在循环中\nZXQSEPZXQ\n人工监督是人工智能安全的支柱。 它通常由人工循环（ HITL ）执行，该人工循环（ HITL ）批准人工智能代理采取的关键行动。 然而，人工智能代理绕过护栏的能力越来越强，这引发了如何稳健地执行HITL的问题。 我们介绍一下……"
+    },
+    "cbeba1f01f0c263d0a08bd9a3815f4bc7b1a5e3d6bf0d80d6ae8345452702eee": {
+      "source": "TRACE: Memory-Efficient Time Series Class-Incremental Learning via Temporal-Spectral Reconstruction\nZXQSEPZXQ\nWeb-connected sensing applications continuously generate multivariate time series with evolving behavioral categories, making Time Series Class-Incremental Learning (TSCIL) essential for adapting to new classes without forgetting previously acquired knowledge. However, preservin…",
+      "zh": "TRACE ：通过时间谱重建进行记忆效率的时间序列类增量学习\nZXQSEPZXQ\n网络连接的传感应用程序不断生成具有不断发展的行为类别的多变量时间序列，使得时间序列类增量学习（ TSCIL ）对于适应新课程而不会忘记以前获得的知识至关重要。然而，防腐剂…"
+    },
+    "323f84137d51e81b0451b111cb6de0faf33ee969ef60542fb0ad6f063572e5a1": {
+      "source": "Retriever-Free Retrieval: Navigating Documents with Decision Models\nZXQSEPZXQ\nWhile language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the retriever fails to find, even the strongest generator cannot recover. We propose…",
+      "zh": "无检索器检索：使用决策模型浏览文档\nZXQSEPZXQ\n虽然语言模型已经变得更加强大，但检索仍然在很大程度上依赖于词汇匹配或固定嵌入空间中的相似性。 这造成了一种能力不对称：检索器无法找到的东西，即使是最强大的生成器也无法恢复。我们建议……"
+    },
+    "748b06b9c3767c6e9616dc2db896ae8cc478d48d7d2d2164afef9f225825c45b": {
+      "source": "Center-of-Mass Interpretation of Evolution Strategies\nZXQSEPZXQ\nEvolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presented as an estimate of a smoothed gradient. We present a geometrical interpretat…",
+      "zh": "进化策略的质量中心解释\nZXQSEPZXQ\n进化策略（ ES ）通过对受扰拷贝群体进行采样、对每个拷贝进行评分并在扰动的奖励加权方向上移动来更新模型。 此更新通常呈现为平滑梯度的估计值。 我们提出了一个几何解释器……"
+    },
+    "00c312de58cd386058ded10fe08fb1a3bcda2cf1843f93557d61755d05922d96": {
+      "source": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling\nZXQSEPZXQ\nAs autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark for evaluating autonomous research systems and discovering ideas in language m…",
+      "zh": "自动研究竞技场：语言建模中的基准测试和推进自动研究\nZXQSEPZXQ\n随着自主研究系统变得更加强大，基准必须评估其性能并支持有意义的研究进展。 我们引入了Auto-Research Arena ，这是一个多目标基准，用于评估自主研究系统并在语言中发现想法。"
+    },
+    "4ffa95a538bd4beda3b54278783b46b9a24e9e04621ec4eb0910623ae6aced2c": {
+      "source": "Learning Force-Reactive Humanoid Loco-Manipulation\nZXQSEPZXQ\nMany everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic trajectories alone. Therefore, we present FLORE, a framework for learning force…",
+      "zh": "学习力-反应式人形机器人操纵\nZXQSEPZXQ\n许多日常任务需要控制接触力和运动。 在人形机器人上，这种力通常必须在双手和整个身体之间协调，不能仅由运动轨迹来指定。 因此，我们提出FLORE ，一个学习力量的框架……"
     }
   }
 }
