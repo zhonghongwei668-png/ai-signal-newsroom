@@ -6968,6 +6968,42 @@
     "4ffa95a538bd4beda3b54278783b46b9a24e9e04621ec4eb0910623ae6aced2c": {
       "source": "Learning Force-Reactive Humanoid Loco-Manipulation\nZXQSEPZXQ\nMany everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic trajectories alone. Therefore, we present FLORE, a framework for learning force…",
       "zh": "学习力-反应式人形机器人操纵\nZXQSEPZXQ\n许多日常任务需要控制接触力和运动。 在人形机器人上，这种力通常必须在双手和整个身体之间协调，不能仅由运动轨迹来指定。 因此，我们提出FLORE ，一个学习力量的框架……"
+    },
+    "4ffa6b13d25c73298d26eba2ee9fd16121d3278a3ae6d110be259652e77499e9": {
+      "source": "General Compute raises $100 million Series A, countering the neocloud disaster narrative\nZXQSEPZXQ\nGeneral Compute is betting on inference chips from outside the Nvidia ecosystem.",
+      "zh": "General Compute 筹集 1 亿美元 A 轮融资，反击新云灾难叙事\nZXQSEPZXQ\nGeneral Compute 正在押注于 Nvidia 生态系统之外的推理芯片。"
+    },
+    "d08ac64dc5580cd2f23f06551294f51a32cd175d6011ab9b8527d2287e969d50": {
+      "source": "Japan internet giant GMO says hackers posted stolen customer data\nZXQSEPZXQ\nJapan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+      "zh": "日本互联网巨头 GMO 称黑客发布了被盗的客户数据\nZXQSEPZXQ\n日本 GMO Internet 正在验证疑似黑客在云服务泄露后发布的所谓客户数据。"
+    },
+    "85adb11657228e6c235be60b79a64e933093889b1230272639a75da45587ab30": {
+      "source": "Opera introduces a new web standard to let users deploy AI locally in their browser\nZXQSEPZXQ\nThe new standard, WebAI, is designed to work with a variety of AI models.",
+      "zh": "Opera 推出新的 Web 标准，让用户在浏览器中本地部署 AI\nZXQSEPZXQ\n新标准 WebAI 旨在与各种人工智能模型配合使用。"
+    },
+    "86f00d6eff640e912aa98315e62553a4c889fa55b309f60d9e8389f743dda5b4": {
+      "source": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers\nZXQSEPZXQ\nApple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Ke…",
+      "zh": "Apple 正在将 AI 聊天机器人添加到 Pages、Keynote 和 Numbers 中\nZXQSEPZXQ\n苹果正在为其生产力应用程序套件引入人工智能助手，包括 Keynote、Pages 和 Numbers。该助手基于 Apple 和 OpenAI 的 AI 模型构建，可以理解文档的上下文，以执行设计、动画制作和精炼幻灯片等任务。"
+    },
+    "82e39b5b78177c222f5dc7892a5d07883e7e93b8d7d65c012d70ed6b70c232df": {
+      "source": "Industrial Intelligence: The next growth opportunity for manufacturing\nZXQSEPZXQ\nEvery manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particula…",
+      "zh": "工业智能：制造业的下一个增长机会\nZXQSEPZXQ\n每个制造商都有自己的工业智能。有些是有记录的，有些是经验丰富的工人的知识。考虑一位经验丰富的操作员准备在转换后重新启动生产线。机器设置很重要，但了解某个细节也很重要……"
+    },
+    "0029142708458521816516b6ca9ab034e8e6cd6859c238898c5cdf4abc3064fa": {
+      "source": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs\nZXQSEPZXQ\nSimplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "zh": "Nvidia 支持印度初创公司帮助公司使用更少的 GPU 运行人工智能模型\nZXQSEPZXQ\nSimplismart 表示，其年化收入运行率在六个月内增长了 14 倍，其中美国占其收入的一半以上。"
+    },
+    "6b6c0b5c461468c1e4ca1bf73db675c6dcd203968ed716972eb2e20d565b3958": {
+      "source": "AI Agents Are Media’s New Favorite Audience\nZXQSEPZXQ\nAs agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+      "zh": "人工智能代理成为媒体最喜爱的新受众\nZXQSEPZXQ\n随着代理成为主流，一些出版商希望人们为人工智能（而不是人类）量身定制的内容付费。"
+    },
+    "61af114ea5816b87b3c082a0a6eb7425c768240b0e4edbcfa21759ec05859cc6": {
+      "source": "Data center backlash is uniting America\nZXQSEPZXQ\nIf there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across t…",
+      "zh": "数据中心的强烈反对正在团结美国\nZXQSEPZXQ\n如果说 2026 年有一个问题似乎会激发各类选民的兴趣，那就是数据中心。这些大规模服务器存储设施的快速建设——以及随之而来的基础设施建设和费用——引发了各地社区的当地反对……"
+    },
+    "efcc72bbcc7df7dc65e38d747454f6971913ad18db911811bf346981806f792c": {
+      "source": "I Tested Every Major AI Agent for a Day. Here’s the Best One\nZXQSEPZXQ\nI ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+      "zh": "我花了一天的时间测试了所有主要的人工智能代理。这是最好的一个\nZXQSEPZXQ\n我对六位 AI 代理——从 Meta 的 Muse 到 Anthropic 的 Claude Duet——的基本任务完成情况进行了排名。"
     }
   }
 }
