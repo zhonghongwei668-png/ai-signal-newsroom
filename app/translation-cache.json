@@ -7044,6 +7044,54 @@
     "5ad5e90192e86bc6bdac7b8ba124ca8f09159a461ea8a09d1c77d4e40a9b0f87": {
       "source": "Firefox’s Smart Window adds AI form filling and webpage monitoring\nZXQSEPZXQ\nMozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste yo…",
       "zh": "Firefox的智能窗口增加了AI表单填写和网页监控功能\nZXQSEPZXQ\nMozilla正在更新智能窗口（ Firefox的人工智能浏览体验） ，其新功能可以帮助您根据打开的标签页填写在线表单。 例如， Mozilla表示，智能窗口可以从您的在线投资组合或LinkedIn页面中提取信息，以粘贴您……"
+    },
+    "3005efe6cb4a527d9b18fdec6574001d049e8243ab889eba7cd682e8bfa65f75": {
+      "source": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more\nZXQSEPZXQ\nMassive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "zh": "风险投资公司将在 Anthropic 的 IPO 中赚取数十亿美元，但亚马逊将赚得更多\nZXQSEPZXQ\n大量票据转换揭示了亚马逊对 Anthropic 的所有权的真实范围。"
+    },
+    "b44ef27270c9ebb8757632f13bd61e84ac9515417e656eacd91b40f3792b39c3": {
+      "source": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication\nZXQSEPZXQ\nA family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "zh": "父母起诉 OpenAI，指控 GPT-4o 指导他们的女儿戒掉癫痫药物\nZXQSEPZXQ\n一个家庭正在起诉 OpenAI，称 ChatGPT 指导他们的女儿在二月份去世前悄悄减少癫痫药物的用量，并瞒着医生。"
+    },
+    "e59494b47b28c2fd1952e965ee988d3287c0ac222536ab8f6dc264984aa4af77": {
+      "source": "The data center boom has an upside: innovation for the US grid\nZXQSEPZXQ\nAs the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "zh": "数据中心的繁荣有一个好处：美国电网的创新\nZXQSEPZXQ\n业内人士表示，随着人工智能热潮给现有电网带来压力，电网现代化的各种新机遇也随之出现。"
+    },
+    "ad049539f3bb004d7f8458fd5f2c7ee40a8decb8ac4c8b289d07833aa07a7c15": {
+      "source": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs\nZXQSEPZXQ\nOn Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing…",
+      "zh": "研究人员已经厌倦了 OpenAI 的突破\nZXQSEPZXQ\n周一，OpenAI 宣布了在数学、计算机科学和物理学方面取得的令人印象深刻的突破，以及该公司所说的一种不断发展的传播其发现的方法。但尽管有明显的路线修正，与 The Verge 交谈的研究人员正在成长……"
+    },
+    "f0d9de842369acc639319e08214f273063b9b146407a3269c3f0c926839e4331": {
+      "source": "Bank of America kindly asks that you don’t share your banking password with your AI assistant\nZXQSEPZXQ\nThe banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "zh": "美国银行恳请您不要与人工智能助手分享您的银行密码\nZXQSEPZXQ\n这家银行业巨头提醒客户，“您应对人工智能代理的访问所产生的活动负责”。"
+    },
+    "17e65fdc608236f6881813a4b9ef0313d52fcafdd0ff022ebd5bb7c4df43bf1e": {
+      "source": "Who’s really in charge at Anthropic after the IPO?\nZXQSEPZXQ\nHere's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "zh": "IPO后谁才是Anthropic的真正负责人？\nZXQSEPZXQ\n这是对 Anthropic 极其复杂的治理结构的清晰解释。"
+    },
+    "bf7a1c1298ece4610ce0748b718fc758d0de1fbac368d1a460f4208bfd399f6a": {
+      "source": "EnvSched: Environment-Aware Scheduling for Rollout-Efficient Agent Reinforcement Learning\nZXQSEPZXQ\nAs executable environments for language agents scale, generating and verifying their rollouts becomes increasingly expensive. Under finite rollout budgets, this raises an important question: can data management at the environment level make agentic reinforcement learning (RL) mo…",
+      "zh": "EnvSched：环境感知调度，用于高效部署代理强化学习\nZXQSEPZXQ\n随着语言代理可执行环境的扩展，生成和验证其部署变得越来越昂贵。在有限的部署预算下，这提出了一个重要的问题：环境级别的数据管理能否使代理强化学习（RL）变得更加……"
+    },
+    "10095167610cc6436f6e49cfbb398e7e8814e3076154af5b92711132f55f581d": {
+      "source": "Understanding the limits of latent world models\nZXQSEPZXQ\nWorld models are widely proposed as core components for enabling agents to reason over long temporal and spatial horizons. Yet current evaluations often emphasize task performance while providing limited insight into whether learned world models acquire predictive latent dynamic…",
+      "zh": "了解潜在世界模型的局限性\nZXQSEPZXQ\n世界模型被广泛认为是使智能体能够在长时空范围内进行推理的核心组件。然而，当前的评估通常强调任务绩效，同时对学习的世界模型是否获得预测性潜在动态提供有限的洞察……"
+    },
+    "73ab5d7890c2bfd2a6d5db46a9e27e1ca7c5633cf064081a315b55189499f239": {
+      "source": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction\nZXQSEPZXQ\nNovel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels: novel planar hexagonal surface elements with a first-order spati…",
+      "zh": "Honeycomb-Surfels：用于高效场景渲染和重建的紧凑六边形基元\nZXQSEPZXQ\n新颖的视图合成和 3D 重建在辐射场和泼溅方面取得了迅速发展，但它们的内存和计算需求限制了它们在资源有限的环境中的使用。我们介绍 Hexels：具有一阶空间的新颖平面六边形表面元素……"
+    },
+    "77c73cfe339ff3206c592ad888b84972449c9ebf6791bc07a1bdfb9b96bc9c6b": {
+      "source": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning\nZXQSEPZXQ\nVision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader behavioral and environmental experienc…",
+      "zh": "ThinkWorld：世界想象力强化动力链推理\nZXQSEPZXQ\n视觉-语言-动作（VLA）模型在机器人操作方面取得了实质性进展，但其泛化仍然受到动作标记机器人演示的多样性和覆盖范围的限制。人类视频提供了更广泛的行为和环境体验……"
+    },
+    "c40111a32844efe435ca89e947eb27d7717d81c7a8ace62fef91963e182cd446": {
+      "source": "When Should We Intervene at Test Time?\nZXQSEPZXQ\nTest-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve corrupted images yet fail when a batch contains mostly one class. Average accur…",
+      "zh": "我们应该在测试时什么时候进行干预？\nZXQSEPZXQ\n测试时适应有助于部署的模型响应不断变化的输入，但同样的干预可能会挽救一批模型并损坏下一批模型。例如，更新标准化统计数据可以改善损坏的图像，但当批次主要包含一个类时会失败。平均准确率…"
+    },
+    "e580f21048655af9fd92a7861040a0be345c114701783eee1710d5951c63f1de": {
+      "source": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness\nZXQSEPZXQ\nWe introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention between trusted and untrusted tokens, enabling models to reason…",
+      "zh": "安全主管：学习注意力门可提高即时注入的稳健性\nZXQSEPZXQ\n我们引入了安全头（HoS），这是一种即时注入防御，它通过一小组学习的每头注意力门来强制指令数据分离。 HoS 学习每个头应该如何在可信和不可信令牌之间重新分配注意力，使模型能够推理……"
     }
   }
 }
