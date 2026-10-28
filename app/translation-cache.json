@@ -7092,6 +7092,50 @@
     "e580f21048655af9fd92a7861040a0be345c114701783eee1710d5951c63f1de": {
       "source": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness\nZXQSEPZXQ\nWe introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention between trusted and untrusted tokens, enabling models to reason…",
       "zh": "安全主管：学习注意力门可提高即时注入的稳健性\nZXQSEPZXQ\n我们引入了安全头（HoS），这是一种即时注入防御，它通过一小组学习的每头注意力门来强制指令数据分离。 HoS 学习每个头应该如何在可信和不可信令牌之间重新分配注意力，使模型能够推理……"
+    },
+    "25e5a218bb95470de8c9511a57ffa19eded06c63baad66b41fb84af563bc5589": {
+      "source": "Legora is building the agentic operating system for legal work\nZXQSEPZXQ\nSee how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "zh": "Legora正在构建法律工作代理操作系统\nZXQSEPZXQ\n了解 Legora 如何使用 OpenAI 模型、ChatGPT 和 Codex 来加速法律工作流程、扩展合同分析并使律师能够专注于更高价值的工作。"
+    },
+    "16c83a66e73df20e3ba02099bf0f8781cbb6d2e9fd3f24ec68f4e6d53fe7420d": {
+      "source": "Voice AI in vogue: Nvidia releases new open transcription model\nZXQSEPZXQ\nNvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+      "zh": "语音 AI 盛行：Nvidia 发布新的开放转录模型\nZXQSEPZXQ\nNvidia 刚刚发布了一个免费的语音到文本模型，可以转录多达 40 种语言，但它只适用于录音，不适用于现场音频，因此这对于会议和医疗转录工具来说是一大进步，同时仍然将实时使用留给了 ElevenLabs 等竞争对手。"
+    },
+    "bef3419e7962679ccf35a0203a19341689bc872a8fe90e26703030f73bb2ec67": {
+      "source": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt\nZXQSEPZXQ\nNVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt。",
+      "zh": "NVIDIA Nemotron 3.5 转录和粮仓 v2：您可以提示和适应的智能多语言转录\nZXQSEPZXQ\nNVIDIA Nemotron 3.5 转录和粮仓 v2：您可以提示和适应的智能多语言转录。"
+    },
+    "347e826897020f5871e30cd294b6c59ba1e4c388618b224b287143eb9528669d": {
+      "source": "xAI is buying out homeowners who promise not to sue over data center noise\nZXQSEPZXQ\nA subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven…",
+      "zh": "xAI 正在收购承诺不会因数据中心噪音而提起诉讼的房主\nZXQSEPZXQ\n据《卫报》报道，埃隆·马斯克 (Elon Musk) 旗下 xAI 的子公司提出购买密西西比州社区的房屋，只要居民不加入针对该公司附近数据中心和发电厂的诉讼。一名房地产经纪人在南海文挨家挨户拜访……"
+    },
+    "3b2c5af34acf2e5471e350dbe271e397647e1c28245fcf9272c7172984e3d01e": {
+      "source": "Meta quietly launched an ‘AI pet journal’ app\nZXQSEPZXQ\nMeta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal…",
+      "zh": "Meta悄然推出“AI宠物日记”应用\nZXQSEPZXQ\nMeta 推出了一款名为“Waddle World”的“电子宠物风格”宠物游戏，其中的虚拟生物可以与用户聊天并创建涂鸦来说明对话。根据苹果和 Play 商店的列表，“16 位宠物护理游戏”并不是真正的游戏，而是“一本日记……"
+    },
+    "d5953ab1015ce2426652ce07e389f30eed0a6b67fa436193dae997e3dfebf630": {
+      "source": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open\nZXQSEPZXQ\nIn just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
+      "zh": "距离 TechCrunch 创始人峰会还有 7 天：开门前使用通票可节省高达 100 美元\nZXQSEPZXQ\n在短短 7 天的时间里，TechCrunch 创始人峰会将于 11 月 4 日在波士顿 SoWa 发电站举行。您节省高达 100 美元门票的机会已经不多了，而与经验丰富的创始人、投资者和初创企业领导者学习和直接交流的机会即将到来。"
+    },
+    "54b2de8f3964282f20986772071ae80ed639d52579f4465d54083ed645032b3b": {
+      "source": "Pairing industrial AI autonomy and human control\nZXQSEPZXQ\nPairing industrial AI autonomy and human control。",
+      "zh": "将工业人工智能自主性与人类控制相结合\nZXQSEPZXQ\n将工业人工智能自主性与人类控制相结合。"
+    },
+    "d63f5352e741fd0e38742cde064288e83b3600bf07b5bad173f55bea054594eb": {
+      "source": "Voters in Texas agree: They hate data centers\nZXQSEPZXQ\nAsk Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a…",
+      "zh": "德克萨斯州选民一致认为：他们讨厌数据中心\nZXQSEPZXQ\n询问得克萨斯州全国有色人种协进会主席加里·布莱索（Gary Bledsoe），看到数据中心开发商涌入奥斯汀及其周边郊区有何感受，他可以滔滔不绝地讲述一个又一个面临当地人反对的项目。泰勒关于在……建立数据中心的计划存在争议。"
+    },
+    "21aae7906d04b77e8554b88bb8df65d3f47af3b7b9de3403fcab7cb50643870e": {
+      "source": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed\nZXQSEPZXQ\nWorkers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+      "zh": "麦克米伦工作人员称，出版商为一位工作场所人工智能助理举办了一场派对，但该助理后来被杀\nZXQSEPZXQ\n工人们告诉 WIRED，NOA（即“普通助理”）没有帮助。畅销书作者还表示，人工智能正在破坏他们与五巨头出版商的关系。"
+    },
+    "471c037b7227dc66a0cb36238402ba79421e623f1d19b6a51576c3f95f3e2c1e": {
+      "source": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready\nZXQSEPZXQ\nHuman beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+      "zh": "AI紧急警报来了。人类可能还没有准备好\nZXQSEPZXQ\n人类在紧急通信方面遇到了困难。如果人们认真对待聊天机器人，它们可以提供帮助。"
+    },
+    "9e299a89d2340cf390cb24b1d55589efd2af655c6401047641726d77e96c5e68": {
+      "source": "Should AI Decide Your Court Case? This Judge Says Yes\nZXQSEPZXQ\nOne of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
+      "zh": "人工智能应该决定你的法庭案件吗？这位法官说是\nZXQSEPZXQ\n英国最高法官之一杰弗里·沃斯 (Geoffrey Vos) 认为人工智能可以裁决大量民事案件。他说，问题在于应该在哪里划清界限。"
     }
   }
 }
