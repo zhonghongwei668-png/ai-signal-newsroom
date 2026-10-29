@@ -7176,6 +7176,34 @@
     "33ee466ea489462bc00b0aa269e73d0f7fc5d6c966f76231eaafc5ae21600522": {
       "source": "Meta says it’ll probably delay its controversial new business terms again\nZXQSEPZXQ\nMeta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full c…",
       "zh": "Meta表示，它可能会再次推迟有争议的新业务条款\nZXQSEPZXQ\nMeta表示，由于出版商对人工智能培训的担忧， Meta可能会将新业务条款的实施推迟到11月20日。 Meta通讯主管安迪·斯通（ Andy Stone ）在X上的一篇帖子中表示，该公司“不打算在没有完整政策的情况下进行政策变更……"
+    },
+    "96d73105740241d85b4ac803e0b16fbe867bc8bcf95aa4891611daba020ba6ee": {
+      "source": "Adam Mosseri says negativity around AI is ‘going to get worse’\nZXQSEPZXQ\nAsked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast…",
+      "zh": "Adam Mosseri 表示，围绕人工智能的负面情绪“将会变得更糟”\nZXQSEPZXQ\n当被问及人工智能和大学生在毕业典礼上嘘科技首席执行官的趋势时，Instagram 负责人 Adam Mosseri 在接受采访时承认，很多人确实不喜欢人工智能，而且不仅仅是年轻人和创意人士。出现在科林和萨米尔播客上......"
+    },
+    "3da2f092dbeac90af977b43869fa68e8ba56393736d15fbceba5dc0611369c90": {
+      "source": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion\nZXQSEPZXQ\nMicrosoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "zh": "微软刚刚分享了Azure的实际收入（美元）：332亿美元\nZXQSEPZXQ\n微软从未披露过Azure的季度收入（以美元为单位）。但这是我们第一次看到它距离击败市场上最大的竞争对手 AWS 有多近。"
+    },
+    "cb42bce3643d96c2da7c9b30421ce9ec9835dd663658262c99b11cfd64c5eb34": {
+      "source": "Google expands AI Search ads globally as core ad growth slows\nZXQSEPZXQ\nThe announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "zh": "随着核心广告增长放缓，谷歌在全球范围内扩展人工智能搜索广告\nZXQSEPZXQ\n这一消息与母公司 Alphabet 发布的第三季度收益报告同时发布，该报告显示收入同比增长 25% 至 1,276 亿美元。"
+    },
+    "7bf6d4a33478d3a466f0bb7f574ce7c4d049b52f7e22e3df7310852a3c1bd4ae": {
+      "source": "Microsoft recorded $10 billion in revenue from OpenAI\nZXQSEPZXQ\nMicrosoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "zh": "微软 OpenAI 收入达 100 亿美元\nZXQSEPZXQ\n微软表示，在截至 9 月 30 日的季度中，它通过与 OpenAI 的商业安排获得了 100 亿美元的收入，其中包括收入共享付款。这突显了该合作伙伴关系仍然存在巨大的财务依赖性。"
+    },
+    "f5eaa0bc4c7b73f0dc7cc5add091aa8d95646b7065deae5fc91113d31069d2a6": {
+      "source": "Microsoft hits 10 quarters of record-breaking revenue in a row\nZXQSEPZXQ\nWhatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+      "zh": "微软连续 10 个季度营收破纪录\nZXQSEPZXQ\n无论人工智能的未来如何，目前的情况对微软来说仍然非常好。这家科技巨头周三公布的季度营收再创新高：923 亿美元，比去年同期增长 19%。"
+    },
+    "4e46d1add6858ac42df0cc422db17c139e9307853299682ed9d0a2e6f632db73": {
+      "source": "Akai is embracing vibe-coded mods with an open-source MPC\nZXQSEPZXQ\nThe MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, whic…",
+      "zh": "Akai 正在采用带有开源 MPC 的 vivi 编码模组\nZXQSEPZXQ\nMPC 示例密钥尚未正式公布，但 Akai 已经展示了改装社区正在通过氛围编码打造的内容。 Akai 决定拥抱黑客和定制固件开发人员的爆炸式增长，让他们尽早访问该设备，这……"
+    },
+    "e9b140e10415a7613165c357592d6d30b111ccf8a9d0739f06985c229139c64e": {
+      "source": "3.41.0 (2026-10-28) Features api: accept typed references in Realtime response inputs ( #4189 ) ( 8ecb487 ) api: add response tool usage models ( #4201 ) ( 55fc500 ) api: filter agent sessions by metadata ( #4200 ) ( 77fd116 ) websocket: recover queued binary frames after reconn…",
+      "zh": "3.41.0 (2026-10-28) 功能 api：接受实时响应输入中的类型引用 (#4189) (8ecb487) api：添加响应工具使用模型 (#4201) (55fc500) api：按元数据过滤代理会话 (#4200) (77fd116) websocket：恢复排队的二进制帧侦察…"
     }
   }
 }
