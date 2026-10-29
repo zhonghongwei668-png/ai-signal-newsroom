@@ -7204,6 +7204,54 @@
     "e9b140e10415a7613165c357592d6d30b111ccf8a9d0739f06985c229139c64e": {
       "source": "3.41.0 (2026-10-28) Features api: accept typed references in Realtime response inputs ( #4189 ) ( 8ecb487 ) api: add response tool usage models ( #4201 ) ( 55fc500 ) api: filter agent sessions by metadata ( #4200 ) ( 77fd116 ) websocket: recover queued binary frames after reconn…",
       "zh": "3.41.0 (2026-10-28) 功能 api：接受实时响应输入中的类型引用 (#4189) (8ecb487) api：添加响应工具使用模型 (#4201) (55fc500) api：按元数据过滤代理会话 (#4200) (77fd116) websocket：恢复排队的二进制帧侦察…"
+    },
+    "dc33162a92b7bf11ab352ca3a3a0b60db0d2db503a41a685ba5c578d120c94c1": {
+      "source": "An updated Model Spec for more capable and beneficial AI\nZXQSEPZXQ\nOpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "zh": "更新的模型规格，以实现更强大、更有益的人工智能\nZXQSEPZXQ\nOpenAI更新的模型规格概述了五个核心价值观，以引导更有能力的人工智能走向健全的判断、人性化的代理和对人类意图的忠诚。"
+    },
+    "54ee8a7661b0f2193d9aaef99b64149ed3ff9d775fd5a9228e659f99aa04cbbc": {
+      "source": "OpenAI-backed Thrive Holdings acquires ADT\nZXQSEPZXQ\nOpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "zh": "OpenAI支持的Thrive Holdings收购ADT\nZXQSEPZXQ\nOpenAI支持的Thrive Holdings以153亿美元收购ADT ，并计划将AI引入家庭安全业务。"
+    },
+    "78a5c693a6150c43ab77c8066e554191fcc7203518269adf09dadbc4c0bed3d6": {
+      "source": "Meta quietly launches an AI fashion app called Style Sketch\nZXQSEPZXQ\nThe app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+      "zh": "Meta悄悄推出名为Style Sketch的AI时尚应用程序\nZXQSEPZXQ\n应用程序会连接到Instagram ，根据您已分享的照片构建虚拟衣柜，或通过拍摄照片、录制快速视频或上传相机胶卷中的图片，手动添加物品。"
+    },
+    "bf74178ec3aba872a5f2258a75f170efdf0856ce9cb64db1daabc635a73fc7be": {
+      "source": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience\nZXQSEPZXQ\nAs AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "zh": "随着搜索流量的枯竭， Reddit宣布将转向登录体验\nZXQSEPZXQ\n随着人工智能改变人们在网上查找信息的方式， Reddit正在重新思考其开放网络根源，以保护其受众和业务。"
+    },
+    "ab0bed1d3217d04c71401e9b191274ab32fd50ac5325b84c959d2d054d3056a5": {
+      "source": "Rivian expands joint venture with VW to include AI assistant\nZXQSEPZXQ\nRivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+      "zh": "Rivian扩大与大众的合资企业，包括人工智能助手\nZXQSEPZXQ\nRivian没有透露其58亿美元合资企业的价值是否会因此而扩大。"
+    },
+    "059712baf307fdd728e36fb5ac18e8341c562d698b75b08453625edfa00a064f": {
+      "source": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity\nZXQSEPZXQ\nMistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+      "zh": "Mistral发布针对网络安全的万亿参数AI模型的权重\nZXQSEPZXQ\nMistral表示，其新模型可以让组织对其网络防御进行某种控制，而封闭模型无法做到这一点。"
+    },
+    "1af6d88afeb23144e9abd9aa1a8354cf0f1c5ac16c1224d2712605c978fa577e": {
+      "source": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction\nZXQSEPZXQ\nDream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+      "zh": "Palantir前高管以a16z的1700万美元推出Dream ，用于构建建筑AI世界模型\nZXQSEPZXQ\nDREAM以真实的物理和建筑标准为基础。 正如法学硕士从文本中学习一样， Dream的世界模型是根据从美国各地的许可证档案中收集的超过1亿平方英尺的建筑数据进行培训的。"
+    },
+    "5e72aae9ec343bb844f389d459b0b37c583092b11ad8a717f1fe8b38445e3636": {
+      "source": "Granola crunches up a dictation feature to compete with Wispr\nZXQSEPZXQ\nUno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+      "zh": "Granola推出听写功能，与Wispr展开竞争\nZXQSEPZXQ\nUNO REVERSE ！在Wispr向其听写应用程序添加会议笔记后， Granola正在向其会议笔记员添加听写。 语音人工智能战争变得越来越有趣。"
+    },
+    "dc11277b2c0cbd598857346123e080814dd8c6cf00187cb9b2384827cee3fb22": {
+      "source": "You can generate and edit Google Docs files directly in Gemini chats now\nZXQSEPZXQ\nNow you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on…",
+      "zh": "您现在可以直接在Gemini聊天中生成和编辑Google文档文件\nZXQSEPZXQ\n现在，您可以直接在Google Gemini中生成、预览和编辑PDF、Google文档、Google表格、幻灯片、Markdown文件、TXT文件和代码。 新的文件编辑功能从今天开始为所有Gemini用户提供，而PDF预览/编辑工作在..."
+    },
+    "c4138ebcc2e65adcbf310dde169e5c1d5b2447f2e617789cd396ff727359ee41": {
+      "source": "US investigated Chinese spy plot aimed at Nvidia CEO\nZXQSEPZXQ\nA top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+      "zh": "美国调查了针对英伟达首席执行官的中国间谍阴谋\nZXQSEPZXQ\n消息人士告诉《纽约时报》，一家被指控向中国非法出售英伟达芯片的新加坡人工智能云公司的高管也可能是中国间谍。"
+    },
+    "2cdf0cfcd9c21b0b79fe5d867f31975a34a1ff01f344276da40aa9b0bc66625d": {
+      "source": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System\nZXQSEPZXQ\nSources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+      "zh": "国防承包商授予其个人人工智能代理访问安全的五角大楼系统的权限\nZXQSEPZXQ\n消息人士告诉WIRED ，埃森哲员工的个人Claude代理在被发现之前在DOD网络上运行了两个月，并且可以修补该漏洞。"
+    },
+    "61ca42c65685123739f0f24ce21d4ef39bb3436dc9022c290d5b01cd197b6027": {
+      "source": "Microsoft’s AI future has fewer jobs\nZXQSEPZXQ\nTo anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to aro…",
+      "zh": "微软的人工智能未来工作岗位减少\nZXQSEPZXQ\n对于任何密切关注微软首席执行官萨蒂亚·纳德拉（ Satya Nadella ）过去几年所说的话的人来说，本周似乎是人工智能即将从根本上改变微软员工规模的最明显迹象。 微软现在向ARO提供自愿收购……"
     }
   }
 }
