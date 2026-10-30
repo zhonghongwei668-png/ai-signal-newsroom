@@ -7252,6 +7252,58 @@
     "61ca42c65685123739f0f24ce21d4ef39bb3436dc9022c290d5b01cd197b6027": {
       "source": "Microsoft’s AI future has fewer jobs\nZXQSEPZXQ\nTo anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to aro…",
       "zh": "微软的人工智能未来工作岗位减少\nZXQSEPZXQ\n对于任何密切关注微软首席执行官萨蒂亚·纳德拉（ Satya Nadella ）过去几年所说的话的人来说，本周似乎是人工智能即将从根本上改变微软员工规模的最明显迹象。 微软现在向ARO提供自愿收购……"
+    },
+    "229fb73295a9e22f5305587cb345bfe23eb045c3a432af2c25e9726969325258": {
+      "source": "You don’t need to believe in a god to get a religious exemption from using AI at work\nZXQSEPZXQ\nDavid Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "zh": "你不需要相信上帝就能获得在工作中使用人工智能的宗教豁免\nZXQSEPZXQ\n肯塔基大学行政人员戴维·杜尔曼 (David Durman) 最近获得了在工作场所使用人工智能的宗教豁免。"
+    },
+    "f22761979a1ed0fd78324e3bfc57d4fb573efef58a21bce19083c1aca25746da": {
+      "source": "AWS will be a $1T business, Jassy says. But first, it will spend big.\nZXQSEPZXQ\nAmazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "zh": "Jassy 表示，AWS 将成为一项价值 1T 美元的业务。但首先，它将花费大量资金。\nZXQSEPZXQ\n亚马逊想成为AI云计算之王，成为第一个营收1万亿美元的企业。但该公司首席执行官周四表示，要做到这一点，公司必须继续大举资本支出。"
+    },
+    "036d57404ce4a6f219a14bae9c78bf785703b92ed931aea392a5386cc43b54d8": {
+      "source": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering\nZXQSEPZXQ\nAn estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets these records dictate the noise even when the remaining data…",
+      "zh": "Propose-Filter-Release ：通过私有过滤将噪声缩放到典型灵敏度\nZXQSEPZXQ\n估计器可以在典型数据上准确稳定，但对少数可能的记录敏感。 不同的私有机制通常将其噪声缩放到单个记录的最坏情况影响，这使得这些记录即使在剩余数据…"
+    },
+    "dc9eb695d0413c4e8c2c0eb19efabad9d925dff27f38f7554749f36e2cb10eb3": {
+      "source": "PIVOT: Progressive Intervention via Online Teacher Correction\nZXQSEPZXQ\nReinforcement learning from verifiable rewards (RLVR) is limited by sparse outcome-level feedback on hard reasoning tasks: when all rollouts in a group fail, rewards provide no learning signal. Stronger teachers can provide additional guidance, but this raises a central question…",
+      "zh": "PIVOT：通过在线教师纠正进行渐进干预\nZXQSEPZXQ\nReinforcement learning from verifiable rewards (RLVR) is limited by sparse outcome-level feedback on hard reasoning tasks: when all rollouts in a group fail, rewards provide no learning signal.更强的老师可以提供额外的指导，但这提出了一个核心问题……"
+    },
+    "b1ea35604726b8cdb09305d5ab45986ef240100622c8c5d87050f04234dd1733": {
+      "source": "Homebrewed SLMs: Autoregressive and Masked Diffusion Language Models Built at Home for Portuguese\nZXQSEPZXQ\nBuilding a language model of one's own no longer requires a data centre. This tutorial trains one from scratch, tokenizer included, on one consumer GPU, and shows how to tell whether it is good for the tasks of a specialist domain. It proposes no new method. It releases a tested…",
+      "zh": "Homebrewed SLMs: Autoregressive and Masked Diffusion Language Models Built at Home for Portuguese\nZXQSEPZXQ\nBuilding a language model of one's own no longer requires a data centre.本教程在一个消费级 GPU 上从头开始训练一个（包括分词器），并展示如何判断它是否适合专业领域的任务。它没有提出新方法。 It releases a tested…"
+    },
+    "dc16a3f8edb45c125439678d83e57a74437d8a8acca95d73b60a13d250f0969c": {
+      "source": "Homebrewed SLMs: Autoregressive and Masked Diffusion Language Models Built at Home for Portuguese",
+      "zh": "自酿SLM ：为葡萄牙人打造的自回归和掩蔽扩散语言模型"
+    },
+    "194c676e112e39871441067b0ef58c6135f1ee37651d83aef509bc73548fd5a6": {
+      "source": "Building a language model of one's own no longer requires a data centre. This tutorial trains one from scratch, tokenizer included, on one consumer GPU, and shows how to tell whether it is good for the tasks of a specialist domain. It proposes no new method. It releases a tested…",
+      "zh": "Building a language model of one's own no longer requires a data centre.本教程在一个消费级 GPU 上从头开始训练一个（包括分词器），并展示如何判断它是否适合专业领域的任务。它没有提出新方法。它发布了经过测试的..."
+    },
+    "52524e12a0072b011e7107c69cca8158ced3532843ccf45b451e8c2a93cac40a": {
+      "source": "Elucidating the Design Space of LM Data Attribution\nZXQSEPZXQ\nData attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly why an attribution algorithm fails. To di…",
+      "zh": "阐明LM数据归因的设计空间\nZXQSEPZXQ\n语言模型 (LM) 的数据归因方法通常使用事实检索等下游任务进行评估。然而，现有的评估同时改变多个数据集属性，因此无法准确找出归因算法失败的原因。为了迪…"
+    },
+    "ea70c26d5995b2cb6bbf7b30e858a2fd10e19c05de7aa1bcf4794c242f417e3d": {
+      "source": "Rethinking Neural Thickets Without Weight Perturbations\nZXQSEPZXQ\nThe Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanati…",
+      "zh": "重新思考没有体重扰动的神经丛\nZXQSEPZXQ\n神经丛林假说认为，预训练的语言模型位于权重空间中特定任务专家的密集邻域中，随机高斯扰动可以发现这一点。我们重现了报告的增益，但表明它们不需要这种几何解释......"
+    },
+    "546c7fb809a9f97f32b0b6c910872ea7dbf43ae264f3487280e4fc5ab8cd074b": {
+      "source": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers\nZXQSEPZXQ\nPixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency struc…",
+      "zh": "读取、分配、路由：像素空间生成变压器的角色耦合标记化\nZXQSEPZXQ\n像素空间生成 Transformer 通常每个图像块使用一个令牌，因此捕获更精细的细节需要更多令牌，并使全局注意力变得越来越昂贵。我们观察到，更精细的细节并不一定需要更多的全局沟通：低频结构……"
+    },
+    "09218d3a5d9797014901eb2fdea5a9bc27e040b77d962b3ec1d61f10d56eb8c9": {
+      "source": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model\nZXQSEPZXQ\nDistributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizations absent from that record. A divergence ball around the e…",
+      "zh": "围绕学习密度模型的 KL-DRO 自适应场景生成\nZXQSEPZXQ\n分布鲁棒优化（DRO）对冲数据驱动的两阶段随机程序，防止从有限记录估计的分布中的错误，并且标准模糊集在如何处理该记录中缺少的实现方面有所不同。电子周围的发散球…"
+    },
+    "4a1a53daf35874641d4cea190ea23433458ff0d0bb772ae5b388a31ae759cfa8": {
+      "source": "Luggage re-identification: A study of strategies towards a real-world application\nZXQSEPZXQ\nLuggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery). It enables the association of observations of the same lug…",
+      "zh": "行李重新识别：现实世界应用策略的研究\nZXQSEPZXQ\n行李重新识别 (ReID) 是取证、安全或边境管理（可疑或遗弃行李识别）以及行李管理（丢失行李找回）视频监控中的一项关键任务。它可以关联同一凸耳的观察结果……"
+    },
+    "ade8b1b0843eb99753c20be0a97e112abfb14133c0cc284b91fe7df6c70eb765": {
+      "source": "From extreme weather to agricultural consequences with agentic AI\nZXQSEPZXQ\nExtreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that could tell span many sources. We present WxCrop, the first age…",
+      "zh": "从极端天气到代理人工智能的农业后果\nZXQSEPZXQ\n极端天气可以在未来几天预报，但其对农业的影响仍然难以预测：预报只说明风暴将袭击哪里，而不是哪些作物将受到影响或有多少风险，而且可以提供的记录涵盖多个来源。我们推出 WxCrop，第一个时代......"
     }
   }
 }
