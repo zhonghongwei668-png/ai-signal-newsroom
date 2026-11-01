@@ -1,15 +1,203 @@
 {
   "boardMeta": {
-    "generatedAt": "2026-11-01 04:00",
+    "generatedAt": "2026-11-01 14:12",
     "date": "2026年11月1日 · 星期日",
-    "edition": "清晨版",
-    "window": "北京时间今日 00:00 至 04:00",
-    "nextUpdate": "下一轮 08:15 自动更新"
+    "edition": "午后版",
+    "window": "北京时间今日 00:00 至 14:12",
+    "nextUpdate": "下一轮 16:15 自动更新"
   },
   "newsItems": [
     {
-      "id": "344dcf79744aa2",
+      "id": "e820dc4ea2549d",
       "level": "头条",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "“妈祖”海洋预报数值模式 2.0 发布：我国近海、西太平洋等重点海域分辨率提升至 1 公里",
+      "summary": "IT之家 11 月 1 日消息，据央视新闻报道，今天（11 月 1 日），面向我国深海极地探索、海上通道安全等重大需求，自然资源部国家海洋环境预报中心成功发布 我国自主研发的“妈祖”海洋预报数值模式 2.0 版本 ，实现了全球重点海域差异化可变分辨率精准预报。 海洋数值模式是海洋预报的核心技术。2018 年以来，我国先后推出“妈祖 · 海流”“妈祖 · 海浪”1.0 版本，是首个支持 GPU 加速的全球业务化海洋预报模式，2024 年实现全球代码开源，已在我国沿海省市部署应用。 IT之家获悉，该模式 2.0 版本全球预报系统分辨率，较上一代提升一倍至…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/020/688.htm",
+      "publishedAt": "11:22",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "c29aa55c41075b",
+      "level": "关注",
+      "region": "国内",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "响应欧盟 AI 法案，Grok 模型生成的文本将添加隐形水印",
+      "summary": "IT之家 11 月 1 日消息，SpaceXAI 将于 11 月 7 日起为 Grok 模型生成的文本添加隐形水印。检测器通过识别该信号，判断一段文本是否带有肉眼不可见水印。 官方表示，本次调整是为了响应欧盟《人工智能法案》要求，全球所有地区的 SpaceXAI API 均已启用水印，包含 grok-4.7、grok-4.6、grok-4.5、grok-4.3、grok-4.20 reasoning、grok-4.20 non-reasoning 和 grok-4.20 multi-agent 模型， 团队管理员可选择为某款模型单独关闭水印 。 IT之…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/020/721.htm",
+      "publishedAt": "14:11",
+      "relativeTime": "1 分钟前"
+    },
+    {
+      "id": "bc398a80a0dffe",
+      "level": "关注",
+      "region": "海外",
+      "category": "政策监管",
+      "verification": "媒体报道",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "whyItMatters": "监管与司法判例会直接改变模型训练、产品上线和企业合规成本。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "publishedAt": "05:17",
+      "relativeTime": "8 小时前",
+      "titleZh": "法官允许NAACP就xAI数据中心污染提起诉讼",
+      "summaryZh": "全国有色人种协进会（ NAACP ）的一起诉讼指控SpaceX拥有的人工智能公司违反了《清洁空气法》。"
+    },
+    {
+      "id": "e6808ae49ba527",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "高通发布骁龙 X 系列 PC 处理器 Windows 显卡驱动，改进多款游戏体验",
+      "summary": "IT之家 11 月 1 日消息，Qualcomm（高通）于当地时间 10 月 29 日发布了适用于骁龙 X 系列 PC 处理器的 2026.10.1 版本 Adreno GPU Windows 显卡驱动程序。 该驱动程序针对初代骁龙 X 和骁龙 X2 处理器有以下改进： 骁龙 X 游戏稳定性 / 质量改进 《永劫无间》(NARAKA: BLADEPOINT) 《荒野大镖客：救赎 2》(Red Dead Redemption 2) 《机械战警：暴戾都市》(RoboCop: Rogue City) 应用稳定性与性能提升 Luminar Neo Scam A…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/020/667.htm",
+      "publishedAt": "09:54",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "d75f677f4cc53d",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "Roblox 平台 AI 游戏突破 7 万款，排名前 100 作品超 80% 使用 AI 辅助开发",
+      "summary": "IT之家 11 月 1 日消息，Roblox 在 2026 财年第三季度报告中透露，该平台内使用 Build 创建的 AI 游戏总数已超过 7 万款。 9 月游玩时长排名前 100 游戏中 ， 超 80% 使用 AI 辅助开发 。 据介绍，Roblox 已有超 50 万名用户使用 Build 工具。在本季度内，有 2 款几乎完全由 AI 创作的游戏，进入平台同时在线玩家数量排行榜前 20 名。 IT之家了解到，Roblox 的 Build 功能推出于 2026 年 7 月底，采用移动端优先设计策略，允许创作者借助 AI 生成游戏内容。该工具面向年满 9…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/020/651.htm",
+      "publishedAt": "08:40",
+      "relativeTime": "5 小时前"
+    },
+    {
+      "id": "ea6e59ba78b1cd",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "吉利汽车规划 2030 年前实现“县县通”：布局 15 万座充电站，其中智充站 10 万座",
+      "summary": "IT之家 11 月 1 日消息，据蓝鲸汽车报道，在吉利汽车 2026 年三季度业绩电话会上，吉利汽车行政总裁淦家阅透露，在智充网络布局上，今年 10 月底智充站将超 3000 座，11 月达 4000 座，12 月达 6000 座，届时智充枪将超 2 万把。 中长期来看，吉利规划 2027 年充电站超 2.2 万座，智充枪超 10 万把； 2030 年前要实现“县县通” ，要布局 15 万座充电站，其中智充站达 10 万座，充电枪超 60 万把。 据IT之家此前报道，9 月 23 日， 吉利汽车集团发布新一代 AI 补能技术 ——“吉利智充”。该技术实…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/020/648.htm",
+      "publishedAt": "08:24",
+      "relativeTime": "5 小时前"
+    },
+    {
+      "id": "2f9c2748ebc69b",
+      "level": "关注",
+      "region": "国内",
+      "category": "政策监管",
+      "verification": "媒体报道",
+      "title": "消息称 Spotify 计划于明年初推出 AI 音乐混音服务，用户可自制歌曲混音与翻唱版本",
+      "summary": "IT之家 11 月 1 日消息，据金融时报 FT 消息，Spotify 正在积极推进版权授权谈判，并努力说服音乐人拥抱新技术。Spotify 计划在 2027 年初推出一项由人工智能驱动的新服务，允许用户自行制作歌曲的混音与翻唱版本。 知情人士透露，Spotify 计划在明年的第一季度推出该产品，并可能在 2 月份格莱美奖（Grammy Awards）前后首次亮相。其中一位知情人士表示，Spotify 正在考虑向订阅用户每月额外收取 4 至 5 美元 （IT之家注：现汇率约合 26.7 至 33.3 元人民币） 的增值服务费。 借助该功能， 付费订阅用…",
+      "whyItMatters": "监管与司法判例会直接改变模型训练、产品上线和企业合规成本。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/020/647.htm",
+      "publishedAt": "08:12",
+      "relativeTime": "5 小时前"
+    },
+    {
+      "id": "5df6d5ced5a917",
+      "level": "关注",
+      "region": "国内",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "OpenAI：12 月起，ChatGPT 将与 Codex 共享额度",
+      "summary": "IT之家 11 月 1 日消息，OpenAI 发布公告，宣布从 12 月开始，随着将 Work 的智能体能力引入至 ChatGPT 主要体验中，Plus、Pro 以及 Business 订阅方案的用户将 在 ChatGPT 与 Codex 之间共享统一的使用额度 。 IT之家获悉，在 ChatGPT 和 Codex 上的用量将统一按 Token 进行计量。额度的实际消耗速度取决于选用的模型及任务复杂度， 而即时对话（Instant Chat）不占用额度 。 官方表示，正在全面推进过渡筹备工作，以确保用户工作流程不受干扰。 预计绝大多数用户等待额度重置的…",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/020/645.htm",
+      "publishedAt": "07:58",
+      "relativeTime": "6 小时前"
+    },
+    {
+      "id": "89c6cb6d297171",
+      "level": "关注",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "publishedAt": "05:41",
+      "relativeTime": "8 小时前",
+      "titleZh": "苹果首席执行官表示，该公司“不想为人工智能出货”",
+      "summaryZh": "苹果新任首席执行官为公司目前在人工智能领域的地位辩护。"
+    },
+    {
+      "id": "cefcb0bd2478e8",
+      "level": "关注",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "publishedAt": "05:36",
+      "relativeTime": "8 小时前",
+      "titleZh": "还剩4天： TechCrunch创始人峰会如何帮助您建立更有用的联系以扩大规模",
+      "summaryZh": "11月4日，在波士顿的SoWa发电站，准备好一整天，充满有意义的网络机会、可操作的见解以及可能改变您的创意和创业轨迹的联系。 请在所有价格上涨前登记。"
+    },
+    {
+      "id": "147649568a7238",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "酷冷至尊 HAF II 500 机箱白色版上架：1199 元，11 月 4 日开售",
+      "summary": "IT之家 11 月 1 日消息，Cooler Master（酷码 / 酷冷至尊）现已在电商平台上架 HAF II 500 机箱的白色版本。 这一变体型号依旧 包含前置双 Mighty40 F220 风扇和后置单 Mighty40 V180 风扇 ，售价 1,199 元，11 月 4 日 20:00 开售。 ▲ 由人工智能扩展背景并锐化主体，机箱本身效果与官方原图几乎一致 HAF II 500 拥有 8 条扩展槽，兼容部分 E-ATX 和 SSI-CEB 主板。其三维 557×262×548 (mm)，体积约 80L，显卡限长 430mm、电源限长 21…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/020/676.htm",
+      "publishedAt": "10:28",
+      "relativeTime": "3 小时前"
+    },
+    {
+      "id": "b0b2917656e690",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "搜狐张朝阳：短剧不会把长剧的需求完全侵蚀掉",
+      "summary": "IT之家 11 月 1 日消息，搜狐创始人、董事局主席兼首席执行官张朝阳在接受界面新闻等媒体采访时表示， 短剧不会把看长剧的需求完全侵蚀掉 ，依然有很多人看长剧，这是两种不同的需求。 张朝阳表示，碎片化时间消磨时光，可以看看短剧；作为一个艺术品的欣赏以及好的故事，还是要看长剧或者电影。在他看来， 国内长视频网站经济压力大，不赚钱的原因是多方面的，不是因为短剧 。 IT之家注意到，今年 8 月，张朝阳曾聊到内容从业者的 AI 焦虑，他用一个比喻做了回应：“ 现在 AI 产生的东西，让媒体和内容产生了塑料的感觉 。就像化肥催出来的西红柿，看着光鲜，吃着一点…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/020/666.htm",
+      "publishedAt": "09:44",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "2dc23522c61604",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "被 AI 假学生薅了 2 亿美元贷款羊毛，美国司法部紧急调查",
+      "summary": "IT之家 11 月 1 日消息，美国司法部（DOJ）于当地时间 10 月 31 日公布了“Operation Ghostbusters”行动的结果，该行动主要是调查广泛的学生贷款欺诈行为。 据该机构称，不良分子使用被盗身份申请学生贷款， 并利用人工智能完成申请，使假学生看起来像是在参加在线课程 。 虽然学校获得了大部分学生贷款的收益，但还是有部分剩余款项流入诈骗者的银行账户，并被转移到了海外。另一方面，那些没上大学的受害者， 莫名其妙就背上了学生贷款 。 美国多所社区学院和大学自 2021 年起开始怀疑联邦学生资助（FAFSA）项目存在欺诈行为。估计显…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/020/649.htm",
+      "publishedAt": "08:31",
+      "relativeTime": "5 小时前"
+    },
+    {
+      "id": "344dcf79744aa2",
+      "level": "关注",
       "region": "海外",
       "category": "融资",
       "verification": "媒体报道",
@@ -19,13 +207,13 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
       "publishedAt": "00:12",
-      "relativeTime": "3 小时前",
+      "relativeTime": "13 小时前",
       "titleZh": "据报道， OpenAI降低了新一轮融资目标",
       "summaryZh": "OpenAI的最新一轮融资似乎没有达到预期。"
     },
     {
       "id": "ed0268fa6e325c",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -35,7 +223,7 @@
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
       "publishedAt": "00:05",
-      "relativeTime": "3 小时前",
+      "relativeTime": "14 小时前",
       "titleZh": "在Meta之前，我构建了一个人工智能Tamagotchi",
       "summaryZh": "马克·扎克伯格（ Mark Zuckerberg ）的Meta让人工智能看起来很可爱，给它一张柔软的小脸-这个假日季节，他想卖给你一个缪斯魅力，这样你就可以像Tamagotchi一样随身携带你快乐的人工智能助手。 但我不会买一个，因为我们家里有Muse Charm。它……"
     },
@@ -51,21 +239,21 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1584568.htm",
       "publishedAt": "01:14",
-      "relativeTime": "2 小时前"
+      "relativeTime": "12 小时前"
     }
   ],
   "trendLines": [
-    "资本继续筛选能够形成收入与基础设施壁垒的 AI 公司。",
     "AI 产品更新加快，能力正进入更多日常工作流。",
-    "大模型仍是今日高频主线，能力、价格与生态策略持续变化。"
+    "AI 算力竞争继续转向推理能效、供应能力与整体成本。",
+    "Agent 基础设施和产品落地同步推进，行业更关注任务完成率。"
   ],
   "pendingItems": [
-    "本轮有 3 条来自可靠媒体的报道，后续将继续追踪官方确认。",
-    "3 个信息源本轮暂时不可用，系统会在下一轮自动重试。"
+    "本轮有 16 条来自可靠媒体的报道，后续将继续追踪官方确认。",
+    "1 个信息源本轮暂时不可用，系统会在下一轮自动重试。"
   ],
   "scanStats": {
     "configuredSources": 19,
-    "successfulSources": 16,
-    "candidateCount": 3
+    "successfulSources": 18,
+    "candidateCount": 16
   }
 }
