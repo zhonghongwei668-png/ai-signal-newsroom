@@ -7464,6 +7464,30 @@
     "5515ce3e5cd4cefc71edede62604e68541c253c7299441af1624e7570d809249": {
       "source": "3.42.1 (2026-11-01) Bug Fixes api: preserve Responses WebSocket connection behavior ( #4221 ) ( 38075d8 ) realtime: validate beta WebSocket authentication profiles ( #4218 ) ( 3622a97 ) Refactors websocket: add SDK-owned Responses policy helpers ( #4219 ) ( 83ed269 )",
       "zh": "3.42.1 (2026-11-01)错误修复api: preserve Responses WebSocket connection behavior (# 4221) (38075d8) realtime: validate beta WebSocket authentication profiles (# 4218) (3622a97) Refactors websocket: add SDK-owned Responses policy helpers (# 4219) (83ed269)"
+    },
+    "c5a9f23180191ee4c222f5b6a051fbb6c27f8a5524f0fdb3a7d42d891d9e374e": {
+      "source": "The latest AI news we announced in October 2026\nZXQSEPZXQ\nAnimated carousel of images from AI posts in October",
+      "zh": "我们于 2026 年 10 月公布的最新 AI 新闻\nZXQSEPZXQ\n10 月份 AI 帖子图像的动画轮播"
+    },
+    "0ae3bf3ab987ae1fc1c3ac8ad8f6a37d4aa7ce798cde235b959e1b5b905a5e70": {
+      "source": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls\nZXQSEPZXQ\nThe New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the co…",
+      "zh": "《纽约时报》起诉 Brave 网络浏览器进行人工智能抓取和绕过付费墙\nZXQSEPZXQ\n据路透社报道，《纽约时报》和其他一些出版物已对这家生产 Brave 网络浏览器的公司提起诉讼，指控该公司涉嫌非法抓取数据来训练人工智能，并让用户绕过付费墙。根据该公司提交的投诉..."
+    },
+    "77f1c8a961291a57ccd258d9017c05eb23267fbb741603e26ccaec955b223730": {
+      "source": "Raising the quality of insights in agentic analytics\nZXQSEPZXQ\nIn just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is…",
+      "zh": "提高代理分析洞察的质量\nZXQSEPZXQ\n在短短几年内，生成式人工智能改变了企业分析的面貌，特别是让整个组织的用户都可以访问分析。代理人工智能有望通过自动化整个工作流程并根据代理洞察采取行动来完成更多任务。但有……"
+    },
+    "bd13330d2479b09fb0af8f4634f0460b6c397a67a277309f6d86a9a0dfce310a": {
+      "source": "OpenAI pitches data center power plants as a way to protect nearby areas\nZXQSEPZXQ\nIn an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioner…",
+      "zh": "OpenAI 推介数据中心发电厂作为保护附近地区的一种方式\nZXQSEPZXQ\nOpenAI 在周一的公告中表示，将在佐治亚州埃芬汉县即将建成的数据中心试行“电网保护者计划”，该公司承诺在极端天气或紧急情况下释放高达 1,000 兆瓦的电力，足以为空调提供动力……"
+    },
+    "86c2336dd9183f779ee57983275721ab30c308e46228ae6cb987cf4b7ecb3b67": {
+      "source": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’\nZXQSEPZXQ\nHere's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "zh": "42AI 以 6250 万美元的价格脱颖而出，拥有一个可以“预测人类行为”的世界模型\nZXQSEPZXQ\n这是一个直接来自科幻小说的问题：如果人工智能能够在你决定做什么之前预测你将要做什么，即使是在一个全新的情况下，会怎么样？"
+    },
+    "43f6a795d22a1c96aa9a55eb20610780b31d9e8d4f9033ffccdeeb4888faeab5": {
+      "source": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs\nZXQSEPZXQ\nMusk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+      "zh": "由于成本“不可持续的高”，埃隆·马斯克限制了 Grok Bot 的限制\nZXQSEPZXQ\n马斯克最近称 Grok Bot 是“我一生中见过的增长最快的产品”。"
     }
   }
 }
