@@ -7452,6 +7452,18 @@
     "f32b6d81d8e1fe1697b66e7f180f8f4ac68947e3abf5675a6107a92e472e7083": {
       "source": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences\nZXQSEPZXQ\nOutsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
       "zh": "聊天机器人让徒步旅行者误入歧途，带来危险的后果\nZXQSEPZXQ\n将规划外包给人工智能可能会导致人们放弃自己的批判性思维，这可能会在偏远地区等地方产生潜在的致命后果。"
+    },
+    "32b2eee8621f58ebebf3668b2e3fcc87f661491e5a85db5635fc759e9b171f87": {
+      "source": "OpenAI might rebrand its data centers as ‘AI compute campuses’\nZXQSEPZXQ\nData centers are deeply unpopular. But what if we called them something else?",
+      "zh": "OpenAI可能会将其数据中心重新命名为“AI计算园区”\nZXQSEPZXQ\n数据中心非常不受欢迎。 但是，如果我们称之为其他东西呢？"
+    },
+    "1b2eba690a5c5d3bbe90028ba61eef1f42dfddbeeddf763fbfe4bf52ce44aab4": {
+      "source": "AI can make tech CEOs’ lives easier. What about everyone else?\nZXQSEPZXQ\nOn Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "zh": "人工智能可以让科技CEO的生活更轻松。 其他人呢？\nZXQSEPZXQ\n在Equity上，我们讨论了为什么科技公司首席执行官的声明看起来如此充耳不闻。"
+    },
+    "5515ce3e5cd4cefc71edede62604e68541c253c7299441af1624e7570d809249": {
+      "source": "3.42.1 (2026-11-01) Bug Fixes api: preserve Responses WebSocket connection behavior ( #4221 ) ( 38075d8 ) realtime: validate beta WebSocket authentication profiles ( #4218 ) ( 3622a97 ) Refactors websocket: add SDK-owned Responses policy helpers ( #4219 ) ( 83ed269 )",
+      "zh": "3.42.1 (2026-11-01)错误修复api: preserve Responses WebSocket connection behavior (# 4221) (38075d8) realtime: validate beta WebSocket authentication profiles (# 4218) (3622a97) Refactors websocket: add SDK-owned Responses policy helpers (# 4219) (83ed269)"
     }
   }
 }
