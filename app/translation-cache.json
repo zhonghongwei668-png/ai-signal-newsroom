@@ -7536,6 +7536,94 @@
     "493d192657c43b6fc63994daad12a43d852c74170a2650f5fc552c0b8a1eb6f1": {
       "source": "Features api: add GA methods for analytics, spend limits and RBAC api: add named beta types for unified metrics and RBAC delete responses api: add shared analytics order and increase request actor types api: add tool_use_limit_reached_error and compaction_limit_reached_error ses…",
       "zh": "功能 api：添加用于分析、支出限制和 RBAC 的 GA 方法 api：添加统一指标的命名 beta 类型和 RBAC 删除响应 api：添加共享分析订单并增加请求参与者类型 api：添加 tool_use_limit_reached_error 和 compaction_limit_reached_error ses..."
+    },
+    "0549f33faa3a2d7dbaf69d47387ed594a3f3201070a80ed0a19f36f2ff8e2cdd": {
+      "source": "Agentic cheminformatics with Google Antigravity\nZXQSEPZXQ\nLearn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "zh": "使用 Google Antigravity 进行代理化学信息学\nZXQSEPZXQ\n了解 Google Antigravity 和我们的化学信息学技能如何加速药物发现工作流程、搜索化合物并提出新型刚性大环化合物。"
+    },
+    "b9c71f328dad32f32211722d18df40cb7b274480ed9db47def5e9d566b76a1ef": {
+      "source": "The biggest modding site in PC gaming is taking a stance on AI\nZXQSEPZXQ\nThe PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the pla…",
+      "zh": "PC 游戏中最大的模组网站正在对人工智能采取立场\nZXQSEPZXQ\nPC 游戏模组存储库 Nexus Mods 正在上传新模组时强制披露有关人工智能的信息，这意味着模组作者必须声明“是否在他们的工作中使用了人工智能”，该网站今天宣布，作为该平台上关于人工智能生成内容的大型帖子的一部分……"
+    },
+    "2864ac3b296d56b852ba8a04f7b94334ff2fd07828c0258c0f3045619973c653": {
+      "source": "3.45.0 (2026-11-03) Features api: add 12-hour Responses caching and cache-write usage ( #4240 ) ( 5f717b5 ) api: add project service tier settings ( #4239 ) ( 1a2a3d0 ) Documentation clarify generated-file ownership ( #4241 ) ( 0309a8c )",
+      "zh": "3.45.0 (2026-11-03) 功能 api：添加 12 小时响应缓存和缓存写入使用 ( #4240 ) ( 5f717b5 ) api：添加项目服务层设置 ( #4239 ) ( 1a2a3d0 ) 文档阐明生成的文件所有权 ( #4241 ) ( 0309a8c )"
+    },
+    "51fb98d446ded2394bb34a12e3355574e642739b7583b246129c5c96059e65f0": {
+      "source": "Anthropic is working on a system to prove AI models’ identity\nZXQSEPZXQ\nCalled FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "zh": "Anthropic正在开发一个证明AI模型身份的系统\nZXQSEPZXQ\n该系统名为 FlashProve，可以让任何人检查人工智能响应是否确实来自其声称的模型。"
+    },
+    "ed3f1b8c9f325f0169d47086d799fd73e5c753159dff34b19a3122862b5d6106": {
+      "source": "Please stop asking me when the AI bubble will pop\nZXQSEPZXQ\nPeople, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made m…",
+      "zh": "请不要再问我人工智能泡沫何时破灭\nZXQSEPZXQ\n人们，包括这里的员工，不断以不同程度的兴奋或恐惧问我人工智能泡沫何时会破裂。我会告诉你我告诉他们的话：如果我知道这一点，我会在市场上做出改变生活的赌注，尽可能地提高杠杆率，然后，在我做出我的决定之后......"
+    },
+    "25af2a94ea1f2af6835347a1ce14d9867ccb35767fece4ff4bdc5738f5a914fd": {
+      "source": "Data centers are turning to old jet engines as the wait for power grows\nZXQSEPZXQ\nThe years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "zh": "随着电力等待时间的增加，数据中心正在转向旧的喷气发动机\nZXQSEPZXQ\n长达数年的等待接入电网和新涡轮机的过程导致数据中心建设者转向一种不寻常、效率较低且不太环保的解决方案：曾经废弃的喷气发动机。"
+    },
+    "d40a5289aa640f31a1326e273341776beda920aa71b1110028d11347fe1c0ed1": {
+      "source": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom\nZXQSEPZXQ\nCybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "zh": "Ted Schlein 的 Ballistic Ventures 在人工智能驱动的网络安全热潮中寻求 4.9 亿美元的新资金\nZXQSEPZXQ\n专注于网络安全的 Ballistic Ventures 正在寻求为新的旗舰基金筹集 3.6 亿美元，并为单独的投资工具筹集 1.3 亿美元。"
+    },
+    "0f24d58443d54215dd295a24f545dc3bcc505e645dba7210cc3aa4563753ed2e": {
+      "source": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal\nZXQSEPZXQ\nPalantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+      "zh": "Palantir 飙升的季度隐藏着一个不祥的信号\nZXQSEPZXQ\nPalantir 在美国的商业收入首次超过美国政府收入。"
+    },
+    "327446405153394fa4f15e94fbf7470e0170631ec36508b7847fb8d0aa07d84f": {
+      "source": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It\nZXQSEPZXQ\nDemand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause a…",
+      "zh": "人工智能正在改变半导体工厂的工作方式——工程师的行动速度也因此加快\nZXQSEPZXQ\n对先进芯片的需求正在上升。构建它们的过程变得越来越复杂。而且犯错的余地正在缩小。对于工程师来说，了解流程变化将如何表现、材料如何与新步骤相互作用、缺陷如何映射回根本原因......"
+    },
+    "5ec8ba5fda30f7624e7bc8c5b89283124669ccbbdbdf30e3c3443081df04b42d": {
+      "source": "Indie games are missing launch dates because Steam is backed up\nZXQSEPZXQ\nMany indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcom…",
+      "zh": "由于 Steam 备份，独立游戏错过了发布日期\nZXQSEPZXQ\n许多独立游戏开发商最近在社交媒体上发帖称，他们在 Steam 上提交的游戏的审批等待时间出人意料地漫长，其中一些审批导致开发商错过了计划的发布日期。例如，Studio Daimon，upcom 背后的团队……"
+    },
+    "86f0cd6334086424910e7bbaadc2e04b652be657483af1876ee4c521ba9f0058": {
+      "source": "Those Jeff Bezos hair transplant photos are very fake\nZXQSEPZXQ\nAmazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they bot…",
+      "zh": "那些杰夫·贝佐斯的植发照片非常假\nZXQSEPZXQ\n亚马逊创始人杰夫·贝索斯和演员杰森·斯坦森有一个显着的共同点：他们都是出了名的秃头，而且在过去的几天里这一点绝对没有改变。然而，有一些两人的照片在 X、Threads 和 Bluesky 中流传，其中他们的机器人……"
+    },
+    "b8df19333ec636e424df7937e4558673b2028e356e4ebef558f836066dc6e095": {
+      "source": "AI inference startup Fal doubles its valuation to $16B as demand surges\nZXQSEPZXQ\nThe five-year-old startup raised a $1.3 billion round led by Bessemer.",
+      "zh": "随着需求激增，人工智能推理初创公司 Fal 估值翻倍至 $16B\nZXQSEPZXQ\n这家成立五年的初创公司筹集了由 Bessemer 领投的 13 亿美元融资。"
+    },
+    "20ac514bb64613512f5b7a204aee6f65061c3d887d32df91497616d49e0426f0": {
+      "source": "Apple starts giving Siri AI access to third-party apps\nZXQSEPZXQ\nApple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, proces…",
+      "zh": "苹果开始允许 Siri AI 访问第三方应用程序\nZXQSEPZXQ\n苹果现在将允许 Siri AI 在第三方应用程序中执行操作。作为周二推出的 iOS 27.3 更新的一部分，苹果宣布开发者现在可以将 Siri AI 的新功能集成到“所有应用程序”中，从而使语音助手能够利用用户的个人上下文、过程……"
+    },
+    "5153081f966404182c6fa09cab24f3efcf50f10e881f68c1c32d02a647cca83d": {
+      "source": "StateBench: Testing how language models track state changes over long documents\nZXQSEPZXQ\nStateBench: Testing how language models track state changes over long documents。",
+      "zh": "StateBench：测试语言模型如何跟踪长文档的状态变化\nZXQSEPZXQ\nStateBench：测试语言模型如何跟踪长文档的状态变化。"
+    },
+    "0ba6b4e6cd0f46a428e265f7f5945516d4021a347d5bc0af85d58132c0ba7957": {
+      "source": "Netflix’s new AI Discover tab helps you find something to watch based on your mood\nZXQSEPZXQ\nThe first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "zh": "Netflix 的新 AI Discover 选项卡可帮助您根据心情找到要观看的内容\nZXQSEPZXQ\n该选项卡下的第一个实验性功能将允许用户根据他们当前的心情获得推荐。"
+    },
+    "15df9f5e29c7405555d97c8358b0f069164d0c43de0af1e02254219696166f81": {
+      "source": "Palette: teaching a small model to build decks in your design language\nZXQSEPZXQ\nPalette: teaching a small model to build decks in your design language。",
+      "zh": "Palette：教一个小模型用你的设计语言构建牌组\nZXQSEPZXQ\nPalette：教一个小模型用你的设计语言构建牌组。"
+    },
+    "1e0ac72aa8ec2721f1e14d4fade7e57abbb3d51df65afe01ef1c4f7b33ba6089": {
+      "source": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features\nZXQSEPZXQ\nStarting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, a…",
+      "zh": "Apple 最新的 watchOS Beta 版包含全新的始终在线音频智能功能\nZXQSEPZXQ\n从今天开始，Siri 可以通过音频智能功能调到 Apple Watch 的麦克风，这些功能在现已推出的新 watchOS 27.3 开发者测试版中提供。这两个新功能是 Siri Recap，它使用“环境聆听”来生成对话摘要，..."
+    },
+    "9a4f165d011002463c963e1871b15ad0440acb74f6121b51f24316e3053bdc3b": {
+      "source": "OpenAI says ChatGPT is catching up to Google in search\nZXQSEPZXQ\nIn many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the a…",
+      "zh": "OpenAI 表示 ChatGPT 在搜索方面正在追赶 Google\nZXQSEPZXQ\n在许多圈子里，“Ask Chat”已经取代了“Google it”，这反映在 OpenAI 的新公告中：通过 ChatGPT 运行的搜索查询量现在等于通过 Google 运行的搜索量的 20%。 OpenAI 的 ChatGPT 消费产品负责人 Adam Fry 做出了……"
+    },
+    "70784efebeaba17ed18dd05c7c9715de9ee60784ee1e5e578fcd2aab97adc1a8": {
+      "source": "3.44.0 (2026-11-03) Features api: add workload identity providers and federation rules ( #4237 ) ( 12709d7 )",
+      "zh": "3.44.0 (2026-11-03) 功能 api：添加工作负载身份提供程序和联合规则 (#4237) (12709d7)"
+    },
+    "057edd4ea8acbef0ff26a810dfd68784c9c92d89160bcaaab4d5c5cb71c198b8": {
+      "source": "Anthropic is still grappling with the economics of compute\nZXQSEPZXQ\nAt a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "zh": "Anthropic 仍在努力解决计算的经济问题\nZXQSEPZXQ\n当 Anthropic 的计算利润应该变得更好时，它们却变得更糟。"
+    },
+    "722ac7e1914f330ccb4f976f6f9bb6c0c630165c589c5baeaf539fdc55290f5a": {
+      "source": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab\nZXQSEPZXQ\nNetflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or…",
+      "zh": "Netflix 将通过新的“AI Discover”标签向您展示主题推荐\nZXQSEPZXQ\nNetflix 的电视应用程序将获得一个新的“AI Discover”选项卡，该公司将在其中展示实验性的、人工智能驱动的功能，以帮助您找到可观看的新节目和电影。第一个实验围绕主题呈现内容，例如“轻的东西”、“家庭电影之夜”或……"
+    },
+    "eea0d2de445dbc223c0fdebcbb418c899a3b2b9d66df044fb2aaadd6f22f98e3": {
+      "source": "Google will let schools disable its AI tools, but not without sacrificing Search\nZXQSEPZXQ\nSchools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+      "zh": "谷歌将允许学校禁用其人工智能工具，但不会牺牲搜索\nZXQSEPZXQ\n选择完全限制人工智能的学校将无法再访问谷歌搜索，因为人工智能功能现已集成到搜索引擎中。"
     }
   }
 }
