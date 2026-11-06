@@ -7808,6 +7808,42 @@
     "a22e33615b1a3fc1455caa1f4dce2963c3b9f89897d9112c060e4218986c3ba0": {
       "source": "Features api: add error code for ramp limit errors api: add error codes for External Key validation failures api: add support for signing organization members out everywhere Bug Fixes bedrock,vertex: raise error-code and status exception classes on platform clients bedrock: keep…",
       "zh": "功能 api：为斜坡限制错误添加错误代码 api：为外部密钥验证失败添加错误代码 api：添加对到处签名组织成员的支持 错误修复 基岩、顶点：在平台客户端上引发错误代码和状态异常类 基岩：保持..."
+    },
+    "e4ba6118a585815b4fe6ea651e63074ed5d57cb6586fcca7cf1bb2f93715e500": {
+      "source": "ToyBlocks: A controlled world for robot learning and evaluation\nZXQSEPZXQ\nToyBlocks: A controlled world for robot learning and evaluation。",
+      "zh": "ToyBlocks：用于机器人学习和评估的受控世界\nZXQSEPZXQ\nToyBlocks：用于机器人学习和评估的受控世界。"
+    },
+    "2e6ba06ccdffb2d3e62f64419e3d7993cbff87d20fce4fd4a6e389062fceba64": {
+      "source": "Physicl raises $10M to make the digital world real enough for robots\nZXQSEPZXQ\nPhysicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "zh": "Physicl 筹集 1000 万美元，让数字世界对机器人来说足够真实\nZXQSEPZXQ\nPhysicl 正试图通过最初为在线销售商品而建立的管道来解决模拟与现实之间的差距。"
+    },
+    "0980c3dbd61e0ac2563dfd99219ea733885a3ce2e2576eb37af2614e04c8b1f1": {
+      "source": "Ramp data shows AI spending stalling just as Anthropic nears its IPO\nZXQSEPZXQ\nAI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "zh": "斜坡数据显示，就在 Anthropic 接近 IPO 之际，人工智能支出陷入停滞\nZXQSEPZXQ\n人工智能的使用不断攀升，但支出却停滞不前。最大支出者的降价和更明智的成本控制可能会挑战投资者对人工智能高速增长的假设。"
+    },
+    "b820c06a1e99cadf2476c3a42119cafd6955fad88fd9cfbc3bc9486862b2cb5d": {
+      "source": "After blocking Muse, Amazon now lets users text Alexa to help them shop\nZXQSEPZXQ\nAmazon said that the feature will roll out to millions of users in coming weeks.",
+      "zh": "屏蔽 Muse 后，亚马逊现在允许用户向 Alexa 发送短信以帮助他们购物\nZXQSEPZXQ\n亚马逊表示，该功能将在未来几周内向数百万用户推出。"
+    },
+    "7837fb6b997ab13a83f4f1e05eb5ba711ce1be2a1483800ff46f68cbc2833e0d": {
+      "source": "Patch release v5.22.2\nZXQSEPZXQ\nPatch release v5.22.2 Some in between patch for security and distributed fixes. See the included commits 🤗 [Distributed] Set device_id only for NCCL ( #50281 ) by @michaelbenayoun and @3outeille Harden our Jinja sandboxing ( #50431 ) by @Rocketknight1 Full Changelog : v5.22.1…",
+      "zh": "补丁发布v5.22.2\nZXQSEPZXQ\n补丁版本 v5.22.2 一些介于安全补丁和分布式修复之间的补丁。请参阅包含的提交 🤗 [分布式] 仅针对 NCCL (#50281) 设置 device_id，作者为 @michaelbenayoun 和 @3outeille 强化我们的 Jinja 沙箱 (#50431)，作者为 @Rocketknight1 完整变更日志：v5.22.1…"
+    },
+    "189426ae1d085aae5f6bef0bc0c292877151e30a925cd8045f64542f8ff53fa0": {
+      "source": "Underdog shows off a 32MB speech model in new demo\nZXQSEPZXQ\nDespite its small size, Underdog's new model can generate both speech and music.",
+      "zh": "Underdog 在新演示中展示了 32MB 的语音模型\nZXQSEPZXQ\n尽管尺寸很小，Underdog 的新模型可以生成语音和音乐。"
+    },
+    "8655621144039a953080149cb57f3f096acf073659fc52b0eee1e5103ca3a448": {
+      "source": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.\nZXQSEPZXQ\nI’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signe…",
+      "zh": "我看到一个人形机器人打扫我的公寓。感觉就像是未来的味道。\nZXQSEPZXQ\n我不是那种通常花钱请房屋清洁工的人。我太节俭了，而且我有点喜欢放播客，然后带着魔法橡皮擦在浴缸上进城。但当我看到一篇关于旧金山新的人形机器人清洁服务的 X 帖子时，我立即签名……"
+    },
+    "180061e7e8136b189d30f2d28eab804f9de909eb15dd6b71a6fe29a817f383c8": {
+      "source": "Protesters break into Microsoft data center site in Amsterdam\nZXQSEPZXQ\nProtesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports t…",
+      "zh": "抗议者闯入阿姆斯特丹的微软数据中心\nZXQSEPZXQ\n今天早上，抗议者闯入阿姆斯特丹微软新数据中心的建筑工地。 Geef Tegengas 团体的成员帮助组织了抗议活动，反对在阿姆斯特丹郊区建造三座 85 米高的数据中心塔楼。路透社报道..."
+    },
+    "7fd4e43751221ddd4385ba92f4b4e386e68abf1c1d467dee1b135ba635637852": {
+      "source": "Egyptian and Nigerian English join the Open ASR Leaderboard\nZXQSEPZXQ\nEgyptian and Nigerian English join the Open ASR Leaderboard。",
+      "zh": "埃及语和尼日利亚英语加入 Open ASR 排行榜\nZXQSEPZXQ\n埃及语和尼日利亚英语加入 Open ASR 排行榜。"
     }
   }
 }
