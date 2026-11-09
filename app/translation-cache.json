@@ -7936,6 +7936,30 @@
     "167f860c3ac252517d76eeaf588f6b8bdc60b954f4d81840aa84528c3a85579e": {
       "source": "Apple is racing to make Siri more agentic\nZXQSEPZXQ\nBloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly sh…",
       "zh": "苹果正在竞相让 Siri 变得更加代理\nZXQSEPZXQ\n彭博社的 Mark Gurman 表示，首席执行官 John Ternus 正在向 AI 沙皇 Craig Federighi 施压，要求其加快 Siri 路线图，并提供一个强大的 AI 代理，可以与 OpenAI 的 Dots 或 Meta 的 Muse 竞争。虽然 Federighi 以令人难以置信的速度交付了 Siri AI 的功能版本……"
+    },
+    "1a0a9ee3228b25d8816cb24a1adc3a452683b8bf5fc79bb41d2664d8c9951543": {
+      "source": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA\nZXQSEPZXQ\nAs AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShel…",
+      "zh": "韩国的人工智能生态系统通过 NVIDIA 推进并保护代理人工智能\nZXQSEPZXQ\n随着人工智能代理承担更多工作，他们需要强大的开放模型和与之一起进步的安全性。现代汽车集团正在探索 NVIDIA NemoClaw 蓝图和 NVIDIA OpenShell 运行时，而 AIM Intelligence 正在将其 Starfort 平台与 NVIDIA OpenShel 集成......"
+    },
+    "77d61ad246a32bf14a138f87bf9939e72752c72515cd26d03545caa83a394cff": {
+      "source": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration\nZXQSEPZXQ\nNVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for…",
+      "zh": "从芯片到技能，NVIDIA与韩国扩大主权人工智能合作\nZXQSEPZXQ\nNVIDIA 和韩国科学与信息通信技术部 (MSIT) 正在扩大在该国主权人工智能生态系统中的合作，从人工智能半导体和数据中心基础设施到人才、初创公司、模型、代理和安全。此次合作为……奠定了基础"
+    },
+    "73b5d1d3b17862f628f88dca952b18bf9d7f5456ba5e90dbc6dbfbcdc5921ec1": {
+      "source": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production\nZXQSEPZXQ\nNVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be spli…",
+      "zh": "NVIDIA Dynamo Recipes 将韩国领先的开放式模型投入生产\nZXQSEPZXQ\nNVIDIA 正在发布针对韩国领先开放模型的 Dynamo 优化部署方案：SK Telecom 的 A.X K2、LG AI Research 的 K-EXAONE 2.0、Upstage 的 Solar Open 2 和 Motif Technologies 的 Motif-3。随着模型的增长超出单个 GPU 的容量，它们必须被分割……"
+    },
+    "dc8e16485f72019140ce181e218808ad3cb7b18176455b363adb65e148536e75": {
+      "source": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”\nZXQSEPZXQ\nNvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+      "zh": "黄仁勋的工作岌岌可危吗？耶鲁大学的 Jeffrey Sonnenfeld 估计“大约是 50-50”\nZXQSEPZXQ\n英伟达董事会正在调查黄仁勋与一名疑似中国间谍的关系，耶鲁大学的杰弗里·索南菲尔德认为，黄仁勋是否继续担任首席执行官，这几乎是一个硬币决定问题。"
+    },
+    "31f8c10b9bd8c9da354932748a4df4db3e334a5e528f9f62d1b3912ac3653973": {
+      "source": "Here’s the full text of Jensen Huang’s memo to Nvidia\nZXQSEPZXQ\nOn Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees ack…",
+      "zh": "以下是黄仁勋给 Nvidia 的备忘录全文\nZXQSEPZXQ\n周日，英伟达宣布将对首席执行官黄仁勋 (Jensen Huang) 与人工智能高管兼中国政府代理人 Alice Huang 的关系展开调查。除了董事会宣布展开调查外，黄仁勋还向 Nvidia 员工发送了一份备忘录，确认……"
+    },
+    "65557a5d09b69ca99aa57f3fb34c287a964cc2194e334498a42bc6e39f6278bc": {
+      "source": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy\nZXQSEPZXQ\nIn a memo to the company, Huang admitted that he had an affair.",
+      "zh": "英伟达将调查首席执行官黄仁勋与可能的中国间谍的关系\nZXQSEPZXQ\n在给公司的一份备忘录中，黄承认自己有外遇。"
     }
   }
 }
