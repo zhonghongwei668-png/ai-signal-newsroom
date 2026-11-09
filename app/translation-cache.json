@@ -7960,6 +7960,38 @@
     "65557a5d09b69ca99aa57f3fb34c287a964cc2194e334498a42bc6e39f6278bc": {
       "source": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy\nZXQSEPZXQ\nIn a memo to the company, Huang admitted that he had an affair.",
       "zh": "英伟达将调查首席执行官黄仁勋与可能的中国间谍的关系\nZXQSEPZXQ\n在给公司的一份备忘录中，黄承认自己有外遇。"
+    },
+    "c09bac948d86b96b9de81807c622b6eb0b869be20cec9205253aa325f3587058": {
+      "source": "Meta releases Muse Ember, a new lightweight model for agent execution\nZXQSEPZXQ\nAt 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "zh": "Meta发布Muse Ember ，一种新的轻量级代理执行模型\nZXQSEPZXQ\nEmber以每百万个输入代币10美分的价格，比Haiku和Luna等前沿竞争对手便宜得多。"
+    },
+    "9aef9c69bb281e82d20d0220bd376023e6add21933082ed3bbde931aaf47b0d4": {
+      "source": "Instagram’s Effect Builder makes new filters from AI prompts\nZXQSEPZXQ\nAfter expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatb…",
+      "zh": "Instagram的效果生成器根据人工智能提示制作新的过滤器\nZXQSEPZXQ\n在上周将其编辑应用程序扩展到macOS之后， Instagram的下一步是推出此效果生成器，它可以使用AI为您的故事帖子生成自定义过滤器。 现在适用于18岁以上的美国居民，它有一个提示框，用于向聊天室描述您的筛选创意……"
+    },
+    "2ca5c2e9feaebbbf10a9b106a65f3a68053b7a8f279373e82183ab6d04fb6cc9": {
+      "source": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny\nZXQSEPZXQ\nJensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+      "zh": "黄延森与涉嫌中国间谍的婚外情使英伟达的中国野心受到严格审查\nZXQSEPZXQ\nJensen Huang涉嫌与一名涉嫌中国间谍发生关系，这可能会使英伟达放松美国芯片出口限制并保持进入中国利润丰厚的人工智能市场的游说努力复杂化。"
+    },
+    "4166ce34a5c0dc58b99124b0dbfbcc208040f9f897fe223394c62e07574bd441": {
+      "source": "Nancy Pelosi’s replacement is ready to regulate AI\nZXQSEPZXQ\nAs a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy…",
+      "zh": "南希·佩洛西（ Nancy Pelosi ）的继任者已经准备好监管\nZXQSEPZXQ\n作为加利福尼亚州参议员，斯科特·维纳（ Scott Wiener ）撰写了旨在遏制先进人工智能风险的立法。 现在，在赢得前众议院议长南希·佩洛西(Nancy Pelosi)在旧金山的空缺席位后，他可以在制定联邦人工智能政策方面发挥关键作用……"
+    },
+    "df6608ffe8e2630c68f50a156ba67af0a8fe598f59805c6d2fa32572f94abb84": {
+      "source": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines\nZXQSEPZXQ\nAnthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.",
+      "zh": "Anthropic加入AI的天然气狂潮，购买价值34亿美元的涡轮机\nZXQSEPZXQ\nAnthropic购买了价值数十亿美元的天然气涡轮机，这笔交易可能会让买家后悔。"
+    },
+    "112c75084d42a22461fd9e283ef98c3b403165d7650ddb56c3695ae0c2112a97": {
+      "source": "The future of AI hinges on… Jensen Huang’s sex life?\nZXQSEPZXQ\nI would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around…",
+      "zh": "AI的未来取决于… Jensen Huang的性生活？\nZXQSEPZXQ\n我希望这些人的性生活与我无关，但我想我们必须谈谈Jensen Huang和国家安全事件。 谁能猜到，在这里签奶的家伙可能对如何行事没有很好的判断力……"
+    },
+    "2272b1b486d9e6736eea703feff7fb4691d0059d6c13be76097ecfc15fa6631e": {
+      "source": "Medium’s new TK app brings AI assistance directly into the writing process\nZXQSEPZXQ\nMedium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+      "zh": "Medium的新TK应用程序将AI辅助直接带入写作过程\nZXQSEPZXQ\nMedium的新写作应用程序采用了人工智能辅助写作，尽管人们对该技术在出版中的作用越来越有争议。"
+    },
+    "efeb9ab5e77a17a358bb3230d39bd0fe246ba78e49735f50f2eca4e5c492b6dd": {
+      "source": "3.48.0 (2026-11-09) Features api: add stream options for agent sessions ( #4251 ) ( c6fc264 ) api: recognize gpt-6-rosalind in beta Responses ( #4257 ) ( 3774b7e ) Chores api: retain agent scheduling support ( #4255 ) ( a1175a3 ) deps: bump locked multidict from 6.9.1 to 7.1.0 (…",
+      "zh": "3.48.0 (2026-11-09)功能api ：为代理会话添加流选项(# 4251) (c6fc264) api ：在测试版中识别gpt-6-rosalind响应(# 4257) (3774b7e) Chores api ：保留代理调度支持(# 4255) (a1175a3) deps ：从6.9.1到7.1.0 (…"
     }
   }
 }
