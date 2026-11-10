@@ -7992,6 +7992,78 @@
     "efeb9ab5e77a17a358bb3230d39bd0fe246ba78e49735f50f2eca4e5c492b6dd": {
       "source": "3.48.0 (2026-11-09) Features api: add stream options for agent sessions ( #4251 ) ( c6fc264 ) api: recognize gpt-6-rosalind in beta Responses ( #4257 ) ( 3774b7e ) Chores api: retain agent scheduling support ( #4255 ) ( a1175a3 ) deps: bump locked multidict from 6.9.1 to 7.1.0 (…",
       "zh": "3.48.0 (2026-11-09)功能api ：为代理会话添加流选项(# 4251) (c6fc264) api ：在测试版中识别gpt-6-rosalind响应(# 4257) (3774b7e) Chores api ：保留代理调度支持(# 4255) (a1175a3) deps ：从6.9.1到7.1.0 (…"
+    },
+    "1ee2d5c7a6769063a4653c30c245204ba7c8454f694affc6b3de6e8487df59f5": {
+      "source": "ChatGPT Enterprise now available in AWS Marketplace\nZXQSEPZXQ\nChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "zh": "ChatGPT Enterprise 现已在 AWS Marketplace 上提供\nZXQSEPZXQ\nChatGPT Enterprise 现已通过 AWS Marketplace 提供，帮助组织通过现有的 AWS 采购和计费关系简化采购。"
+    },
+    "323c7339f5f418b84057f06eaf7b4a9d7144e141eb145852d519d2c57116ef99": {
+      "source": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information\nZXQSEPZXQ\nA researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
+      "zh": "英国政府网站的安全漏洞暴露了“上帝级”信息\nZXQSEPZXQ\n研究人员对公开代码的搜索发现，多个部门的私人信息都面临风险。"
+    },
+    "1863825d2966b687ef546865b526174637bddbab222d277fc14b7c96851ab449": {
+      "source": "3.49.0 (2026-11-10) Features api: add typed async function tools ( #4264 ) ( ea07983 ) Bug Fixes encode microphone recordings as valid PCM WAV ( #3900 ) ( 13c000d )",
+      "zh": "3.49.0 (2026-11-10) 功能 api：添加类型化异步功能工具 (#4264) (ea07983) 错误修复将麦克风录音编码为有效的 PCM WAV (#3900) (13c000d)"
+    },
+    "a3081f960ab61473bf0b7909b3d575d575f9e8f630736c19d4e9fb6d8e9322c0": {
+      "source": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure\nZXQSEPZXQ\nDeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
+      "zh": "Google DeepMind 的新人工智能工具证明信号协议是安全的\nZXQSEPZXQ\nDeepMind 研究人员能够正式验证广泛使用的加密协议是否按预期工作。他们的延伸目标？对“世界上所有的软件”做同样的事情。"
+    },
+    "8b3060abb7de049b09574b544b3bf7dd13b5d48c18839ab3b30bd8c038f2da7e": {
+      "source": "Anthropic reportedly plans to move forward with IPO plans\nZXQSEPZXQ\nThe AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "zh": "据报道Anthropic计划推进IPO计划\nZXQSEPZXQ\n据《华尔街日报》报道，这家人工智能公司预计将在本周确定估值范围。"
+    },
+    "17e11976e6b424d606635bcf5dbba718414c5be11e8f0928c11b22d2b6a9f704": {
+      "source": "David Ellison says AI could be the ‘biggest creative unlock in modern history’\nZXQSEPZXQ\nDuring Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at product…",
+      "zh": "大卫·埃里森表示人工智能可能是“现代历史上最大的创意解锁”\nZXQSEPZXQ\n在派拉蒙 Skydance 最新的财报电话会议上，首席执行官大卫·埃里森 (David Ellison) 表示，“很难想象”人工智能对电影业的影响不会比 CGI 更大。在回答有关公司人工智能前景的问题时，埃里森表示：“我认为，当你缩小范围并审视产品时......"
+    },
+    "60078840411d5c37fc494be688a7fa3a54df7eadb0635944df4f0c7d936d50a3": {
+      "source": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago\nZXQSEPZXQ\nThe PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "zh": "据报道，黄仁勋一年前聘请了一家有处理高调性丑闻历史的公关公司\nZXQSEPZXQ\n据《连线》报道，在《纽约时报》2025 年 10 月的一篇报道描述了 Alice Huang 与 Jensen Huang 的业务往来后不久，这家公关公司就加入了该公司。"
+    },
+    "9bbeca1afcc419bcb09b38595f6a29e44da3ff40d41e93f1cc1bc19551c76411": {
+      "source": "What could China get from Jensen Huang?\nZXQSEPZXQ\nIt's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range…",
+      "zh": "中国能从黄仁勋那里得到什么？\nZXQSEPZXQ\n无论如何强调 Nvidia 在当今人工智能领域的实力都不为过。该公司的芯片是美国先进人工智能技术的基石，多年来需求一直超过供应。英伟达也是多个领域有影响力的投资者……"
+    },
+    "d09957cf143ccdef3eadbd1c4510047b1ba841e996f5caaa0d9f434d67ff07dc": {
+      "source": "Here’s what Trump said he knew about Jensen Huang\nZXQSEPZXQ\nPresident Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened…",
+      "zh": "以下是特朗普所说的他对黄仁勋的了解\nZXQSEPZXQ\n特朗普总统今天早些时候举行了白宫新闻发布会，并回答了有关他对英伟达首席执行官黄仁勋与一名涉嫌中国间谍的恋情的了解的几个问题。黄本周末表示，他对妻子“不忠”，公司已经开业……"
+    },
+    "ac2eedb029d3020d7537ae8f5fc402a35a943bfab50f9eefd71c8e9d7cd66e25": {
+      "source": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal\nZXQSEPZXQ\nSix months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "zh": "一名卖空者在丑闻发生前六个月就指出英伟达首席执行官与一名涉嫌中国间谍的关系\nZXQSEPZXQ\n在英伟达间谍丑闻爆发前六个月，Culper Research 就已经开始质疑黄仁勋与一名中国高管之间异常密切的关系。"
+    },
+    "04c7eb4fda1f17e4be3e6a4b6f40443a84b6b6feb103698ca380975cbecbfdf6": {
+      "source": "Anthropic releases new Mythos and Fable models amid RSI concerns\nZXQSEPZXQ\nAnthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "zh": "Anthropic 在 RSI 担忧中发布新的神话和寓言模型\nZXQSEPZXQ\nAnthropic 表示，新模型“显示出在编码、推理和视觉等领域的改进”，以及与用户更清晰的沟通。"
+    },
+    "9321c522e48fb6aef13dd8799eff8f5de3521aa9974ee5ca6b155316798ab373": {
+      "source": "The race is on to sue Nvidia\nZXQSEPZXQ\nNvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "zh": "起诉 Nvidia 的竞赛已经开始\nZXQSEPZXQ\n在董事会对黄仁勋与一名中国间谍嫌疑人的关系展开调查后，英伟达股价下跌超过 4%，一位证券法专家表示，该公司此前坚称这一切都是“正常”的，这可能会变成一个代价高昂的问题。"
+    },
+    "36858f451170669caab958b613cbc6be14a236c0704902c887b7cf032591b59b": {
+      "source": "Jensen Huang’s Troubles Leave the AI Industry Reeling\nZXQSEPZXQ\nWith a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+      "zh": "黄仁勋的麻烦让人工智能行业陷入困境\nZXQSEPZXQ\n英伟达首席执行官拥有巨额支票簿和广受欢迎的芯片，他对人工智能世界充满了兴趣。与一名疑似中国间谍的婚外情可能会让这一切都面临风险。"
+    },
+    "87fe4525a7a92a7c1b5513abe8e3ecea8594c712144bc80de18d87c62cfae172": {
+      "source": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang\nZXQSEPZXQ\nThe leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Hua…",
+      "zh": "迄今为止我们所知道的关于针对首席执行官黄仁勋的 Nvidia 间谍丑闻的一切\nZXQSEPZXQ\n身着皮夹克的 Nvidia 首席执行官黄仁勋 (Jensen Huang) 承认与 Megaspeed 高管 Alice Huang 有染，引发了该公司的调查和全球范围内的激烈讨论。最近的报道指出，自去年以来，美国情报报告已确定爱丽丝·华……"
+    },
+    "fadc705dfa8a4372d691449a3084e6a689cef34f133f5197871ab87efff6d8db": {
+      "source": "The backlash about data centers might really just be about electricity\nZXQSEPZXQ\nThis story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s larges…",
+      "zh": "对数据中心的强烈反对可能真的只是与电力有关\nZXQSEPZXQ\n这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。上周，当选民前往美国各地投票时，我在弗吉尼亚州阿什本，这里是世界上最大的数据中心巷的一部分……"
+    },
+    "0a6a570a583f27a8004f670e9195a5731e62c1a1c875684291728a55c65ef47a": {
+      "source": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy\nZXQSEPZXQ\nThe Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "zh": "由于 Nvidia 争议，黄仁勋退出 ElevenLabs 峰会\nZXQSEPZXQ\n这位 Nvidia 首席执行官早些时候也退出了 Anthropic 活动。"
+    },
+    "aea04711fc119b3e49d9b83c244fd123f00e007399f34978702f55f4af82b1c6": {
+      "source": "Apple’s $50 Intelligence Usage Packs extend access to some AI features\nZXQSEPZXQ\nAfter publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant…",
+      "zh": "Apple 的 50 美元 Intelligence 使用包扩展了对某些 AI 功能的访问\nZXQSEPZXQ\n据 9to5Mac 报道，在 9 月初发布了一篇支持文章，概述了某些 Apple Intelligence 功能的使用限制后，该公司更新了 Logic Pro，提供了“购买更多使用”选项，一次性购买价格为 49.99 美元。它有一个内置的人工智能助手......"
+    },
+    "69c8986ff040d4fc1112ae8abc3da4d026da23823adbe4f1f43eafc4ccb299f1": {
+      "source": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines\nZXQSEPZXQ\nAnthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+      "zh": "Anthropic 加入 AI 天然气热潮，购买价值 3.4B 美元的涡轮机\nZXQSEPZXQ\nAnthropic 购买了价值数十亿美元的天然气涡轮机，这笔交易可能会让买家后悔。"
     }
   }
 }
