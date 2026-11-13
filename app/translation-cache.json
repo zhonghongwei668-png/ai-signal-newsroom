@@ -8344,6 +8344,14 @@
     "cf4159d486e4f560d356956e48f9a3025fa35457d6244c19a6d9ce6958f74066": {
       "source": "3.50.0 (2026-11-12) Features api: expose reasoning input transformations on responses ( #4268 ) ( 734f75b ) Chores deps: bump astral-sh/setup-uv from 10.3.0 to 10.3.3 ( #4261 ) ( 0ebd006 ) Documentation simplify review handoff instructions ( #4266 ) ( 141a89a )",
       "zh": "3.50.0 (2026-11-12) 功能 api：公开响应的推理输入转换 (#4268) (734f75b) 杂务 deps：将 astral-sh/setup-uv 从 10.3.0 提升到 10.3.3 (#4261) (0ebd006) 文档简化审核移交说明 (#4266) ( 141a89a)"
+    },
+    "c23f3a02e08869cde97314a9583a52fa0612abf684579de2e9f753d47446d425": {
+      "source": "ChatGPT’s new Wallet lets AI agents shop and check out for you\nZXQSEPZXQ\nChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "zh": "ChatGPT的新钱包让AI代理为您购物和结账\nZXQSEPZXQ\nChatGPT 钱包允许人工智能代理代表用户购物和结账，首先向美国 Pro 订阅者有限推出。"
+    },
+    "2768b980e2c9370b80bf0861c10a5ef14fbe3bdb7304d2da4f275c7078f52265": {
+      "source": "Jensen Huang and the End of the Founder Fairy Tale\nZXQSEPZXQ\nThe former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
+      "zh": "黄仁勋与创始人童话的终结\nZXQSEPZXQ\n这位前科技首席执行官痴迷于讲故事的力量。但他还没有摆脱性丑闻的困扰。"
     }
   }
 }
