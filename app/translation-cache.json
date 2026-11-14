@@ -8352,6 +8352,42 @@
     "2768b980e2c9370b80bf0861c10a5ef14fbe3bdb7304d2da4f275c7078f52265": {
       "source": "Jensen Huang and the End of the Founder Fairy Tale\nZXQSEPZXQ\nThe former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
       "zh": "黄仁勋与创始人童话的终结\nZXQSEPZXQ\n这位前科技首席执行官痴迷于讲故事的力量。但他还没有摆脱性丑闻的困扰。"
+    },
+    "ec644fd4d5ed31e825e3001d487112d1513d1c41c8212eb44d61b3530b8ec827": {
+      "source": "Amazon has a plan to index the world’s online shopping data\nZXQSEPZXQ\nAmazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less lik…",
+      "zh": "亚马逊计划对全球在线购物数据进行索引\nZXQSEPZXQ\n据路透社报道，亚马逊计划为互联网上任何地方销售的每种产品（甚至亚马逊不销售的产品）建立一个数据库，并通过自己的网站提供这些信息。该项目称为“世界产品图”，旨在使其不那么像……"
+    },
+    "2a4a6f7a7fe3e0ab4c67ba76e2158ff425ccb31f524b42a6bb0e97246c2e7f9a": {
+      "source": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you\nZXQSEPZXQ\nAfter launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, C…",
+      "zh": "ChatGPT 钱包让 OpenAI 的 Dots 代理为您进行购买\nZXQSEPZXQ\n继今年早些时候推出 Dots AI 代理平台后，OpenAI 又推出了一款针对代理的钱包。 ChatGPT 钱包从今天开始面向美国年满 18 岁且使用美国账单地址和“符合条件的美国运通卡、美国运通卡”的 ChatGPT Pro 用户推出。"
+    },
+    "1a3b0840b94b2ea89d0adb00da3462f8c79700cd10f833311ab6638c99a40a7b": {
+      "source": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say\nZXQSEPZXQ\nNvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "zh": "风险投资家和创始人表示，黄仁勋的离职导致人工智能初创公司资金出现巨大缺口\nZXQSEPZXQ\n英伟达向黄仁勋领导下的人工智能初创公司投入了数百亿美元。没有他的掌舵，创始人和风险投资公司将面临较小的支票和较低的估值。"
+    },
+    "f232f90c5ade30c1cc77433620018e23403213903f4e7caa805e2924d9971882": {
+      "source": "Build a Robot Pick-and-Place Simulation with SimReady Assets\nZXQSEPZXQ\nBuild a Robot Pick-and-Place Simulation with SimReady Assets。",
+      "zh": "使用 SimReady Assets 构建机器人拾放模拟\nZXQSEPZXQ\n使用 SimReady Assets 构建机器人拾放模拟。"
+    },
+    "eb8ec5f224e5189baddf611ef3b138f457ddea9f4b6445d123e4f0654f73ecd3": {
+      "source": "AI agent startup LangChain hits $3B valuation\nZXQSEPZXQ\nLangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "zh": "AI代理初创公司LangChain估值达到30亿美元\nZXQSEPZXQ\nLangChain 目前声称其模型和平台无关的代理管理工具 LangSmith 拥有 7,000 名客户。"
+    },
+    "0b30815ad74154faaf0f787a9d0440ccf9fc50dc0fa6291df8bac62aef814e9a": {
+      "source": "XYBench: Helping with the problem behind the question\nZXQSEPZXQ\nXYBench: Helping with the problem behind the question。",
+      "zh": "XYBench：帮助解决问题背后的问题\nZXQSEPZXQ\nXYBench：帮助解决问题背后的问题。"
+    },
+    "f0ab50c6a46faf06339672fbc01718b0cecce69bcfd37e06cfc9a9e99470cb23": {
+      "source": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!\nZXQSEPZXQ\nNew research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "zh": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃，詹森！\nZXQSEPZXQ\n新研究表明，中国最先进的人工智能模型是在被禁的英伟达芯片上训练的。"
+    },
+    "4de0129f5ab61283509475f9e83dbbdcc5b677d06f78ddfabd67cd8e0badab28": {
+      "source": "3.51.0 (2026-11-12) Features api: expand agent, image, Live, and external key support ( #4269 ) ( 59738a2 )",
+      "zh": "3.51.0 (2026-11-12) 功能 api：扩展代理、图像、Live 和外部密钥支持 ( #4269 ) ( 59738a2 )"
+    },
+    "a290b8e0f033404eff2f3b0658f8a54b70dd188b74c954162be44a399214f3b5": {
+      "source": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage\nZXQSEPZXQ\nThe company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+      "zh": "Microsoft 365 在 24 小时中断后恢复正常\nZXQSEPZXQ\n该公司表示，一次糟糕的更新（而不是网络攻击或人工智能）导致其世界各地的服务器崩溃。"
     }
   }
 }
