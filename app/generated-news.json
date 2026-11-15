@@ -1,15 +1,159 @@
 {
   "boardMeta": {
-    "generatedAt": "2026-11-15 04:44",
+    "generatedAt": "2026-11-15 14:39",
     "date": "2026年11月15日 · 星期日",
-    "edition": "清晨版",
-    "window": "北京时间今日 00:00 至 04:44",
-    "nextUpdate": "下一轮 08:15 自动更新"
+    "edition": "午后版",
+    "window": "北京时间今日 00:00 至 14:39",
+    "nextUpdate": "下一轮 16:15 自动更新"
   },
   "newsItems": [
     {
-      "id": "7134e7e1ad670b",
+      "id": "71c08105da69bf",
       "level": "头条",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "中科曙光万伟：高速互连是破解算力集群规模瓶颈的关键",
+      "summary": "IT之家 11 月 15 日消息，据界面新闻报道，11 月 15 日，在第八届中国超级算力大会（ChinaSC 2026）暨中国智能计算产业联盟理事会年会上，中科曙光高速网络互联产品部总工程师万伟提出高速互连是算力基础设施实现规模扩展的关键，需要通过系统级创新，让更大规模的计算资源高效协作。 万伟表示，中科曙光自研的 scaleFabric 高速网络将组网架构与通信优化相结合，减少计算资源之间的通信等待，并通过故障快速恢复降低网络异常对任务执行的影响，保障超大规模智算集群高效运行。 据IT之家 2026 年 3 月报道，中科曙光 3 月 12 日发布首…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/027/320.htm",
+      "publishedAt": "14:17",
+      "relativeTime": "21 分钟前"
+    },
+    {
+      "id": "5036d1e4cbdd8c",
+      "level": "重要",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "小米海外公布 18 Pro 系列手机背屏适配：支持谷歌地图、Spotify、Gemini 等应用",
+      "summary": "IT之家 11 月 15 日消息，小米现已在海外公布 18 Pro 系列手机的背屏适配进展：支持谷歌地图、Gemini、Spotify、YouTube Music 和 Trip.com 等应用。 据介绍，小米 18 Pro 系列手机还将支持生成式 AI 功能。从小米集团副总裁、集团 CMO 许斐发布的演示视频来看，该机可以将用户的单词学习、喝水提醒等需求生成背屏应用。 据IT之家此前报道， 小米 18 Pro 系列手机已于 9 月 23 日晚在国内正式发布 ，搭载第六代骁龙 8 至尊版系列移动平台，后置徕卡 2 亿大底主摄 + 2 亿大底长焦，配备 A…",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/027/295.htm",
+      "publishedAt": "11:45",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "2971b0574e5247",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "Epic CEO 炮轰“Steam 强制要求游戏标注 AI 使用情况”，称开发公司不接受 AI 将丧失竞争力",
+      "summary": "IT之家 11 月 15 日消息，Epic Games 首席执行官蒂姆 · 斯威尼（Tim Sweeney）在接受外媒 GamesBeat 采访时，认为 Valve 要求开发者在 Steam 平台中“标注 AI 使用情况”的做法不合理。 斯威尼表示，大型游戏开发商（独立游戏开发者及其细分领域不在此列）未来将因 AI 技术发生彻底改变。 如果开发团队拒绝采用 AI，必然会被竞争对手甩在身后，最终因成本效率问题失去竞争力，甚至无法继续经营 。 他进一步指出，如果一支团队能够以其他团队四分之一的成本或时间完成同样的游戏，而未来这一效率差距甚至可能扩大到 10…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/027/315.htm",
+      "publishedAt": "14:04",
+      "relativeTime": "34 分钟前"
+    },
+    {
+      "id": "acaf00569e865f",
+      "level": "关注",
+      "region": "海外",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "Where was Nvidia’s security team?",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "publishedAt": "08:08",
+      "relativeTime": "6 小时前",
+      "titleZh": "Nvidia 的安全团队在哪里？",
+      "summaryZh": "Nvidia 的安全主管于 8 月悄然离职，现在首席执行官黄仁勋因他的关系而辞职，其中包括与一家涉嫌向中国输送芯片的公司高管的关系，一名前情报官员表示，这种泄密事件每天都会发生……"
+    },
+    {
+      "id": "1c2124e0cb9f8a",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "韩国税务师考试榜一考生自首，承认用微型摄像头与 AI 作弊",
+      "summary": "IT之家 11 月 15 日消息，据韩媒 Etnews 今天报道，韩国 2026 年税务师资格考试的榜一考生承认， 他使用了微型摄像头和生成式人工智能作弊 。 据报道，第 63 届税务师考试第一名考生 A 某近日接受一名律师采访时，承认自己的作弊行为。 A 某表示，他在考试中利用微型摄像头拍摄考试题目，再将照片发给 AI 查看答案。他声称自己在今年 4 月、7 月举行的第一轮、第二轮考试中都实施了作弊行为。 A 某在节目中说道：“我已经将自己所做的一切写进自首书，提交给首尔警察厅。剩余的资料和设备，我也会原样作为证据提交给调查机关。” IT之家从原报道…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/027/303.htm",
+      "publishedAt": "12:35",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "b0cda72b159b5b",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "华为何刚：鸿蒙生态用户数已达 9980 万，预计再过几天就能突破 1 亿",
+      "summary": "IT之家 11 月 15 日消息，据爱范儿报道，华为终端 BG CEO 何刚在南京大学透露，截至当天， 鸿蒙生态用户数已经达到 9980 万 ，距离 1 亿大关仅差 20 万。他预计，再过几天就能突破 1 亿。 报道提到，何刚当天出席了 2026 中国高校计算机大赛人工智能创意赛全国总决赛，这也是华为首次赞助该赛事。 华为官网披露，截至 2026 年 6 月，全球鸿蒙开发者规模已超 1100 万，华为应用市场可获取的鸿蒙应用与服务数量突破 38 万。第三方数据显示，鸿蒙已稳居中国第二大智能手机操作系统，2026 年第一季度在中国智能手机市场份额达 19…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/027/302.htm",
+      "publishedAt": "12:25",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "2aca965eb4d8da",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "苹果智能家庭中枢 HomeView 首批评测出炉：Siri AI 问题频出，隐私问题引担忧",
+      "summary": "IT之家 11 月 15 日消息，苹果首款智能家庭中枢 HomeView 已经于 11 月 13 日在海外上市，配备 7 英寸 Liquid Retina 显示屏、A18 芯片、人脸识别功能，但外界期待已久的 Siri AI 仍处于测试阶段，如今出炉的首批媒体评测、用户体验说明，苹果还有大量工作没有完成。 NBC 首席科技分析师 Joanna Stern 表示，这款设备的 Siri AI 体验并不算优秀，例如当你说嘿 Siri 时，房间的其他设备会被叫醒，而不是 HomeView。而且 Siri AI 经常会答非所问，有时候甚至是直接卡住几分钟。 Th…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/027/294.htm",
+      "publishedAt": "11:31",
+      "relativeTime": "3 小时前"
+    },
+    {
+      "id": "60c037ce2f14ec",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "华为麒麟 9050 系列芯片新一代巴龙 AI Modem 情报公开：首创融合通信架构、业界首发四卡三待",
+      "summary": "IT之家 11 月 15 日消息，华为官方今日继续揭秘首款「逻辑折叠」技术 τ 芯片 —— 麒麟 9050 系列更多配置信息， 今日最新公开了新一代巴龙 AI Modem 的情报 。 据介绍，新一代巴龙 AI Modem 首创融合通信架构， 含 Modem AI 通信架构、多系统协同架构和星地一体融合架构 ，支持智能选网、地铁模式和极速回网功能，宣称对比 A 手机 18 Pro Max 火车游戏卡顿降低 48%、演唱会传图耗时降低 46%、地铁刷短视频卡顿降低 32%、户外回网等待降低 83%。 新一代巴龙 AI Modem 支持蜂窝极速大上行，宣称对…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/027/292.htm",
+      "publishedAt": "11:25",
+      "relativeTime": "3 小时前"
+    },
+    {
+      "id": "a4a92fbcda0353",
+      "level": "关注",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "publishedAt": "05:41",
+      "relativeTime": "8 小时前",
+      "titleZh": "埃隆·马斯克 (Elon Musk) 和其他科技高管签署请愿书，呼吁 Nvidia 恢复黄仁勋 (Jensen Huang) 的职位",
+      "summaryZh": "截至周六下午，请愿书已吸引超过 115,000 个签名。"
+    },
+    {
+      "id": "d9dfabddfde4ef",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "SK 集团会长崔泰源：我们所有子公司都要蜕变为 AI 企业",
+      "summary": "IT之家 11 月 15 日消息，据韩媒《每日经济新闻》今天报道，SK 集团会长崔泰源最近表示，他们希望打破现有框架， 将 SK 集团所有子公司蜕变为 AI 企业 。他认为 SK 集团应将业务范围从 AI 半导体、基础设施和能源进一步扩展至服务领域，构建出持续增长的“AI 飞轮”模式。 IT之家从原报道获悉，SK 集团于 12 日至 14 日在京畿道利川市举行“2026 CEO 研讨会”。崔泰源、崔再源、崔昌源等高管出席。其中崔泰源在会议中表示：“我们必须打破现有框架，重新将自身定位为一家 AI 公司。 所有子公司都必须找到新定位 ，打造连接 AI 服…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/027/277.htm",
+      "publishedAt": "10:13",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "7134e7e1ad670b",
+      "level": "关注",
       "region": "海外",
       "category": "大模型",
       "verification": "媒体报道",
@@ -19,13 +163,83 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "publishedAt": "01:30",
-      "relativeTime": "3 小时前",
+      "relativeTime": "13 小时前",
       "titleZh": "人工智能墓地：未成功完成的项目和初创公司的运行列表",
       "summaryZh": "从苹果一再推迟Siri AI到OpenAI凌乱的“超级应用”发布，以下是关闭或未达到预期的人工智能项目。"
     },
     {
+      "id": "b75a7e52844c10",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "韩国电信运营商 LG U+ 明年进军 AI Token 业务，帮助企业降低 AI 转型成本",
+      "summary": "IT之家 11 月 15 日消息，据韩媒 Etnews 今天报道，韩国电信运营商 LG U+ 将于明年进军 AI Token 业务，利用自主研发的 Token 优化技术，帮助企业降低 AI 转型（AX）成本。 据介绍，这项服务拥有用于设计 Agent 任务执行路径的“Harness Engineering”、根据问题类型分配模型的“智能路由”，以及为优化推理过程而采用异构半导体的“芯片组合”三项技术。 IT之家从原报道获悉，LG U+ 将减少 AI Agent 执行任务时不必要的重复搜索和验证，并根据任务难度匹配最合适的模型。同时结合模型轻量化和推理技…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/027/262.htm",
+      "publishedAt": "08:42",
+      "relativeTime": "5 小时前"
+    },
+    {
+      "id": "b1e62a955b1749",
+      "level": "关注",
+      "region": "国内",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "全日空投资太空建造初创公司 Space Quarters，布局“太空盖大楼”",
+      "summary": "IT之家 11 月 15 日消息，全日空本月 13 日宣布，公司已通过 ANA 未来创投基金投资 Space Quarters 公司。这家公司通过电子束焊接技术和自主研发机器人系统， 提供太空组装 、 建设大型建筑物的解决方案 。 据介绍，火箭发射成本近年来快速下降，太空运输技术也随之进步。但由于火箭整流罩尺寸限制，空间站和轨道设施的尺寸还是受到限制，因此在太空中建造大型居住设施、通信设施仍然面临困难。 Space Quarters 将电子束焊接技术和机器人系统相结合，可以在太空和月球表面建造大型建筑。其中该公司开发的太空建筑机器人系统「DAIQ」，能…",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/027/259.htm",
+      "publishedAt": "08:17",
+      "relativeTime": "6 小时前"
+    },
+    {
+      "id": "6e9b731c6ec344",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "国产算力巨头超聚变创业板 IPO 过会，前身是华为 X86 服务器业务",
+      "summary": "IT之家 11 月 15 日消息，深交所上市审核委员会本月 12 日召开 2026 年第 61 次审议会议，会议结果为超聚变数字技术股份有限公司（以下简称超聚变）（首发） 符合发行条件、上市条件和信息披露要求 。 在深圳证券交易所上市审核委员会的会议现场，问询超聚变的主要问题包括：结合算力需求变化、下游客户资本开支、技术先进性、经营性现金流量净额状况、客户和供应商集中度等情况，说明超聚变毛利率变动趋势，以及经营业绩增长是否具有可持续性，相关风险揭示是否充分。 这意味着超聚变申报深交所创业板 IPO 过会 ，且公开信息显示从申报受理到过会仅用时 174…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/027/255.htm",
+      "publishedAt": "07:38",
+      "relativeTime": "7 小时前"
+    },
+    {
+      "id": "a7a7d3d7efc3fb",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "SpaceX 星舰飞船首次被发射塔机械臂捕获回收，马斯克将建 AI 数据中心星座",
+      "summary": "IT之家 11 月 15 日消息，当地时间 11 月 14 日，SpaceX 在星舰第 15 次试飞中首次用发射塔机械臂接住从轨道返回的第二级飞船， 这是星舰飞船首次完成发射塔捕获 。 据介绍，SpaceX 计划使用该飞船在 LEO 轨道上构建一个庞大的网络 —— 根据埃隆 · 马斯克的说法，这个网络将包含一个由百万艘航天器组成的 AI 数据中心星座 。 组装这些巨型结构需要极高的组装频率。SpaceX 表示，采用双筷子式抓取方式是实现这一目标的关键，因为它能更快地进行星际飞船的检查、修复和重新发射。因此， 该公司很可能会在不久之后再次尝试这种手段 —…",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/027/253.htm",
+      "publishedAt": "07:26",
+      "relativeTime": "7 小时前"
+    },
+    {
+      "id": "c2927c3e2e2fdc",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "一天暴涨 6 万：请愿恢复黄仁勋英伟达 CEO 职务人数突破 12 万人，马斯克也参与签名",
+      "summary": "IT之家 11 月 15 日消息，今年 11 月 12 日，英伟达董事会今日宣布，黄仁勋辞去总裁、首席执行官及董事会成员职务，即刻生效。英伟达执行副总裁兼 CFO 科莱特 · 克雷斯同意出任临时 CEO，在董事会选出正式继任者前兼任这一职务，并继续担任执行副总裁和 CFO。 随后，一个名为“Stand with Jensen”的请愿活动在网上流传开来，要求英伟达董事会恢复黄仁勋的 CEO 职务。截至IT之家发文， 该活动已收集超过 12 万个签名 ， 较昨天增长约 6.3 万人次 。 该网站显示，本次活动的组织者和签名者担心，黄仁勋可能在未经正当程序、…",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com/1/027/252.htm",
+      "publishedAt": "07:18",
+      "relativeTime": "7 小时前"
+    },
+    {
       "id": "075bbfb634c2a8",
-      "level": "重要",
+      "level": "关注",
       "region": "海外",
       "category": "芯片算力",
       "verification": "媒体报道",
@@ -35,7 +249,7 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
       "publishedAt": "00:34",
-      "relativeTime": "4 小时前",
+      "relativeTime": "14 小时前",
       "titleZh": "亚洲各国政府对英伟达首席执行官黄仁勋的退出做出反应",
       "summaryZh": "一些政府已采取行动确认芯片供应承诺，而另一些政府则正在监测对当地项目的影响或解决正在进行的调查。"
     },
@@ -51,7 +265,21 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1586428.htm",
       "publishedAt": "02:04",
-      "relativeTime": "2 小时前"
+      "relativeTime": "12 小时前"
+    },
+    {
+      "id": "e11f4e3d6b4e12",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "英伟达两大机构投资者致信董事会：要求谨慎选择继任者 为黄仁勋回归保留可能",
+      "summary": "在黄仁勋突然辞去英伟达首席执行官职务后，围绕这家全球最大人工智能芯片公司的领导层变动，外界的关注正在迅速升温。当地时间11月13日，英伟达两家重要机构投资者向公司董事会提交联名信，要求董事会不要仓促确定新的永久首席执行官，而应采取更加审慎、充分的决策程序，并明确保留黄仁勋未来重新执掌公司的可能性。 阅读全文",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1586432.htm",
+      "publishedAt": "04:55",
+      "relativeTime": "9 小时前"
     },
     {
       "id": "31c2213d980438",
@@ -65,20 +293,21 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1586424.htm",
       "publishedAt": "02:02",
-      "relativeTime": "2 小时前"
+      "relativeTime": "12 小时前"
     }
   ],
   "trendLines": [
-    "大模型仍是今日高频主线，能力、价格与生态策略持续变化。",
-    "AI 算力竞争继续转向推理能效、供应能力与整体成本。"
+    "AI 算力竞争继续转向推理能效、供应能力与整体成本。",
+    "AI 产品更新加快，能力正进入更多日常工作流。",
+    "大模型仍是今日高频主线，能力、价格与生态策略持续变化。"
   ],
   "pendingItems": [
-    "本轮有 4 条来自可靠媒体的报道，后续将继续追踪官方确认。",
+    "本轮有 20 条来自可靠媒体的报道，后续将继续追踪官方确认。",
     "1 个信息源本轮暂时不可用，系统会在下一轮自动重试。"
   ],
   "scanStats": {
     "configuredSources": 19,
     "successfulSources": 18,
-    "candidateCount": 4
+    "candidateCount": 20
   }
 }
