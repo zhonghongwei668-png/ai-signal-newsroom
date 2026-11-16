@@ -8460,6 +8460,58 @@
     "caea0f087e203002442a47899bd4d46a1aea5216649b256e636585fb44fb570a": {
       "source": "Is bad news for Jensen Huang also bad news for the AI industry?\nZXQSEPZXQ\n\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
       "zh": "对黄仁勋来说是坏消息，对人工智能行业来说也是坏消息吗？\nZXQSEPZXQ\n“Jensen就是Nvidia，对吧？而这个经济体有很大一部分都依赖于Nvidia。”"
+    },
+    "b172c07ba74b65d82dc1b32cf133cf3a3823d386abf7999b0b0eeabcca21cd0e": {
+      "source": "Broadening access to AI for scientists\nZXQSEPZXQ\nWe’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "zh": "扩大科学家使用人工智能的机会\nZXQSEPZXQ\n我们正在扩展面向学术研究人员的 ChatGPT 计划，为全球 200,000 名研究人员提供免费访问我们的前沿模型的机会。"
+    },
+    "3c30646864100fcaea07e879352489d83e184a571f33efa0cdb75f00ab067bfd": {
+      "source": "Strengthening the fight against online child sexual abuse with new tools and support\nZXQSEPZXQ\nNew tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "zh": "通过新工具和支持加强打击网上儿童性虐待\nZXQSEPZXQ\n新工具、实用指南和伙伴关系将有助于预防、发现和应对网上儿童性剥削和性虐待。"
+    },
+    "d707a16a3cabdea05c0c547127f60afa531aa1a6cc3e266f6972998c50d4673f": {
+      "source": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance\nZXQSEPZXQ\nIn its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, deliver…",
+      "zh": "NVIDIA 横扫 MLPerf 训练和端点，Vera Rubin 首次亮相，性能领先\nZXQSEPZXQ\n在今天发布的 MLPerf 基准测试中，NVIDIA Vera Rubin 平台在训练、训练后和代理推理方面提供了领先的性能。 NVIDIA 横扫了所有 MLPerf Training v6.1 基准测试，并在其第一份 MLPerf Endpoints 提交中提供..."
+    },
+    "70c18a0c2454ade0e788a0c0a4efa378e8bd0285d493a53427278fc9a70a208e": {
+      "source": "CUDA at 20: How the Platform Transformed Scientific Computing\nZXQSEPZXQ\nThis week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI. CUDA’s 20th anniversary presents an occasion to reflect across computing eras, from the people who…",
+      "zh": "CUDA 20 周年：该平台如何改变科学计算\nZXQSEPZXQ\n本周在 SC26 上，NVIDIA 向那些帮助 GPU 计算成为现代科学和人工智能基础的研究人员、开发人员和工程师致敬，以纪念 CUDA 二十周年。 CUDA 的 20 周年纪念提供了一个反思整个计算时代的机会，来自那些……"
+    },
+    "54b34649a2725737e6a4034ee4ccb296ea6fb1e65214f5880fcefd5d930c3cef": {
+      "source": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics\nZXQSEPZXQ\nAnnounced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agents help scientists and engineers explore more candidate materials, molecules an…",
+      "zh": "NVIDIA 宣布推出 Rubin HPC — 一款可加速科学、工程和分析代理的新型 GPU\nZXQSEPZXQ\n今天在 SC26 上发布的 NVIDIA Rubin HPC 是 NVIDIA Vera Rubin 平台中的一款新型 GPU，旨在加速科学、工程和分析工作流程的模拟和数据处理。随着代理帮助科学家和工程师探索更多候选材料、分子和……"
+    },
+    "116a7c0aa2c96de11cae993eb3f78836f5542ea7cd03fd12e8b8eae4ddaa15df": {
+      "source": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM\nZXQSEPZXQ\nChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
+      "zh": "OpenAI发布新的图像分类器和ChatGPT警告以对抗CSAM\nZXQSEPZXQ\nChatGPT 将禁止尝试访问 CSAM 内容的帐户 24 小时作为警告"
+    },
+    "dc96b70095457567f5891e8a6e02c3ca656bb92815da4857dffcb2b7fdfadabd": {
+      "source": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’\nZXQSEPZXQ\nOpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+      "zh": "Sam Altman谈没有黄仁勋的英伟达：这个行业会“很好”\nZXQSEPZXQ\nOpenAI 首席执行官 Sam Altman 承认 Nvidia 首席执行官黄仁勋在人工智能热潮中发挥的特殊作用，但最终认为，如果没有他的掌舵，该行业也会“很好”。"
+    },
+    "3f781c1bc74610487bfcd9768f4f14e5e26aec8e9d7d8852fa0bee7bfdd6a5b1": {
+      "source": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’\nZXQSEPZXQ\nThe FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "zh": "FBI 称 Artex AI 开源黑客工具可在“不到三小时”内攻破网络\nZXQSEPZXQ\nFBI 表示，该开源黑客工具被用于针对美国 IT 巨头和韩国金融业的网络攻击。"
+    },
+    "88600d3478602e47e83a070537d6da159cd2704dc64decb34cada8e611fdb7af": {
+      "source": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’\nZXQSEPZXQ\nBelfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+      "zh": "Jordan Belfort 的新人工智能语音初创公司 Tone 希望像“华尔街之狼”一样销售\nZXQSEPZXQ\n贝尔福特声称，他的人工智能销售声音几乎可以与最好的人类销售人员一样完成交易，他认为它会在一年内迎头赶上。"
+    },
+    "ca77539efe616801e481a189cccec016d7fe6f3af8bf0b0a1e257826bfd19273": {
+      "source": "Building trustworthy AI by fencing it in, not predicting it\nZXQSEPZXQ\nIn October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it…",
+      "zh": "通过隔离而不是预测来构建值得信赖的人工智能\nZXQSEPZXQ\n今年 10 月，OpenAI 披露，其两个人工智能代理已关闭用于监控它们的系统。其中一个在误读了不要发送信息的指示后关闭了自己的安全警报；另一个在迁移过程中删除了监控集成，然后说……"
+    },
+    "d67409f7b83b253a16d351dace4e1aa7036d40ccf3f2847108667c42dc4efc3b": {
+      "source": "OpenAI will embed safety researchers to investigate AI subversion\nZXQSEPZXQ\nOpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+      "zh": "OpenAI将嵌入安全研究人员调查AI颠覆\nZXQSEPZXQ\nOpenAI将嵌入六名阿波罗研究评估员来调查其人工智能模型是否参与颠覆行为，但对访问和披露的限制引发了对其独立性的质疑。"
+    },
+    "8197e89e5bdb239de64920d1b30f7a4df78d47610251a155293b5279dad85541": {
+      "source": "Jensen Huang Is Gone. Now What?\nZXQSEPZXQ\nAfter a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
+      "zh": "黄仁勋走了。现在什么？\nZXQSEPZXQ\n在经历了令人震惊的倒台后，英伟达的首席执行官失业了。 WIRED 的 Lauren Goode 解释了这对世界上最重要的芯片公司、人工智能行业和黄仁勋本人意味着什么。"
+    },
+    "8fd26de5b751df8cb9f4689cb3422c4e1da884dc72603646244f12ce3f5750d5": {
+      "source": "Features api: add source and error codes to the RBAC Role read endpoints api: add Update Bundle, which sets a Claude Tag Bundle's instructions, and return instructions on Bundle Bug Fixes credentials: write the credentials file on Windows with Python 3.12 and earlier tools: comp…",
+      "zh": "功能 api：将源代码和错误代码添加到 RBAC 角色读取端点 api：添加更新捆绑包，该更新捆绑包设置 Claude 标签捆绑包的指令，并返回有关捆绑包错误修复的指令 凭证：使用 Python 3.12 及更早版本的工具在 Windows 上编写凭证文件：comp…"
     }
   }
 }
