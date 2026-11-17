@@ -8512,6 +8512,74 @@
     "8fd26de5b751df8cb9f4689cb3422c4e1da884dc72603646244f12ce3f5750d5": {
       "source": "Features api: add source and error codes to the RBAC Role read endpoints api: add Update Bundle, which sets a Claude Tag Bundle's instructions, and return instructions on Bundle Bug Fixes credentials: write the credentials file on Windows with Python 3.12 and earlier tools: comp…",
       "zh": "功能 api：将源代码和错误代码添加到 RBAC 角色读取端点 api：添加更新捆绑包，该更新捆绑包设置 Claude 标签捆绑包的指令，并返回有关捆绑包错误修复的指令 凭证：使用 Python 3.12 及更早版本的工具在 Windows 上编写凭证文件：comp…"
+    },
+    "d1c64b6dc6fb4d4659e2593f53a2ee36cf199809c00c8fb47aa9d440517d1052": {
+      "source": "Strengthening NATO and allied cyber defenses with AI\nZXQSEPZXQ\nHow OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "zh": "利用人工智能加强北约和盟国的网络防御\nZXQSEPZXQ\nOpenAI 如何与北约和盟网络机构合作，帮助值得信赖的防御者发现漏洞、测试修复并保护重要系统。"
+    },
+    "f72414d86bc3692d1703d5178263882fcd5164cdfb362c0a027a3409e8b43ee8": {
+      "source": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab\nZXQSEPZXQ\nAt SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbo…",
+      "zh": "NVIDIA DGX Spark 开发者套件将办公桌变成超级计算实验室\nZXQSEPZXQ\n在本周于芝加哥举行的年度超级计算会议 SC26 上，NVIDIA 向研究人员、学者和开发人员介绍了 DGX Spark HPC 开发人员套件。该套件是 NVIDIA DGX Spark 系统的四节点集群，每个集群都直接连接到其两个邻居......"
+    },
+    "f4ffc30cc4ceb7355fffcf1047a2f0ba4003144d5267706cffc2e904d039625d": {
+      "source": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months\nZXQSEPZXQ\nThree months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "zh": "网络安全人工智能初创公司 Corma 估值在大约 3 个月内达到 10 亿美元\nZXQSEPZXQ\n自推出产品三个月后，人工智能网络安全初创公司 Corba 已在 NEA 领投的 A 轮融资中筹集了 1.25 亿美元，估值为 10 亿美元。"
+    },
+    "4ae5967e888f94250ddc36c215086060860debe388aa574173e74e83bc96eb1f": {
+      "source": "California state AG sues OpenAI over rogue agent incidents\nZXQSEPZXQ\nThe California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "zh": "加利福尼亚州 AG 就流氓特工事件起诉 OpenAI\nZXQSEPZXQ\n加州的诉讼是让人工智能实验室对流氓特工事件承担法律责任的首批尝试之一。"
+    },
+    "56f3ef38084f73d883564e8741c978481e7fa626474ec1fc71473f231f9ccb82": {
+      "source": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him\nZXQSEPZXQ\nJensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the…",
+      "zh": "科技界领袖确信黄仁勋的退出是针对他的阴谋\nZXQSEPZXQ\n黄仁勋在 Nvidia 工作了 33 年多后令人震惊地辞职，这在整个科技行业引起了震动。现在，知名人士呼吁黄仁勋复职，许多人也赞同一种在硅谷传播的理论：…​​…"
+    },
+    "3d8362621be25f90f01057ccddd7463f23051be6d7141d22ec8690e056dc6bdf": {
+      "source": "All the questions Nvidia should answer on Tuesday — but probably won’t\nZXQSEPZXQ\nNvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+      "zh": "Nvidia 应该在周二回答但可能不会回答的所有问题\nZXQSEPZXQ\n英伟达临时首席执行官兼长期首席财务官科莱特·克雷斯(Colette Kress)将于周二迎来她职业生涯中最重要的日子之一，届时该公司将公布第三季度业绩。鉴于英伟达所处的混乱局面，英伟达应该回答一些问题。"
+    },
+    "ea5b8429169d7e565165e556e784f999dd58b34beb7ec4fa9eb12e3571b5f85e": {
+      "source": "Apple is testing daily usage limits for more complex Siri AI interactions\nZXQSEPZXQ\nApple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unli…",
+      "zh": "苹果正在测试更复杂的 Siri AI 交互的每日使用限制\nZXQSEPZXQ\n据 MacRumors 报道，苹果今天发布了 iOS 27.3、iPadOS 27.3 和 macOS 27.3 的测试版，该公司正在使用该更新来测试某些 Siri AI 和 Apple Intelligence 功能的新的每台设备每日使用限制。基本的 Siri 命令和请求将保持免费，并且不..."
+    },
+    "16d52be6ae4d4abd623626a22e179426d0fb088039bb96b0fbcd33197d23e431": {
+      "source": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM\nZXQSEPZXQ\nChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+      "zh": "OpenAI发布新的图像分类器和ChatGPT警告以对抗CSAM\nZXQSEPZXQ\nChatGPT 将禁止尝试访问 CSAM 内容的帐户 24 小时作为警告。"
+    },
+    "ff63c74d253b06e8b91856babb6e2df59c3d70a4e2de64c4f08706053ca94adb": {
+      "source": "Sam Altman says he wants everyone ‘to have a lot of RAM’\nZXQSEPZXQ\nOpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is…",
+      "zh": "Sam Altman 表示他希望每个人都“拥有大量内存”\nZXQSEPZXQ\nOpenAI 首席执行官 Sam Altman 再次回应了他有关 PC RAM 购买的有争议的评论。 “我想澄清的是，我希望人们拥有大量内存，我认为每个人都应该能够为自己的计算机购买大量内存，”奥特曼今天表示。 “我认为家庭修修补补是......"
+    },
+    "cf4d29a5715db0acab6b253dd9d40ecc5579dab1b84587056809a49790cc5e20": {
+      "source": "3.52.0 (2026-11-16) Features api: add schedule pause reasons ( #4278 ) ( a996ce2 ) api: deliver beta Agents session errors as stream events ( #4281 ) ( 690fba9 )",
+      "zh": "3.52.0 (2026-11-16) 功能 api：添加计划暂停原因 (#4278) (a996ce2) api：将 beta 代理会话错误作为流事件传递 (#4281) (690fba9)"
+    },
+    "b9f912a219ca21f13e1b0df883b216b89f326dc7c894c36aecf611564236c333": {
+      "source": "The open-source movement wants Jensen Huang back\nZXQSEPZXQ\nThis story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable sign…",
+      "zh": "开源运动希望黄仁勋回来\nZXQSEPZXQ\n这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。周五，一份恢复黄仁勋担任 Nvidia 首席执行官的请愿书开始在社交媒体上流传，到周一，它列出了一些值得注意的迹象……"
+    },
+    "7f63f16f667e990bce05a02d20cb002f44d41c50df8e25dc756940f1495b8308": {
+      "source": "Big Nuclear isn’t worried about the Democrats stopping data centers\nZXQSEPZXQ\nConstellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word…",
+      "zh": "Big Nuclear 并不担心民主党停止数据中心\nZXQSEPZXQ\n美国最大的核电站运营商星座能源公司并不认同华尔街对民主党将放慢数据中心发展的担忧。在该公司上周的第三季度财报电话会议上，首席执行官乔·多明格斯（Joe Dominguez）没有更好的词来形容……"
+    },
+    "2093bb96090f85246ad443b78516b95282cd8627b294d2107f353d55e2a4d988": {
+      "source": "US data centers now burn more electricity than a midsized country\nZXQSEPZXQ\nFossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of green…",
+      "zh": "美国数据中心现在消耗的电力比一个中等国家还多\nZXQSEPZXQ\n《自然可持续发展》杂志上发表的一篇新论文显示，化石燃料仍然是美国超大规模数据中心的最大电力来源。他们消耗的电力可能比许多国家还要多，从而产生大量的绿色……"
+    },
+    "dce215bafc05dbee228d8c6840fc5f6c06f25ebd431002c1e19f29c815fe9dcc": {
+      "source": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security\nZXQSEPZXQ\nTrump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+      "zh": "特朗普表示，英伟达前首席执行官黄仁勋与涉嫌中国间谍的恋情并未威胁到国家安全\nZXQSEPZXQ\n特朗普反驳了本国政府情报官员的说法，据报道，后者得出的结论是爱丽丝·黄是中国间谍。"
+    },
+    "6fdce714b38cbef432d3e44efeae079e188dcf8917423ec0bc28a544213eef0f": {
+      "source": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines\nZXQSEPZXQ\nOpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of ki…",
+      "zh": "OpenAI 希望阻止 Deepfake 淹没儿童虐待举报\nZXQSEPZXQ\nOpenAI 宣布推出一款工具，据称该工具将帮助儿童性虐待调查人员消除噪音，找到可以快速采取行动的有害材料。在周一于华盛顿特区举行的新闻发布会上，OpenAI 宣布了一个分类器，据称可以更好地检测 ki 的虐待图像……"
+    },
+    "4d4b7abac66683430637a4cd1e6bf48b301c416874731f89e0716da9cb5fc00e": {
+      "source": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’\nZXQSEPZXQ\nOpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+      "zh": "Sam Altman谈没有黄仁勋的英伟达：这个行业会“很好”\nZXQSEPZXQ\nOpenAI 首席执行官 Sam Altman 承认 Nvidia 首席执行官黄仁勋在人工智能热潮中发挥的特殊作用，但最终认为，如果没有他的掌舵，该行业也会“很好”。"
+    },
+    "2a55686da0915c3ce547cd5d850d3200c761fc57d9a7922550b9e5e37d1c4cb0": {
+      "source": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back\nZXQSEPZXQ\nNvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week…",
+      "zh": "据报道，英伟达董事会“不考虑”重新聘用黄仁勋\nZXQSEPZXQ\n据 CNBC 报道，英伟达董事会“不考虑”让黄仁勋重新担任首席执行官。一位消息人士告诉媒体，董事会“专注于对黄进行调查，而不是讨论让他回来。”自从黄上周辞职以来……"
     }
   }
 }
