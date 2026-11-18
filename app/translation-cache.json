@@ -8688,6 +8688,26 @@
     "ccb15f729e01ea393313706e0a3f0bc38a4f1f5b296ab5689c98cd3701570263": {
       "source": "Features api: add beta support for the billing_policy request parameter api: add contract_spend_limit_reached error code to messages api: add error codes for linked billing refusals api: add the user_profile_billing_not_authorized error code api: add webhook events for external…",
       "zh": "功能 api：添加对 billing_policy 请求参数的 beta 支持 api：将contract_spend_limit_reached 错误代码添加到消息 api：添加链接计费拒绝的错误代码 api：添加 user_profile_billing_not_authorized 错误代码 api：添加外部的 webhook 事件..."
+    },
+    "f49cd41995326b1ef3c41606b0a25ce7b2ca71ea64d26555c62566aebd8f81d3": {
+      "source": "The Gemini app is now available on lower-memory Android devices.\nZXQSEPZXQ\nThe Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "zh": "Gemini 应用程序现已在内存较低的 Android 设备上可用。\nZXQSEPZXQ\nGoogle Gemini 应用程序现在支持内存较低的 Android 设备。在手机上访问 Gemini 实时和自定义图像创建。立即下载该应用程序。"
+    },
+    "e7eba18d5ce63fbaa0e40144ee6fb4e55e409eee28981dc63ec0297eb5f0a338": {
+      "source": "Sam Altman warns against a future where AI, not humans, calls the shots\nZXQSEPZXQ\nAltman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+      "zh": "萨姆·奥尔特曼 (Sam Altman) 警告未来由人工智能而非人类来发号施令\nZXQSEPZXQ\nAltman 和 Greg Brockman 反驳了硅谷关于人工智能接管日益激烈的争论，同时承认将先进模型置于人类控制之下的挑战。"
+    },
+    "08dade2c7656a78400a254869ba5cf9251be3afd9bcc87e0e16940755427b8a7": {
+      "source": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’\nZXQSEPZXQ\nNvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+      "zh": "OpenAI 首席执行官 Sam Altman 表示“很难想象没有 Jensen 的人工智能行业”\nZXQSEPZXQ\n英伟达创始人兼前首席执行官黄仁勋上周因多起丑闻辞职，其中包括与一名涉嫌中国间谍的婚外情。"
+    },
+    "70e8e9166cea19dd47afb1f8dd5c0c0ec072a5847abdb0f47f7ac5f53ad2cb96": {
+      "source": "Criminals Have a New Favorite ‘Point-and-Shoot’ AI Hacking Tool\nZXQSEPZXQ\nArtex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
+      "zh": "犯罪分子有了新的最爱“傻瓜式”人工智能黑客工具\nZXQSEPZXQ\nArtex 和类似的渗透测试工具允许新手黑客扫描目标系统是否存在漏洞，并使用聊天机器人的提示成功发起攻击。"
+    },
+    "6ef120f73110c8c257acfcbe04aee1f8c45fb01c22de8442cc2cac331d17a204": {
+      "source": "3.55.1 (2026-11-18) Chores api: document CSAM moderation response fields ( #4290 ) ( d6b93f3 ) deps-dev: bump pytest-asyncio from 1.4.1 to 1.4.1.post1 ( #4274 ) ( 231a92a ) deps: bump github/codeql-action/init from 4.39.1 to 4.39.3 ( #4275 ) ( f777185 ) deps: bump the python-sec…",
+      "zh": "3.55.1 (2026-11-18) Chores api：文档 CSAM 审核响应字段 (#4290) (d6b93f3) deps-dev：将 pytest-asyncio 从 1.4.1 提升到 1.4.1.post1 (#4274) (231a92a) deps：将 github/codeql-action/init 从 1.4.1 提升到 1.4.1.post1 4.39.1 到 4.39.3 ( #4275 ) ( f777185 ) deps: 碰撞 python-sec…"
     }
   }
 }
