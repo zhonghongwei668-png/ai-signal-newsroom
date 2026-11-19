@@ -8708,6 +8708,90 @@
     "6ef120f73110c8c257acfcbe04aee1f8c45fb01c22de8442cc2cac331d17a204": {
       "source": "3.55.1 (2026-11-18) Chores api: document CSAM moderation response fields ( #4290 ) ( d6b93f3 ) deps-dev: bump pytest-asyncio from 1.4.1 to 1.4.1.post1 ( #4274 ) ( 231a92a ) deps: bump github/codeql-action/init from 4.39.1 to 4.39.3 ( #4275 ) ( f777185 ) deps: bump the python-sec…",
       "zh": "3.55.1 (2026-11-18) Chores api：文档 CSAM 审核响应字段 (#4290) (d6b93f3) deps-dev：将 pytest-asyncio 从 1.4.1 提升到 1.4.1.post1 (#4274) (231a92a) deps：将 github/codeql-action/init 从 1.4.1 提升到 1.4.1.post1 4.39.1 到 4.39.3 ( #4275 ) ( f777185 ) deps: 碰撞 python-sec…"
+    },
+    "584a65173e94011cfa89bfa52d22caf574eebfc830c8e7f21527b7994a4e66f9": {
+      "source": "Introducing Gemini 4 Neon\nZXQSEPZXQ\nIntroducing Gemini 4 Neon。",
+      "zh": "介绍 Gemini 4 霓虹灯\nZXQSEPZXQ\n隆重推出 Gemini 4 Neon。"
+    },
+    "b68dc9a2407ceee01032ffced5007508ece7c1b05a0c9fadbff322f6c092f559": {
+      "source": "Genie 4 is now available\nZXQSEPZXQ\nGenie 4 is now available。",
+      "zh": "精灵 4 现已推出\nZXQSEPZXQ\n精灵4现已上市。"
+    },
+    "ed0fb7a09fbe34c981cc0d90ed6cc108128fa2446701eb5b05280132c04144e6": {
+      "source": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit\nZXQSEPZXQ\nMicrosoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+      "zh": "微软首席执行官萨蒂亚·纳德拉 (Satya Nadella) 解释为何要求 6 万名员工辞职\nZXQSEPZXQ\n微软首席执行官萨蒂亚·纳德拉 (Satya Nadella) 解释了为什么他在 10 月份向 6 万名员工提出买断，实质上是敦促他们自愿辞职，而不是通过另一次大规模裁员来减少员工数量。简而言之，答案是人工智能，但不是以你想象的方式。"
+    },
+    "c76dd6b2b5a4784cec0c46a8a9c7cc30d3da9d9ee66e1b057d85b0e72dcdaa57": {
+      "source": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’\nZXQSEPZXQ\nThe Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "zh": "萨蒂亚·纳德拉 (Satya Nadella) 担心人工智能网络攻击，称许多关键基础设施“无法修补”\nZXQSEPZXQ\n这位微软首席执行官淡化了最近的 Outlook 故障，同时指出人工智能为保护大部分互联世界带来了机遇和新挑战。"
+    },
+    "299414a4cae09dbc99d4b82b0836d97d208b9552d748a80743296b26543a48ea": {
+      "source": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’\nZXQSEPZXQ\n“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+      "zh": "埃隆·马斯克表示驱逐黄仁勋就像“将迈克尔·乔丹踢出你的团队”\nZXQSEPZXQ\n“我不认为[黄]对美国不忠诚，”马斯克说。"
+    },
+    "6c6d815cabc7ea4d9264be7f8cd39abed1ff4ffb3d78a08ed8d7d81e4b3c2cc1": {
+      "source": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit\nZXQSEPZXQ\nMicrosoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "zh": "黄仁勋退出后，微软首席执行官萨蒂亚·纳德拉 (Satya Nadella) 对英伟达仍充满信心\nZXQSEPZXQ\n微软首席执行官萨蒂亚·纳德拉(Satya Nadella)对黄仁勋的继任者、担任英伟达临时首席执行官的科莱特·克雷斯(Colette Kress)表示了信心。"
+    },
+    "42fa9021abfffe3d748beedb4c5bcb82b10e4fafd729c897607c873777389eb0": {
+      "source": "Satya Nadella predicts AI agents will reshuffle the economics of the web\nZXQSEPZXQ\nMicrosoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "zh": "萨蒂亚·纳德拉 (Satya Nadella) 预测人工智能代理将重新洗牌网络经济\nZXQSEPZXQ\n微软首席执行官表示，人工智能代理可能会颠覆广告驱动的商业模式，迫使亚马逊等公司重新思考如何争夺客户。"
+    },
+    "7341cd80e8766bbe1ab5edd5b0992906433a0f912b973f4e534143d0b111c511": {
+      "source": "The nation’s largest school districts consider ditching Google Search\nZXQSEPZXQ\nNew York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-power…",
+      "zh": "美国最大的学区考虑放弃 Google 搜索\nZXQSEPZXQ\n据《纽约时报》报道，在谷歌表示将禁用对选择退出其人工智能功能的学校的搜索后，纽约、洛杉矶和芝加哥的学校正在考虑谷歌的替代品。从明年开始，学校将无法选择禁用 Gemini-power……"
+    },
+    "7e089b4ac751b0e7bcef35dc75626304888b7475679d163afd274d00055484c5": {
+      "source": "Anthropic prices IPO at $83 a share, above projected range\nZXQSEPZXQ\nThe long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "zh": "Anthropic IPO定价为每股83美元，高于预期范围\nZXQSEPZXQ\n据报道，期待已久的 IPO 使该公司在完全稀释后的估值达到 1.5 万亿美元。"
+    },
+    "2c44011ff20cb9c659bd820e7bd98bf8c184da610688e4cc990c717dadec60e1": {
+      "source": "Nvidia created a weird bit of intrigue by not filing a routine SEC report\nZXQSEPZXQ\nOne Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+      "zh": "英伟达没有向美国证券交易委员会提交例行报告，引发了一些奇怪的阴谋\nZXQSEPZXQ\n一位华尔街分析师深入了解了英伟达出人意料的公告，该公司将在数周内不会提交正式的季度业绩文件 10-Q。"
+    },
+    "bb4c9ed0ba40f2af864e8afbbdcef3e820dd83a6659607738e96e9d88313eab3": {
+      "source": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency\nZXQSEPZXQ\nDaisyRose-27B: Pushing the Frontier of Post-Training Efficiency。",
+      "zh": "DaisyRose-27B：突破训练后效率的前沿\nZXQSEPZXQ\nDaisyRose-27B：推动训练后效率的前沿。"
+    },
+    "fe27fddb95397f050a280b64971b38b82213f2a1ed0063ce37682e74dfb36e90": {
+      "source": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’\nZXQSEPZXQ\nThe Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+      "zh": "Palmer Luckey 警告人工智能驱动的网络攻击正在超越防御：“是时候开始奔跑了”\nZXQSEPZXQ\nAnduril 联合创始人表示，过时的技术使系统容易受到新一波人工智能攻击的影响。"
+    },
+    "5127363a94d8a3453148ef08c93b145b512853fbc26fa0f3bd5f27c483387b94": {
+      "source": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated\nZXQSEPZXQ\n\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+      "zh": "帕尔默·拉基 (Palmer Luckey) 认为中国“很高兴詹森下台”，因此他希望被驱逐的英伟达首席执行官复职\nZXQSEPZXQ\n这位 Anduril 首席执行官在谈到被赶下台的英伟达领导人黄仁勋时表示：“把他赶下台会让美国变得更弱。”"
+    },
+    "d3479a1fa7d338020f73bf0767939da2a8a9c17a20ece941dc1dd9ff9c4891e1": {
+      "source": "Tech lawsuits defined 2026 — and lawmakers want more\nZXQSEPZXQ\nWith just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of a Senate Judiciary subcommittee hosted…",
+      "zh": "科技诉讼定义为 2026 年——立法者希望更多\nZXQSEPZXQ\n只剩下几周时间，立法者正试图在 2026 年底之前通过针对网络伤害受害者的新保护措施，针对阻止用户提起诉讼的 Deepfake 创作者和在线平台。周二，参议院司法小组委员会的成员主持了……"
+    },
+    "8d63c2e25d083dd5bfe2408aa96368cf14f0b09ed71824796ee0fb59a947b6e7": {
+      "source": "Why your fine-tuning job takes longer than the FLOPs say\nZXQSEPZXQ\nWhy your fine-tuning job takes longer than the FLOPs say。",
+      "zh": "为什么你的微调工作花费的时间比 FLOP 所说的要长\nZXQSEPZXQ\n为什么你的微调工作花费的时间比 FLOPs 所说的要长。"
+    },
+    "84b2359b14a3305c9f770d857778c34bcfec267ef25660aaca1a577f12d7827b": {
+      "source": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This\nZXQSEPZXQ\nWIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
+      "zh": "英伟达有这个吗？临时首席执行官科莱特·克雷斯 (Colette Kress) 表示已经做到了\nZXQSEPZXQ\nWIRED 正在统计 Nvidia 临时首席执行官向所有人保证公司一切都在掌控之中的次数。"
+    },
+    "975fe99245ef93e66edcc71d6f8c2018d463ab7bc63016f16ae98387723d8ff1": {
+      "source": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie\nZXQSEPZXQ\n\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+      "zh": "萨姆·奥尔特曼说他的生活是如此奇怪，以至于他对安德鲁·加菲尔德在即将上映的电影中扮演他并不担心\nZXQSEPZXQ\n奥特曼说：“我感觉它并不属于我生命中十大最奇怪的事情。”"
+    },
+    "7c2513d3a51a7f4813515d4fa88005e91c496f3b9c1deaa6a66f527856557faa": {
+      "source": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI\nZXQSEPZXQ\nFallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
+      "zh": "就连他自己的官员也不认为特朗普的中国之行会带来人工智能方面的进展\nZXQSEPZXQ\n官员们表示，英伟达丑闻的影响使得围绕人工智能的任何谈判都变得困难。"
+    },
+    "8a5335b6734acf3409ef58b9495f7a618e9477830de58419bd5ca85dc1df918e": {
+      "source": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways\nZXQSEPZXQ\nThe Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
+      "zh": "美国的人工智能芯片战争正在以最愚蠢的方式升温\nZXQSEPZXQ\n特朗普政府宣布计划限制中国获取人工智能芯片。显然，本世纪的作弊丑闻正是他们所缺失的动力。"
+    },
+    "9274b3ed7caae7f2ad03c18d4df084588f0af21caa0c5d1841552c79ef1708e5": {
+      "source": "Trump’s latest land grab is an AI hub in the Philippines\nZXQSEPZXQ\nPresident Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump ra…",
+      "zh": "特朗普最新的土地是菲律宾的人工智能中心\nZXQSEPZXQ\n据当地新闻媒体 Rappler 报道，唐纳德·特朗普总统周二抵达菲律宾时受到了至少五位选美皇后的迎接。当他走上停机坪时，一个孩子递给他美国和菲律宾的小国旗。一支乐队演奏了“YMCA”，这是特朗普竞选活动的主打曲目……"
+    },
+    "797275d4ecbd64a99de560475789c360063b4c255fd3bf079aa1e7d9a56b1f37": {
+      "source": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity\nZXQSEPZXQ\nInterim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
+      "zh": "Nvidia 的首次后詹森全体员工内部：加薪和更多股权\nZXQSEPZXQ\n黄仁勋被罢免后，临时首席执行官科莱特·克雷斯(Colette Kress)试图缓解员工的担忧，其中包括承诺增加薪酬。"
     }
   }
 }
