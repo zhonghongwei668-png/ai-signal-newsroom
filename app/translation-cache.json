@@ -8892,6 +8892,10 @@
     "72851dbbecff57f0c27e1c667714c061ab315c17af6cd612381b40939a48e222": {
       "source": "Features api: add Claude Code managed settings to the Admin API api: add the sandbox_egress_restricted error to Admin API plugin methods Bug Fixes client: encode spaces in query strings as %20 The AWS SigV4 signature of a request now matches its query string when a parameter con…",
       "zh": "功能 api：将 Claude 代码托管设置添加到管理 API api：将 sandbox_egress_restricted 错误添加到管理 API 插件方法 错误修复客户端：将查询字符串中的空格编码为 %20 当参数配置时，请求的 AWS SigV4 签名现在与其查询字符串相匹配..."
+    },
+    "2114b89cd83a32153720b2258651a726ad9449935a65ccf4097d1ba401963223": {
+      "source": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude\nZXQSEPZXQ\nAnthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark…",
+      "zh": "Anthropic 数学家声称已经用 Claude 解决了久负盛名的千年奖问题\nZXQSEPZXQ\nAnthropic 数学家 Levent Alpöge 声称，在 Claude 的帮助下，他已经证明了黎曼猜想，这是数学中最臭名昭著的难题之一，破解了数十年来世界上一些最优秀数学家一直未能解决的难题。如果得到验证，它将标记..."
     }
   }
 }
