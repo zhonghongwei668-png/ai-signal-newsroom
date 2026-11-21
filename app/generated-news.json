@@ -1,15 +1,79 @@
 {
   "boardMeta": {
-    "generatedAt": "2026-11-22 00:11",
+    "generatedAt": "2026-11-22 05:41",
     "date": "2026年11月22日 · 星期日",
     "edition": "清晨版",
-    "window": "北京时间今日 00:00 至 00:11",
-    "nextUpdate": "下一轮 00:15 自动更新"
+    "window": "北京时间今日 00:00 至 05:41",
+    "nextUpdate": "下一轮 08:15 自动更新"
   },
   "newsItems": [
     {
-      "id": "89298d3b7fb057",
+      "id": "8d54d4add32f2f",
       "level": "头条",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "publishedAt": "05:37",
+      "relativeTime": "3 分钟前",
+      "titleZh": "Signal 限制移动屏幕截图，因为它面临人工智能监控的“生存威胁”",
+      "summaryZh": "Signal 限制了用户在 Android 和 iOS 应用程序中截取屏幕截图的能力。"
+    },
+    {
+      "id": "127326b87b53e7",
+      "level": "重要",
+      "region": "海外",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "A tale of two Nvidias",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "publishedAt": "05:07",
+      "relativeTime": "33 分钟前",
+      "titleZh": "两个 Nvidia 的故事",
+      "summaryZh": "我们看到了英伟达两种截然不同的景象——该公司最新的盈利报告与大声呼吁黄仁勋回归的科技高管。"
+    },
+    {
+      "id": "234da3fc18675a",
+      "level": "重要",
+      "region": "海外",
+      "category": "具身智能",
+      "verification": "媒体报道",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruit…",
+      "whyItMatters": "AI 正从屏幕进入真实世界，可靠感知和长期执行能力成为关键门槛。",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "publishedAt": "04:03",
+      "relativeTime": "1 小时前",
+      "titleZh": "联合国未能就“杀手机器人”监管规则达成一致",
+      "summaryZh": "本周在日内瓦举行的联合国外交官会议的议程项目之一是制定有关使用自主武器或所谓的“杀手机器人”的规则。最终，代表们离开会议时同意在取得重大成果后“开始讨论选项”……"
+    },
+    {
+      "id": "01945f6a907c76",
+      "level": "重要",
+      "region": "海外",
+      "category": "Agent",
+      "verification": "媒体报道",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "whyItMatters": "智能体能否连接工具并稳定完成任务，决定 AI 从回答问题走向交付结果的速度。",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "publishedAt": "01:00",
+      "relativeTime": "4 小时前",
+      "titleZh": "以下是可以存在于您的短信中的顶级人工智能代理",
+      "summaryZh": "我们创建了一份最著名的人工智能代理列表，这些代理可以存在于您的短信中，从一般助理到专为家庭、旅行和工作设计的代理。"
+    },
+    {
+      "id": "89298d3b7fb057",
+      "level": "关注",
       "region": "海外",
       "category": "产品动态",
       "verification": "媒体报道",
@@ -19,9 +83,79 @@
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
       "publishedAt": "00:00",
-      "relativeTime": "11 分钟前",
+      "relativeTime": "5 小时前",
       "titleZh": "向这家微剧初创公司出售人工智能版本的脸会是好莱坞的未来吗？",
       "summaryZh": "一名演员将自己的脸授权给一家微剧初创公司——这一趋势在中国已经很流行。如果这也成为好莱坞的一种趋势，专家们质疑其长期后果。"
+    },
+    {
+      "id": "1c872bc082a920",
+      "level": "关注",
+      "region": "国内",
+      "category": "政策监管",
+      "verification": "媒体报道",
+      "title": "联合国“杀手机器人”监管谈判未达预期",
+      "summary": "在联合国日内瓦总部举行的一场关键谈判中，各国代表围绕致命自主武器系统，也被称为“杀手机器人”的监管问题展开激烈讨论。经过持续一周、直至周六凌晨才结束的磋商后，与会国家最终同意启动关于未来监管框架的进一步讨论，但未能就外界期待的具有法律约束力的国际规则达成一致。 阅读全文",
+      "whyItMatters": "监管与司法判例会直接改变模型训练、产品上线和企业合规成本。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1587422.htm",
+      "publishedAt": "04:22",
+      "relativeTime": "1 小时前"
+    },
+    {
+      "id": "cc162722d62e35",
+      "level": "关注",
+      "region": "国内",
+      "category": "大模型",
+      "verification": "媒体报道",
+      "title": "Google Gemini推出AI生成GIF功能 部分国家免费用户也可使用",
+      "summary": "Google宣布，其人工智能助手Gemini现已支持用户生成自定义动画GIF。用户只需输入简单的文字提示，或上传照片、视频作为参考，即可创建专属动态图像，无需再在Giphy或Tenor等既有GIF库中反复搜索合适的表情或反应图。 阅读全文",
+      "whyItMatters": "基础模型能力、价格和开放策略的变化，会迅速传导到整个应用生态。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1587410.htm",
+      "publishedAt": "00:47",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "186725233f57b7",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "群联展示内置NPU与64GB内存的智能SSD方案 可直接运行AI模型",
+      "summary": "在芝加哥举行的2026年国际超级计算大会（SC26）上，存储控制器厂商群联电子（Phison）展示了一项面向人工智能服务器的新型SSD设计方案。该方案在固态硬盘内部集成神经网络处理器（NPU）以及64GB内存，能够直接在硬盘上运行PyTorch和llama.cpp等AI框架和模型，从而让部分数据处理工作在数据离开存储设备之前完成。 阅读全文",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1587420.htm",
+      "publishedAt": "03:34",
+      "relativeTime": "2 小时前"
+    },
+    {
+      "id": "335df0d8cda1e9",
+      "level": "关注",
+      "region": "国内",
+      "category": "芯片算力",
+      "verification": "媒体报道",
+      "title": "三星的内存产能至2029年已几乎全部预订一空 客户正寻求直至2031年的供货协议",
+      "summary": "三星存储芯片产能据报道已几乎被预订至2029年，部分客户甚至希望签署延伸至2031年的长期供货协议，以在人工智能基础设施需求持续高涨的背景下锁定未来五年的存储供应。 阅读全文",
+      "whyItMatters": "算力供给、能效与成本决定模型能否稳定地走向规模化应用。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1587414.htm",
+      "publishedAt": "00:56",
+      "relativeTime": "4 小时前"
+    },
+    {
+      "id": "ce57ccfe4fa507",
+      "level": "关注",
+      "region": "国内",
+      "category": "产品动态",
+      "verification": "媒体报道",
+      "title": "这张夜空照片展示了划过夜空的14000条卫星轨迹",
+      "summary": "一张新西兰摄影师拍摄的夜空照片近日在网络上引发热议。照片中密布的卫星轨迹令许多人误以为是人工智能生成的作品，但作者表示，这幅画面完全由真实拍摄和人工后期合成完成。 阅读全文",
+      "whyItMatters": "新产品与功能展示了 AI 能力进入实际工作流的最新路径。",
+      "source": "cnBeta",
+      "sourceUrl": "https://www.cnbeta.com.tw/articles/science/1587408.htm",
+      "publishedAt": "00:45",
+      "relativeTime": "4 小时前"
     },
     {
       "id": "999f876e3ef896",
@@ -35,19 +169,21 @@
       "source": "cnBeta",
       "sourceUrl": "https://www.cnbeta.com.tw/articles/tech/1587400.htm",
       "publishedAt": "00:00",
-      "relativeTime": "10 分钟前"
+      "relativeTime": "5 小时前"
     }
   ],
   "trendLines": [
-    "AI 产品更新加快，能力正进入更多日常工作流。"
+    "AI 产品更新加快，能力正进入更多日常工作流。",
+    "具身智能继续升温，真实场景数据与可靠执行成为竞争焦点。",
+    "Agent 基础设施和产品落地同步推进，行业更关注任务完成率。"
   ],
   "pendingItems": [
-    "本轮有 2 条来自可靠媒体的报道，后续将继续追踪官方确认。",
-    "2 个信息源本轮暂时不可用，系统会在下一轮自动重试。"
+    "本轮有 11 条来自可靠媒体的报道，后续将继续追踪官方确认。",
+    "1 个信息源本轮暂时不可用，系统会在下一轮自动重试。"
   ],
   "scanStats": {
     "configuredSources": 19,
-    "successfulSources": 17,
-    "candidateCount": 2
+    "successfulSources": 18,
+    "candidateCount": 11
   }
 }
